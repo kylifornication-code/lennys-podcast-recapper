@@ -1,0 +1,37 @@
+---
+interface Props {
+  topics: { name: string; count: number }[];
+}
+
+const { topics } = Astro.props;
+const topTopics = topics.slice(0, 12);
+---
+
+<div class="filter-bar">
+  <div class="filter-topics" id="filter-topics">
+    {topTopics.map((t) => (
+      <button class="topic-pill" data-topic={t.name}>
+        {t.name}<span class="pill-count">{t.count}</span>
+      </button>
+    ))}
+    {topics.length > 12 && (
+      <button class="topics-toggle" id="topics-toggle">
+        +{topics.length - 12} more
+      </button>
+    )}
+  </div>
+  <select class="sort-select" id="sort-select">
+    <option value="newest">Newest First</option>
+    <option value="oldest">Oldest First</option>
+    <option value="views">Most Viewed</option>
+    <option value="longest">Longest</option>
+  </select>
+</div>
+
+<div class="filter-topics filter-topics--expanded" id="filter-topics-expanded" style="display:none; margin-bottom: 20px;">
+  {topics.slice(12).map((t) => (
+    <button class="topic-pill" data-topic={t.name}>
+      {t.name}<span class="pill-count">{t.count}</span>
+    </button>
+  ))}
+</div>

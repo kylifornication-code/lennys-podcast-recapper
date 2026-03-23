@@ -1,0 +1,104 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+
+export async function getStaticPaths() {
+  const episodes = await getCollection('episodes');
+  return episodes
+    .filter((ep) => ep.data.title)
+    .map((ep) => ({
+      params: { id: ep.id },
+      props: { episode: ep },
+    }));
+}
+
+const { episode } = Astro.props;
+const { Content } = await render(episode);
+const d = episode.data;
+const base = import.meta.env.BASE_URL;
+
+const displayTitle = d.title || `Episode with ${d.guest}`;
+const formattedDate = d.publish_date
+  ? new Date(d.publish_date + 'T00:00:00').toLocaleDateString('en-US', {
+      month: 'long',
+      day: 'numeric',
+      year: 'numeric',
+    })
+  : '';
+const formattedViews = d.view_count ? d.view_count.toLocaleString('en-US') : '';
+---
+
+<Base title={`${displayTitle} | Lenny's Podcast Recapper`} description={d.description?.slice(0, 160)}>
+  <Header />
+
+  <main class="main-content">
+    <a href={base} class="episode-back">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m15 18-6-6 6-6"/>
+      </svg>
+      All Episodes
+    </a>
+
+    <div class="episode-header">
+      <h1>{displayTitle}</h1>
+      <div class="episode-guest">{d.guest}</div>
+      <div class="episode-meta-row">
+        {formattedDate && (
+          <span>
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+            {formattedDate}
+          </span>
+        )}
+        {d.duration && (
+          <span>
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+            {d.duration}
+          </span>
+        )}
+        {formattedViews && (
+          <span>
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+            {formattedViews} views
+          </span>
+        )}
+      </div>
+
+      {d.keywords.length > 0 && (
+        <div class="episode-keywords">
+          {d.keywords.map((kw) => (
+            <span class="episode-keyword">{kw}</span>
+          ))}
+        </div>
+      )}
+
+      {d.youtube_url && (
+        <a href={d.youtube_url} target="_blank" rel="noopener" class="episode-youtube">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+          Watch on YouTube
+        </a>
+      )}
+    </div>
+
+    {d.video_id && (
+      <div class="episode-video">
+        <iframe
+          src={`https://www.youtube.com/embed/${d.video_id}`}
+          title={displayTitle}
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        />
+      </div>
+    )}
+
+    <div class="episode-transcript">
+      <h2>Transcript</h2>
+      <div class="transcript-content">
+        <Content />
+      </div>
+    </div>
+  </main>
+
+  <Footer />
+</Base>

@@ -27,6 +27,10 @@ node_modules/
 npm-debug.log*
 yarn-error.log
 
+# Astro
+dist/
+.astro/
+
 # Temp
 *.tmp
 *.log

@@ -1,0 +1,101 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import SearchBar from '../components/SearchBar.astro';
+import FilterBar from '../components/FilterBar.astro';
+import EpisodeCard from '../components/EpisodeCard.astro';
+import Footer from '../components/Footer.astro';
+
+const allEpisodes = await getCollection('episodes');
+
+const episodes = allEpisodes
+  .map((ep) => ({
+    slug: ep.id,
+    guest: ep.data.guest,
+    title: ep.data.title,
+    video_id: ep.data.video_id,
+    youtube_url: ep.data.youtube_url,
+    publish_date: ep.data.publish_date,
+    description: ep.data.description,
+    duration: ep.data.duration,
+    duration_seconds: ep.data.duration_seconds,
+    view_count: ep.data.view_count,
+    keywords: ep.data.keywords,
+  }))
+  .filter((ep) => ep.title)
+  .sort((a, b) => {
+    if (!a.publish_date) return 1;
+    if (!b.publish_date) return -1;
+    return b.publish_date.localeCompare(a.publish_date);
+  });
+
+const topicCounts: Record<string, number> = {};
+for (const ep of episodes) {
+  for (const kw of ep.keywords) {
+    topicCounts[kw] = (topicCounts[kw] || 0) + 1;
+  }
+}
+const topics = Object.entries(topicCounts)
+  .map(([name, count]) => ({ name, count }))
+  .sort((a, b) => b.count - a.count);
+
+const episodesJson = JSON.stringify(
+  episodes.map((ep) => ({
+    slug: ep.slug,
+    guest: ep.guest,
+    title: ep.title,
+    video_id: ep.video_id,
+    publish_date: ep.publish_date,
+    description: (ep.description || '').slice(0, 200),
+    duration: ep.duration,
+    duration_seconds: ep.duration_seconds,
+    view_count: ep.view_count,
+    keywords: ep.keywords,
+  }))
+);
+---
+
+<Base title="Lenny's Podcast Recapper">
+  <Header />
+
+  <main class="main-content">
+    <div class="page-hero">
+      <h1>Lenny's Podcast Recapper</h1>
+      <p>Explore transcripts from world-class product leaders and growth experts</p>
+      <div class="stats-bar">
+        <span><strong>{episodes.length}</strong> episodes</span>
+        <span><strong>{topics.length}</strong> topics</span>
+      </div>
+    </div>
+
+    <SearchBar />
+    <FilterBar topics={topics} />
+
+    <div class="card-grid" id="card-grid">
+      {episodes.map((ep) => (
+        <EpisodeCard
+          slug={ep.slug}
+          guest={ep.guest}
+          title={ep.title}
+          video_id={ep.video_id}
+          publish_date={ep.publish_date}
+          description={ep.description}
+          duration={ep.duration}
+          view_count={ep.view_count}
+          keywords={ep.keywords}
+        />
+      ))}
+    </div>
+
+    <div class="no-results" id="no-results" style="display:none;">
+      <h3>No episodes found</h3>
+      <p>Try adjusting your search or filters</p>
+    </div>
+  </main>
+
+  <Footer />
+
+  <script type="application/json" id="episodes-data" set:html={episodesJson} />
+  <script src="../scripts/search.ts"></script>
+</Base>
