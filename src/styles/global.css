@@ -89,6 +89,12 @@ img {
   gap: 8px;
 }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 .header-nav a {
   font-size: 0.875rem;
   font-weight: 500;
@@ -102,6 +108,30 @@ img {
 .header-nav a.active {
   background: var(--color-accent-bg);
   color: var(--color-accent);
+}
+
+.header-repo-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-pill);
+  border: 1.5px solid var(--color-border);
+  color: var(--color-text-secondary);
+  background: var(--color-bg);
+  transition: all 0.15s ease;
+}
+
+.header-repo-link:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+  background: var(--color-accent-bg);
+}
+
+.header-repo-link svg {
+  width: 18px;
+  height: 18px;
 }
 
 /* ── Main Layout ── */
@@ -836,6 +866,10 @@ mark.episode-inline-search-hit.episode-inline-search-hit--active {
   font-weight: 500;
 }
 
+.site-footer-attribution {
+  margin-top: 8px;
+}
+
 /* ── Responsive ── */
 
 @media (max-width: 960px) {
@@ -878,6 +912,11 @@ mark.episode-inline-search-hit.episode-inline-search-hit--active {
 
   .header-nav {
     flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .header-actions {
+    width: 100%;
     justify-content: center;
   }
 
