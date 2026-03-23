@@ -2,7 +2,7 @@
 
 **Every conversation. One place to explore.**
 
-Lenny's Podcast Recapper is a fast, searchable home for hundreds of [Lenny's Podcast](https://www.youtube.com/@LennysPodcast) episodes—the interviews with product leaders, growth experts, and operators that people return to for years. Stop hunting through YouTube and spreadsheets. Find the episode, the guest, or the exact moment in a transcript you care about.
+Lenny's Podcast Recapper is a fast, searchable home for hundreds of [Lenny's Podcast](https://www.youtube.com/@LennysPodcast) episodes—the interviews with product leaders, growth experts, and operators that people return to for years. Stop hunting through YouTube and spreadsheets. Find the episode, the guest, or the exact moment in a transcript you care about. 
 
 ---
 
