@@ -23,7 +23,7 @@ Lenny's guests share concrete, tactical advice on building and scaling products.
 
 ## Try it
 
-**Live site:** [kylejames.github.io/Lennys-podcast-recapper](https://kylejames.github.io/Lennys-podcast-recapper/)
+**Live site:** [kylifornication-code.github.io/lennys-podcast-recapper](https://kylifornication-code.github.io/lennys-podcast-recapper/)
 
 Run it locally:
 
