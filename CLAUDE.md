@@ -18,8 +18,12 @@ This is a consolidated repository for Lenny's Podcast Recapper, containing 303+ 
 │   └── index/
 │       ├── README.md            # Main entry point with topic links
 │       └── {topic}.md           # Individual topic files (e.g., product-management.md)
-└── scripts/
-    └── build-index.sh           # Script to regenerate the topic index
+├── scripts/
+│   ├── sync-dropbox.sh          # Download latest transcripts from Dropbox
+│   ├── ingest-transcripts.sh    # Convert raw .txt → structured episodes
+│   └── build-index.sh           # Regenerate the topic index (uses Claude CLI)
+└── .github/workflows/
+    └── daily-sync.yml           # Daily automated pipeline
 ```
 
 ## Transcript Format
@@ -75,6 +79,24 @@ Task subagent_type="Explore" prompt="Find insights about X across transcripts"
 When Read returns a persisted output path like:
 `Output saved to: ~/.claude/.../tool-results/xxx.txt`
 Read that file to access the full content.
+
+## Automated Pipeline
+
+A daily GitHub Actions workflow keeps transcripts up to date:
+
+1. `scripts/sync-dropbox.sh` -- Downloads new `.txt` files from the Dropbox shared folder into `data/raw-transcripts/`
+2. `scripts/ingest-transcripts.sh` -- Converts any new raw transcripts into structured episodes under `data/episodes/`
+3. Commits and pushes if there are changes
+
+All scripts are idempotent and safe to run repeatedly.
+
+### Running scripts manually
+
+```bash
+./scripts/sync-dropbox.sh         # Download from Dropbox
+./scripts/ingest-transcripts.sh   # Convert raw → episodes
+./scripts/build-index.sh          # Rebuild topic index (requires Claude CLI)
+```
 
 ## Rebuilding the Index
 

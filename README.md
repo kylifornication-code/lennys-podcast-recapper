@@ -5,8 +5,10 @@ A consolidated repository for working with [Lenny's Podcast](https://www.youtube
 ## Repository Structure
 
 ```
+├── .github/workflows/
+│   └── daily-sync.yml       # Daily GitHub Actions pipeline
 ├── data/
-│   ├── episodes/            # 303 structured transcripts (markdown + YAML metadata)
+│   ├── episodes/            # 318 structured transcripts (markdown + YAML metadata)
 │   │   └── {guest-name}/
 │   │       └── transcript.md
 │   ├── raw-transcripts/     # 311 raw transcripts (plain text, from Dropbox archive)
@@ -15,6 +17,8 @@ A consolidated repository for working with [Lenny's Podcast](https://www.youtube
 │       ├── README.md
 │       └── {topic}.md
 ├── scripts/
+│   ├── sync-dropbox.sh      # Download latest transcripts from Dropbox
+│   ├── ingest-transcripts.sh # Convert raw .txt → structured episodes
 │   └── build-index.sh       # Regenerate the topic index
 ├── CLAUDE.md                # AI assistant guidance
 └── README.md
@@ -63,6 +67,24 @@ grep -r "product-market fit" data/episodes/
 ```bash
 ./scripts/build-index.sh
 ```
+
+## Automated Pipeline
+
+A GitHub Actions workflow (`.github/workflows/daily-sync.yml`) runs daily at 6 AM UTC to keep transcripts up to date:
+
+1. **sync-dropbox.sh** -- Downloads the latest `.txt` files from the shared Dropbox folder into `data/raw-transcripts/`
+2. **ingest-transcripts.sh** -- Converts any new raw transcripts into structured `data/episodes/{slug}/transcript.md` with YAML frontmatter
+3. If new episodes were added, the workflow commits and pushes automatically
+
+The workflow can also be triggered manually from the Actions tab.
+
+### Setup
+
+To enable the pipeline, add this repository secret in GitHub Settings > Secrets:
+
+- `DROPBOX_URL` -- The Dropbox shared folder download URL (with `dl=1`)
+
+The `build-index.sh` script (which generates keyword tags via Claude CLI) can be run separately after new episodes are ingested. It requires an `ANTHROPIC_API_KEY` and the `claude` CLI to be available.
 
 ## About Lenny's Podcast
 
