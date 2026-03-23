@@ -324,6 +324,12 @@ img {
   flex-direction: column;
 }
 
+.card-main-link {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
 .card:hover {
   transform: translateY(-3px);
   box-shadow: 0 8px 24px var(--color-shadow-hover);
@@ -413,6 +419,53 @@ img {
   background: var(--color-accent-bg);
   color: var(--color-accent);
   font-weight: 500;
+}
+
+.card-social {
+  border-top: 1px solid var(--color-border-light);
+  padding: 10px 18px 14px;
+  background: var(--color-bg);
+}
+
+.card-social--empty {
+  padding-top: 12px;
+}
+
+.card-social-label {
+  display: block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  margin-bottom: 6px;
+}
+
+.card-social-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.card-social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-pill);
+  padding: 3px 9px;
+  font-size: 0.74rem;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  background: var(--color-bg-card);
+  transition: all 0.15s ease;
+}
+
+.card-social-link:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+  background: var(--color-accent-bg);
 }
 
 /* ── Transcript Excerpt (Pagefind match) ── */

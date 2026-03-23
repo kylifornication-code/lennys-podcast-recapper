@@ -1,4 +1,6 @@
 ---
+import type { GuestSocialLink } from '../lib/parse-guest-social-links';
+
 interface Props {
   slug: string;
   guest: string;
@@ -9,9 +11,10 @@ interface Props {
   duration: string;
   view_count: number;
   keywords: string[];
+  social_links: GuestSocialLink[];
 }
 
-const { slug, guest, title, video_id, publish_date, description, duration, view_count, keywords } = Astro.props;
+const { slug, guest, title, video_id, publish_date, description, duration, view_count, keywords, social_links } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const episodeUrl = `${base}episode/${slug}/`;
 const thumbUrl = video_id ? `https://img.youtube.com/vi/${video_id}/mqdefault.jpg` : '';
@@ -22,47 +25,69 @@ const formattedDate = parsedDate && !isNaN(parsedDate.getTime())
   ? parsedDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
   : '';
 const formattedViews = view_count ? view_count.toLocaleString('en-US') : '';
+const displaySocialLinks = (social_links || []).slice(0, 5);
 ---
 
-<a href={episodeUrl} class="card" data-slug={slug} data-keywords={JSON.stringify(keywords)}>
-  {thumbUrl ? (
-    <img class="card-thumbnail" src={thumbUrl} alt={displayTitle} loading="lazy" />
-  ) : (
-    <div class="card-thumbnail" style="display:flex;align-items:center;justify-content:center;font-size:1.5rem;color:var(--color-text-muted);">
-      🎙
-    </div>
-  )}
-  <div class="card-body">
-    <div class="card-guest">{guest}</div>
-    <div class="card-title">{displayTitle}</div>
-    {shortDesc && <div class="card-description">{shortDesc}</div>}
-    <div class="card-meta">
-      {formattedDate && (
-        <span class="card-meta-item">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
-          {formattedDate}
-        </span>
-      )}
-      {duration && (
-        <span class="card-meta-item">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
-          {duration}
-        </span>
-      )}
-      {formattedViews && (
-        <span class="card-meta-item">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
-          {formattedViews}
-        </span>
-      )}
-    </div>
-    {keywords.length > 0 && (
-      <div class="card-keywords">
-        {keywords.slice(0, 4).map((kw) => (
-          <span class="card-keyword">{kw}</span>
-        ))}
+<article class="card" data-slug={slug} data-keywords={JSON.stringify(keywords)}>
+  <a href={episodeUrl} class="card-main-link" aria-label={displayTitle}>
+    {thumbUrl ? (
+      <img class="card-thumbnail" src={thumbUrl} alt={displayTitle} loading="lazy" />
+    ) : (
+      <div class="card-thumbnail" style="display:flex;align-items:center;justify-content:center;font-size:1.5rem;color:var(--color-text-muted);">
+        🎙
       </div>
     )}
-    <div class="card-excerpt" style="display:none;"></div>
-  </div>
-</a>
+    <div class="card-body">
+      <div class="card-guest">{guest}</div>
+      <div class="card-title">{displayTitle}</div>
+      {shortDesc && <div class="card-description">{shortDesc}</div>}
+      <div class="card-meta">
+        {formattedDate && (
+          <span class="card-meta-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+            {formattedDate}
+          </span>
+        )}
+        {duration && (
+          <span class="card-meta-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+            {duration}
+          </span>
+        )}
+        {formattedViews && (
+          <span class="card-meta-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+            {formattedViews}
+          </span>
+        )}
+      </div>
+      {keywords.length > 0 && (
+        <div class="card-keywords">
+          {keywords.slice(0, 4).map((kw) => (
+            <span class="card-keyword">{kw}</span>
+          ))}
+        </div>
+      )}
+      <div class="card-excerpt" style="display:none;"></div>
+    </div>
+  </a>
+  {displaySocialLinks.length > 0 && (
+    <div class="card-social" data-pagefind-ignore>
+      <span class="card-social-label">Guest links</span>
+      <ul class="card-social-list" role="list">
+        {displaySocialLinks.map((link) => (
+          <li>
+            <a href={link.href} target="_blank" rel="noopener noreferrer" class="card-social-link">
+              {link.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+  {displaySocialLinks.length === 0 && (
+    <div class="card-social card-social--empty" data-pagefind-ignore>
+      <span class="card-social-label">Guest links unavailable</span>
+    </div>
+  )}
+</article>

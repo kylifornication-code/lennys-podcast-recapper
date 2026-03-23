@@ -6,6 +6,7 @@ import SearchBar from '../components/SearchBar.astro';
 import FilterBar from '../components/FilterBar.astro';
 import EpisodeCard from '../components/EpisodeCard.astro';
 import Footer from '../components/Footer.astro';
+import { parseGuestSocialLinks } from '../lib/parse-guest-social-links';
 
 const allEpisodes = await getCollection('episodes');
 const pagefindBase = import.meta.env.BASE_URL.replace(/\/?$/, '/');
@@ -23,6 +24,7 @@ const episodes = allEpisodes
     duration_seconds: ep.data.duration_seconds,
     view_count: ep.data.view_count,
     keywords: ep.data.keywords,
+    social_links: parseGuestSocialLinks(ep.data.description || ''),
   }))
   .filter((ep) => ep.title)
   .sort((a, b) => {
@@ -85,6 +87,7 @@ const episodesJson = JSON.stringify(
           duration={ep.duration}
           view_count={ep.view_count}
           keywords={ep.keywords}
+          social_links={ep.social_links}
         />
       ))}
     </div>
