@@ -1,13 +1,165 @@
 ---
-guest: "Jeetu Patel"
-title: ""
-youtube_url: ""
-video_id: ""
-publish_date: ""
-description: ""
-duration_seconds: 0
-duration: ""
-view_count: 0
+guest: Jeetu Patel
+title: 'AI is critical for humanity’s survival: Cisco President on the AI revolution | Jeetu Patel'
+youtube_url: https://www.youtube.com/watch?v=ylNKlBlkFas
+video_id: ylNKlBlkFas
+publish_date: '2026-02-26'
+description: 'Jeetu Patel is the president and chief product officer at Cisco, where he leads a team of 30,000 people and
+  is playing a central role in the massive AI infrastructure buildout happening right now. Previously, he spent five years
+  as CPO at Box and 17 years running his own startup. Recently Jeetu organized an AI summit featuring industry leaders like
+  Jensen Huang, Sam Altman, Marc Andreessen, and Fei-Fei Li.
+
+
+  *We discuss:*
+
+  1. How Cisco went AI-first across 90,000 employees
+
+  2. His six-part framework for building great companies: timing, market, team, product, brand, distribution
+
+  3. Why he says he couldn’t have done this job without AI
+
+  4. His “right to win” strategic framework
+
+  5. His communication framework for preventing “packet loss” across an organization
+
+  6. Why he flips “praise in public, criticize in private” and does the exact opposite
+
+  7. The important communication lesson his mother taught him
+
+
+  *Brought to you by:*
+
+  Sentry—Code breaks, fix it faster: https://sentry.io/lenny
+
+  Framer—Build better websites faster: https://framer.com/lenny
+
+  Samsara—Saving lives with AI built for physical operations: https://samsara.com/lenny
+
+
+  *Episode transcript:* https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival
+
+
+  *Archive of all Lenny''s Podcast transcripts:* https://www.dropbox.com/scl/fo/yxi4s2w998p1gvtpu4193/AMdNPR8AOw0lMklwtnC0TrQ?rlkey=j06x0nipoti519e0xgm23zsn9&st=ahz0fj11&dl=0
+
+
+  *Where to find Jeetu Patel:*
+
+  • X: https://x.com/jpatel41
+
+  • LinkedIn: https://www.linkedin.com/in/jeetupatel
+
+  • Website: https://blogs.cisco.com/author/jeetupatel
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction and welcome
+
+  (04:15) Insights from Cisco’s Al summit
+
+  (08:45) Transforming Cisco into an Al-first company
+
+  (15:33) What Cisco actually does in the Al infrastructure stack
+
+  (19:09) The future of Al
+
+  (24:36) Raising kids in the AI era
+
+  (29:46) “Permission to play” framework
+
+  (36:50) Lessons from great CEOs
+
+  (42:02) Leading at scale
+
+  (50:54) Why Jeetu inverts the ‘praise in public, criticize in private’ rule
+
+  (57:45) Surrounding yourself with good human beings
+
+  (58:35) Lessons from loss
+
+  (01:03:21) Career advice: platforms, hunger, and preparation
+
+  (01:10:21) The six-part framework for building great companies
+
+  (01:19:05) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Jensen Huang on LinkedIn: https://www.linkedin.com/in/jenhsunhuang
+
+  • Sam Altman on X: https://x.com/sama
+
+  • Marc Andreessen: The real AI boom hasn’t even started yet: https://www.lennysnewsletter.com/p/marc-andreessen-the-real-ai-boom
+
+  • Fei-Fei Li on LinkedIn: https://www.linkedin.com/in/fei-fei-li-4541247
+
+  • Lip-Bu Tan on LinkedIn: https://www.linkedin.com/in/lip-bu-tan-284a7846
+
+  • Matt Garman on LinkedIn: https://www.linkedin.com/in/mattgarman
+
+  • Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram): https://www.lennysnewsletter.com/p/anthropics-cpo-heres-what-comes-next
+
+  • OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil (CPO at OpenAI, ex-Instagram,
+  Twitter): https://www.lennysnewsletter.com/p/kevin-weil-open-ai
+
+  • Kevin Scott on LinkedIn: https://www.linkedin.com/in/jkevinscott
+
+  • Cisco: https://www.cisco.com
+
+  • Elon Musk on X: https://x.com/elonmusk
+
+  • Ray Kurzweil’s website: https://www.thekurzweillibrary.com
+
+  • $46B of hard truths from Ben Horowitz: Why founders fail and why you need to run toward fear (a16z co-founder): https://www.lennysnewsletter.com/p/46b-of-hard-truths-from-ben-horowitz
+
+  • Aaron Levie on LinkedIn: https://www.linkedin.com/in/boxaaron
+
+  • Box: https://www.box.com
+
+  • Chuck Robbins on LinkedIn: https://www.linkedin.com/in/chuck-robbins
+
+  • Jeffrey Queisser on LinkedIn: https://www.linkedin.com/in/queisser
+
+  • Rick Devenuti on LinkedIn: https://www.linkedin.com/in/rick-devenuti-ba55432
+
+  • Jeremy Burton on LinkedIn: https://www.linkedin.com/in/jburton0
+
+  • Wes Bush: https://en.wikipedia.org/wiki/Wesley_G._Bush
+
+  • Michael Capellas on LinkedIn: https://www.linkedin.com/in/michael-capellas-36104887
+
+  • 10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling): https://www.lennysnewsletter.com/p/10-contrarian-leadership-truths
+
+  • Dunbar’s number: https://en.wikipedia.org/wiki/Dunbar%27s_number
+
+  • Pat Gelsinger on LinkedIn: https://www.linkedin.com/in/patgelsinger
+
+  • Bernie Madoff: https://en.wikipedia.org/wiki/Bernie_Madoff
+
+  • Taj Mahal: https://en.wikipedia.org/wiki/Taj_Mahal
+
+  ...References continued at: https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
+duration_seconds: 5243.0
+duration: '1:27:23'
+view_count: 14754
 channel: Lenny's Podcast
 keywords: []
 ---

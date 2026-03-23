@@ -21,17 +21,21 @@ Environment variables:
 import json
 import os
 import re
+import ssl
 import sys
 import time
 import urllib.request
 import urllib.parse
 from pathlib import Path
 
+import certifi
 import yaml
 
 CHANNEL_ID = "UC6t1O76G0jYXOAoYCm153dA"
 API_BASE = "https://www.googleapis.com/youtube/v3"
 EPISODES_DIR = Path(os.environ.get("EPISODES_DIR", "data/episodes"))
+
+SSL_CTX = ssl.create_default_context(cafile=certifi.where())
 
 
 def get_api_key():
@@ -44,7 +48,7 @@ def get_api_key():
 
 def youtube_get(endpoint: str, params: dict) -> dict:
     url = f"{API_BASE}/{endpoint}?" + urllib.parse.urlencode(params)
-    with urllib.request.urlopen(url) as resp:
+    with urllib.request.urlopen(url, context=SSL_CTX) as resp:
         return json.loads(resp.read())
 
 

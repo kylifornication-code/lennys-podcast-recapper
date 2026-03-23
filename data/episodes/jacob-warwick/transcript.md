@@ -1,13 +1,167 @@
 ---
-guest: "Jacob Warwick"
-title: ""
-youtube_url: ""
-video_id: ""
-publish_date: ""
-description: ""
-duration_seconds: 0
-duration: ""
-view_count: 0
+guest: Jacob Warwick
+title: The tactical playbook for getting 20-40% more comp (without sounding greedy) | Jacob Warwick
+youtube_url: https://www.youtube.com/watch?v=pEis2CBomVA
+video_id: pEis2CBomVA
+publish_date: '2026-03-15'
+description: 'Jacob Warwick is an executive negotiation coach who helps senior operators negotiate better salary, equity,
+  titles, and severance packages. He has worked with leaders across tech and Hollywood, was previously a founder and CEO himself,
+  and has helped clients secure millions in additional compensation. His approach focuses on collaboration over confrontation,
+  understanding motivations, and treating job searches like enterprise sales processes.
+
+
+  *We discuss:*
+
+  1. Why a simple “What’s the chance there’s a little more here?” often unlocks a 20% bump
+
+  2. Why Jacob sees 40% average movement when negotiations are run well
+
+  3. When negotiation actually starts (hint: it’s much earlier than you think)
+
+  4. Why information + timing create power
+
+  5. The biggest mistakes people make when negotiating
+
+  6. How to navigate the important “What’s your comp expectation?” question without anchoring too low
+
+  7. Why the best interviews feel more like discovery calls than interrogations
+
+
+  *Brought to you by:*
+
+  Orkes—The enterprise platform for reliable applications and agentic workflows: https://www.orkes.io/
+
+  Mercury—Radically different banking: https://mercury.com/
+
+  Omni—AI analytics your customers can trust: https://omni.co/lenny
+
+
+  *Episode transcript:* https://www.lennysnewsletter.com/p/the-tactical-playbook-for-getting-more-comp
+
+  *Archive of all Lenny''s Podcast transcripts:* https://www.dropbox.com/scl/fo/yxi4s2w998p1gvtpu4193/AMdNPR8AOw0lMklwtnC0TrQ?rlkey=j06x0nipoti519e0xgm23zsn9&st=ahz0fj11&dl=0
+
+
+  *Where to find Jacob Warwick:*
+
+  • Substack: https://www.execsandthecity.com
+
+  • YouTube: https://www.youtube.com/@ExecsandtheCity
+
+  • Website: https://www.thinkwarwick.com
+
+  • Complete Job Search Course: https://www.execsandthecity.com/p/complete-job-search-course
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Jacob Warwick
+
+  (04:12) How much comp people leave on the table
+
+  (07:52) Why you shouldn’t feel greedy asking for more
+
+  (09:45) What founders should know about negotiation
+
+  (13:03) How Jacob works behind the scenes
+
+  (15:35) The biggest mistakes people make when negotiating
+
+  (19:30) Home-field advantage and controlling the conversation
+
+  (23:02) The step-by-step approach to negotiating an offer
+
+  (30:17) Jacob’s passion and why these tips don’t work on kids
+
+  (32:04) Who should speak first about compensation
+
+  (35:36) Understanding power
+
+  (39:52) Breaking out of salary bands by focusing on pain points
+
+  (45:45) Brief summary
+
+  (47:20) Selling the vacation: How to visualize success
+
+  (50:07) Controlling the narrative and planting seeds
+
+  (59:01) Jacob’s role as hype man
+
+  (01:01:05) Positioning yourself like a product
+
+  (01:02:49) Making the process frictionless for hiring managers
+
+  (01:06:20) Flipping the interview to extract information
+
+  (01:12:17) Five tactical tips for negotiating comp
+
+  (01:21:45) What to do when negotiations fall apart
+
+  (01:25:05) Why negotiation is different for every individual
+
+  (01:28:55) Why outcomes aren’t predetermined
+
+  (01:32:52) Wild Hollywood negotiation stories
+
+  (01:37:35) The first step you should take after getting an offer
+
+  (01:40:30) Jacob’s personal mission
+
+  (01:44:42) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • The ultimate guide to negotiating your comp: https://www.lennysnewsletter.com/p/the-ultimate-guide-to-negotiating
+
+  • Sam Altman on X: https://x.com/sama
+
+  • Tom Brady on X: https://x.com/TomBrady
+
+  • Career Huddle: Interview & Negotiation Master Class with Jacob Warwick: https://www.youtube.com/watch?v=TgjWTiSj8E8
+
+  • Salesforce: https://www.salesforce.com
+
+  • Julia Roberts: https://en.wikipedia.org/wiki/Julia_Roberts
+
+  • Matt Damon: https://en.wikipedia.org/wiki/Matt_Damon
+
+  • Steven Spielberg: https://en.wikipedia.org/wiki/Steven_Spielberg
+
+  • Marc Andreessen: The real AI boom hasn’t even started yet: https://www.lennysnewsletter.com/p/marc-andreessen-the-real-ai-boom
+
+  • Chris Voss’s quote: https://www.goodreads.com/quotes/10181396-remember-never-be-so-sure-of-what-you-want-that
+
+  • Chris Voss on X: https://x.com/fbinegotiator
+
+  • Werewolf: https://playwerewolf.co
+
+  • Modes of persuasion: https://en.wikipedia.org/wiki/Modes_of_persuasion
+
+  • How to use tactical empathy: https://www.linkedin.com/posts/christophervoss_tacticalempathy-negotiation-customerexperience-activity-7361004118808670212-oeRy
+
+  • ZOPA, BATNA and Win-Win in Negotiation: https://www.parallelprojecttraining.com/blog/zopa-batna-and-win-win-in-negotiation
+
+  ...References continued at: https://www.lennysnewsletter.com/p/the-tactical-playbook-for-getting-more-comp
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
+duration_seconds: 6894.0
+duration: '1:54:54'
+view_count: 19807
 channel: Lenny's Podcast
 keywords: []
 ---

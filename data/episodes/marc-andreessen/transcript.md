@@ -1,13 +1,173 @@
 ---
-guest: "Marc Andreessen"
-title: ""
-youtube_url: ""
-video_id: ""
-publish_date: ""
-description: ""
-duration_seconds: 0
-duration: ""
-view_count: 0
+guest: Marc Andreessen
+title: 'Marc Andreessen: The real AI boom hasn’t even started yet'
+youtube_url: https://www.youtube.com/watch?v=87Pm0SGTtN8
+video_id: 87Pm0SGTtN8
+publish_date: '2026-01-29'
+description: 'Marc Andreessen is a founder, investor, and co-founder of Netscape, as well as co-founder of the venture capital
+  firm Andreessen Horowitz (a16z). In this conversation, we dig into why we’re living through a unique and one of the most
+  incredible times in history, and what comes next.
+
+
+  *We discuss:*
+
+  1. Why AI is arriving at the perfect moment to counter demographic collapse and declining productivity
+
+  2. How Marc has raised his 10-year-old kid to thrive in an AI-driven world
+
+  3. What’s actually going to happen with AI and jobs (spoiler: he thinks the panic is “totally off base”)
+
+  4. The “Mexican standoff” that’s happening between product managers, designers, and engineers
+
+  5. Why you should still learn to code (even with AI)
+
+  6. How to develop an “E-shaped” career that combines multiple skills, with AI as a force multiplier
+
+  7. The career advice he keeps coming back to (“Don’t be fungible”)
+
+  8. How AI can democratize one-on-one tutoring, potentially transforming education
+
+  9. His media diet: X and old books, nothing in between
+
+
+  *Brought to you by:*
+
+  DX—The developer intelligence platform designed by leading researchers: https://getdx.com/lenny
+
+  Brex—The banking solution for startups: https://www.brex.com/product/business-account?ref_code=bmk_dp_brand1H25_ln_new_fs
+
+  Datadog—Now home to Eppo, the leading experimentation and feature flagging platform: https://www.datadoghq.com/lenny
+
+
+  *Episode transcript:* https://www.lennysnewsletter.com/p/marc-andreessen-the-real-ai-boom
+
+
+  *Archive of all Lenny''s Podcast transcripts:*
+
+  https://www.dropbox.com/scl/fo/yxi4s2w998p1gvtpu4193/AMdNPR8AOw0lMklwtnC0TrQ?rlkey=j06x0nipoti519e0xgm23zsn9&st=ahz0fj11&dl=0
+
+
+  *Where to find Marc Andreessen:*
+
+  • X: https://x.com/pmarca
+
+  • Substack: https://pmarca.substack.com
+
+  • Andreessen Horowitz’s website: https://a16z.com
+
+  • Andreessen Horowitz’s YouTube channel: https://www.youtube.com/@a16z
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Marc Andreessen
+
+  (04:27) The historic moment we’re living in
+
+  (06:52) The impact of AI on society
+
+  (11:14) AI’s role in education and parenting
+
+  (22:15) The future of jobs in an AI-driven world
+
+  (30:15) Marc''s past predictions
+
+  (35:35) The Mexican standoff of tech roles
+
+  (39:28) Adapting to changing job tasks
+
+  (42:15) The shift to scripting languages
+
+  (44:50) The importance of understanding code
+
+  (51:37) The value of design in the AI era
+
+  (53:30) The T-shaped skill strategy
+
+  (01:02:05) AI’s impact on founders and companies
+
+  (01:05:58) The concept of one-person billion-dollar companies
+
+  (01:08:33) Debating AI moats and market dynamics
+
+  (01:14:39) The rapid evolution of AI models
+
+  (01:18:05) Indeterminate optimism in venture capital
+
+  (01:22:17) The concept of AGI and its implications
+
+  (01:30:00) Marc''s media diet
+
+  (01:36:18) Favorite movies and AI voice technology
+
+  (01:39:24) Marc''s product diet
+
+  (01:43:16) Closing thoughts and recommendations
+
+
+  *Referenced:*
+
+  • Linus Torvalds on LinkedIn: https://www.linkedin.com/in/linustorvalds
+
+  • The philosopher’s stone: https://en.wikipedia.org/wiki/Philosopher%27s_stone
+
+  • Alexander the Great: https://en.wikipedia.org/wiki/Alexander_the_Great
+
+  • Aristotle: https://en.wikipedia.org/wiki/Aristotle
+
+  • Bloom’s 2 sigma problem: https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem
+
+  • Alpha School: https://alpha.school
+
+  • In Tech We Trust? A Debate with Peter Thiel and Marc Andreessen: https://a16z.com/in-tech-we-trust-a-debate-with-peter-thiel-and-marc-andreessen
+
+  • John Woo: https://en.wikipedia.org/wiki/John_Woo
+
+  • Assembly: https://en.wikipedia.org/wiki/Assembly_language
+
+  • C programming language: https://en.wikipedia.org/wiki/C_(programming_language)
+
+  • Python: https://www.python.org
+
+  • Netscape: https://en.wikipedia.org/wiki/Netscape
+
+  • Perl: https://www.perl.org
+
+  • Scott Adams: https://en.wikipedia.org/wiki/Scott_Adams
+
+  • Larry Summers’s website: https://larrysummers.com
+
+  • Nano Banana: https://gemini.google/overview/image-generation
+
+  • Bitcoin: https://bitcoin.org
+
+  • Ethereum: https://ethereum.org
+
+  • Satoshi Nakamoto: https://en.wikipedia.org/wiki/Satoshi_Nakamoto
+
+  • Inside ChatGPT: The fastest-growing product in history | Nick Turley (Head of ChatGPT at OpenAI): https://www.lennysnewsletter.com/p/inside-chatgpt-nick-turley
+
+  ...References continued at: https://www.lennysnewsletter.com/p/marc-andreessen-the-real-ai-boom
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
+duration_seconds: 6276.0
+duration: '1:44:36'
+view_count: 321721
 channel: Lenny's Podcast
 keywords: []
 ---

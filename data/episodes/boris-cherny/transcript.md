@@ -1,13 +1,51 @@
 ---
-guest: "Boris Cherny"
-title: ""
-youtube_url: ""
-video_id: ""
-publish_date: ""
-description: ""
-duration_seconds: 0
-duration: ""
-view_count: 0
+guest: Boris Cherny
+title: 'Head of Claude Code: What happens after coding is solved | Boris Cherny'
+youtube_url: https://www.youtube.com/watch?v=We7BZVKbCVw
+video_id: We7BZVKbCVw
+publish_date: '2026-02-19'
+description: "Boris Cherny is the creator and head of Claude Code at Anthropic. What began as a simple terminal-based prototype\
+  \ just a year ago has transformed the role of software engineering and is increasingly transforming all professional work.\n\
+  \n*We discuss:*\n1. How Claude Code grew from a quick hack to 4% of public GitHub commits, with daily active users doubling\
+  \ last month\n2. The counterintuitive product principles that drove Claude Code’s success\n3. Why Boris believes coding\
+  \ is “solved”\n4. The latent demand that shaped Claude Code and Cowork\n5. Practical tips for getting the most out of Claude\
+  \ Code and Cowork\n6. How underfunding teams and giving them unlimited tokens leads to better AI products\n7. Why Boris\
+  \ briefly left Anthropic for Cursor, then returned after just two weeks\n8. Three principles Boris shares with every new\
+  \ team member\n\n*Brought to you by:*\nDX—The developer intelligence platform designed by leading researchers: https://getdx.com/lenny\n\
+  Sentry—Code breaks, fix it faster: https://sentry.io/lenny\nMetaview—The AI platform for recruiting: https://metaview.ai/lenny\n\
+  \n*Episode transcript:* https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens\n\n*Archive of all Lenny's Podcast\
+  \ transcripts:*\nhttps://www.dropbox.com/scl/fo/yxi4s2w998p1gvtpu4193/AMdNPR8AOw0lMklwtnC0TrQ?rlkey=j06x0nipoti519e0xgm23zsn9&st=ahz0fj11&dl=0\n\
+  \n*Where to find Boris Cherny:*\n• X: https://x.com/bcherny\n• LinkedIn: https://www.linkedin.com/in/bcherny\n• Website:\
+  \ https://borischerny.com\n\n*Where to find Lenny:*\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\n*In this episode, we cover:*\n(00:00) Introduction to Boris and\
+  \ Claude Code\n(03:45) Why Boris briefly left Anthropic for Cursor (and what brought him back)\n(05:35) One year of Claude\
+  \ Code\n(08:41) The origin story of Claude Code\n(13:29) How fast AI is transforming software development\n(15:01) The importance\
+  \ of experimentation in AI innovation\n(16:17) Boris’s current coding workflow (100% AI-written)\n(17:32) The next frontier\n\
+  (22:24) The downside of rapid innovation \n(24:02) Principles for the Claude Code team\n(26:48) Why you should give engineers\
+  \ unlimited tokens\n(27:55) Will coding skills still matter in the future?\n(32:15) The printing press analogy for AI’s\
+  \ impact\n(36:01) Which roles will AI transform next?\n(40:41) Tips for succeeding in the AI era\n(44:37) Poll: Which roles\
+  \ are enjoying their jobs more with AI\n(46:32) The principle of latent demand in product development\n(51:53) How Cowork\
+  \ was built in just 10 days\n(54:04) The three layers of AI safety at Anthropic\n(59:35) Anxiety when AI agents aren’t working\n\
+  (01:02:25) Boris’s Ukrainian roots\n(01:03:21) Advice for building AI products\n(01:08:38) Pro tips for using Claude Code\
+  \ effectively\n(01:11:16) Thoughts on Codex\n(01:12:13) Boris’s post-AGI plans\n(01:14:02) Lightning round and final thoughts\n\
+  \n*Referenced:*\n• Cursor: https://cursor.com\n• The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using\
+  \ | Michael Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell\n• Anthropic:\
+  \ https://www.anthropic.com\n• Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram): https://www.lennysnewsletter.com/p/anthropics-cpo-heres-what-comes-next\n\
+  • Claude Code Is the Inflection Point: https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point\n• Spotify\
+  \ says its best developers haven’t written a line of code since December, thanks to AI: https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/\n\
+  • Anthropic co-founder on quitting OpenAI, AGI predictions, $100M talent wars, 20% unemployment, and the nightmare scenarios\
+  \ keeping him up at night | Ben Mann: https://www.lennysnewsletter.com/p/anthropic-co-founder-benjamin-mann\n• Haiku: https://www.anthropic.com/claude/haiku\n\
+  • Sonnet: https://www.anthropic.com/claude/sonnet\n• Opus: https://www.anthropic.com/claude/opus\n• Jenny Wen on X: https://x.com/jenny_wen\n\
+  • Johannes Gutenberg: https://en.wikipedia.org/wiki/Johannes_Gutenberg\n• Anthropic jobs: https://www.anthropic.com/careers/jobs\n\
+  • Lenny’s AI poll post on X: https://x.com/lennysan/status/2020266745722991051\n• Fiona Fung on LinkedIn: https://www.linkedin.com/in/fionafung\n\
+  • Brandon Kurkela on LinkedIn: https://www.linkedin.com/in/bkurkela\n• Cowork: https://www.anthropic.com/webinars/future-of-ai-at-work-introducing-cowork\n\
+  • Chris Olah on X: https://x.com/ch402\n• The Bitter Lesson: http://www.incompleteideas.net/IncIdeas/BitterLesson.html\n\
+  ...References continued at: https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens\n\n_Production and marketing\
+  \ by https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\nLenny may\
+  \ be an investor in the companies discussed."
+duration_seconds: 5265.0
+duration: '1:27:45'
+view_count: 414915
 channel: Lenny's Podcast
 keywords: []
 ---

@@ -1,13 +1,168 @@
 ---
-guest: "Zevi Arnovitz"
-title: ""
-youtube_url: ""
-video_id: ""
-publish_date: ""
-description: ""
-duration_seconds: 0
-duration: ""
-view_count: 0
+guest: Zevi Arnovitz
+title: How a Meta PM ships products without ever writing code | Zevi Arnovitz
+youtube_url: https://www.youtube.com/watch?v=1em64iUFt3U
+video_id: 1em64iUFt3U
+publish_date: '2026-01-18'
+description: 'Zevi Arnovitz is a product manager at Meta with no technical background who has figured out how to build and
+  ship real products using AI. His engineering team at Meta asks him to teach them how he does what he does. In this episode,
+  Zevi breaks down his complete AI workflow that allows non-technical people to build sophisticated products with Cursor.
+
+
+  *We discuss:*
+
+  1. The complete AI workflow that lets non-technical people build real products in Cursor
+
+  2. How to use multiple AI models for different tasks (Claude for planning, Gemini for UI)
+
+  3. Using slash commands to automate prompts
+
+  4. Zevi’s “peer review” technique, which uses different AI models to review each other’s code
+
+  5. Why this might be the best time to be a junior in tech, despite the challenging job market
+
+  6. How Zevi used AI to prepare for his Meta PM interviews
+
+
+  *Brought to you by:*
+
+  10Web—Vibe coding platform as an API: https://10web.io/lenny
+
+  DX—The developer intelligence platform designed by leading researchers: https://getdx.com/lenny
+
+  Framer—Build better websites faster: https://framer.com/lenny
+
+
+  *Zevi''s Slash Command Bank for Claude* https://zeviarnovitz.com/
+
+
+  *Episode transcript:* https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor
+
+  *Archive of all Lenny''s Podcast transcripts:*
+
+  https://www.dropbox.com/scl/fo/yxi4s2w998p1gvtpu4193/AMdNPR8AOw0lMklwtnC0TrQ?rlkey=j06x0nipoti519e0xgm23zsn9&st=ahz0fj11&dl=0
+
+
+  *Where to find Zevi Arnovitz:*
+
+  • X: https://x.com/ArnovitzZevi
+
+  • LinkedIn: https://www.linkedin.com/in/zev-arnovitz
+
+  • Slash commands and templates: https://zeviarnovitz.com
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Zevi Arnovitz
+
+  (04:48) Zevi’s background and journey into AI
+
+  (07:41) Overview of Zevi’s AI workflow
+
+  (14:41) Screenshare: Exploring Zevi’s workflow in detail
+
+  (17:18) Building a feature live: StudyMate app
+
+  (30:52) Executing the plan with Cursor
+
+  (38:32) Using multiple AI models for code review
+
+  (40:40) Personifying AI models
+
+  (43:37) Peer review process
+
+  (45:40) The importance of postmortems
+
+  (51:05) Integrating AI in large companies
+
+  (53:42) How AI has impacted the PM role
+
+  (57:02) How to improve AI outputs
+
+  (58:15) AI-assisted job interviews
+
+  (01:02:57) Failure corner
+
+  (01:06:20) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Becoming a super IC: Lessons from 12 years as a PM individual contributor | Tal Raviv (Product Lead at Riverside): https://www.lennysnewsletter.com/p/the-super-ic-pm-tal-raviv
+
+  • Wix: https://www.wix.com
+
+  • Building AI Apps: From Idea to Viral in 30 Days: https://www.youtube.com/watch?v=j2w4y7pDi8w
+
+  • Riley Brown on YouTube: https://www.youtube.com/channel/UCMcoud_ZW7cfxeIugBflSBw
+
+  • Greg Isenberg on YouTube: https://www.youtube.com/@GregIsenberg
+
+  • Bolt: https://bolt.new
+
+  • Inside Bolt: From near-death to ~$40m ARR in 5 months—one of the fastest-growing products in history | Eric Simons (founder
+  and CEO of StackBlitz): https://www.lennysnewsletter.com/p/inside-bolt-eric-simons
+
+  • Lovable: https://lovable.dev
+
+  • Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (co-founder and CEO): https://www.lennysnewsletter.com/p/building-lovable-anton-osika
+
+  • StudyMate: https://studymate.live
+
+  • Dibur2text: https://dibur2text.app
+
+  • Claude: https://claude.ai
+
+  • Everyone should be using Claude Code more: https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code
+
+  • Bun: https://bun.com
+
+  • Zustand: https://zustand.docs.pmnd.rs/getting-started/introduction
+
+  • Cursor: https://cursor.com
+
+  • The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell
+
+  • Wispr Flow: https://wisprflow.ai
+
+  • Linear: https://linear.app
+
+  • Linear’s secret to building beloved B2B products | Nan Yu (Head of Product): https://www.lennysnewsletter.com/p/linears-secret-to-building-beloved-b2b-products-nan-yu
+
+  • Cursor Composer: https://cursor.com/blog/composer
+
+  • Replit: https://replit.com
+
+  • Behind the product: Replit | Amjad Masad (co-founder and CEO): https://www.lennysnewsletter.com/p/behind-the-product-replit-amjad-masad
+
+  • Base44: https://base44.com
+
+  • Solo founder, $80M exit, 6 months: The Base44 bootstrapped startup success story | Maor Shlomo: https://www.lennysnewsletter.com/p/the-base44-bootstrapped-startup-success-story-maor-shlomo
+
+  • v0: https://v0.app
+
+  ...References continued at: https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
+duration_seconds: 4513.0
+duration: '1:15:13'
+view_count: 88921
 channel: Lenny's Podcast
 keywords: []
 ---

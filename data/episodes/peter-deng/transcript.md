@@ -1,12 +1,52 @@
 ---
 guest: Peter Deng
-title: Peter Deng
-youtube_url: ''
-video_id: ''
-description: ''
-duration_seconds: 0
-duration: 0:00
-view_count: 0
+title: 'From ChatGPT to Instagram to Uber: The quiet architect behind the world’s most popular products'
+youtube_url: https://www.youtube.com/watch?v=8TpakBfsmcQ
+video_id: 8TpakBfsmcQ
+publish_date: '2025-06-22'
+description: "Peter Deng has led product teams at OpenAI, Instagram, Uber, Facebook, Airtable, and Oculus and helped build\
+  \ products used by billions—including Facebook’s News Feed, the standalone Messenger app, Instagram filters, Uber Reserve,\
+  \ ChatGPT, and more. Currently he’s investing in early-stage founders at Felicis. In this episode, Peter dives into his\
+  \ most valuable lessons from building and scaling some of tech’s most iconic products and companies.\n\n*What you’ll learn:*\n\
+  1. Peter’s one‑sentence test for hiring superstars\n2. Why your product (probably) doesn’t matter\n3. Why you don’t need\
+  \ a tech breakthrough to build a huge business\n4. The five PM archetypes, and how to build a team of Avengers\n5. Counterintuitive\
+  \ lessons on growing products from 0 to 1, and 1 to 100\n6. The importance of data flywheels and workflows\n\n*Transcript:*\
+  \ https://www.lennysnewsletter.com/p/the-quiet-architect-peter-deng\n\n*Brought to you by:*\nParagon—Ship every SaaS integration\
+  \ your customers want: https://www.useparagon.com/lenny\nPragmatic Institute—Industry‑recognized product, marketing, and\
+  \ AI training and certifications: https://pragmaticinstitute.com/lenny\nContentsquare—Create better digital experiences:\
+  \ https://contentsquare.com/lenny/\n\n*Where to find Peter Deng:*\n• X: https://x.com/pxd\n• LinkedIn: https://www.linkedin.com/in/peterxdeng/\n\
+  \n*Where to find Lenny:*\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\n*In this episode, we cover:*\n(00:00) Introduction to Peter Deng\n(05:41)\
+  \ AI and AGI insights\n(11:35) The future of education with AI\n(16:53) The power of language in leadership\n(21:01) Building\
+  \ iconic products\n(36:44) Scaling from zero to 100\n(41:56) Balancing short- and long-term goals\n(47:12) Creating a healthy\
+  \ tension in teams\n(50:02) The five archetypes of product managers\n(55:39) Primary and secondary archetypes \n(58:47)\
+  \ Hiring for growth mindset and autonomy\n(01:15:52) Effective management and communication strategies\n(01:19:23) Presentation\
+  \ advice and self-advocacy\n(01:25:50) Balancing craft and practicality in product management\n(01:30:40) The importance\
+  \ of empathy in design thinking\n(01:35:45) Career decisions and learning opportunities\n(01:42:05) Lessons from product\
+  \ failures\n(01:45:42) Lightning round and final thoughts\n\n*Referenced:*\n• OpenAI: https://openai.com/\n• Artificial\
+  \ general intelligence (AGI): https://en.wikipedia.org/wiki/Artificial_general_intelligence\n• Head of ChatGPT answers philosophical\
+  \ questions about AI at SXSW 2024 with SignalFire’s Josh Constine: https://www.youtube.com/watch?v=mgbgI0R6XCw\n• Professors\
+  \ Are Using A.I., Too. Now What?: https://www.npr.org/2025/05/21/1252663599/kashmir-hill-ai#:~:text=Now%20What\n• Herbert\
+  \ H. Clark: https://web.stanford.edu/~clark/\n• Russian speakers get the blues: https://www.newscientist.com/article/dn11759-russian-speakers-get-the-blues/\n\
+  • Ilya Sutskever (OpenAI Chief Scientist)—Building AGI, Alignment, Future Models, Spies, Microsoft, Taiwan, & Enlightenment:\
+  \ https://www.dwarkesh.com/p/ilya-sutskever\n• Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram):\
+  \ https://www.lennysnewsletter.com/p/anthropics-cpo-heres-what-comes-next\n• Kevin Systrom on LinkedIn: https://www.linkedin.com/in/kevinsystrom/\n\
+  • Building a magical AI code editor used by over 1 million developers in four months: The untold story of Windsurf | Varun\
+  \ Mohan (co-founder and CEO): https://www.lennysnewsletter.com/p/the-untold-story-of-windsurf-varun-mohan\n• Microsoft CPO:\
+  \ If you aren’t prototyping with AI, you’re doing it wrong | Aparna Chennapragada: https://www.lennysnewsletter.com/p/microsoft-cpo-on-ai\n\
+  • The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell\n\
+  • Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder): https://www.lennysnewsletter.com/p/building-lovable-anton-osika\n\
+  • Granola: https://www.granola.ai/\n• Inside Bolt: From near-death to ~$40m ARR in 5 months—one of the fastest-growing products\
+  \ in history | Eric Simons (founder and CEO of StackBlitz): https://www.lennysnewsletter.com/p/inside-bolt-eric-simons\n\
+  • OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil (CPO at OpenAI, ex-Instagram,\
+  \ Twitter): https://www.lennysnewsletter.com/p/kevin-weil-open-ai\n• Fidji Simo on LinkedIn: https://www.linkedin.com/in/fidjisimo/\n\
+  • Airtable: https://www.airtable.com/\n• George Lee on LinkedIn: https://www.linkedin.com/in/geolee/\n• Andrew Chen on LinkedIn:\
+  \ https://www.linkedin.com/in/andrewchen/\n...References continued at: https://www.lennysnewsletter.com/p/the-quiet-architect-peter-deng\n\
+  \n_Production and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\
+  \nLenny may be an investor in the companies discussed."
+duration_seconds: 6929.0
+duration: '1:55:29'
+view_count: 86377
 channel: Lenny's Podcast
 keywords:
 - growth

@@ -1,13 +1,166 @@
 ---
-guest: "Jason Cohen"
-title: ""
-youtube_url: ""
-video_id: ""
-publish_date: ""
-description: ""
-duration_seconds: 0
-duration: ""
-view_count: 0
+guest: Jason Cohen
+title: The surprising advice from a founder who built 2 unicorns | Jason Cohen (WP Engine)
+youtube_url: https://www.youtube.com/watch?v=8xLquwfx6p0
+video_id: 8xLquwfx6p0
+publish_date: '2026-01-25'
+description: 'Jason Cohen is a four-time founder (including two unicorns, one being WP Engine) and an investor in over 60
+  startups, and has been sharing his lessons on company building at A Smart Bear for nearly 20 years. In this episode, Jason
+  shares his methodical five-step framework for diagnosing stalled growth—a problem that faces almost every team.
+
+
+  *We discuss:*
+
+  1. Jason’s five-step framework: logo retention, pricing, NRR, marketing channels, target market
+
+  2. A small tweak that’ll double response rates on your cancellation surveys
+
+  3. Why “it’s too expensive” is almost never the real reason customers cancel
+
+  4. The “elephant curve” of growth
+
+  5. How repositioning the same product can increase revenue 8x
+
+  6. When to reconsider if growth is even the right goal for your business
+
+
+  *Brought to you by:*
+
+  10Web—Vibe coding platform as an API: https://10web.io/lenny
+
+  Strella—The AI-powered customer research platform: https://strella.io/lenny
+
+  Brex—The banking solution for startups: https://www.brex.com/product/business-account?ref_code=bmk_dp_brand1H25_ln_new_fs
+
+
+  *Episode transcript:* https://www.lennysnewsletter.com/p/why-your-product-stopped-growing
+
+  *Archive of all Lenny''s Podcast transcripts:*
+
+  https://www.dropbox.com/scl/fo/yxi4s2w998p1gvtpu4193/AMdNPR8AOw0lMklwtnC0TrQ?rlkey=j06x0nipoti519e0xgm23zsn9&st=ahz0fj11&dl=0
+
+
+  *Where to find Jason Cohen:*
+
+  • Preorder Jason’s book: https://preorder.hiddenmultipliers.com/
+
+  • X: https://x.com/asmartbear
+
+  • LinkedIn: https://www.linkedin.com/in/jasoncohen
+
+  • Blog: https://longform.asmartbear.com
+
+  • Website: https://wpengine.com
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Jason Cohen
+
+  (05:19) Jason’s writing journey
+
+  (08:25) Questions to ask when your product stops growing
+
+  (18:17) Getting real customer feedback
+
+  (20:27) Analyzing cancellation reasons
+
+  (26:54) Onboarding and activation
+
+  (29:35) Quick summary
+
+  (35:46) Revisiting pricing strategies
+
+  (41:46) Positioning strategies
+
+  (47:52) Why pricing is inseparable from your strategy
+
+  (52:06) The importance of net revenue retention (NRR)
+
+  (01:00:25) Asking whether or not this is good for the customer
+
+  (01:04:34) Leveraging existing customers
+
+  (01:06:42) Are your acquisition channels saturated? The “elephant curve”
+
+  (1:09:41) Why all marketing channels eventually decline
+
+  (01:12:04) Direct vs. indirect marketing channels
+
+  (1:13:36) Getting creative with new channels
+
+  (01:19:04) Do you actually need to grow?
+
+  (01:25:57) Deciding when to quit
+
+  (01:29:27) Book announcement
+
+  (01:33:21) AI corner
+
+  (01:34:35) Contrarian corner
+
+  (01:37:43) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Tyler Cowen’s website: https://tylercowen.com
+
+  • How to Perform a Customer Churn Analysis (and Why You Should): https://www.groovehq.com/blog/learn-from-customer-churn
+
+  • Linear: https://linear.app
+
+  • Jira: https://www.atlassian.com/software/jira
+
+  • Patrick Campbell’s post on X about pricing: https://x.com/Patticus/status/1702313260547006942
+
+  • The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher): https://www.lennysnewsletter.com/p/the-art-and-science-of-pricing-madhavan
+
+  • Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam: https://www.lennysnewsletter.com/p/pricing-and-scaling-your-ai-product-madhavan-ramanujam
+
+  • Pricing your SaaS product: https://www.lennysnewsletter.com/p/saas-pricing-strategy
+
+  • M&A, competition, pricing, and investing | Julia Schottenstein (dbt Labs): https://www.lennysnewsletter.com/p/m-and-a-competition-pricing-and-investing
+
+  • “Sell the alpha, not the feature”: The enterprise sales playbook for $1M to $10M ARR | Jen Abel: https://www.lennysnewsletter.com/p/the-enterprise-sales-playbook-1m-to-10m-arr
+
+  • Buffer: https://buffer.com
+
+  • AG1: https://drinkag1.com
+
+  • How to find hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com): https://www.lennysnewsletter.com/p/how-to-find-hidden-growth-opportunities-albert-cheng
+
+  • How Duolingo reignited user growth: https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth
+
+  • The Elephant in the room: The myth of exponential hypergrowth: https://longform.asmartbear.com/exponential-growth
+
+  • HubSpot: https://www.hubspot.com
+
+  • Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO): https://www.lennysnewsletter.com/p/lessons-from-30-years-of-building
+
+  • Adjacency Matrix: How to expand after PMF: https://longform.asmartbear.com/adjacency/
+
+  ...References continued at: https://www.lennysnewsletter.com/p/why-your-product-stopped-growing
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
+duration_seconds: 6364.0
+duration: '1:46:04'
+view_count: 22066
 channel: Lenny's Podcast
 keywords: []
 ---

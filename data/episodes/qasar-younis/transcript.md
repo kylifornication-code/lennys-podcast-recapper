@@ -1,13 +1,169 @@
 ---
-guest: "Qasar Younis"
-title: ""
-youtube_url: ""
-video_id: ""
-publish_date: ""
-description: ""
-duration_seconds: 0
-duration: ""
-view_count: 0
+guest: Qasar Younis
+title: The real AI revolution isn’t software. It’s farms, mines, and trucks. | Qasar Younis
+youtube_url: https://www.youtube.com/watch?v=_rcniEb9bLw
+video_id: _rcniEb9bLw
+publish_date: '2026-03-08'
+description: 'Qasar Younis is the co-founder and CEO of Applied Intuition, a $15 billion AI company that adds intelligence
+  to cars, tractors, planes, submarines, and other vehicles—essentially, Tesla or Waymo without the hardware. He was previously
+  COO of Y Combinator, started his career as an engineer at GM and Bosch, and was born on a farm in Pakistan.
+
+
+  *We discuss:*
+
+  1. Why the biggest AI revolution will play out in mining, farming, construction, and trucking over the next 5 to 10 years,
+  not in software
+
+  2. Why Qasar intentionally stayed under the radar for nearly a decade while building Applied Intuition, and why most founders
+  shouldn’t do that
+
+  3. The truth about China’s AI capabilities and why comparisons to American companies are fundamentally flawed
+
+  4. The company values that drive Applied Intuition: speed above everything, laugh a lot, half the work is follow-up, never
+  disappoint the customer
+
+  5. The biggest lessons from Qasar’s stint as YC’s COO, including that the most successful companies show traction very early
+
+  6. How reading old books is the best way to build taste
+
+
+  *Brought to you by:*
+
+  Omni—AI analytics your customers can trust: https://omni.co/lenny
+
+  Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+  Lovable—Build apps by simply chatting with AI: https://lovable.dev/
+
+
+  *Episode transcript:* https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of
+
+
+  *Archive of all Lenny''s Podcast transcripts:* https://www.dropbox.com/scl/fo/yxi4s2w998p1gvtpu4193/AMdNPR8AOw0lMklwtnC0TrQ?rlkey=j06x0nipoti519e0xgm23zsn9&st=ahz0fj11&dl=0
+
+
+  *Where to find Qasar Younis:*
+
+  • X: https://x.com/qasar
+
+  • LinkedIn: https://www.linkedin.com/in/qasar
+
+  • Website: https://qy.co
+
+  • Reading list: https://qy.co/books
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Qasar and Applied Intuition
+
+  (04:01) The optimistic vision: How AI will create abundance
+
+  (08:49) Why anxiety about AI comes from misunderstanding—and how to fight fear with knowledge
+
+  (12:58) The market sell-off explained
+
+  (16:31) Self-driving cars: Why 30,000 annual deaths prove we need autonomy now
+
+  (20:22) The spectrum of physical AI
+
+  (28:00) How AI is coming just in time
+
+  (33:26) Why comparing Chinese AI companies to American AI companies is a category error
+
+  (39:12) Why Qasar finally joined Twitter after staying silent for a decade
+
+  (45:08) Why successful companies almost always show early signs of traction
+
+  (50:40) Applied Intuition’s core values
+
+  (56:00) Why the company cleans its own office—and never spent a dollar of raised capital
+
+  (58:50) Quasar’s reading philosophy
+
+  (01:06:14) How to operationalize listening to naysayers
+
+  (01:12:53) The importance of decisiveness
+
+  (01:14:55) Removing emotions from decisions
+
+  (01:19:02) Why most Silicon Valley CEOs don’t have great taste—and how to develop it
+
+
+  *Referenced:*
+
+  • Applied Intuition: https://www.appliedintuition.com
+
+  • Marc Andreessen: The real AI boom hasn’t even started yet: https://www.lennysnewsletter.com/p/marc-andreessen-the-real-ai-boom
+
+  • Elad Gil’s website: https://eladgil.com
+
+  • Bosch: https://www.bosch.com
+
+  • Berkshire Hathaway: https://www.berkshirehathaway.com
+
+  • Naval Ravikant on X: https://x.com/naval
+
+  • Y Combinator: https://www.ycombinator.com
+
+  • Waymo: https://waymo.com/
+
+  • Tesla: https://www.tesla.com
+
+  • DeepSeek: https://www.deepseek.com
+
+  • Rivian: https://rivian.com
+
+  • Crate & Barrel: https://www.crateandbarrel.com
+
+  • OpenClaw: https://openclaw.ai
+
+  • Sam Altman on X: https://x.com/sama
+
+  • Peter Ludwig on LinkedIn: https://www.linkedin.com/in/peterwludwig
+
+  • What Steve Jobs really meant when he said ‘Good artists copy; great artists steal’: https://www.cnet.com/tech/tech-industry/what-steve-jobs-really-meant-when-he-said-good-artists-copy-great-artists-steal
+
+  • 7 quotes on the power of reading from Charlie Munger: https://www.neil.blog/articles/7-quotes-power-reading-charlie-munger
+
+  • Andreessen Horowitz: https://a16z.com
+
+  • John Doerr on LinkedIn: https://www.linkedin.com/in/john-doerr-03248211
+
+  • Gandhi’s quote: https://www.azquotes.com/author/5308-Mahatma_Gandhi/tag/truth#google_vignette
+
+  • Steve Ballmer on X: https://x.com/Steven_Ballmer
+
+  • General Motors: https://www.gm.com
+
+
+  *Recommended books:*
+
+  • House of Huawei: The Secret History of China’s Most Powerful Company: https://www.amazon.com/House-Huawei-History-Powerful-Company/dp/0593544633
+
+  • Maintenance: Of Everything, Part One: https://press.stripe.com/maintenance-part-one
+
+  ...References continued at: https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of⁠
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
+duration_seconds: 5064.0
+duration: '1:24:24'
+view_count: 28190
 channel: Lenny's Podcast
 keywords: []
 ---
