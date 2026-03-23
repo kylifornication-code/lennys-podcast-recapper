@@ -17,10 +17,12 @@ A consolidated repository for working with [Lenny's Podcast](https://www.youtube
 │       ├── README.md
 │       └── {topic}.md
 ├── scripts/
-│   ├── sync-dropbox.sh      # Download latest transcripts from Dropbox
-│   ├── ingest-transcripts.sh # Convert raw .txt → structured episodes
-│   └── build-index.sh       # Regenerate the topic index
-├── CLAUDE.md                # AI assistant guidance
+│   ├── sync-dropbox.sh        # Download latest transcripts from Dropbox
+│   ├── ingest-transcripts.sh  # Convert raw .txt → structured episodes
+│   ├── enrich-metadata.py     # Fill in YouTube metadata for new episodes
+│   └── build-index.sh        # Regenerate the topic index
+├── requirements.txt           # Python dependencies
+├── CLAUDE.md                  # AI assistant guidance
 └── README.md
 ```
 
@@ -74,15 +76,17 @@ A GitHub Actions workflow (`.github/workflows/daily-sync.yml`) runs daily at 6 A
 
 1. **sync-dropbox.sh** -- Downloads the latest `.txt` files from the shared Dropbox folder into `data/raw-transcripts/`
 2. **ingest-transcripts.sh** -- Converts any new raw transcripts into structured `data/episodes/{slug}/transcript.md` with YAML frontmatter
-3. If new episodes were added, the workflow commits and pushes automatically
+3. **enrich-metadata.py** -- Searches the YouTube Data API for each episode missing metadata, filling in title, URL, publish date, duration, view count, and description
+4. If anything changed, the workflow commits and pushes automatically
 
 The workflow can also be triggered manually from the Actions tab.
 
 ### Setup
 
-To enable the pipeline, add this repository secret in GitHub Settings > Secrets:
+To enable the pipeline, add these repository secrets in GitHub Settings > Secrets:
 
 - `DROPBOX_URL` -- The Dropbox shared folder download URL (with `dl=1`)
+- `YOUTUBE_API_KEY` -- A YouTube Data API v3 key ([get one here](https://console.cloud.google.com/apis/credentials))
 
 The `build-index.sh` script (which generates keyword tags via Claude CLI) can be run separately after new episodes are ingested. It requires an `ANTHROPIC_API_KEY` and the `claude` CLI to be available.
 

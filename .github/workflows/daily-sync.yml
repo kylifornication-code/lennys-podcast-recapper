@@ -16,6 +16,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
       - name: Download latest transcripts from Dropbox
         run: bash scripts/sync-dropbox.sh
         env:
@@ -23,6 +31,11 @@ jobs:
 
       - name: Ingest new transcripts into episodes
         run: bash scripts/ingest-transcripts.sh
+
+      - name: Enrich episodes with YouTube metadata
+        run: python3 scripts/enrich-metadata.py
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
       - name: Check for changes
         id: changes
@@ -32,14 +45,14 @@ jobs:
             echo "has_changes=false" >> "$GITHUB_OUTPUT"
           else
             echo "has_changes=true" >> "$GITHUB_OUTPUT"
-            echo "New transcripts detected:"
+            echo "Changes detected:"
             git diff --cached --name-only
           fi
 
-      - name: Commit and push new episodes
+      - name: Commit and push updates
         if: steps.changes.outputs.has_changes == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: sync new transcripts from Dropbox ($(date +%Y-%m-%d))"
+          git commit -m "chore: sync and enrich transcripts ($(date +%Y-%m-%d))"
           git push

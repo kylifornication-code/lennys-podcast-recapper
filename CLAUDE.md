@@ -21,6 +21,7 @@ This is a consolidated repository for Lenny's Podcast Recapper, containing 303+ 
 ├── scripts/
 │   ├── sync-dropbox.sh          # Download latest transcripts from Dropbox
 │   ├── ingest-transcripts.sh    # Convert raw .txt → structured episodes
+│   ├── enrich-metadata.py       # Fill in YouTube metadata via API
 │   └── build-index.sh           # Regenerate the topic index (uses Claude CLI)
 └── .github/workflows/
     └── daily-sync.yml           # Daily automated pipeline
@@ -86,16 +87,18 @@ A daily GitHub Actions workflow keeps transcripts up to date:
 
 1. `scripts/sync-dropbox.sh` -- Downloads new `.txt` files from the Dropbox shared folder into `data/raw-transcripts/`
 2. `scripts/ingest-transcripts.sh` -- Converts any new raw transcripts into structured episodes under `data/episodes/`
-3. Commits and pushes if there are changes
+3. `scripts/enrich-metadata.py` -- Searches YouTube for episodes missing metadata and fills in title, URL, publish date, duration, view count, and description
+4. Commits and pushes if there are changes
 
 All scripts are idempotent and safe to run repeatedly.
 
 ### Running scripts manually
 
 ```bash
-./scripts/sync-dropbox.sh         # Download from Dropbox
-./scripts/ingest-transcripts.sh   # Convert raw → episodes
-./scripts/build-index.sh          # Rebuild topic index (requires Claude CLI)
+./scripts/sync-dropbox.sh                              # Download from Dropbox
+./scripts/ingest-transcripts.sh                        # Convert raw → episodes
+YOUTUBE_API_KEY=key python3 scripts/enrich-metadata.py # Enrich from YouTube
+./scripts/build-index.sh                               # Rebuild topic index (requires Claude CLI)
 ```
 
 ## Rebuilding the Index
@@ -106,14 +109,13 @@ All scripts are idempotent and safe to run repeatedly.
 
 This calls Claude CLI for each episode to generate keywords. The script is idempotent - it skips episodes already present in keyword files, so it can be run multiple times safely.
 
-## Adding Publication Dates
+## Enriching Episode Metadata
 
-All episodes should include `publish_date` in ISO 8601 format (YYYY-MM-DD). To fetch the publication date for a new episode:
+Episodes ingested from raw transcripts initially have only the `guest` field populated. The `scripts/enrich-metadata.py` script fills in the remaining metadata from the YouTube Data API:
 
-1. Use the `video_id` from the transcript's frontmatter
-2. Call the YouTube Data API v3:
-   ```
-   https://www.googleapis.com/youtube/v3/videos?part=snippet&id={video_id}&key={API_KEY}
-   ```
-3. Extract `snippet.publishedAt` from the response
-4. Add `publish_date: YYYY-MM-DD` to the frontmatter after `video_id`
+- Searches Lenny's Podcast channel (ID: `UC6t1O76G0jYXOAoYCm153dA`) by guest name
+- Fills in: title, youtube_url, video_id, publish_date, description, duration_seconds, duration, view_count
+- Skips episodes that already have a `video_id`
+- Supports `--dry-run` to preview changes without writing
+
+Requires `YOUTUBE_API_KEY` environment variable. Get a key from the [Google Cloud Console](https://console.cloud.google.com/apis/credentials).
