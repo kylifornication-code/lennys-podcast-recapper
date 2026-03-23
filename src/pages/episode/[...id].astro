@@ -3,6 +3,9 @@ import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
+import { formatYoutubeDescriptionHtml } from '../../lib/format-youtube-description';
+import { parseGuestSocialLinks } from '../../lib/parse-guest-social-links';
+import EpisodeWatchFollowCard from '../../components/EpisodeWatchFollowCard.astro';
 
 export async function getStaticPaths() {
   const episodes = await getCollection('episodes');
@@ -17,17 +20,24 @@ export async function getStaticPaths() {
 const { episode } = Astro.props;
 const { Content } = await render(episode);
 const d = episode.data;
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 
 const displayTitle = d.title || `Episode with ${d.guest}`;
-const formattedDate = d.publish_date
-  ? new Date(d.publish_date + 'T00:00:00').toLocaleDateString('en-US', {
+const parsedDate = d.publish_date ? new Date(d.publish_date.length === 10 ? d.publish_date + 'T00:00:00' : d.publish_date) : null;
+const formattedDate = parsedDate && !isNaN(parsedDate.getTime())
+  ? parsedDate.toLocaleDateString('en-US', {
       month: 'long',
       day: 'numeric',
       year: 'numeric',
     })
   : '';
 const formattedViews = d.view_count ? d.view_count.toLocaleString('en-US') : '';
+
+const youtubeDescription = (d.description ?? '').trim();
+const youtubeDescriptionHtml = youtubeDescription ? formatYoutubeDescriptionHtml(youtubeDescription) : '';
+const guestSocialLinks = youtubeDescription ? parseGuestSocialLinks(youtubeDescription) : [];
+const showAsideColumn =
+  Boolean(youtubeDescription) || Boolean(d.youtube_url) || guestSocialLinks.length > 0;
 ---
 
 <Base title={`${displayTitle} | Lenny's Podcast Recapper`} description={d.description?.slice(0, 160)}>
@@ -73,13 +83,41 @@ const formattedViews = d.view_count ? d.view_count.toLocaleString('en-US') : '';
         </div>
       )}
 
-      {d.youtube_url && (
-        <a href={d.youtube_url} target="_blank" rel="noopener" class="episode-youtube">
+      {!showAsideColumn && d.youtube_url && (
+        <a href={d.youtube_url} target="_blank" rel="noopener" class="episode-youtube episode-youtube--header">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
           Watch on YouTube
         </a>
       )}
     </div>
+
+    <section class="episode-page-search" aria-label="Search on this page">
+      <div class="episode-page-search-row">
+        <div class="search-wrapper episode-page-search-wrapper">
+          <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="8" /><path d="m21 21-4.3-4.3" />
+          </svg>
+          <input
+            type="search"
+            class="search-input"
+            id="episode-transcript-search-input"
+            placeholder="Search this transcript…"
+            autocomplete="off"
+            enterkeyhint="search"
+            aria-label="Search transcript and episode description on this page"
+          />
+        </div>
+        <div class="episode-page-search-controls">
+          <span id="episode-transcript-search-count" class="episode-page-search-count" aria-live="polite"></span>
+          <button type="button" class="episode-page-search-btn" id="episode-transcript-search-prev" aria-label="Previous match" disabled>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m18 15-6-6-6 6"/></svg>
+          </button>
+          <button type="button" class="episode-page-search-btn" id="episode-transcript-search-next" aria-label="Next match" disabled>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+          </button>
+        </div>
+      </div>
+    </section>
 
     {d.video_id && (
       <div class="episode-video">
@@ -92,13 +130,31 @@ const formattedViews = d.view_count ? d.view_count.toLocaleString('en-US') : '';
       </div>
     )}
 
-    <div class="episode-transcript">
-      <h2>Transcript</h2>
-      <div class="transcript-content">
-        <Content />
+    <div class:list={['episode-transcript-layout', { 'episode-transcript-layout--solo': !showAsideColumn }]}>
+      <div class="episode-transcript" data-pagefind-body data-pagefind-meta={`slug:${episode.id}`}>
+        <h2 data-pagefind-ignore>Transcript</h2>
+        <div class="transcript-content">
+          <Content />
+        </div>
       </div>
+
+      {showAsideColumn && (
+        <div class="episode-aside-column">
+          <EpisodeWatchFollowCard youtubeUrl={d.youtube_url} socialLinks={guestSocialLinks} />
+          {youtubeDescription && (
+            <aside class="episode-description-card" data-pagefind-ignore aria-label="YouTube description">
+              <h3 class="episode-description-heading">About this episode</h3>
+              <div class="episode-description-scroll">
+                <div class="episode-description-text" set:html={youtubeDescriptionHtml} />
+              </div>
+            </aside>
+          )}
+        </div>
+      )}
     </div>
   </main>
 
   <Footer />
+
+  <script src="../../scripts/transcript-search.ts"></script>
 </Base>

@@ -12,7 +12,14 @@ const episodes = defineCollection({
     title: z.string().default(''),
     video_id: z.string().default(''),
     youtube_url: z.string().default(''),
-    publish_date: z.coerce.string().default(''),
+    publish_date: z.preprocess(
+      (val) => {
+        if (val instanceof Date) return val.toISOString().split('T')[0];
+        if (typeof val === 'string') return val;
+        return '';
+      },
+      z.string().default(''),
+    ),
     description: z.string().default(''),
     duration_seconds: z.number().default(0),
     duration: z.string().default(''),

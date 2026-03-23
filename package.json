@@ -4,11 +4,14 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && pagefind --site dist",
     "preview": "astro preview"
   },
   "dependencies": {
     "astro": "^5.7.0",
     "fuse.js": "^7.1.0"
+  },
+  "devDependencies": {
+    "pagefind": "^1.4.0"
   }
 }

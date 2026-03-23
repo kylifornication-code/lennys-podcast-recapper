@@ -5,7 +5,7 @@ interface Props {
 }
 
 const { title, description = "Explore 300+ episodes of Lenny's Podcast with search, filtering, and full transcripts." } = Astro.props;
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 ---
 
 <!doctype html>

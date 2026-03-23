@@ -8,6 +8,7 @@ import EpisodeCard from '../components/EpisodeCard.astro';
 import Footer from '../components/Footer.astro';
 
 const allEpisodes = await getCollection('episodes');
+const pagefindBase = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 
 const episodes = allEpisodes
   .map((ep) => ({
@@ -97,5 +98,12 @@ const episodesJson = JSON.stringify(
   <Footer />
 
   <script type="application/json" id="episodes-data" set:html={episodesJson} />
+  <Fragment set:html={`<script type="module">
+    try {
+      const pf = await import('${pagefindBase}pagefind/pagefind.js');
+      window.__pagefind = pf;
+      pf.init();
+    } catch(e) {}
+  </script>`} />
   <script src="../scripts/search.ts"></script>
 </Base>

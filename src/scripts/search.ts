@@ -42,15 +42,76 @@ allCards.forEach((card) => {
   if (slug) cardMap.set(slug, card);
 });
 
+const episodeMap = new Map<string, Episode>();
+episodes.forEach((ep) => episodeMap.set(ep.slug, ep));
+
 let activeTopics = new Set<string>();
 let currentSearch = '';
 let currentSort = 'newest';
+let pagefindSlugs = new Set<string>();
+let pagefindExcerpts = new Map<string, string>();
+let pagefindReady = false;
+let pagefindInstance: any = null;
+
+async function initPagefind() {
+  if ((window as any).__pagefind) {
+    pagefindInstance = (window as any).__pagefind;
+    pagefindReady = true;
+    return;
+  }
+  for (let i = 0; i < 200; i++) {
+    await new Promise((r) => setTimeout(r, 100));
+    if ((window as any).__pagefind) {
+      pagefindInstance = (window as any).__pagefind;
+      pagefindReady = true;
+      return;
+    }
+  }
+}
+initPagefind();
+
+async function searchTranscripts(query: string): Promise<void> {
+  pagefindSlugs.clear();
+  pagefindExcerpts.clear();
+
+  if (!pagefindReady || !pagefindInstance || !query) return;
+
+  try {
+    const search = await Promise.race([
+      pagefindInstance.search(query),
+      new Promise<never>((_, reject) => setTimeout(() => reject('timeout'), 30000)),
+    ]);
+    const top = search.results.slice(0, 50);
+    const loaded = await Promise.all(top.map((r: any) => r.data()));
+
+    for (const hit of loaded) {
+      const slug = hit.meta?.slug;
+      if (slug && cardMap.has(slug)) {
+        pagefindSlugs.add(slug);
+        if (hit.excerpt) {
+          pagefindExcerpts.set(slug, hit.excerpt);
+        }
+      }
+    }
+  } catch {
+    // Pagefind unavailable or timeout
+  }
+}
 
 function getFilteredSlugs(): string[] {
   let pool = episodes;
 
   if (currentSearch) {
-    pool = fuse.search(currentSearch).map((r) => r.item);
+    const fuseResults = fuse.search(currentSearch).map((r) => r.item);
+    const fuseSlugs = new Set(fuseResults.map((ep) => ep.slug));
+
+    for (const slug of pagefindSlugs) {
+      if (!fuseSlugs.has(slug)) {
+        const ep = episodeMap.get(slug);
+        if (ep) fuseResults.push(ep);
+      }
+    }
+    pool = fuseResults;
   }
 
   if (activeTopics.size > 0) {
@@ -88,6 +149,18 @@ function render() {
   allCards.forEach((card) => {
     const slug = card.getAttribute('data-slug')!;
     card.style.display = visibleSet.has(slug) ? '' : 'none';
+
+    const excerptEl = card.querySelector('.card-excerpt') as HTMLElement | null;
+    if (excerptEl) {
+      const excerpt = pagefindExcerpts.get(slug);
+      if (excerpt && visibleSet.has(slug) && currentSearch) {
+        excerptEl.innerHTML = excerpt;
+        excerptEl.style.display = '';
+      } else {
+        excerptEl.innerHTML = '';
+        excerptEl.style.display = 'none';
+      }
+    }
   });
 
   visibleSlugs.forEach((slug, i) => {
@@ -98,7 +171,10 @@ function render() {
   const total = episodes.length;
   const shown = visibleSlugs.length;
   if (currentSearch || activeTopics.size > 0) {
-    searchCount.textContent = `Showing ${shown} of ${total} episodes`;
+    const transcriptNote = currentSearch && pagefindSlugs.size > 0
+      ? ` (includes transcript matches)`
+      : '';
+    searchCount.textContent = `Showing ${shown} of ${total} episodes${transcriptNote}`;
   } else {
     searchCount.textContent = '';
   }
@@ -112,10 +188,18 @@ function render() {
 let debounceTimer: ReturnType<typeof setTimeout>;
 searchInput.addEventListener('input', () => {
   clearTimeout(debounceTimer);
-  debounceTimer = setTimeout(() => {
+  debounceTimer = setTimeout(async () => {
     currentSearch = searchInput.value.trim();
     render();
-  }, 200);
+
+    if (currentSearch && pagefindReady) {
+      await searchTranscripts(currentSearch);
+      render();
+    } else {
+      pagefindSlugs.clear();
+      pagefindExcerpts.clear();
+    }
+  }, 250);
 });
 
 sortSelect.addEventListener('change', () => {
@@ -185,7 +269,12 @@ function restoreFromHash() {
     sortSelect.value = sort;
   }
 
-  render();
+  (async () => {
+    if (currentSearch && pagefindReady) {
+      await searchTranscripts(currentSearch);
+    }
+    render();
+  })();
 }
 
 restoreFromHash();

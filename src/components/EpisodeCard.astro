@@ -12,13 +12,14 @@ interface Props {
 }
 
 const { slug, guest, title, video_id, publish_date, description, duration, view_count, keywords } = Astro.props;
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const episodeUrl = `${base}episode/${slug}/`;
 const thumbUrl = video_id ? `https://img.youtube.com/vi/${video_id}/mqdefault.jpg` : '';
 const displayTitle = title || `Episode with ${guest}`;
 const shortDesc = description ? description.slice(0, 160) : '';
-const formattedDate = publish_date
-  ? new Date(publish_date + 'T00:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
+const parsedDate = publish_date ? new Date(publish_date.length === 10 ? publish_date + 'T00:00:00' : publish_date) : null;
+const formattedDate = parsedDate && !isNaN(parsedDate.getTime())
+  ? parsedDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
   : '';
 const formattedViews = view_count ? view_count.toLocaleString('en-US') : '';
 ---
@@ -62,5 +63,6 @@ const formattedViews = view_count ? view_count.toLocaleString('en-US') : '';
         ))}
       </div>
     )}
+    <div class="card-excerpt" style="display:none;"></div>
   </div>
 </a>

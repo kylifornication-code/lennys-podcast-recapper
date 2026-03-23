@@ -46,6 +46,24 @@ for txt_file in "$RAW_DIR"/*.txt; do
         continue
     fi
 
+    # Duplicate detection: check if any existing episode already has identical
+    # first transcript line (catches same episode under a different slug)
+    first_line=$(head -1 "$txt_file")
+    is_dup=false
+    for existing in "$EPISODES_DIR"/*/transcript.md; do
+        [[ -f "$existing" ]] || continue
+        existing_first=$(sed '1,/^---$/d; /^---$/,$ { /^---$/d; /^$/d; p; }' "$existing" | head -1)
+        if [[ -n "$first_line" && "$first_line" == "$existing_first" ]]; then
+            echo "Skipping duplicate: $slug (matches $(dirname "$existing" | xargs basename))"
+            is_dup=true
+            break
+        fi
+    done
+    if $is_dup; then
+        ((SKIPPED++)) || true
+        continue
+    fi
+
     echo "Creating episode: $slug (from $basename_no_ext)"
 
     # Extract guest name from first speaker line (format: "Name (HH:MM:SS):")
