@@ -27,7 +27,10 @@ fi
 
 echo "Extracting archive..."
 mkdir -p "$EXTRACT_DIR"
-unzip -q -o "$ZIP_FILE" -d "$EXTRACT_DIR"
+# Use Python instead of unzip: Dropbox zips often trigger Info-ZIP "mapname:
+# conversion of failed" and exit code 2 on absolute-path entries.
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+python3 "$SCRIPT_DIR/extract-transcripts-zip.py" "$ZIP_FILE" "$EXTRACT_DIR"
 
 # Find all .txt files (may be nested in a subdirectory)
 mkdir -p "$RAW_DIR"
