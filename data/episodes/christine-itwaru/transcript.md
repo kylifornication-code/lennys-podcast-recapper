@@ -4,11 +4,38 @@ title: Understanding the role of product ops | Christine Itwaru (Pendo)
 youtube_url: https://www.youtube.com/watch?v=tGS-NhxrN_Q
 video_id: tGS-NhxrN_Q
 publish_date: 2023-02-16
-description: 'Christine Itwaru is a longtime product operations leader at Pendo and
-  more recently has taken on the larger role of Principal Strategist there. Before
-  leading product ops, Christine spent 12...
-
-  '
+description: "Christine Itwaru is a longtime product operations leader at Pendo and more recently has taken on the larger\
+  \ role of Principal Strategist there. Before leading product ops, Christine spent 12 years in product management. In this\
+  \ episode, we delve into the rapidly growing field of product ops and discover how Christine is part of shaping the role\
+  \ industry-wide. She helps us define the role of product operations, what kind of person would be a good fit for the product\
+  \ ops role, when your company would benefit from product ops, and what red flags to look for if you decide to go down this\
+  \ path. \n\n—\n\nBrought to you by Amplitude—Build better products: https://amplitude.com/ | Lenny’s Job Board—Hire the\
+  \ best product people. Find the best product gigs: https://www.lennysjobs.com/talent | Vanta—Automate compliance. Simplify\
+  \ security: https://vanta.com/lenny\n\nFind the full transcript here: https://www.lennyspodcast.com/understanding-the-role-of-product-ops-christine-itwaru-pendo/#transcript\n\
+  \nWhere to find Christine Itwaru:\n• Twitter: https://twitter.com/christineitwaru\n• LinkedIn: https://www.linkedin.com/in/christineitwaru/\n\
+  • Website: https://theproductheart.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter:\
+  \ https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nReferenced:\n• Ben Williams on\
+  \ Lenny’s Podcast: https://www.podpage.com/lennys-podcast/how-snyk-built-a-product-led-growth-juggernaut-ben-williams-vp-of-product-at-snyk/\n\
+  • Pendo: https://go.pendo.io/\n• Marty Cagan on Lenny’s Podcast: https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/\n\
+  • Salesforce: https://www.salesforce.com/\n• Looker: https://www.looker.com/\n• Tray: https://tray.io/\n• Zapier: https://zapier.com/\n\
+  • Zendesk: https://www.zendesk.com/\n• Casey Winters on Lenny’s Podcast: https://www.lennyspodcast.com/how-to-sell-your-ideas-and-rise-within-your-company-casey-winters-eventbrite/\n\
+  • Inspired: How to Create Tech Products Customers Love: https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/\n\
+  • Leaders Eat Last: Why Some Teams Pull Together and Others Don’t: https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/1591848016/\n\
+  • The Product-Led Organization: Drive Growth by Putting Product at the Center of Your Customer Experience: https://www.amazon.com/Product-Led-Organization-Putting-Customer-Experience/dp/1119660874\n\
+  • Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty: https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/149197172X/\n\
+  • The Product Experience podcast: https://www.mindtheproduct.com/the-product-experience/\n• Matilda the Musical: https://www.imdb.com/title/tt3447590/\n\
+  • Rise on Disney+: https://www.disneyplus.com/movies/rise/6Yv1uRnw2uAJ\n• Miro: https://miro.com/\n• Figma: https://www.figma.com/\n\
+  • Seismic: https://seismic.com/\n• Gong: https://www.gong.io/\n\nIn this episode, we cover:\n(00:00) Christine’s background\
+  \ \n(02:34) How working with Ben Williams led Christine to Lenny’s Podcast\n(05:02) The role of product ops in product management\n\
+  (07:31) How 2019 became “the summer of product ops”\n(11:19) The different ways product ops can assist product teams\n(15:50)\
+  \ How Pendo used product ops to bring teams together and share data\n(18:15) Where user research fits in \n(22:39) How product\
+  \ ops are being utilized—and not exclusively in B2B companies\n(24:47) How to convince a product leader that you need product\
+  \ ops\n(27:41) Why customer experience is the core of a PM’s role\n(29:47) Who is doing the work of the product ops person\
+  \ before that role is created\n(31:37) Christine’s response to Casey Winters’s take on ops teams\n(37:40) Signs your company\
+  \ could benefit from a product ops team\n(30:56) How a lack of transparency led to Pendo adding product ops\n(46:11) The\
+  \ line between product ops and product marketing\n(47:30) Who might be a good fit for a product ops role\n(53:39) Red flags\
+  \ for product ops roles (that apply to any role) \n(54:08) How product teams are structured at Pendo\n(57:18) Lightning\
+  \ round\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 4000.0
 duration: '1:06:40'
 view_count: 8973

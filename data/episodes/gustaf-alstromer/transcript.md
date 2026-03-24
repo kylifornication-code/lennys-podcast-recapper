@@ -1,15 +1,46 @@
 ---
 guest: Gustaf Alstromer
-title: Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator,
-  Airbnb)
+title: Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)
 youtube_url: https://www.youtube.com/watch?v=ZoKLofsp8u0
 video_id: ZoKLofsp8u0
 publish_date: 2023-03-02
-description: 'Gustaf Alströmer is a Group Partner at Y Combinator, where he has worked
-  with over 600 startups. He’s also a fellow Airbnb alumnus and even started the original
-  Airbnb growth team. In today’s...
-
-  '
+description: "Gustaf Alströmer is a Group Partner at Y Combinator, where he has worked with over 600 startups. He’s also a\
+  \ fellow Airbnb alumnus and even started the original Airbnb growth team. In today’s podcast, Gustaf discusses common reasons\
+  \ startups fail and how he helps coach founders on avoiding these mistakes. He explains the attributes that the best founders\
+  \ tend to have, and signs that a company has potential. We also cover the growing space of climate tech, for which Gustaf\
+  \ has a huge passion and where he’s already had an incredible impact. He shares some key areas of innovation and investment\
+  \ in climate tech, some notable companies he’s helped fund, and where he sees potential going forward.\n\n—\n\nBrought to\
+  \ you by Linear—The new standard for modern software development: https://linear.app/lenny | Eppo—Run reliable, impactful\
+  \ experiments: https://www.geteppo.com/ | Pando—Always-on employee progression: https://www.pando.com/lenny\n\nFind the\
+  \ full transcript here: https://www.lennysnewsletter.com/p/lessons-from-working-with-600-yc\n\nWhere to find Gustaf Alströmer:\n\
+  • Twitter: https://twitter.com/gustaf\n• LinkedIn: https://www.linkedin.com/in/gustafalstromer/\n\nWhere to find Lenny:\n\
+  • Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nReferenced:\n• Airbnb tweet: https://twitter.com/gustaf/status/1580330162725347330\n• Startups Are an Act of Desperation:\
+  \ https://blog.eladgil.com/p/startups-are-an-act-of-desperation\n• The 18 Mistakes That Kill Startups: http://www.paulgraham.com/startupmistakes.html\n\
+  • Do Things That Don’t Scale: http://paulgraham.com/ds.html\n• Marc Andreessen: https://a16z.com/author/marc-andreessen/\n\
+  • How to Talk to Users: https://youtu.be/z1iF1c8w5Lg\n• How to Get Your First Customers: https://youtu.be/hyYCn_kAngI\n\
+  • Pachama: https://pachama.com/\n• Request for Startups: Climate Tech: https://www.ycombinator.com/blog/rfs-climatetech\n\
+  • Climate Draft: https://www.climatedraft.org/\n• Seabound: https://www.seabound.co/\n• Fleetzero: https://www.fleetzero.com/\n\
+  • Unravel Carbon: https://www.unravelcarbon.com/\n• CarbonChain: https://www.carbonchain.com/\n• Sinai: https://www.sinaitechnologies.com/\n\
+  • Enode: https://enode.com/\n• Statiq: https://www.statiq.in/\n• Heart Aerospace: https://heartaerospace.com/\n• The 100%\
+  \ Solution: A Plan for Solving Climate Change: https://www.amazon.com/100-Solution-Solving-Climate-Change/dp/1612198384\n\
+  • Without a Doubt: How to Go from Underrated to Unbeatable: https://www.amazon.com/exec/obidos/ASIN/1982147903?tag=simonsayscom\n\
+  • Emily in Paris on Netflix: https://www.netflix.com/title/81037371\n• Everything Everywhere All at Once on Showtime: https://www.sho.com/titles/3493875/everything-everywhere-all-at-once\n\
+  • How to Apply and Succeed at Y Combinator, by Dalton Caldwell: https://www.youtube.com/watch?v=8yiOcCPvyNE\n• Y Combinator\
+  \ on YouTube: https://www.youtube.com/c/ycombinator\n\nIn this episode, we cover:\n(00:00) Gustaf’s background\n(04:15)\
+  \ What made Airbnb so special\n(07:21) How culture interviews and hiring founders contributed to Airbnb’s success\n(10:31)\
+  \ Motivations for starting companies\n(13:17) Why Gustaf helps founders understand their motivations\n(14:13) Reasons you\
+  \ should not start a company\n(16:03) The magic that happens at YC office hours\n(20:45) Why founders in coworking spaces\
+  \ should schedule time to talk \n(21:36) Questions Gustaf asks founders\n(22:26) Common reasons startups fail\n(26:23) Getting\
+  \ over the fear of rejection \n(27:57) The importance of solving for pain points and why you should watch users\n(34:21)\
+  \ The value of having a technical co-founder\n(37:42) How founders without technical expertise have succeeded\n(40:46) Attributes\
+  \ of the most successful founders\n(44:57) Why it’s hard to predict success and how YC advises against failures\n(46:59)\
+  \ Indications of potential for success\n(50:03) Speed vs. quality\n(51:11) Confidence vs. humility\n(52:48) Execution and\
+  \ tactics vs. strategy \n(54:36) Autocratic vs. collaborative-driven founders\n(56:27) Why you should focus on product first\n\
+  (59:03) The economic incentive for investing in climate tech \n(1:02:16) The clean-tech bubble of 2008\n(1:04:59) Why you\
+  \ don’t need to be super-scientific to work in climate tech\n(1:06:51) Areas of climate tech and promising companies\n(1:12:27)\
+  \ What’s going well in the climate-change space\n(1:16:49) Lightning round\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 5136.0
 duration: '1:25:36'
 view_count: 129172

@@ -4,11 +4,30 @@ title: A framework for finding product-market fit | Todd Jackson (First Round Ca
 youtube_url: https://www.youtube.com/watch?v=yc1Uwhfxacs
 video_id: yc1Uwhfxacs
 publish_date: 2024-04-11
-description: 'Todd Jackson is a Partner at First Round Capital. Before moving into
-  venture capital, he played a crucial role as VP of Product and Design at Dropbox,
-  guiding the company until its IPO in 2018....
-
-  '
+description: "Todd Jackson is a Partner at First Round Capital. Before moving into venture capital, he played a crucial role\
+  \ as VP of Product and Design at Dropbox, guiding the company until its IPO in 2018. Prior to Dropbox, Todd led product\
+  \ management for Twitter’s Content and Discovery teams after selling his startup, Cover, to Twitter in 2014. Before Cover,\
+  \ Todd oversaw product development for Facebook’s Newsfeed, Photos, and Groups. He kickstarted his career at Google as an\
+  \ associate product manager and eventually led product for Gmail, witnessing its growth from beta to 200 million users.\
+  \ In our conversation, we discuss:\n\n• Why product-market fit (PMF) matters\n• First Round Capital’s four-part PMF framework\n\
+  \     • Level one: Nascent product-market fit\n     • Level two: Developing product-market fit\n     • Level three: Strong\
+  \ product-market fit\n     • Level four: Extreme product-market fit\n• Examples of companies at each level\n• How to know\
+  \ if you’re stuck at a level, and how to get unstuck\n• What to change if you’re stuck: persona, problem, promise, and product\n\
+  • The goals and challenges at each stage\n\n—\n\nBrought to you by:\n• WorkOS—The modern API for auth and user identity:\
+  \ https://workos.com/lenny\n• Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\n• CommandBar—AI-powered\
+  \ user assistance for modern products and impatient users: https://www.commandbar.com/lenny\n\nFind the transcript and references\
+  \ at: https://www.lennysnewsletter.com/p/a-framework-for-finding-product-market\n\nWhere to find Todd Jackson:\n• X: https://twitter.com/tjack\n\
+  • LinkedIn: https://www.linkedin.com/in/toddj0/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Todd’s background\n(06:07) First Round Capital’s PMF framework\n(09:07) Why product-market fit is so important\n\
+  (11:02) Who can benefit from this framework\n(12:55) The product-market fit method\n(16:54) Broad overview of the framework\n\
+  (21:35) Level one: nascent product-market fit\n(33:16) The four P’s\n(39:13) Level two: developing product-market fit\n\
+  (49:13) Signs you’re stuck at level two, and what to do\n(55:12) Level three: strong product-market fit\n(01:00:17) Signs\
+  \ you’re stuck at level three, and what to do\n(01:02:22) Level four: extreme product-market fit\n(01:06:55) Rough timelines\
+  \ for each level\n(01:11:18) A quick recap of the framework\n(01:12:15) Diving deeper on the four P’s: what to do if you’re\
+  \ stuck\n(01:13:56) Dollar-driven discovery\n(01:25:11) Apply for the product-market-fit method program\n\nProduction and\
+  \ marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny\
+  \ may be an investor in the companies discussed."
 duration_seconds: 5233.0
 duration: '1:27:13'
 view_count: 78505

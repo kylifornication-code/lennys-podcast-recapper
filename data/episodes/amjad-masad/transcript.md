@@ -4,9 +4,138 @@ title: 'Behind the product: Replit | Amjad Masad (co-founder and CEO)'
 youtube_url: https://www.youtube.com/watch?v=Bp_h674oIhw
 video_id: Bp_h674oIhw
 publish_date: 2024-11-21
-description: Amjad Masad is the co-founder and CEO of Replit, a browser-based coding
-  environment that allows anyone to write and deploy code. Replit has 34 million users
-  globally and is one of the fastest-growi...
+description: 'Amjad Masad is the co-founder and CEO of Replit, a browser-based coding environment that allows anyone to write
+  and deploy code. Replit has 34 million users globally and is one of the fastest-growing developer communities in the world.
+  Prior to Replit, Amjad worked at Facebook, where he led the JavaScript infrastructure team and contributed to popular open-source
+  developer tools. Additionally, he played a key role as a founding engineer at the online coding school Codecademy. In our
+  conversation, Amjad shares:
+
+  • A live demo of Replit in action
+
+  • How Replit’s AI agent can build full-stack web applications from a simple text prompt
+
+  • The implications of AI-powered development for product managers, designers, and engineers
+
+  • How this might reshape companies and careers
+
+  • Why being “generative” will become an increasingly valuable skill
+
+  • “Amjad’s law” and how learning to debug AI-generated code is becoming ever more valuable
+
+  • Much more
+
+
+  —
+
+
+  Brought to you by:
+
+  • WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny
+
+  • Persona—A global leader in digital identity verification: https://withpersona.com/lenny
+
+  • LinkedIn Ads—Reach professionals and drive results for your business: https://www.linkedin.com/podlenny
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/behind-the-product-replit-amjad-masad
+
+
+  Where to find Amjad Masad:
+
+  • X: https://x.com/amasad
+
+  • LinkedIn: https://www.linkedin.com/in/amjadmasad/
+
+  • Website: https://amasad.me/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Introduction to Amjad Masad and Replit
+
+  (02:41) The vision and challenges of Replit
+
+  (06:50) Replit’s growth and user stories
+
+  (10:49) Demo of Replit’s capabilities
+
+  (16:51) Building and iterating with Replit
+
+  (25:04) Real-world applications and use cases
+
+  (30:13) The technology stack
+
+  (33:48) The evolution of Replit and its capabilities
+
+  (39:36) The future of AI in software development
+
+  (44:04) Skills for the future: generative thinking and coding
+
+  (47:26) Amjad’s law
+
+  (50:36) Replit’s new developments and future plans
+
+
+  Referenced:
+
+  • Replit: https://replit.com/
+
+  • Cursor: https://www.cursor.com
+
+  • Aman Mathur on LinkedIn: https://www.linkedin.com/in/aman-mathur/
+
+  • Node: https://nodejs.org/en
+
+  • Claude: https://claude.ai/
+
+  • Salesforce: https://www.salesforce.com/
+
+  • Wasm: https://webassembly.org/
+
+  • Figma: https://www.figma.com/
+
+  • Codecademy: https://www.codecademy.com/
+
+  • Hacker News: https://news.ycombinator.com/news
+
+  • Paul Graham’s website: https://www.paulgraham.com/
+
+  • Jevons paradox: https://en.wikipedia.org/wiki/Jevons_paradox
+
+  • Anthropic: https://www.anthropic.com/
+
+  • Open AI: https://openai.com/
+
+  • Amjad’s tweet about “society of models”: https://x.com/amasad/status/1568941103709290496
+
+  • About HCI: https://www.designdisciplin.com/p/hci-profession
+
+  • Taylor Swift’s website: https://www.taylorswift.com/
+
+  • Andrew Wilkinson on LinkedIn: https://www.linkedin.com/in/awilkinson/
+
+  • Haya Odeh on LinkedIn: https://www.linkedin.com/in/haya-odeh-b0725928/
+
+  • Amjad’s law: https://x.com/snowmaker/status/1847377464705896544
+
+  • Ray Kurzweil’s website: https://www.thekurzweillibrary.com/
+
+  • God of the gaps: https://en.wikipedia.org/wiki/God_of_the_gaps
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 3849.0
 duration: '1:04:09'
 view_count: 33941

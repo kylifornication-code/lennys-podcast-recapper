@@ -1,18 +1,13 @@
 ---
 guest: Nikita Bier
-title: Driving alignment within teams, work-life balance, and the changing PM landscape
-  | Nikita Miller
-youtube_url: https://www.youtube.com/watch?v=4PhfAbRQpbI
-video_id: 4PhfAbRQpbI
-publish_date: 2023-04-06
-description: 'Nikita Miller is a product leader, angel investor, and advisor. She
-  has built and led product teams at companies ranging from early-stage startups to
-  multinationals, and she is currently SVP...
-
-  '
-duration_seconds: 3560.0
-duration: '59:20'
-view_count: 6020
+title: ''
+youtube_url: ''
+video_id: ''
+publish_date: ''
+description: ''
+duration_seconds: 0
+duration: ''
+view_count: 0
 channel: Lenny's Podcast
 keywords:
 - product-market fit

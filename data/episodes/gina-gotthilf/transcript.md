@@ -1,15 +1,48 @@
 ---
 guest: Gina Gotthilf
-title: Scaling Duolingo, embracing failure, and insight into Latin America’s tech
-  scene | Gina Gotthilf
+title: Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene | Gina Gotthilf
 youtube_url: https://www.youtube.com/watch?v=sWClFYdbkRA
 video_id: sWClFYdbkRA
 publish_date: 2023-10-19
-description: 'Gina Gotthilf is a co-founder and the COO of Latitud, a startup platform
-  supporting the next generation of iconic tech startups in Latin America. Previously,
-  Gina led growth and marketing at...
-
-  '
+description: "Gina Gotthilf is a co-founder and the COO of Latitud, a startup platform supporting the next generation of iconic\
+  \ tech startups in Latin America. Previously, Gina led growth and marketing at Duolingo, which she helped grow from 3 million\
+  \ to 200 million users. She was recently named one of the 500 most influential people in all of Latin America by Bloomberg.\
+  \ In today’s episode, we discuss:\n• Behind the scenes of Duolingo’s early growth\n• How to balance the “A and B sides”\
+  \ of life\n• Stories from Mike Bloomberg’s presidential campaign\n• Lessons from Duolingo’s international expansion\n• Tactical\
+  \ tips for driving organic growth\n• How to use PR, brand love, and community as growth levers\n• Why Gina is passionate\
+  \ about investing in Latin America\n\n—\n\nBrought to you by Jira Product Discovery—Atlassian’s new prioritization and roadmapping\
+  \ tool built for product teams: https://atlassian.com/lenny/?utm_source=lennypodcast&utm_medium=paid-audio&utm_campaign=fy24q1-jpd-imc\
+  \ | Hex— Helping teams ask and answer data questions by working together: https://www.hex.tech/lenny | Mercury—the powerful\
+  \ and intuitive way for ambitious companies to bank: https://mercury.com/\n\nFind the full transcript at: https://www.lennyspodcast.com/scaling-duolingo-embracing-failure-and-insight-into-latin-americas-tech-scene-gina-gotthilf-la/#transcript\n\
+  \nWhere to find Gina Gotthilf:\n• X: https://twitter.com/ginag\n• LinkedIn: https://www.linkedin.com/in/ginafrombrazil/\n\
+  • Instagram: https://www.instagram.com/gina/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n•\
+  \ X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Gina’s background\n(04:34) The Vamos Latam Summit\n(07:22) Gina’s “A and B sides” framework\n(09:34) Her B side\n\
+  (16:27) Lessons from working on Mike Bloomberg’s presidential campaign \n(20:40) How Gina was able to 3x the conversion\
+  \ rate on a campaign site in one day\n(24:34) 4 areas Duolingo leaned into to have success in the difficult world of B2C\
+  \ subscriptions\n(36:39) B-side lessons from Duolingo \n(42:05) The importance of trusting your gut\n(44:54) Organic growth\
+  \ tactics and the importance of branding\n(48:01) What makes for remarkable branding\n(52:01) Duolingo’s process for keeping\
+  \ copy on-brand\n(52:45) How Duo’s passive-aggressive messages led to a movement\n(55:19) How Latitud uses niche humor as\
+  \ part of their branding\n(56:31) Duolingo’s TikTok\n(59:02) Lessons from internationalizing Duolingo\n(1:03:51) Why Gina\
+  \ was drawn to the tech industry in Latin America\n(1:09:26) What Latitud does \n(1:17:20) Opportunities in emerging markets\n\
+  (1:20:45) Lightning round\n\nReferenced:\n• The Vamos Latam Summit 2023: https://www.latitud.com/vamoslatamsummit\n• Ben\
+  \ Horowitz on LinkedIn: https://www.linkedin.com/in/behorowitz/\n• Rappi: https://about.rappi.com/\n• Reed College: https://www.reed.edu/\n\
+  • Marcus Aurelius: https://en.wikipedia.org/wiki/Marcus_Aurelius\n• Mike Bloomberg’s website: https://www.mikebloomberg.com/\n\
+  • How Duolingo reignited user growth: https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth\n• Burr Settles\
+  \ on LinkedIn: https://www.linkedin.com/in/burrsettles/\n• Nubank: https://nubank.com.br/en/\n• Navigating comms and PR\
+  \ | Lulu Cheng Meservey (Substack, Activision Blizzard): https://www.lennyspodcast.com/navigating-comms-and-pr-lulu-cheng-meservey-substack-activision-blizzard/\n\
+  • 47 Duolingo Memes That Are Equal Parts Funny and Extremely Concerning: https://www.buzzfeed.com/kellymartinez/duolingo-memes-jokes\n\
+  • Latitud: https://www.latitud.com/\n• Brian Requarth on LinkedIn: https://www.linkedin.com/in/brianrequarth/\n• On Deck:\
+  \ https://www.beondeck.com/\n• Leadsales: https://leadsales.io/en/crm-for-whatsapp/\n• Pomelo: https://pomelo.la/latam/\n\
+  • The Design of Everyday Things: https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654\n• Man’s Search\
+  \ for Meaning: https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/1663607982/\n• Succession on HBO: https://www.hbo.com/succession\n\
+  • The Rehearsal on HBO: https://www.hbo.com/the-rehearsal\n• The White Lotus: https://www.hbo.com/the-white-lotus\n• Bo\
+  \ Burnham: Inside: https://www.netflix.com/title/81289483\n• “How is the best-case scenario Joe Biden?” song: https://www.youtube.com/watch?v=ltg9ohuh0KM\n\
+  • How to with John Wilson on HBO: https://www.hbo.com/how-to-with-john-wilson\n• Viome: https://www.viome.com/\n• Levels:\
+  \ https://www.levelshealth.com/\n• Andrew Chen’s blog: https://andrewchen.com/\n• The ship of Theseus: https://www.philosophy-foundation.org/enquiries/view/the-ship-of-theseus\n\
+  • Gina Gotthilf on 20VC: https://www.youtube.com/watch?v=_M7XsTicrY0\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 5809.0
 duration: '1:36:49'
 view_count: 15988

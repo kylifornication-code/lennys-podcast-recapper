@@ -1,15 +1,141 @@
 ---
 guest: Anneka Gupta
-title: Becoming more strategic, navigating difficult colleagues, founder mode, more
-  | Anneka Gupta
+title: Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta
 youtube_url: https://www.youtube.com/watch?v=E3dUveqt9Bw
 video_id: E3dUveqt9Bw
 publish_date: 2024-10-17
-description: 'Anneka Gupta is the Chief Product Officer at Rubrik, a leading B2B cybersecurity
-  company. She previously spent 11 years at LiveRamp, where she was the President
-  and Head of Product and Platforms...
+description: 'Anneka Gupta is the Chief Product Officer at Rubrik, a leading B2B cybersecurity company. She previously spent
+  11 years at LiveRamp, where she was the President and Head of Product and Platforms leading product development and go-to-market
+  operations and strategy. Anneka also sits on the board of directors for Tinuiti and teaches product management at Stanford
+  University. In our conversation, we discuss:
 
-  '
+  • Navigating “founder mode” dynamics in organizations
+
+  • Navigating difficult personalities and aligning teams
+
+  • The PM skill of summarization
+
+  • Giving and receiving hard feedback effectively
+
+  • The value of a positive mindset
+
+  • Tips for breaking into product management
+
+  • Much more
+
+
+  —
+
+
+  Brought to you by:
+
+  • The Enterprise Ready Conference — For B2B leaders building enterprise SaaS: https://www.enterprise-ready.com/
+
+  • Command AI — AI-powered user assistance for modern products and impatient users: https://www.command.ai/lenny
+
+  • Eppo — Run reliable, impactful experiments: https://www.geteppo.com/
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/becoming-more-strategic-anneka-gupta
+
+
+  Where to find Anneka Gupta:
+
+  • X: https://x.com/annekagupta
+
+  • LinkedIn: https://www.linkedin.com/in/annekagupta
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Introduction to Anneka Gupta
+
+  (01:43) Key mindsets for success
+
+  (05:30) Managing energy for optimal performance
+
+  (09:05) Founder mode
+
+  (18:26) Becoming more strategic
+
+  (27:54) The importance of decision-making
+
+  (37:18) Navigating difficult personalities
+
+  (41:38) Techniques for giving and receiving feedback
+
+  (51:01) Transitioning into product management
+
+  (54:56) Advice for aspiring product managers
+
+  (59:39) Leveraging AI tools in product management
+
+  (01:01:27) The power of a positive mindset
+
+  (01:04:30) Lightning round
+
+
+  Referenced:
+
+  • Founder Mode: https://paulgraham.com/foundermode.html
+
+  • Building a long and meaningful career | Nikhyl Singhal (Meta, Google): https://www.lennysnewsletter.com/p/building-a-long-and-meaningful-career
+
+  • The Skip community: https://www.linkedin.com/company/skip-community/
+
+  • Rubrik: https://www.rubrik.com/
+
+  • 5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker): https://www.lennysnewsletter.com/p/the-ultimate-guide-to-strategy-roger-martin
+
+  • Playing to Win: How Strategy Really Works: https://www.amazon.com/Playing-Win-Strategy-Really-Works/dp/142218739X
+
+  • Thinking like a gardener not a builder, organizing teams like slime mold, the adjacent possible, and other unconventional
+  product advice | Alex Komoroske: https://www.lennysnewsletter.com/p/unconventional-product-advice-alex-komoroske
+
+  • Acquired podcast interviews Zuckerberg in San Francisco: https://transistor.fm/acquired-live/
+
+  • Hema Mohan on LinkedIn: https://www.linkedin.com/in/hemamohan/
+
+  • Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity: https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509
+
+  • Radical Candor: From theory to practice with author Kim Scott: https://www.lennysnewsletter.com/p/radical-candor-from-theory-to-practice
+
+  • LiveRamp: https://liveramp.com/
+
+  • Product Management class at Stanford: https://www.gsb.stanford.edu/experience/learning/experiential-learning/action-learning-program/product-management
+
+  • Figma: https://www.figma.com/
+
+  • Dovetail: https://try.dovetail.com/
+
+  • The Remarkable Advantage of Abundant Thinking: https://review.firstround.com/the-remarkable-advantage-of-abundant-thinking/
+
+  • The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers: https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205
+
+  • Brandon Sanderson’s books: https://www.amazon.com/stores/Brandon-Sanderson/author/B001IGFHW6
+
+  • Fallout on Prime Video: https://www.amazon.com/dp/B0CN4HV16N
+
+  • Thunderbolt 4 ( 3-meter cable): https://www.apple.com/shop/product/MW5H3AM/A/thunderbolt-4-usb%E2%80%91c-pro-cable-3-m
+
+  • Isaac Asimov: https://en.wikipedia.org/wiki/Isaac_Asimov
+
+  • The complete Foundation series: https://www.amazon.com/Complete-Asimovs-Foundation-Foundations-Prelude/dp/B01EFDEMS8
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4117.0
 duration: '1:08:37'
 view_count: 78591

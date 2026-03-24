@@ -1,15 +1,100 @@
 ---
 guest: Brian Tolkin
-title: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor,
-  ex-Uber)
+title: Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)
 youtube_url: https://www.youtube.com/watch?v=sRukk520Fds
 video_id: sRukk520Fds
 publish_date: 2024-08-04
-description: 'Brian Tolkin is the Head of Product at Opendoor. Previously, he was
-  one of the early employees at Uber, where he was instrumental in launching and growing
-  UberPool, UberHop, and UberExpress...
+description: 'Brian Tolkin is the Head of Product at Opendoor. Previously, he was one of the early employees at Uber, where
+  he was instrumental in launching and growing UberPool, UberHop, and UberExpress and started one of the first product operations
+  teams in tech. In our conversation, we dive into:
 
-  '
+  • How to enable product and ops to work well together
+
+  • How to run great product reviews
+
+  • How to make good decisions with limited data
+
+  • How he uses the jobs-to-be-done framework at Opendoor
+
+  • How to stay calm under pressure as a leader
+
+  • Wild stories from his time at Uber
+
+  • Challenges faced at Opendoor during the pandemic
+
+  • Much more
+
+
+  —
+
+
+  Brought to you by:
+
+  • Pendo—The only all-in-one product experience platform for any type of application: https://www.pendo.io/lenny
+
+  • Explo—Embed customer-facing analytics in your product: https://explo.co/lenny
+
+  • Attio—The powerful, flexible CRM for fast-growing startups: https://attio.com/lenny
+
+
+  Find the transcript and references at: https://www.lennysnewsletter.com/p/scaling-uber-and-opendoor-brian-tolkin
+
+
+  Where to find Brian Tolkin:
+
+  • X: https://x.com/briantolkin
+
+  • LinkedIn: https://www.linkedin.com/in/briantolkin/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Brian’s background
+
+  (02:14) Career beginnings at Uber
+
+  (02:49) Transitioning from product operations to product management
+
+  (06:47) Product and operations synergy
+
+  (10:00) Surge pricing at Uber
+
+  (12:18) Scaling challenges, and stories
+
+  (15:47) Opendoor and Covid adaptations
+
+  (25:38) Product reviews and Jobs to Be Done
+
+  (40:30) The challenges of A/B testing
+
+  (42:23) Increasing conviction in solutions
+
+  (44:33) Leveraging intuition in product decisions
+
+  (47:07) Partnering with Zillow
+
+  (52:55) Staying calm under pressure
+
+  (56:25) Finding the “kernel of truth” in product management
+
+  (01:00:21) Failure corner: Early days of Uber Pool
+
+  (01:06:11) Lightning round and final thoughts
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4480.0
 duration: '1:14:40'
 view_count: 11209

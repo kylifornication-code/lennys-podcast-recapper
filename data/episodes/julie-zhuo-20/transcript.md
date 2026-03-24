@@ -1,13 +1,14 @@
 ---
 guest: Julie Zhuo 2.0
-title: How To Win Friends & Influence Decisions (Julie Zhuo) | Lenny & Friends Summit
-  2024
+title: How To Win Friends & Influence Decisions (Julie Zhuo) | Lenny & Friends Summit 2024
 youtube_url: https://www.youtube.com/watch?v=0Z5FCYDeZXs
 video_id: 0Z5FCYDeZXs
 publish_date: 2024-12-12
-description: Julie Zhuo shares her approach to influencing decisions in product leadership,
-  moving beyond the traditional right-vs-wrong mindset to create collaborative, data-informed
-  choices that benefit...
+description: 'Julie Zhuo shares her approach to influencing decisions in product leadership, moving beyond the traditional
+  right-vs-wrong mindset to create collaborative, data-informed choices that benefit everyone involved.
+
+
+  Recorded live at Lenny and Friends Summit on October 24th in San Francisco'
 duration_seconds: 1820.0
 duration: '30:20'
 view_count: 12443

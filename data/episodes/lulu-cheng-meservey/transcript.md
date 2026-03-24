@@ -4,17 +4,34 @@ title: Gain attention as an underdog with this framework | Lulu Cheng Meservey
 youtube_url: https://www.youtube.com/watch?v=qKXIBE7KRGo
 video_id: qKXIBE7KRGo
 publish_date: 2023-03-27
-description: 'Lulu Cheng Meservey explains how to use the concentric circles framework
-  to win the hearts and minds of your audience.
+description: 'Lulu Cheng Meservey explains how to use the concentric circles framework to win the hearts and minds of your
+  audience.
 
   🎙️Find the full episode here: https://youtu.be/LTSEOeKV_Hs
 
 
   —
 
-  ...
 
-  '
+  On Lenny''s Podcast, host Lenny Rachitsky interviews world-class product leaders and growth experts to uncover concrete,
+  actionable advice to help you grow your own product.
+
+
+  🔔 For more videos like these, subscribe here: https://www.youtube.com/c/LennysPodcast?sub_confirmation=1
+
+
+  —
+
+
+  Where to find Lenny:
+
+  • Podcast: https://www.lennyspodcast.com/
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/'
 duration_seconds: 164.0
 duration: '2:44'
 view_count: 2507

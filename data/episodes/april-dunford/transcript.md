@@ -1,15 +1,35 @@
 ---
 guest: April Dunford
-title: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author
-  of Sales Pitch)
+title: A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)
 youtube_url: https://www.youtube.com/watch?v=-VqmFI9vY7w
 video_id: -VqmFI9vY7w
 publish_date: 2023-10-22
-description: 'April Dunford is a speaker, mentor, podcaster, best-selling author,
-  and beloved returning guest to the show. Last year, she joined me on the pod to
-  discuss product positioning and differentiated...
-
-  '
+description: "April Dunford is a speaker, mentor, podcaster, best-selling author, and beloved returning guest to the show.\
+  \ Last year, she joined me on the pod to discuss product positioning and differentiated value. Today, April offers invaluable\
+  \ insights from her latest book, Sales Pitch: How to Craft a Story to Stand Out and Win. We go deep on the art of effective\
+  \ pitching and selling, and April shares the specific framework she’s used to successfully pitch products at companies like\
+  \ Google, IBM, Postman, and Epic Games. Together we discuss:\n• Tactical advice on pitch creation and testing\n• Real-life\
+  \ examples of companies transforming their narratives into successful sales strategies\n• How to combat customer inaction\n\
+  • How to become your prospect’s guide in their buying journey\n• The importance of differentiated value\n• Marketing’s role\
+  \ in the process\n• Why you should avoid FOMO as a sales strategy\n• Tips for handling objections\n—\nBrought to you by\
+  \ Composer—the AI-powered trading platform: https://www.composer.trade/?utm_source=lenny&utm_medium=podcast&utm_campaign=10-22-23\
+  \ | Eppo—Run reliable, impactful experiments: https://www.geteppo.com/ | LinkedIn Ads—Reach professionals and drive results\
+  \ for your business: https://www.linkedin.com/podlenny\n—\nFind the transcript and references at: ⁠https://www.lennysnewsletter.com/p/a-step-by-step-guide-to-crafting\n\
+  —\nWhere to find April Dunford:\n• Website: https://www.aprildunford.com/\n• LinkedIn: https://www.linkedin.com/in/aprildunford/\n\
+  • Newsletter: https://aprildunford.substack.com/\n—\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n—\nIn this episode, we cover:\n\
+  (00:00) April’s background\n(03:46) Fixing poor positioning with storytelling at Help Scout\n(12:22) Pitch components: setup\
+  \ and differentiated value\n(14:13) Wrapping up the sales pitch\n(15:56) Handling objections effectively\n(19:13) Understanding\
+  \ buyer’s mindset and market perception\n(25:46) Avoiding FOMO as a sales strategy\n(29:28) Lenny’s stressful experience\
+  \ buying community forum software for Airbnb\n(31:04) Empowering champions within client businesses\n(34:36) Who this framework\
+  \ is useful for\n(36:38) Advice on working cross-functionally \n(38:59) Differentiated value defined with examples\n(44:16)\
+  \ Selling with calm confidence\n(46:19) Qualifying leads\n(48:31) April’s thoughts on category creation\n(53:05) Geoffrey\
+  \ Moore’s “bowling pin strategy” \n(55:21) Conclusion of the setup phase: sharing the perfect world\n(57:11) The follow-through:\
+  \ differentiated value with proof and objection refutation\n(1:00:21) Why sales pitches fail\n(1:01:30) Best practices for\
+  \ pitch testing\n(1:05:32) General timeline for positioning and pitch creation\n(1:06:50) Marketing’s role in the process\n\
+  (1:08:38) The impact of developing a killer sales pitch \n(1:10:39) Andy Raskin’s positioning framework\n(1:15:50) Lightning\
+  \ round\n—\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  —\nLenny may be an investor in the companies discussed."
 duration_seconds: 5453.0
 duration: '1:30:53'
 view_count: 57522

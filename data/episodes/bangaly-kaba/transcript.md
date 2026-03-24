@@ -1,15 +1,30 @@
 ---
 guest: Bangaly Kaba
-title: Unorthodox frameworks for growing your product, career, and impact | Bangaly
-  Kaba (YT, IG, FB)
+title: Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)
 youtube_url: https://www.youtube.com/watch?v=Ub9UkWByFIQ
 video_id: Ub9UkWByFIQ
 publish_date: 2024-05-26
-description: 'Bangaly Kaba was an early growth PM at Facebook, head of growth at Instagram,
-  and VP of Product at Instacart and is currently Director of Product at YouTube overseeing
-  a global team working...
-
-  '
+description: "Bangaly Kaba was an early growth PM at Facebook, head of growth at Instagram, and VP of Product at Instacart\
+  \ and is currently Director of Product at YouTube overseeing a global team working on creator monetization. Bangaly has\
+  \ also been a growth advisor to dozens of companies, including Twitter, on the board of multiple companies, and is an active\
+  \ angel investor. In our conversation, we discuss:\n• A simple framework for choosing where to work and what to work on\n\
+  • The importance of “understand work”\n• The “adjacent users” theory and how it can help you drive growth\n• Advice for\
+  \ coaching product managers\n• Invaluable lessons from his time at Instagram, Facebook, and YouTube\n• Much more\n\n—\n\n\
+  Brought to you by:\n• Uizard—AI-powered prototyping for visionary product leaders: https://uizard.io/lenny\n• Mercury—The\
+  \ powerful and intuitive way for ambitious companies to bank: https://mercury.com/\n• Vanta—Automate compliance. Simplify\
+  \ security: https://vanta.com/lenny\n\nFind the transcript and references at: https://www.lennysnewsletter.com/p/frameworks-for-growing-your-career-bangaly-kaba\n\
+  \nWhere to find Bangaly Kaba:\n• X: https://twitter.com/iambangaly\n• LinkedIn: https://www.linkedin.com/in/iambangaly/\n\
+  • Instagram: https://www.instagram.com/iambangaly/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Bangaly’s background\n(06:31) Choosing where to work and what to work on\n(08:39) The impact factor\n(10:53) Evaluating\
+  \ the environment\n(15:53) The manager component\n(18:27) The skills part of the equation \n(23:49) Advice on finding a\
+  \ mentor\n(25:42) The power of “understand work”\n(31:17) Operationalizing understand work\n(37:55) Balancing understand\
+  \ work \n(41:25) Managing complex change\n(45:26) Effective management of product managers\n(51:35) The role of product\
+  \ managers as coaches and team leaders\n(54:52) Driving growth through flywheels and value proposition\n(01:03:14) Understanding\
+  \ adjacent users\n(01:08:41) The role of partnerships and SEO in Instagram’s early growth\n(01:16:08) The secret behind\
+  \ Instagram’s growth\n(01:25:37) Lessons from Facebook\n(01:29:15) Failure corner\n(01:31:58) Lightning round\n\nProduction\
+  \ and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\n\
+  Lenny may be an investor in the companies discussed."
 duration_seconds: 6125.0
 duration: '1:42:05'
 view_count: 28378

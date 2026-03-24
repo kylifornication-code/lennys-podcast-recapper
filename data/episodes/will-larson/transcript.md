@@ -4,11 +4,27 @@ title: The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)
 youtube_url: https://www.youtube.com/watch?v=Z9ftpRhRiJE
 video_id: Z9ftpRhRiJE
 publish_date: 2024-01-07
-description: 'Will Larson is the chief technology officer at Carta. Prior to joining
-  Carta, he was the CTO at Calm and held engineering leadership roles at Stripe, Uber,
-  and Digg. He is the author of two...
-
-  '
+description: "Will Larson is the chief technology officer at Carta. Prior to joining Carta, he was the CTO at Calm and held\
+  \ engineering leadership roles at Stripe, Uber, and Digg. He is the author of two foundational engineering career books, An\
+  \ Elegant Puzzle and Staff Engineer, and The Engineering Executive’s Primer, which will be released in February of next\
+  \ year. In our conversation, we discuss:\n• Systems thinking: what it is and how to apply it\n• Advice for product managers\
+  \ on fostering productive relationships with engineering managers\n• Why companies should treat engineers like adults\n\
+  • How to best measure developer productivity\n• Writing and its impact on his career\n• How to balance writing with a demanding\
+  \ job\n• How to develop your company values\n\n—\n\nBrought to you by DX—A platform for measuring and improving developer\
+  \ productivity: https://getdx.com/lenny | OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny | Vanta—Automate\
+  \ compliance. Simplify security: https://vanta.com/lenny\n\nFind the transcript and references at: https://www.lennysnewsletter.com/p/the-engineering-mindset-will-larson\n\
+  \nWhere to find Will Larson:\n• X: https://twitter.com/Lethain\n• LinkedIn: https://www.linkedin.com/in/will-larson-a44b543/\n\
+  • Website: https://lethain.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Will’s background\n(04:12)\
+  \ Changes in the field of engineering \n(06:27) We need to stop treating engineers like children\n(08:32) Systems thinking\
+  \ \n(13:23) Implementing systems thinking in hiring\n(16:32) Engineering strategy \n(20:21) Examples of engineering strategies\n\
+  (25:08) How to get good at strategy \n(26:48) The importance of writing about things that excite you\n(32:40) The biggest\
+  \ risk to content creation is quitting too soon \n(35:24) How to make time for writing\n(37:41) Tips for aspiring writers\
+  \ \n(41:18) Building productive relationships between product managers and engineers \n(43:45) Giving the same performance\
+  \ rating to EMs and PMs\n(48:24) Measuring engineering productivity \n(55:53) Defining company values \n(01:02:10) Failure\
+  \ corner: the Digg rewrite \n(01:11:05) Will’s upcoming book, The Engineering Executive’s Primer\n(01:12:04) Lightning round\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4613.0
 duration: '1:16:53'
 view_count: 36504

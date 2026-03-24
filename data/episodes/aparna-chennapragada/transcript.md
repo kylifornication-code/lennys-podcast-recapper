@@ -1,13 +1,48 @@
 ---
 guest: Aparna Chennapragada
-title: 'Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna
-  Chennapragada'
+title: 'Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada'
 youtube_url: https://www.youtube.com/watch?v=HbbfXAWcuUo
 video_id: HbbfXAWcuUo
 publish_date: 2025-05-18
-description: Aparna Chennapragada is the chief product officer of experiences and
-  devices at Microsoft, where she oversees AI product strategy for their productivity
-  tools and work on agents. Previously,...
+description: "Aparna Chennapragada is the chief product officer of experiences and devices at Microsoft, where she oversees\
+  \ AI product strategy for their productivity tools and work on agents. Previously, she was the CPO at Robinhood, spent 12\
+  \ years at Google, and is also on the board of eBay and Capital One.\n\n*What you’ll learn:*\n1. How “prompt sets are the\
+  \ new PRDs” and why prototyping with AI is now essential for effective product development\n2. The three key characteristics\
+  \ of AI agents: autonomy (delegation of tasks), complexity (handling multi-step challenges), and natural interaction (conversing\
+  \ beyond simple chat)\n3. Why NLX (natural language experience) is the new UX, requiring deliberate design principles for\
+  \ conversational interfaces\n4. Why the PM role isn’t dying in the AI era—it’s evolving to emphasize tastemaking and editing\n\
+  5. How living “one year in the future” can be operationalized with programs like Microsoft’s Frontier\n6. How even traditional\
+  \ enterprises can balance cutting-edge AI adoption with appropriate governance through dual-track approaches\n7. Insights\
+  \ on leadership differences between Microsoft’s Satya Nadella (known for multi-level thinking and early trendspotting) and\
+  \ Google’s Sundar Pichai (mastery of complex ecosystems)\n8. The vision for human and AI collaboration in the workplace,\
+  \ where people and agents achieve outcomes greater than either could alone\n9. A practical framework for evaluating zero-to-one\
+  \ product opportunities\n\n*Transcript:* https://www.lennysnewsletter.com/p/microsoft-cpo-on-ai\n\n*Brought to you by:*\n\
+  Eppo—Run reliable, impactful experiments: https://explo.co/lenny\nPragmatic Institute—Industry‑recognized product, marketing,\
+  \ and AI training and certifications: https://pragmaticinstitute.com/lenny\nCoda—The all-in-one collaborative workspace:\
+  \ https://coda.io/lenny\n\n*Where to find Aparna Chennapragada:*\n• X: https://x.com/aparnacd\n• LinkedIn: https://www.linkedin.com/in/aparnacd/\n\
+  \n*Where to find Lenny:*\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\n*In this episode, we cover:*\n(00:00) Introduction to Aparna Chennapragada\n\
+  (04:28) Aparna’s stand-up comedy journey\n(07:29) Transition to Microsoft and enterprise insights\n(10:00) The Frontier\
+  \ program and AI integration\n(13:28) Understanding AI agents\n(17:59) NLX is the new UX\n(22:28) The future of product\
+  \ development\n(31:16) Building a custom Chrome extension\n(35:45) Leadership styles of Satya and Sundar\n(37:47) Counterintuitive\
+  \ lessons in product building\n(41:20) Inflection points for successful products\n(45:16) GitHub Copilot and code generation\n\
+  (48:34) Excel’s enduring success\n(50:27) Pivotal career moments\n(54:55) The future of human-agent collaboration\n(56:25)\
+  \ Lightning round and final thoughts \n\n*Referenced:*\n• Google Lens: https://lens.google/\n• Saturday Night Live: https://www.nbc.com/saturday-night-live\n\
+  • Reid Hoffman on LinkedIn: https://www.linkedin.com/in/reidhoffman/\n• Robinhood: https://robinhood.com/\n• eBay: https://www.ebay.com/\n\
+  • Capital One: https://www.capitalone.com/\n• Microsoft: https://www.microsoft.com/\n• Aparna’s LinkedIn post about enterprise\
+  \ vs. consumer: https://www.linkedin.com/posts/aparnacd_every-enterprise-user-feature-has-a-shadow-activity-7321176091610542080-8X-E/\n\
+  • The Epic Split: https://en.wikipedia.org/wiki/The_Epic_Split\n• AI Frontiers: https://www.microsoft.com/en-us/research/lab/ai-frontiers/\n\
+  • OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil (CPO at OpenAI, ex-Instagram,\
+  \ Twitter): https://www.lennysnewsletter.com/p/kevin-weil-open-ai\n• Deepseek: https://www.deepseek.com/\n• Satya Nadella\
+  \ on LinkedIn: https://www.linkedin.com/in/satyanadella/\n• Tobi Lütke’s leadership playbook: Playing infinite games, operating\
+  \ from first principles, and maximizing human potential (founder and CEO of Shopify): https://www.lennysnewsletter.com/p/tobi-lutkes-leadership-playbook\n\
+  • Tobi Lütke’s post on X about reflexive AI: https://x.com/tobi/status/1909251946235437514\n• GitHub Copilot: https://github.com/features/copilot\n\
+  • Sundar Pichai on LinkedIn: https://www.linkedin.com/in/sundarpichai/\n• South Park “Underwear Gnomes” episode: https://southpark.cc.com/episodes/13y790/south-park-gnomes-season-2-ep-17\n\
+  • Google Home: https://home.google.com/welcome/\n• Cursor: https://www.cursor.com/\n• v0: https://v0.dev/\n• Bolt: https://bolt.new/\n\
+  • Lovable: https://lovable.dev/\n• Replit: https://replit.com/\n\n*Recommended book:*\n• A Brief History of Intelligence:\
+  \ Evolution, AI, and the Five Breakthroughs That Made Our Brains: https://www.amazon.com/Brief-History-Intelligence-Evolution-Breakthroughs/dp/0063286351\n\
+  \n_Production and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 3673.0
 duration: '1:01:13'
 view_count: 41098

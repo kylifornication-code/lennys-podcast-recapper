@@ -1,15 +1,178 @@
 ---
 guest: Ben Williams
-title: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product
-  at Snyk)
+title: How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)
 youtube_url: https://www.youtube.com/watch?v=21sFTZzIfUk
 video_id: 21sFTZzIfUk
 publish_date: 2022-11-06
-description: 'Ben Williams is VP of Product at Snyk, an industry-leading security
-  platform for developers, last valued at $8.5b. He’s also a product and growth advisor
-  with over 20 years of experience...
+description: 'Ben Williams is VP of Product at Snyk, an industry-leading security platform for developers, last valued at
+  $8.5b. He’s also a product and growth advisor with over 20 years of experience building and scaling high-performing product
+  and growth teams. Through product-led growth, product-led sales, and community, Snyk rapidly scaled and won over the lucrative
+  developer audience. In today’s episode, Ben shares the successful growth levers that helped Snyk get started, all of the
+  details of how Snyk has structured their growth, product, and marketing teams and set them up for success in terms of cross-collaboration—and
+  also how their initial plan for self-serve monetization fell flat. We go into Ben’s many useful tips for product-led growth,
+  including his thoughts on free vs. paid versions, trials, and how to build amazing growth teams.
 
-  '
+
+  Find the full transcript here: https://www.lennysnewsletter.com/p/how-snyk-built-a-product-led-growth
+
+
+  —
+
+
+  Where to find Ben Williams:
+
+
+  • Twitter: https://twitter.com/semanticben
+
+  • LinkedIn: https://www.linkedin.com/in/semanticben/
+
+
+  —
+
+
+  Where to find Lenny:
+
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  —
+
+
+  Thank you to our wonderful sponsors for making this episode possible:
+
+
+  • Coda: https://coda.io/lenny
+
+  • Athletic Greens: https://athleticgreens.com/lenny
+
+  • Vanta: https://vanta.com/lenny
+
+
+  —
+
+
+  Referenced:
+
+
+  • Snyk: https://snyk.io/
+
+  • Weekly Team Impact & Learnings Review Template: https://docs.google.com/document/d/1GibNaJ4aONgp5Kg824NCionr1citHIDk3FLvMdkpX_Q/edit?usp=share_link
+
+  • Monthly Group Impact & Learnings Review Template: https://docs.google.com/presentation/d/1nQ18OTuRtc8urBnUWEObD_BlfdGDKlDDMFg8-G2GK7E/edit?usp=share_link
+
+  • Experiment Plan Template: https://docs.google.com/document/d/18LiGXKphGe1tUpZCQA20i4bJqf-S3kDbYnY4Pls_9kQ/edit?usp=share_link
+
+  • Vision & Mission Framework: https://docs.google.com/presentation/d/1CiRwscu-50lBr2c7yRLY_zXVzv5DCnYqNnS5Au83WC8/edit?usp=share_link
+
+  • Ed Sim’s newsletter: https://whatshot.substack.com/
+
+  • Tamar Yehoshua on Twitter: https://twitter.com/tyehoshua
+
+  • Annie Duke’s website: https://www.annieduke.com/
+
+  • Growth loops: https://www.reforge.com/blog/growth-loops
+
+  • Brian Balfour on using learnings: https://brianbalfour.com/growth-machine/maximize-learning
+
+  • Amplitude: https://amplitude.com/
+
+  • FullStory: https://www.fullstory.com/
+
+  • User Interviews: https://www.userinterviews.com/
+
+  • User Testing: https://www.usertesting.com/
+
+  • Sprig: https://sprig.com/surveys
+
+  • Airtable: https://www.airtable.com/home/toolkit
+
+  • How to Measure Anything: Finding the Value of “Intangibles” in Business: https://www.amazon.com/dp/0470110120/
+
+  • Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days: https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X
+
+  • Make Time: How to Focus on What Matters Every Day: https://www.amazon.com/gp/product/B078QSCM3V/
+
+  • This Is How They Tell Me the World Ends: The Cyberweapons Arms Race: https://www.amazon.com/This-They-Tell-World-Ends/dp/1635576059
+
+  • Acquired podcast: https://www.acquired.fm/
+
+  • Turning Red on Disney+: https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m
+
+  • Curb Your Enthusiasm on HBO: https://www.hbo.com/curb-your-enthusiasm
+
+  • Christine Itwaru’s blog: https://prodops.blog/
+
+
+  —
+
+
+  In this episode, we cover:
+
+
+  (00:00) Ben’s background
+
+  (07:27) What is Snyk, and what’s the current scale?
+
+  (08:45) Why Ben joined Snyk
+
+  (09:29) How Snyk got their first 100 users
+
+  (15:14) How Snyk used developer conferences and in-person meet-ups to launch
+
+  (19:23) How Snyk used GitHub as a growth lever
+
+  (23:50) Snyk Advisor, and other growth loops Snyk successfully used
+
+  (26:56) Snyk’s failed attempt at self-serve monetization
+
+  (31:21) How to win the hearts and minds of developers
+
+  (33:38) How adding sales and marketing teams helped Snyk gain momentum
+
+  (35:11) The evolution of Snyk’s growth team
+
+  (37:26) Snyk’s key areas of growth and how Ben solved tension between teams
+
+  (39:32) What is Snyk’s decision science team?
+
+  (40:59) Why Snyk has a growth marketer embedded on each team
+
+  (43:39) The importance of having an amazing SEO person
+
+  (46:21) Advice on building growth teams
+
+  (51:32) Ben’s vision and mission framework
+
+  (53:53) More on the growth process and experimentation
+
+  (56:04) Using learnings as a path to impact
+
+  (57:32) Growth strategy
+
+  (1:02:26) Data in growth teams
+
+  (1:06:33) How Snyk socializes learnings
+
+  (1:10:05) How Snyk structures their product org
+
+  (1:13:15) Free vs. paid features and how to approach trials
+
+  (1:18:57) Activation milestones at Snyk
+
+  (1:23:05) The most valuable tools for Snyk’s growth team
+
+  (1:25:21) Lightning round
+
+
+  —
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 5494.0
 duration: '1:31:34'
 view_count: 11302

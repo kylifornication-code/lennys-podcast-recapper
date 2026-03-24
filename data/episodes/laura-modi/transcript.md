@@ -1,16 +1,13 @@
 ---
 guest: Laura Modi
-title: Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura
-  Schaffer (Amplitude)
-youtube_url: https://www.youtube.com/watch?v=UMAmj1bciww
-video_id: UMAmj1bciww
-publish_date: 2023-03-09
-description: Laura Schaffer is the brand-new VP of Growth at Amplitude. Prior to this
-  role, she spent over 10 years leading product management and growth teams at Twilio,
-  Bandwidth, and Rapid. In today’s...
-duration_seconds: 4873.0
-duration: '1:21:13'
-view_count: 9069
+title: ''
+youtube_url: ''
+video_id: ''
+publish_date: ''
+description: ''
+duration_seconds: 0
+duration: ''
+view_count: 0
 channel: Lenny's Podcast
 keywords:
 - growth

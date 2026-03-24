@@ -1,13 +1,169 @@
 ---
 guest: Bret Taylor
-title: 'He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor
-  (Sierra)'
+title: 'He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)'
 youtube_url: https://www.youtube.com/watch?v=qImgGtnNbx0
 video_id: qImgGtnNbx0
 publish_date: 2025-07-31
-description: Bret Taylor’s legendary career includes being CTO of Meta, co-CEO of
-  Salesforce, chairman of the board at OpenAI (yes, during that drama), co-creating
-  both Google Maps and the Like button,...
+description: 'Bret Taylor’s legendary career includes being CTO of Meta, co-CEO of Salesforce, chairman of the board at OpenAI
+  (yes, during that drama), co-creating both Google Maps and the Like button, and founding three companies. Today he’s the
+  founder and CEO of Sierra, an AI agent company transforming customer service. He’s one of the few people I’ve met who’s
+  been wildly successful at every level—from engineer to C-suite executive to founder—and across almost every discipline,
+  including PM, engineer, CTO, COO, CPO, CEO, and board member.
+
+
+  *In this conversation, you’ll learn:*
+
+  1. The brutal product review that nearly ended his Google career—and how that failure led to creating Google Maps
+
+  2. The question Sheryl Sandberg taught him to ask every morning (“What’s the most impactful thing I can do today?”) that
+  transformed how he approached every role
+
+  3. The three AI market segments that matter
+
+  4. Why AI agents will replace SaaS products
+
+  5. His framework for knowing whose advice to actually listen to—and how that came in handy during the OpenAI board drama
+
+  6. The counterintuitive go-to-market strategy most AI startups get wrong
+
+  7. Sierra’s outcome-based pricing model that’s transforming how enterprise software is sold (and why every SaaS company
+  should adopt it)
+
+  8. What he’s teaching his kids about AI that every parent should know
+
+
+  *Brought to you by:*
+
+  CodeRabbit—Cut code review time and bugs in half. Instantly: https://coderabbit.link/lenny
+
+  Basecamp—The famously straightforward project management system from 37signals: https://www.basecamp.com/lenny
+
+  Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/he-saved-openai-bret-taylor
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/168905359/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Bret Taylor:*
+
+  • X: https://x.com/btaylor
+
+  • LinkedIn: https://www.linkedin.com/in/brettaylor/
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Bret Taylor
+
+  (04:10) Bret’s early career and first major mistake
+
+  (08:24) The birth of Google Maps
+
+  (11:57) Lessons from FriendFeed and the importance of honest feedback
+
+  (31:30) The future of coding and AI’s role
+
+  (45:26) Preparing the next generation for an AI-driven world
+
+  (48:46) AI in education
+
+  (52:05) Business strategies in the AI market
+
+  (01:04:38) Outcome-based pricing in AI
+
+  (01:09:15) Productivity gains and AI
+
+  (01:17:35) Go-to-market strategies for AI products
+
+  (01:21:49) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Marissa Mayer on LinkedIn: https://www.linkedin.com/in/marissamayer/
+
+  • “Lazy Sunday”—SNL: https://www.youtube.com/watch?v=sRhTeaa_B98
+
+  • Quip: https://quip.com/
+
+  • Sierra: https://sierra.ai/
+
+  • FriendFeed: https://en.wikipedia.org/wiki/FriendFeed
+
+  • Sheryl Sandberg on LinkedIn: https://www.linkedin.com/in/sheryl-sandberg-5126652/
+
+  • Jim Norris on LinkedIn: https://www.linkedin.com/in/halfspin/
+
+  • Paul Buchheit on X: https://x.com/paultoo
+
+  • Sanjeev Singh on LinkedIn: https://www.linkedin.com/in/sanjeev-singh-20a1b72/
+
+  • Barack Obama: https://www.obamalibrary.gov/obamas/president-barack-obama
+
+  • Oprah Winfrey: https://en.wikipedia.org/wiki/Oprah_Winfrey
+
+  • Ashton Kutcher: https://en.wikipedia.org/wiki/Ashton_Kutcher
+
+  • PayPal Mafia: https://en.wikipedia.org/wiki/PayPal_Mafia
+
+  • Sam Altman on X: https://x.com/sama
+
+  • Warren Buffett on X: https://x.com/warrenbuffett
+
+  • Unix: https://en.wikipedia.org/wiki/Unix
+
+  • Fortran: https://en.wikipedia.org/wiki/Fortran
+
+  • C: https://en.wikipedia.org/wiki/C_(programming_language)
+
+  • Python: https://www.python.org/
+
+  • Perl: https://www.perl.org/
+
+  • Rust: https://www.rust-lang.org/
+
+  • Eleven Labs: https://elevenlabs.io/
+
+  • The exact AI playbook (using MCPs, custom GPTs, Granola) that saved ElevenLabs $100k+ and helps them ship daily | Luke
+  Harries (Head of Growth): https://www.lennysnewsletter.com/p/the-ai-marketing-stack
+
+  • Confluent: https://www.confluent.io/
+
+  • Databricks: https://www.databricks.com/
+
+  • Snowflake: https://www.snowflake.com
+
+  • Harvey: https://www.harvey.ai/
+
+  • Behind the founder: Marc Benioff: https://www.lennysnewsletter.com/p/behind-the-founder-marc-benioff
+
+  • Larry Summers’s website: https://larrysummers.com/
+
+  • AutoCAD: https://www.autodesk.com/products/autocad/overview
+
+  • Revit: https://www.autodesk.com/products/revit/
+
+  ...References continued at: https://www.lennysnewsletter.com/p/he-saved-openai-bret-taylor
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5338.0
 duration: '1:28:58'
 view_count: 91720

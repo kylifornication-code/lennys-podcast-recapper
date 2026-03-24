@@ -4,11 +4,43 @@ title: The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)
 youtube_url: https://www.youtube.com/watch?v=B79p85DHLkU
 video_id: B79p85DHLkU
 publish_date: 2023-08-13
-description: 'Austin Hay is currently Head of Marketing Technology at Ramp and was
-  previously the VP of Business Operations at Runway, the VP of Growth at mParticle,
-  and the fourth employee at the unicorn...
-
-  '
+description: "Austin Hay is currently Head of Marketing Technology at Ramp and was previously the VP of Business Operations\
+  \ at Runway, the VP of Growth at mParticle, and the fourth employee at the unicorn Branch Metrics. In 2022 he sold his online\
+  \ course, the Marketing Technology Academy, to Reforge, where he now teaches Martech and has a program launching in the\
+  \ fall. He’s consulted on Martech and growth for companies including Notion, Airbnb, Robinhood, Postmates, Walmart, JPMorgan\
+  \ Chase, and many others. In today’s podcast, we discuss:\n• What exactly marketing technology is\n• What a Martech person\
+  \ can do for your business\n• When to hire a Martech person and what to look for\n• Austin’s favorite tools\n• Advice for\
+  \ doing attribution\n• Frameworks on tooling, systems, and building vs. buying\n• How to apply the concept of “thinking\
+  \ gray” to make better decisions in work and life\n\n—\n\nBrought to you by OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny\
+  \ | Mixpanel—Event analytics that everyone can trust, use, and afford: https://mixpanel.com/startups | Brave Search API—An\
+  \ independent, global search index you can use to power your search or AI app: https://brave.com/lenny\n\nFind the full\
+  \ transcript at: https://www.lennysnewsletter.com/p/the-ultimate-guide-to-martech-austin\n\nWhere to find Austin Hay:\n\
+  • LinkedIn: https://www.linkedin.com/in/austinahay/\n• Threads: @austinahay\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we\
+  \ cover:\n(00:00) Austin’s background\n(03:58) What marketing technology is \n(06:17) The difference between typical growth\
+  \ roles and Martech\n(10:23) Signs you need a Martech person on your team\n(14:03) Hiring and placing a Martech person in\
+  \ B2B, B2C, and B2B2C businesses\n(21:15) A day in the life of a Martech professional \n(25:05) Marketing technology vs.\
+  \ marketing operations \n(31:14) Tooling recommendations\n(41:49) The never-ending struggle of how to do attribution well\n\
+  (50:47) Emerging tools and platforms to keep an eye on\n(55:26) MMM modeling\n(57:47) What to look for when hiring a Martech\
+  \ professional, and Austin’s favorite interview questions\n(1:02:45) His red flags for companies and “false flags” for potential\
+  \ hires\n(1:04:51) His favorite frameworks\n(1:13:37) Lightning round\n\nReferenced:\n• Siqi Chen on LinkedIn: https://www.linkedin.com/in/siqic/\n\
+  • Austin’s marketing technology course on Reforge: https://www.reforge.com/courses/marketing-technology\n• Notion: https://www.notion.so/\n\
+  • Sri Batchu on Lenny’s Podcast: https://www.lennyspodcast.com/lessons-from-scaling-ramp-sri-batchu-ramp-instacart-opendoor/\n\
+  • Cody Morgan on LinkedIn: https://www.linkedin.com/in/cody-morgan/\n• Braze: https://www.braze.com\n• Marketo: https://business.adobe.com/products/marketo/adobe-marketo.html\n\
+  • Mparticle: https://www.mparticle.com/\n• Segment: https://segment.com/\n• Snowflake: https://www.snowflake.com/\n• Reverse\
+  \ ETL: a primer: https://medium.com/memory-leak/reverse-etl-a-primer-4e6694dcc7fb\n• RudderStack: https://www.rudderstack.com/\n\
+  • Hightouch: https://hightouch.com/\n• Mike Molinet on LinkedIn: https://www.linkedin.com/in/mikemolinet/\n• Thena: https://www.thena.ai/\n\
+  • Salesforce: https://www.salesforce.com/\n• Gong: https://www.gong.io/\n• How today’s top consumer brands measure marketing’s\
+  \ impact: https://www.lennysnewsletter.com/p/how-todays-top-consumer-brands-measure\n• About MMM: https://www.marketingevolution.com/marketing-essentials/media-mix-modeling\n\
+  • Recast: https://getrecast.com/\n• The Contrarian’s Guide to Leadership: https://www.amazon.com/Contrarians-Guide-Leadership-Steven-Sample/dp/0787967076\n\
+  • The Art and Adventure of Leadership: https://www.amazon.com/Art-Adventure-Leadership-Understanding-Resilience/dp/1119090318/\n\
+  • Suits on Netflix: https://www.netflix.com/title/70195800\n• Our Flag Means Death on Prime: https://www.amazon.com/Our-Flag-Means-Death-Season/dp/B0B8N4R4X1\n\
+  • What We Do in the Shadows on Hulu: https://www.hulu.com/series/what-we-do-in-the-shadows-0b10c46a-12f0-4357-8a00-547057b49bac\n\
+  • Silo on AppleTV+: https://tv.apple.com/us/show/silo\n• Cal.com: https://cal.com/\n• Brian Balfour on the Startup Dad podcast:\
+  \ https://www.startupdadpod.com/coping-with-the-loss-of-a-child-and-protecting-your-time-brian-balfour-father-of-2-ceo-and-found/\n\
+  • Amplitude: https://amplitude.com/\n• AppsFlyer: https://www.appsflyer.com/\n• Customer.io: https://customer.io/\n• Branch:\
+  \ https://www.branch.io/\n• HubSpot: https://www.hubspot.com/\n\nProduction and marketing by https://penname.co/. For inquiries\
+  \ about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 5077.0
 duration: '1:24:37'
 view_count: 15343

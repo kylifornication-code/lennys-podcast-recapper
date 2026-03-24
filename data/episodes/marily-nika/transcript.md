@@ -4,11 +4,136 @@ title: AI and product management | Marily Nika (Meta, Google)
 youtube_url: https://www.youtube.com/watch?v=qNPPoj1qUG0
 video_id: qNPPoj1qUG0
 publish_date: 2023-02-05
-description: 'Marily is a computer scientist and an AI Product Leader currently working
-  for Meta’s reality labs, and previously at Google for 8 years. In 2014 she completed
-  a PhD in Machine Learning. She...
+description: 'Marily is a computer scientist and an AI Product Leader currently working for Meta’s reality labs, and previously
+  at Google for 8 years. In 2014 she completed a PhD in Machine Learning. She is also an Executive Fellow at Harvard Business
+  School and she has taught numerous courses, actively teaching AI Product Management on Maven and at Harvard. Marily joins
+  us in today''s episode to shed light on the role of AI in product management. She shares her insights on how AI is empowering
+  her work, and why she believes that every Product Manager will be an AI Product Manager in the future. We also discuss why
+  PM’s should learn a bit of coding, where they can learn it, and best practices for working with data scientists. Marily
+  shares some insight into building her AI Product Management course and also why she full-heartedly believes you should also
+  create your own course.
 
-  '
+
+  —
+
+
+  Brought to you by Amplitude—Build better products: https://amplitude.com/ | Eppo—Run reliable, impactful experiments: https://www.geteppo.com/
+  | Pando—Always-on employee progression: https://www.pando.com/lenny
+
+
+  Find the full transcript here: https://www.lennysnewsletter.com/p/ai-and-product-management-marily
+
+
+  Where to find Marily Nika:
+
+  • Instagram: http://www.instagram.com/marilynika
+
+  • LinkedIn: https://www.linkedin.com/in/marilynika/
+
+  • YouTube: https://www.youtube.com/c/MarilyNikaPM
+
+  • Website: https://bio.link/marilynika
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  Referenced:
+
+  • The Download newsletter: https://www.technologyreview.com/topic/download-newsletter/
+
+  • TLDR newsletter: https://tldr.tech/
+
+  • ChatGPT: https://chat.openai.com/auth/login
+
+  • MidJourney: https://discord.com/invite/midjourney
+
+  • Whisper: https://whisper.ai/
+
+  • Machine Learning Specialization course: https://www.coursera.org/specializations/machine-learning-introduction
+
+  • Career Foundry: https://careerfoundry.com
+
+  • Coding Dojo: https://www.codingdojo.com/
+
+  • Building AI Products—For Current & Aspiring Product Managers course on Maven: https://maven.com/marily-nika/technical-product-management
+
+  • arXiv: https://arxiv.org/
+
+  • Marginal Revolution blog: https://marginalrevolution.com/
+
+  • Automl: https://cloud.google.com/automl
+
+  • Inspired: How to Create Tech Products Customers Love: https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507
+
+  • You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It’s Making the World a Weirder Place:
+  https://www.amazon.com/You-Look-Like-Thing-Love/dp/0316525227
+
+  • The Adventures of Women in Tech Workbook: A Life-Tested Guide to Building Your Career: https://www.amazon.com/Adventures-Women-Tech-Workbook/dp/1646871022
+
+  • Boz to the Future podcast: https://podcasts.apple.com/us/podcast/boz-to-the-future/id1574002430
+
+  • The White Lotus on HBO: https://www.hbo.com/the-white-lotus
+
+  • Lensa: https://apps.apple.com/us/app/lensa-ai-photo-video-editor/id1436732536
+
+
+  In this episode, we cover:
+
+  (00:00) Marily’s background
+
+  (03:20) How Marily stays informed about the latest developments in AI
+
+  (04:46) What is overhyped and underhyped in AI right now
+
+  (05:59) How Marily uses ChatGPT for work
+
+  (08:25) Why product managers will be AI product managers in the future
+
+  (11:16) How to get started using AI
+
+  (14:12) When not to use AI
+
+  (15:47) How much data do you need for AI to work properly?
+
+  (17:01) When should companies develop their own AI tools?
+
+  (18:35) What an AI model is and how it is trained
+
+  (21:25) How Google demonstrated the ability of AI to translate a conversation in real time
+
+  (23:02) Why AI will not replace PMs
+
+  (23:48) A case for learning to code
+
+  (26:21) Where to learn to code
+
+  (27:40) How to become a strong AI PM
+
+  (29:25) Challenges that AI PMs face
+
+  (31:16) Getting leadership on board with investing in AI
+
+  (33:10) How PMs will work with data scientists and AI
+
+  (35:29) Marily’s AI course
+
+  (39:12) AutoML and how a renewable-energy company used it to improve its turbine maintenance procedure
+
+  (40:31) How Marily built her course and the modifications she has made
+
+  (42:53) Why you should create your own course
+
+  (44:08) Lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 2882.0
 duration: '48:02'
 view_count: 71782

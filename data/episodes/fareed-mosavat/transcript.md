@@ -1,15 +1,34 @@
 ---
 guest: Fareed Mosavat
-title: How to build trust and grow as a product leader | Fareed Mosavat (Reforge,
-  Slack, Instacart, Pixar)
+title: How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Pixar)
 youtube_url: https://www.youtube.com/watch?v=oo0jSep7pzc
 video_id: oo0jSep7pzc
 publish_date: 2022-10-23
-description: 'Fareed Mosavat is Chief Development Officer at Reforge, where he leads
-  production, content, and new-product experiences. Previously, he led growth and
-  product teams at Slack and Instacart,...
-
-  '
+description: "Fareed Mosavat is Chief Development Officer at Reforge, where he leads production, content, and new-product\
+  \ experiences. Previously, he led growth and product teams at Slack and Instacart, was a GM at Zynga, and also served as\
+  \ VP of Product at RunKeeper. Before all of that, Fareed’s fascinating career began in engineering for Pixar, where he learned\
+  \ the art of storytelling and collaboration. In today’s episode, we talk about how his time at Pixar influenced the way\
+  \ he thinks about product, why it’s so difficult to become a better PM, and how to avoid the “manager death spiral.” Fareed\
+  \ shares important insights on how to earn the trust of your manager and coworkers, the four types of product work—and why\
+  \ you need to understand all four. He also provides solid examples of how to generalize your learnings and explains why\
+  \ this will expand your options, make you a better PM, and boost your chances of moving into a leadership role. \n\nFind\
+  \ the full transcript here: https://www.lennysnewsletter.com/p/how-to-establish-credibility-and\n\n—\n\nWhere to find Fareed\
+  \ Mosavat:\n\n• Twitter: https://twitter.com/far33d\n• LinkedIn: https://www.linkedin.com/in/fareed/\n\n—\n\nWhere to find\
+  \ Lenny:\n\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n—\n\nThank you to our wonderful sponsors for making this episode possible:\n\n• Coda: http://coda.io/lenny\n• Amplitude:\
+  \ https://amplitude.com/\n• Vanta: https://vanta.com/lenny\n\n—\n\nReferenced:\n\n• Naval Ravikant’s Twitter thread about\
+  \ specific knowledge: https://twitter.com/naval/status/1002104865919664128\n• Merci Grace on Lenny’s podcast: https://www.lennyspodcast.com/merci-grace-ex-head-of-growth-at-slack-on-plg-interviewing-storytelling-building-a-diverse-team-hiring-salespeople-building-a-growth-team-and-much-more/\n\
+  • “Crossing the Canyon: Product Manager to Product Leader,” by Fareed Mosavat and Casey Winters: https://www.reforge.com/blog/crossing-the-canyon-product-manager-to-product-leader\n\
+  • Casey Winters on Lenny’s podcast: https://www.podpage.com/lennys-podcast/how-to-sell-your-ideas-and-rise-within-your-company-casey-winters-eventbrite/\n\
+  • Reforge: https://www.reforge.com/\n\n—\n\nIn this episode, we cover:\n\n(00:00) Fareed’s background\n(03:55) Lessons from\
+  \ Pixar\n(09:07) What Fareed does at Reforge\n(11:57) The scale of Reforge at this time\n(13:51) Why it’s so difficult to\
+  \ become a better PM\n(18:03) A PM pie chart—execution, generalizing your solutions, communication, and scaling\n(23:00)\
+  \ How creating trust helped Fareed’s career grow\n(26:24) How to gain trust by leveraging your curiosity and communication\
+  \ skills\n(33:50) How to move from PM to Product Lead\n(36:43) The manager death spiral and how to avoid it\n(40:43) The\
+  \ four types of product work\n(44:13) Moving from IC to product manager \n(47:15) How to ask for the proper resources\n\
+  (50:00) The trend of senior PMs diversifying into advising, teaching, and angel investing\n(57:20) The downsides of being\
+  \ your own boss\n(01:00:45) Advice for breaking into advising\n\n—\n\nProduction and marketing by https://penname.co/. For\
+  \ inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 3910.0
 duration: '1:05:10'
 view_count: 11063

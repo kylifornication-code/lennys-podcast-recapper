@@ -1,16 +1,13 @@
 ---
 guest: Benjamin Mann
-title: 'How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier
-  (Lyft, Thumbtack)'
-youtube_url: https://www.youtube.com/watch?v=CYwgStMln6U
-video_id: CYwgStMln6U
-publish_date: 2024-09-29
-description: Benjamin Lauzier has been building and scaling marketplaces for almost
-  15 years. He was the VP of product and growth at Thumbtack, where he rebuilt the
-  product team and Thumbtack’s growth...
-duration_seconds: 5043.0
-duration: '1:24:03'
-view_count: 21572
+title: ''
+youtube_url: ''
+video_id: ''
+publish_date: ''
+description: ''
+duration_seconds: 0
+duration: ''
+view_count: 0
 channel: Lenny's Podcast
 keywords:
 - growth

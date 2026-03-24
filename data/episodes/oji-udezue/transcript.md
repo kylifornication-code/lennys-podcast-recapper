@@ -1,15 +1,41 @@
 ---
 guest: Oji Udezue
-title: Picking sharp problems, increasing virality, and unique product frameworks
-  | Oji Udezue (Typeform)
+title: Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform)
 youtube_url: https://www.youtube.com/watch?v=T8TQGbJhv6Q
 video_id: T8TQGbJhv6Q
 publish_date: 2023-09-14
-description: 'Oji Udezue is Chief Product Officer at Typeform and has held leadership
-  roles at Twitter (Head of Product for Creation and Conversation), Calendly (CPO),
-  and Atlassian (Head of Product for...
-
-  '
+description: "Oji Udezue is Chief Product Officer at Typeform and has held leadership roles at Twitter (Head of Product for\
+  \ Creation and Conversation), Calendly (CPO), and Atlassian (Head of Product for communication tools). He is well-known\
+  \ for bringing a product-led-growth (PLG) mindset to the companies he joins. Additionally, Oji mentors startups, is a Managing\
+  \ Partner at the Kernel Fund, and writes online about product management. In this episode, we discuss:\n• Oji’s “Where to\
+  \ Fish to Land a Unicorn” and “Zone of Benefit” frameworks\n• Why you need to find the “sharpest” problem\n• How to operationalize\
+  \ continuous customer discovery\n• Tips on optimizing onboarding flows\n• Freemium vs. gated offerings in PLG\n• Tactical\
+  \ strategies for making your product more viral\n• The concept of “forest time” and how it can provide clarity in your work\n\
+  \n—\n\nBrought to you by Jira Product Discovery—Atlassian’s new prioritization and roadmapping tool built for product teams:\
+  \ https://atlassian.com/lenny/?utm_source=lennypodcast&utm_medium=paid-audio&utm_campaign=fy24q1-jpd-imc\n\nFind the full\
+  \ transcript at: https://www.lennysnewsletter.com/p/picking-sharp-problems-increasing\n\nWhere to find Oji Udezue:\n• Twitter/X:\
+  \ https://twitter.com/ojiudezue\n• LinkedIn: https://www.linkedin.com/in/ojiudezue/\n• Substack: https://substack.com/@ojiudezue\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter/X: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Oji’s background\n(03:38) Oji’s “Where\
+  \ to Fish to Land a Unicorn” framework \n(05:26) Workflow quadrants\n(09:30) How product people can push frequency \n(12:28)\
+  \ Oji’s “Zone of Benefit” framework \n(14:49) How to find your ICPs \n(15:33) ICPs at Twitter\n(20:20) Oji’s philosophy\
+  \ on frameworks\n(22:31) Oji’s upcoming book \n(24:34) An explanation of “sharp problems”\n(28:31) Signs your problem is\
+  \ “sharp enough”\n(31:17) Discovery vs. continuous conversations\n(35:08) Customer listening\n(38:31) Onboarding fundamentals\n\
+  (43:49) Activated user milestones\n(45:47) The power of network effects\n(50:15) An explanation of virality and how to increase\
+  \ it\n(56:32) How to use “forest time” to zoom out and see problems in a new way\n(1:00:53) Lessons from Oji’s time at Bridgewater\
+  \ Associates\n(1:05:07) Why R&D teams need a larger system beyond Agile and design\n(1:06:57) Lightning round\n\nReferenced:\n\
+  • Where to fish to land a unicorn: https://ojiudezue.medium.com/where-to-fish-to-land-a-unicorn-in-b2b-saas-9bc93c96152c\n\
+  • Coda: https://coda.io/\n• Atlassian: https://www.atlassian.com/\n• Finding high-frequency customers (use cases): https://ojiudezue.medium.com/finding-high-frequency-customers-use-cases-53773a753bb5\n\
+  • Evernote: https://evernote.com/\n• Industry PM conference: https://www.industryconference.com/\n• Typeform: https://www.typeform.com/\n\
+  • Build better products with continuous product discovery | Teresa Torres: https://www.lennyspodcast.com/videos/build-better-products-with-continuous-product-discovery-teresa-torres/\n\
+  • Pendo: https://www.pendo.io/\n• Amplitude: https://amplitude.com/\n• Dan Hockenmaier on Twitter: https://twitter.com/danhockenmaier\n\
+  • Seth Godin’s blog: https://seths.blog/\n• A key ritual: Forest time: https://ojiudezue.substack.com/p/a-key-ritual-forest-time\n\
+  • Principles: https://www.principles.com/\n• Dot Collector: https://principlesus.com/dot-collector-real-time-feedback/\n\
+  • The Halo Effect:... and the Eight Other Business Delusions That Deceive Managers: https://www.amazon.com/Halo-Effect-Business-Delusions-Managers/dp/1476784035/\n\
+  • Dune: https://www.amazon.com/Dune-Penguin-Galaxy-Frank-Herbert/dp/0143111582\n• Foundation: https://www.amazon.com/Foundation-3-Book-Boxed-Set-Empire/dp/0593499573\n\
+  • Foundation on AppleTV+: https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3\n• Unlox: https://unlox.it/\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4576.0
 duration: '1:16:16'
 view_count: 11065

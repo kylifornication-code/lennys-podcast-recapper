@@ -1,15 +1,36 @@
 ---
 guest: Jiaona Zhang
-title: Building minimum lovable products, stories from WeWork & Airbnb, and thriving
-  as a PM | Jiaona Zhang
+title: Building minimum lovable products, stories from WeWork & Airbnb, and thriving as a PM | Jiaona Zhang
 youtube_url: https://www.youtube.com/watch?v=gLFZNzeylCc
 video_id: gLFZNzeylCc
 publish_date: 2023-07-02
-description: 'Jiaona Zhang (JZ) is a product leader with a strong background in consumer
-  products and extensive hiring and management experience. She is currently SVP of
-  Product at Webflow as well as a lecturer...
-
-  '
+description: "Jiaona Zhang (JZ) is a product leader with a strong background in consumer products and extensive hiring and\
+  \ management experience. She is currently SVP of Product at Webflow as well as a lecturer at Stanford, where she teaches\
+  \ a graduate-level course on product management. Before Webflow, JZ was Head of Product for the Homes Platform at Airbnb\
+  \ and has also led product teams at Airbnb, WeWork, and Dropbox. In today’s episode, we discuss:\n• Building a “minimum\
+  \ lovable product” rather than a minimum viable product\n• How to create better roadmaps through storytelling\n• Top lessons\
+  \ from Dropbox, Airbnb, WeWork, and Webflow\n• The importance of setting ambitious OKRs\n• JZ’s first 90 days playbook:\
+  \ how to succeed in a new role\n• Advice for early-career PMs\n\n—\n\nBrought to you by Brave Search API—An independent,\
+  \ global search index you can use to power your search or AI app | Miro—A collaborative visual platform where your best\
+  \ work comes to life | Superhuman—The fastest email experience ever made \n\nFind the transcript at: https://www.lennysnewsletter.com/p/building-minimum-lovable-products\n\
+  \nWhere to find Jiaona Zhang:\n• Reforge: https://www.reforge.com/managing-your-pm-career\n• LinkedIn: https://www.linkedin.com/in/jiaona/\n\
+  • Website: https://www.jiaonazhang.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter:\
+  \ https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) JZ’s background\n(04:22) Common mistakes new PMs make\n(06:44) Why Airbnb Plus didn’t work out, and takeaways from\
+  \ that experience\n(10:51) Executing big dreams step-by-step\n(13:45) The right way to push back against founders\n(16:54)\
+  \ Minimum lovable product vs. minimum viable product\n(20:53) What makes a product lovable\n(22:20) Advice on roadmapping\
+  \ and prioritization \n(28:04) Tips for new PMs to accelerate their career\n(29:16) JZ’s top skills and how they have evolved\
+  \ over her career\n(31:37) Designing crisp OKRs\n(36:09) Lessons from WeWork\n(43:01) Winning the first 90 days at a new\
+  \ company\n(48:34) Why trust is crucial\n(51:48) High-level lessons from Dropbox, Airbnb, WeWork, and Webflow\n(56:38) The\
+  \ one piece of advice that transformed JZ’s career\n(58:39) Lightning round\n\nReferenced:\n• Mike Lewis on LinkedIn: https://www.linkedin.com/in/mikelewis/\n\
+  • “What working at Figma taught me about customer obsession,” VP of Product Sho Kuwamoto: https://www.lennysnewsletter.com/p/what-working-at-figma-taught-me-about\n\
+  • WeWork: https://www.wework.com/\n• WeCrashed on AppleTV+: https://tv.apple.com/us/show/wecrashed/umc.cmc.6qw605uv2rwbzutk2p2fsgvq9\n\
+  • Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days: https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X\n\
+  • The Making of a Manager: What to Do When Everyone Looks to You: https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567\n\
+  • Tress of the Emerald Sea: A Cosmere Novel: https://www.amazon.com/Tress-Emerald-Sea-Brandon-Sanderson/dp/1250899656/\n\
+  • Arcane on Netflix: https://www.netflix.com/title/81435684\n• Snoo: https://www.happiestbaby.com/\n• Midjourney: https://www.midjourney.com/\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4052.0
 duration: '1:07:32'
 view_count: 19099

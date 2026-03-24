@@ -4,9 +4,136 @@ title: Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 youtube_url: https://www.youtube.com/watch?v=qbvY0dQgSJ4
 video_id: qbvY0dQgSJ4
 publish_date: 2025-10-23
-description: Chip Huyen is a core developer on Nvidia’s Nemo platform, a former AI
-  researcher at Netflix, and taught machine learning at Stanford. She’s a two-time
-  founder and the author of two widely...
+description: 'Chip Huyen is a core developer on Nvidia’s Nemo platform, a former AI researcher at Netflix, and taught machine
+  learning at Stanford. She’s a two-time founder and the author of two widely read books on AI, including AI Engineering,
+  which has been the most-read book on the O’Reilly platform since its launch. Unlike many AI commentators, Chip has built
+  multiple successful AI products and platforms and works directly with enterprises on their AI strategies, giving her unique
+  visibility into what’s actually happening inside companies building AI products.
+
+
+  *We discuss:*
+
+  1. What people think makes AI apps better vs. what actually makes AI apps better
+
+  2. What pre-training vs. post-training is, and why fine-tuning should be your last resort
+
+  3. How RLHF (reinforcement learning from human feedback) actually works
+
+  4. Why data quality matters more than which vector database you choose
+
+  5. Why high performers are seeing the most gains from AI coding tools
+
+  6. Why most AI problems are actually UX issues
+
+
+  *Brought to you by:*
+
+  Dscout—The UX platform to capture insights at every stage: from ideation to production: https://www.dscout.com/
+
+  Justworks—The all-in-one HR solution for managing your small business with confidence: https://www.justworks.com
+
+  Persona—A global leader in digital identity verification: https://withpersona.com/lenny
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/al-engineering-101-with-chip-huyen
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/176081814/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Chip Huyen:*
+
+  • X: https://x.com/chipro
+
+  • LinkedIn: https://www.linkedin.com/in/chiphuyen/
+
+  • Website: https://huyenchip.com/
+
+  • Substack: https://substack.com/@chiphuyen
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Chip Huyen
+
+  (04:28) Chip’s viral LinkedIn post
+
+  (07:05) Understanding AI training: pre-training vs. post-training
+
+  (08:50) Language modeling explained
+
+  (13:55) The importance of post-training
+
+  (15:20) Reinforcement learning and human feedback
+
+  (22:23) The importance of evals in AI development
+
+  (31:55) Retrieval augmented generation (RAG) explained
+
+  (38:50) Challenges in AI tool adoption
+
+  (43:19) Challenges in measuring productivity
+
+  (45:20) The three-bucket test
+
+  (49:10) The future of engineering roles
+
+  (55:31) ML Engineers vs. AI engineers
+
+  (57:12) Looking forward: the impact of AI
+
+  (01:05:48) Model capabilities vs. perceived performance
+
+  (01:08:23) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Chip’s LinkedIn post on what actually improves AI apps: https://www.linkedin.com/posts/chiphuyen_aiapplications-aiengineering-activity-7358971409227792384-y0mf/
+
+  • Prediction and Entropy of Printed English: https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf
+
+  • Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody (CEO of Mercor): https://www.lennysnewsletter.com/p/experts-writing-ai-evals-brendan-foody
+
+  •Inside the expert network training every frontier AI model | Garrett Lord (Handshake CEO): https://www.lennysnewsletter.com/p/inside-handshake-garrett-lord
+
+  • First interview with Scale AI’s CEO: $14B Meta deal, what’s working in enterprise AI, and what frontier labs are building
+  next | Jason Droege: https://www.lennysnewsletter.com/p/first-interview-with-scale-ais-ceo-jason-droege
+
+  • Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram): https://www.lennysnewsletter.com/p/anthropics-cpo-heres-what-comes-next
+
+  • Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar (creators of the #1 eval course):
+  https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill
+
+  ...References continued at: https://www.lennysnewsletter.com/p/al-engineering-101-with-chip-huyen
+
+
+  *Recommended books:*
+
+  • The Complete Sherlock Holmes: https://www.amazon.com/Complete-Sherlock-Holmes-Volumes/dp/0553328255
+
+  • AI Engineering: Building Applications with Foundation Models: https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302
+
+  • The Selfish Gene: https://www.amazon.com/Selfish-Gene-Anniversary-Introduction/dp/0199291152
+
+  • From Third World to First: The Singapore Story: 1965-2000: https://www.amazon.com/Third-World-First-Singapore-1965-2000/dp/0060197765
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4956.0
 duration: '1:22:36'
 view_count: 39648

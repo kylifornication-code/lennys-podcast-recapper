@@ -4,9 +4,45 @@ title: How to measure AI developer productivity in 2025 | Nicole Forsgren
 youtube_url: https://www.youtube.com/watch?v=SWcDfPVTizQ
 video_id: SWcDfPVTizQ
 publish_date: 2025-10-19
-description: Nicole Forsgren created the most widely used frameworks for measuring
-  developer productivity—DORA and SPACE. She wrote the foundational book Accelerate
-  and is about to release her newest...
+description: "Nicole Forsgren created the most widely used frameworks for measuring developer productivity—DORA and SPACE.\
+  \ She wrote the foundational book Accelerate and is about to release her newest book, Frictionless, a practical guide for\
+  \ helping teams move faster in the AI era. She’s currently Senior Director of Developer Intelligence at Google.\n\n*We discuss:*\
+  \ \n1. Why most productivity metrics are a lie\n2. Signs that your engineering team could be moving much faster\n3. Why\
+  \ AI accelerates coding but developers aren’t speeding up as much as you think\n4. AI’s impact on engineers getting into\
+  \ “flow”\n5. Her framework for building and scaling a developer experience team\n6. The three components of developer experience:\
+  \ flow state, cognitive load, and feedback loops\n\n*Brought to you by:* \nMercury—The art of simplified finances: https://mercury.com/\n\
+  WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\nCoda—The all-in-one collaborative\
+  \ workspace: https://coda.io/lenny\n\n*Transcript:* https://www.lennysnewsletter.com/p/how-to-measure-ai-developer-productivity\n\
+  \n*My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/175998086/my-biggest-takeaways-from-this-conversation\n\
+  \n*Where to find Nicole Forsgren:* \n• Twitter: https://twitter.com/nicolefv\n• LinkedIn: https://www.linkedin.com/in/nicolefv/\n\
+  • Website: https://nicolefv.com/\n\n*Where to find Lenny:* \n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\n*In this episode, we cover:* \n(00:00) Introduction to Nicole\
+  \ Forsgren\n(05:09) The concept of developer experience (DevEx)\n(08:33) Flow state and cognitive load in the age of AI\n\
+  (12:02) Challenges in measuring productivity with AI\n(21:19) The importance of developer experience for business value\n\
+  (22:20) Common issues and solutions in developer experience\n(26:49) Signs your eng team is moving too slow\n(29:52) How\
+  \ AI is improving productivity\n(33:32) Real examples of productivity improvements\n(36:35) Introducing her new book, Frictionless\n\
+  (43:40) How to get started building a DevEx team\n(45:15) The impact of forming developer experience teams\n(46:15)  How\
+  \ to measure the impact of DevEx teams\n(48:53) Measuring the impact of AI tools on productivity\n(55:16) Survey design\
+  \ for developer experience\n(57:59) Popular AI tools for developers\n(59:08) Bringing a product mindset to DevEx improvements\n\
+  (01:00:40) AI corner\n(01:02:33) Lightning round and final thoughts\n\n*Referenced:* \n• How to measure and improve developer\
+  \ productivity | Nicole Forsgren (Microsoft Research, GitHub, Google): https://www.lennysnewsletter.com/p/how-to-measure-and-improve-developer\n\
+  • DORA: https://dora.dev/\n• The SPACE framework: A comprehensive guide to developer productivity: https://getdx.com/blog/space-metrics/\n\
+  • Measuring developer productivity with the DX Core 4: https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/\n\
+  • Gloria Mark’s website: https://gloriamark.com/\n• Taking Flight with Copilot: https://dl.acm.org/doi/10.1145/3589996\n\
+  • DevEx in Action: https://spawn-queue.acm.org/doi/10.1145/3639443\n• CodeX: https://openai.com/codex/\n• Devin: https://devin.ai/\n\
+  • Abi Noda on LinkedIn: https://www.linkedin.com/in/abinoda/\n• DX is joining Atlassian: https://getdx.com/blog/dx-is-joining-atlassian/\n\
+  • GitHub Copilot: https://github.com/features/copilot\n• Cursor: https://cursor.com/\n• The rise of Cursor: The $300M ARR\
+  \ AI tool that engineers can’t stop using | Michael Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell\n\
+  • Gemini Code Assist: https://codeassist.google/\n• Claude Code: https://www.claude.com/product/claude-code\n• The AI-native\
+  \ startup: 5 products, 7-figure revenue, 100% AI-written code | Dan Shipper (co-founder/CEO of Every): https://www.lennysnewsletter.com/p/inside-every-dan-shipper\n\
+  • Love Is Blind on Netflix: https://www.netflix.com/title/80996601\n...References continued at: https://www.lennysnewsletter.com/p/how-to-measure-ai-developer-productivity\n\
+  \n*Recommended books:* \n• Frictionless: https://developerexperiencebook.com/\n• DevEx Workbook: https://developerexperiencebook.com/#workbook\n\
+  • Outlive: The Science and Art of Longevity: https://www.amazon.com/Outlive-Longevity-Peter-Attia-MD/dp/0593236599\n• Back\
+  \ Mechanic: https://www.amazon.com/Back-Mechanic-Stuart-McGill-2015-09-30/dp/B01FKSGJYC\n• How Big Things Get Done: The\
+  \ Surprising Factors That Determine the Fate of Every Project, from Home Renovations to Space Exploration and Everything\
+  \ in Between: https://www.amazon.com/How-Big-Things-Get-Done/dp/0593239512/\n• The Undoing Project: A Friendship That Changed\
+  \ Our Minds: https://www.amazon.com/dp/B01KBM82M4/\n\n_Production and marketing by https://penname.co/._\n_For inquiries\
+  \ about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4068.0
 duration: '1:07:48'
 view_count: 15366

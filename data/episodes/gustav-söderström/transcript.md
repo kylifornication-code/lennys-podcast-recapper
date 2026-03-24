@@ -1,15 +1,146 @@
 ---
 guest: Gustav Söderström
-title: The science of product, big bets, and how AI is impacting the future of music
-  | Gustav Söderström
+title: The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström
 youtube_url: https://www.youtube.com/watch?v=QtJoYFyrdPI
 video_id: QtJoYFyrdPI
 publish_date: 2023-05-21
-description: 'Gustav Söderström is the Co-President and Chief Product and Technology
-  Officer at Spotify. He is responsible for Spotify’s global product and technology
-  strategy, overseeing the product,...
+description: 'Gustav Söderström is the Co-President and Chief Product and Technology Officer at Spotify. He is responsible
+  for Spotify’s global product and technology strategy, overseeing the product, design, data, and engineering teams. Prior
+  to Spotify, he founded 13th Lab, a startup that was later acquired by Facebook’s Oculus. He also served as the Director
+  of Product and Business Development for Yahoo Mobile and founded Kenet Works, a company focused on community software for
+  mobile phones, which was acquired by Yahoo in 2006. In today’s episode, we discuss:
 
-  '
+  • How Spotify structures product teams to promote freedom of thought
+
+  • Lessons on thinking long-term and navigating negative feedback
+
+  • Why Gustav started a podcast and what he’s learned
+
+  • How AI has impacted the work PMs, engineers, and designers do within Spotify
+
+  • AI-generated music and its impact on artists
+
+  • What’s next for Spotify and Spotify Podcasting
+
+
+  —
+
+
+  Brought to you by Microsoft Clarity—See how people actually use your product | Eppo—Run reliable, impactful experiments
+  | Eco—Your most rewarding app
+
+
+  Find the full transcript at: https://www.lennysnewsletter.com/p/lessons-from-scaling-spotify-the
+
+
+  Where to find Gustav Söderström:
+
+  • Twitter: https://twitter.com/GustavS
+
+  • LinkedIn: https://www.linkedin.com/in/gustavsoderstrom/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Gustav’s background
+
+  (04:08) The various roles Gustav has occupied at Spotify
+
+  (06:54) Why Gustav launched a podcast and what he learned
+
+  (12:37) How PMs and product teams should think about AI
+
+  (21:23) AI-generated music
+
+  (26:19) Will AI continue to be a magic trick for products?
+
+  (28:27) How Spotify organizes product teams
+
+  (34:33) How Spotify operationalized autonomy
+
+  (35:45) Why Spotify uses a centralized model for structuring their organization
+
+  (43:34) The big bet Spotify took with redesigning its interface, and what they learned
+
+  (57:26) How they tested their hypothesis before launch
+
+  (1:02:35) Gustav’s “10% planning time” methodology 
+
+  (1:03:53) How to bring energy and clarity to your work
+
+  (1:08:07) How to systematize deep thinking
+
+  (1:10:29) The peeing-in-your-pants analogy 
+
+  (1:11:38) Thoughts on how the Swedish culture is portrayed in Succession 
+
+  (1:13:30) What’s next for Spotify and Spotify Podcasting
+
+  (1:15:52) Lightning round
+
+
+  Referenced:
+
+  • Spotify: https://open.spotify.com/
+
+  • Daniel Ek: https://www.linkedin.com/in/daniel-ek-1b52093a/
+
+  • Spotify: A Product Story podcast: https://open.spotify.com/show/3L9tzrt0CthF6hNkxYIeSB
+
+  • Spotify’s AI DJ: https://newsroom.spotify.com/2023-02-22/spotify-debuts-a-new-ai-dj-right-in-your-pocket/
+
+  • Avicii: https://avicii.com/
+
+  • DALL-E: https://openai.com/product/dall-e-2
+
+  • Stable Diffusion: https://stability.ai/
+
+  • Midjourney: https://www.midjourney.com/
+
+  • Brian Chesky: https://www.linkedin.com/in/brianchesky/
+
+  • Succession on HBO: https://www.hbo.com/succession
+
+  • Fjällräven: https://www.fjallraven.com/us/en-us
+
+  • 7 Powers: The Foundations of Business Strategy: https://www.amazon.com/7-Powers-Hamilton-Helmer-audiobook/dp/B07SPHZCNL
+
+  • Charlie Munger: The Complete Investor: https://www.amazon.com/Charlie-Munger-Complete-Investor-Publishing-ebook/dp/B010EB3EUM
+
+  • The Mystery of the Aleph: Mathematics, the Kabbalah, and the Search for Infinity: https://www.amazon.com/Mystery-Aleph-Mathematics-Kabbalah-Infinity/dp/B00005OSHY
+
+  • Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime: https://www.amazon.com/Something-Deeply-Hidden-audiobook/dp/B07QT9TBQW
+
+  • Helgoland: Making Sense of the Quantum Revolution: https://www.amazon.com/Helgoland-Making-Sense-Quantum-Revolution/dp/B08MQYRVRX
+
+  • The Beginning of Infinity: Explanations That Transform the World: https://www.amazon.com/Beginning-Infinity-Explanations-Transform-2011-07-21/dp/B01NGZJHOK
+
+  • The Fabric of Reality: The Science of Parallel Universes—and Its Implications: https://www.amazon.com/The-Fabric-of-Reality-audiobook/dp/B07L5XWD7X
+
+  • The Case Against Reality: Why Evolution Hid the Truth from Our Eyes: https://www.amazon.com/The-Case-Against-Reality-audiobook/dp/B07VL5TCVF
+
+  • Gödel’s Proof: https://www.amazon.com/G%C3%B6dels-Proof-Ernest-Nagel/dp/0814758371
+
+  • The Demon in the Machine: How Hidden Webs of Information Are Solving the Mystery of Life: https://www.amazon.com/Demon-Machine-Information-Solving-Mystery/dp/B0C3WPGH4P
+
+  • Halt and Catch Fire on Apple TV: https://tv.apple.com/us/show/halt-and-catch-fire/umc.cmc.5s15r46uj0wx044tipm2zoh88
+
+  • Duolingo: https://www.duolingo.com/
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5070.0
 duration: '1:24:30'
 view_count: 15979

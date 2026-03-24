@@ -1,15 +1,47 @@
 ---
 guest: Jake Knapp + John Zeratsky
-title: Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make
-  Time, Character VC)
+title: Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)
 youtube_url: https://www.youtube.com/watch?v=cuce7zvOFHY
 video_id: cuce7zvOFHY
 publish_date: 2024-02-11
-description: 'Jake Knapp and John Zeratsky are bestselling authors of the books Sprint
-  and Make Time. They have helped more than 300 teams design new products and bring
-  them to market, including those at...
-
-  '
+description: "Jake Knapp and John Zeratsky are bestselling authors of the books Sprint and Make Time. They have helped more\
+  \ than 300 teams design new products and bring them to market, including those at YouTube, Gusto, One Medical Group, and\
+  \ Slack. Jake and JZ are co-founders of the venture capital firm Character, where they support startups with capital and\
+  \ sprints. Previously, they were operating partners at Google Ventures and, before that, design leaders at Google, where\
+  \ JZ worked on Google Ads and YouTube and Jake helped build Gmail and co-founded Google Meet. In our conversation, we discuss:\n\
+  • “Busy bandwagon” and “infinity pools”\n• Creating one “highlight” each day\n• Their four-part framework for productivity\n\
+  • How to use the calendar to design your day\n• How creating friction can help you avoid distractions\n• Tips on creating\
+  \ a distraction-free phone\n• Strategies for managing email and distractions\n• The importance of reflecting on the day\
+  \ and making time for meaningful work\n• Design sprints\n\n—\n\n Brought to you by:\n• Sidebar—Accelerate your career by\
+  \ surrounding yourself with extraordinary peers: https://www.sidebar.com/lenny\n• Whimsical—The iterative product workspace:\
+  \ https://whimsical.com/lenny\n• WorkOS—The modern API for auth and user identity: https://workos.com/lenny\n\nFind the\
+  \ full transcript at: https://www.lennysnewsletter.com/p/making-time-for-what-matters-jake\n\nWhere to find Jake Knapp:\n\
+  • X: https://twitter.com/jakek\n• LinkedIn: https://www.linkedin.com/in/jake-knapp/\n• Website: https://jakeknapp.com/\n\
+  \nWhere to find John Zeratsky:\n• X: https://twitter.com/jazer\n• LinkedIn: https://www.linkedin.com/in/johnzeratsky/\n\
+  • Website: https://johnzeratsky.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) About Jake and John\n(04:10)\
+  \ Recording the audiobook for Make Time\n(06:06) What people often get wrong when trying to become more productive\n(11:24)\
+  \ The busy bandwagon and infinity pools\n(15:22) Real talk: Jake and John’s productivity levels \n(20:10) The four-part\
+  \ framework for getting more done: Highlight, Laser, Energize, Reflect\n(25:15) Step 1: Highlight\n(28:08) Designing your\
+  \ day with a calendar \n(30:52) The Groundhog Day mentality\n(35:10) Tactical advice for implementing the highlight method\n\
+  (39:30) An example of a failed highlight\n(48:08) Step 2: Laser\n(51:12) Creating intentional friction to avoid distractions\n\
+  (57:28) Curating a distraction-free phone\n(01:07:58) Resetting expectations and slowing your inbox\n(01:14:51) Systems\
+  \ over willpower \n(01:18:14) Managing email distractions\n(01:18:49) Step 3: Energize \n(01:22:05) Step 4: Reflect\n(01:26:30)\
+  \ Introduction to Sprint\n\nReferenced:\n• Make Time: How to Focus on What Matters Every Day: https://www.amazon.com/Make-Time-Focus-Matters-Every/dp/0525572422\n\
+  • Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days: https://www.amazon.com/Sprint-audiobook/dp/B019R2DQIY\n\
+  • Make Time blog: https://maketime.blog/\n• Make Time blog on X: https://twitter.com/maketimeblog\n• Character: https://www.character.vc/\n\
+  • Google Ventures: https://www.gv.com/\n• Character Labs: https://www.character.vc/labs\n• Strategies for becoming less\
+  \ distracted and improving focus | Nir Eyal (author of Indistractable and Hooked): https://www.lennyspodcast.com/strategies-for-becoming-less-distracted-and-improving-focus-nir-eyal-author-of-indistractable-and/\n\
+  • Groundhog Day on Prime Video: https://www.amazon.com/Groundhog-Day-Bill-Murray/dp/B000SP1SH6\n• Reclaim.ai: https://reclaim.ai/\n\
+  • Feed Blocker for LinkedIn: https://chromewebstore.google.com/detail/feed-blocker-for-linkedin/eikaafmldiioljlilngpogcepiedpenf\n\
+  • The Lord of the Rings: https://www.amazon.com/Lord-Rings-J-R-R-Tolkien/dp/0544003411\n• MagSafe charger: https://www.amazon.com/Apple-MHXH3AM-A-MagSafe-Charger/dp/B08L5NP6NG/\n\
+  • Nanit app: https://www.nanit.com/pages/nanit-app\n• Arianna Huffington’s Phone Bed Charging Station: https://www.amazon.com/Arianna-Huffingtons-Charging-Station-Walnut/dp/B0799ZG1LY\n\
+  • Cell Phone Lock Box with Timer: https://www.amazon.com/Portable-Android-Self-Discipline-Achieve-Addiction/dp/B0CG8V4YG3?th=1\n\
+  • The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich: https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357\n\
+  • The Economist: https://www.economist.com/\n• Odysseus: https://www.britannica.com/topic/Odysseus\n• Mailman: https://www.mailmanhq.com/\n\
+  • Future: https://www.future.co/\n• Notion: https://www.notion.so/\n• Miro: https://miro.com/\n\nProduction and marketing\
+  \ by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be\
+  \ an investor in the companies discussed."
 duration_seconds: 5739.0
 duration: '1:35:39'
 view_count: 14486

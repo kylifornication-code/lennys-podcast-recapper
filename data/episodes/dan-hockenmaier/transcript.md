@@ -4,11 +4,121 @@ title: Developing a growth model + marketplace growth strategy | Dan Hockenmaier
 youtube_url: https://www.youtube.com/watch?v=AlTQ6O2qooI
 video_id: AlTQ6O2qooI
 publish_date: 2022-10-09
-description: 'Dan Hockenmaier is an expert on marketplace strategy and growth. He
-  was previously the Director of Growth at Thumbtack as well as a partner at Reforge,
-  where he co-created the monetization...
+description: 'Dan Hockenmaier is an expert on marketplace strategy and growth. He was previously the Director of Growth at
+  Thumbtack as well as a partner at Reforge, where he co-created the monetization track. Currently, he is the Head of Strategy
+  and Analytics at Faire. In today’s episode, Dan shares the building blocks of a growth model, important considerations when
+  building your growth model, and how to get started. We also chat about retention best practices, the complexity of building
+  a marketplace, the future of marketplaces, and when it makes sense to add a SaaS business to a marketplace, and vice versa.
 
-  '
+
+  Find the full transcript here: https://www.lennysnewsletter.com/p/developing-a-growth-model-marketplace
+
+
+  —
+
+
+  Where to find Dan Hockenmaier:
+
+
+  • Twitter: https://twitter.com/danhockenmaier
+
+  • LinkedIn: https://www.linkedin.com/in/dan-hock/
+
+  • Website: https://www.danhock.com/
+
+
+  —
+
+
+  Where to find Lenny:
+
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  —
+
+
+  Thank you to our wonderful sponsors for making this episode possible:
+
+
+  • Amplitude: https://amplitude.com/
+
+  • Flatfile: https://www.flatfile.com/lenny
+
+  • Eppo: https://www.geteppo.com/
+
+
+  —
+
+
+  Referenced:
+
+
+  • Reforge: https://www.reforge.com/
+
+  • Casey Winters on Lenny’s Podcast: https://podcasts.apple.com/us/podcast/how-to-sell-your-ideas-and-rise-within-your-company
+
+  • Faire: https://www.faire.com/
+
+  • Dan’s blog post on the future of marketplaces: https://www.danhock.com/posts/the-future-of-marketplaces
+
+  • Careers at Faire: https://www.faire.com/careers
+
+
+  —
+
+
+  In this episode, we cover:
+
+
+  (00:00) Dan’s background
+
+  (04:01) What is a growth model?
+
+  (07:20) The building blocks of a growth model for your own business
+
+  (10:22) The value in building your own model
+
+  (11:12) The importance of retention over growth 
+
+  (14:49) Getting started building your model
+
+  (19:18) The growth model at Thumbtack
+
+  (20:36) The importance of the early user experience for retention
+
+  (25:02) Why is a marketplace a good business?
+
+  (28:23) Health metrics for marketplaces
+
+  (33:47) Supply and demand, and why you shouldn’t neglect demand
+
+  (36:23) The role of ROI equations and how to use them
+
+  (39:16) Why you should tread lightly when working with marketplaces
+
+  (42:43) Expanding marketplaces
+
+  (46:50) How marketplaces can add a SaaS offering, and why adding a marketplace to a SaaS business is trickier
+
+  (49:47) When is there an opportunity to unbundle?
+
+  (54:43) B2B marketplaces 
+
+  (56:36) What is fragmentation?
+
+  (58:46) The future of marketplaces
+
+
+  —
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 3846.0
 duration: '1:04:06'
 view_count: 32719

@@ -4,11 +4,38 @@ title: How to foster innovation and big thinking | Eeke de Milliano (Retool, Str
 youtube_url: https://www.youtube.com/watch?v=2ezz4KJe7kA
 video_id: 2ezz4KJe7kA
 publish_date: 2023-02-02
-description: 'Eeke de Milliano is the Head of Product at Retool and a former product
-  lead at Stripe. In this episode, we discuss how any team can become an innovation
-  machine. We talk about how a culture...
-
-  '
+description: "Eeke de Milliano is the Head of Product at Retool and a former product lead at Stripe. In this episode, we discuss\
+  \ how any team can become an innovation machine. We talk about how a culture of writing led to a team of rigorous thinkers\
+  \ at Stripe. We cover tactics to breed innovative teams that you can replicate at your own company: From embracing retrospectives\
+  \ to creating systems that give individuals the \"permission to think big\". Eeke shares her framework for prioritizing\
+  \ resources between core products, strategic initiatives, and big bets, and how it helped Retool launch three new products\
+  \ in a year. She also gives a comprehensive overview of the right level of process for companies of different sizes, and\
+  \ how to build a talent portfolio.\n\n—\n\nBrought to you by Miro—A collaborative visual platform where your best work comes\
+  \ to life: https://miro.com/lenny | Notion—One workspace. Every team: https://www.notion.com/lennyspod | Eppo—Run reliable,\
+  \ impactful experiments: https://www.geteppo.com/\n\nFind the full transcript here: https://www.lennysnewsletter.com/p/how-to-foster-innovation-and-big\n\
+  \nWhere to find Eeke de Milliano:\n• Twitter: https://twitter.com/eekedm\n• LinkedIn: https://www.linkedin.com/in/eeke-de-milliano-3b05a629/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nReferenced:\n• Snir Kodesh on LinkedIn: https://www.linkedin.com/in/snirkodesh/\n\
+  • Stripe: https://stripe.com/\n• Stripe’s operating principles: https://stripe.com/jobs/culture\n• Retool: https://retool.com/\n\
+  • Brian Krausz on LinkedIn: https://www.linkedin.com/in/bkrausz/\n• Retool Workflows: https://retool.com/products/workflows/\n\
+  • Retool Mobile: https://retool.com/products/mobile\n• Retool Database: https://retool.com/products/database\n• Ian Leslie\
+  \ on “Being Human in the Age of AI”: https://www.econtalk.org/ian-leslie-on-being-human-in-the-age-of-ai/\n• Claire Hughes\
+  \ Johnson on LinkedIn: https://www.linkedin.com/in/claire-hughes-johnson-7058/\n• Scaling People: Tactics for Management\
+  \ and Company Building: https://www.amazon.com/Scaling-People-Tactics-Management-Building/dp/1953953212\n• Linear: https://linear.app/\n\
+  • Bird by Bird: Some Instructions on Writing and Life: https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/\n\
+  • Lex Fridman Podcast: https://lexfridman.com/podcast/\n• EconTalk: https://www.econlib.org/econtalk/\n• The White Lotus\
+  \ on HBO: https://www.hbo.com/the-white-lotus\n• Gong: https://www.gong.io/product-demo/\n• FullStory: https://www.fullstory.com/\n\
+  • Rewind: https://www.rewind.ai/\n\nIn this episode, we cover:\n(00:00) Eeke’s background \n(03:36) Eeke’s time at Stripe\n\
+  (08:58) Why Stripe didn’t add PMs until hitting around 100 employees\n(11:03) Why being a PM is not for everyone\n(12:22)\
+  \ Stripe’s internal culture guide\n(17:36) Stripe’s operating principles \n(20:52) Why isn’t every team innovative?\n(23:21)\
+  \ Retool’s “crazy ideas” list \n(27:27) How to cultivate a failure-safe space \n(28:47) Fostering risk-taking and innovation\n\
+  (32:03) The three products Retool launched this year\n(35:06) How Retool was able to launch several products at once\n(38:00)\
+  \ The amount of process needed through different stages of growth\n(45:37) Why you should build products for your “best\
+  \ users”\n(47:34) Build the scooter, not the axle (why you should make something simple but functional first)\n(48:37) The\
+  \ 70-20-10 framework for investing resources and time\n(49:57) Finding time for maintenance and bug fixes\n(50:59) How Retool’s\
+  \ PMs keep close to customers\n(53:29) Building product in a sales-led org vs. product-led growth \n(56:10) The product\
+  \ talent portfolio: how to build diverse, balanced teams\n(58:43) Lightning round\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 3776.0
 duration: '1:02:56'
 view_count: 13631

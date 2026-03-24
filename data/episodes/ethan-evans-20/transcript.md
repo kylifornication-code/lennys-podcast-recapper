@@ -4,9 +4,29 @@ title: Taking control of your career | Ethan Evans (Amazon)
 youtube_url: https://www.youtube.com/watch?v=GB0P0_nFPTA
 video_id: GB0P0_nFPTA
 publish_date: 2024-01-14
-description: Ethan Evans is a writer, career coach, course instructor, and retired
-  VP at Amazon. During his 15 years at Amazon, he helped invent Prime Video, Amazon
-  Video, the Amazon Appstore, Prime Gaming...
+description: "Ethan Evans is a writer, career coach, course instructor, and retired VP at Amazon. During his 15 years at Amazon,\
+  \ he helped invent Prime Video, Amazon Video, the Amazon Appstore, Prime Gaming (formerly Twitch Prime), and Twitch Commerce.\
+  \ Prior to Amazon, Ethan spent 12 years in technical leadership roles at several East Coast startups. He writes a newsletter,\
+  \ Level Up, which publishes candid career advice and has a growing community of ambitious professionals to connect with.\
+  \ Ethan also offers a range of Leadership Development Courses via live online classes and on-demand courses. In this episode,\
+  \ we discuss:\n• The Magic Loop framework: a five-step process to grow your career\n• A handful of reasons why people get\
+  \ stuck in their career growth\n• Advice on how to break out of a career plateau\n• How to cultivate inventiveness in your\
+  \ work\n• How to stand out in interviews\n• A personal story of failing Jeff Bezos and lessons learned\n• Contrarian opinions\
+  \ on the return-to-office movement and doing business on a handshake\n\n—\n\nBrought to you by Sidebar—Accelerate your career\
+  \ by surrounding yourself with extraordinary peers: https://www.sidebar.com/lenny?utm_source=lennys&utm_medium=newsletter&utm_campaign=waitlist&utm_content=accelerate\
+  \ | Sprig—Build a product people love: https://sprig.com/getstarted?utm_source=lenny&utm_medium=podcast | Arcade Software—Create\
+  \ effortlessly beautiful demos in minutes: https://arcade.software/lenny\n\nFind the transcript and references at: https://www.lennysnewsletter.com/p/taking-control-of-your-career-ethan\n\
+  \nWhere to find Ethan Evans:\n• LinkedIn: https://www.linkedin.com/in/ethanevansvp/\n• Substack: https://levelupwithethanevans.substack.com/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Ethan’s background \n(04:25) The Magic Loop \n(08:31) The goal of the Magic Loop\n\
+  (10:59) Clarifications on the framework\n(12:46) Success stories \n(17:22) The importance and effectiveness of the Magic\
+  \ Loop \n(19:01) A quick summary of the steps in the Magic Loop\n(21:46) What if you’re not pursuing a promotion?\n(23:09)\
+  \ How to break out of a career plateau \n(28:52) How to become systematically inventive \n(36:04) Interview advice and how\
+  \ to stand out \n(40:43) A story of failing Jeff Bezos \n(50:31) Lessons learned from that failure\n(57:30) What Ethan would\
+  \ have done differently\n(01:00:35) Amazon’s leadership principles \n(01:08:52) Contrarian corner: Returning to the office\
+  \ vs. staying remote\n(01:10:39) Contrarian corner: Doing business on a handshake \n(01:11:52) Lightning round\n\nProduction\
+  \ and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\n\
+  Lenny may be an investor in the companies discussed."
 duration_seconds: 4868.0
 duration: '1:21:08'
 view_count: 68243

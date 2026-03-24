@@ -4,11 +4,45 @@ title: The UX Research reckoning is here | Judd Antin (Airbnb, Meta)
 youtube_url: https://www.youtube.com/watch?v=L6RKi9ZvkT4
 video_id: L6RKi9ZvkT4
 publish_date: 2024-01-04
-description: 'Judd Antin has spent 15 years leading research and design teams at companies
-  like Yahoo, Meta, and Airbnb. His direct reports have gone on to lead user research
-  at Figma, Notion, Slack, Robinhood,...
-
-  '
+description: "Judd Antin has spent 15 years leading research and design teams at companies like Yahoo, Meta, and Airbnb. His\
+  \ direct reports have gone on to lead user research at Figma, Notion, Slack, Robinhood, Duolingo, AllTrails, and more. In\
+  \ our conversation, we unpack the transformation that the user-research field is experiencing. Specifically:\n• Where user\
+  \ research went wrong over the past decade\n• The three types of research—macro, middle-range, and micro—and the purpose\
+  \ of each\n• How to effectively integrate researchers into the product development process\n• The “user-centered performance”\
+  \ phenomenon and why it’s a waste of time\n• Common tropes about PMs, from researchers\n• The ideal ratio of researchers\
+  \ in a company\n• Why Judd says NPS is useless, and what to use instead\n\n—\n\nBrought to you by Teal—Your personal career\
+  \ growth platform: http://tealhq.com/lenny | Vanta—Automate compliance. Simplify security: https://vanta.com/lenny | Ahrefs—Improve\
+  \ your website’s SEO for free: https://ahrefs.com/awt\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/the-ux-research-reckoning-is-here\n\
+  \nWhere to find Judd Antin:\n• LinkedIn: https://www.linkedin.com/in/juddantin/\n• Website: https://juddantin.com/\n• Blog:\
+  \ https://medium.com/onebigthought\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Judd’s background\n(04:16)\
+  \ Critiques and responses to Judd’s post “The UX Research Reckoning Is Here”\n(07:33) The state of user research \n(08:53)\
+  \ Macro, middle-range, and micro research \n(14:05) What teams get wrong when it comes to research\n(15:46) The importance\
+  \ of integrating research from the beginning \n(17:30) Traits of great researchers \n(19:53) Advice for evaluating user\
+  \ researchers\n(21:10) Balancing business and product focus\n(23:55) User-centered performance \n(26:42) The role of intuition\
+  \ in product development \n(30:15) Checking your gut instincts \n(32:54) Common tropes about PMs, from researchers\n(41:02)\
+  \ A/B testing vs. user research\n(43:15) Hindsight bias and narrative fallacy \n(44:55) Making recommendations based on\
+  \ research\n(47:26) Advice for teams on how to leverage researchers\n(51:18) How product managers can be better partners\
+  \ to user researchers \n(56:53) The ideal ratio of researchers in a company \n(59:43) Empowering user researchers to drive\
+  \ impact \n(01:03:39) The limitations of NPS as a metric \n(01:06:48) The risks of dogfooding\n(01:08:51) Lightning round\n\
+  \nReferenced:\n• Matt Gallivan on LinkedIn: https://www.linkedin.com/in/mattgallivan/\n• Janna Bray on LinkedIn: https://www.linkedin.com/in/janna-bray-a4046a25/\n\
+  • Celeste Ridlen on LinkedIn: https://www.linkedin.com/in/celesteridlen/\n• Rebecca Gray on LinkedIn: https://www.linkedin.com/in/rebeccagray2/\n\
+  • Hannah Pileggi on LinkedIn: https://www.linkedin.com/in/hannah-pileggi-43169314/\n• Louise Beryl on LinkedIn: https://www.linkedin.com/in/louise-beryl-13225833/\n\
+  • The UX Research Reckoning Is Here: https://medium.com/onebigthought/the-ux-research-reckoning-is-here-c63710ea4084\n•\
+  \ The end of the “free money” era: https://www.theguardian.com/technology/2023/apr/11/techscape-zirp-tech-boom\n• Cognitive\
+  \ biases: https://en.wikipedia.org/wiki/List_of_cognitive_biases\n• IDEO design thinking: https://designthinking.ideo.com/\n\
+  • Everything Is Obvious: How Common Sense Fails Us: https://www.amazon.com/Everything-Obvious-Common-Sense-Fails/dp/0307951790\n\
+  • Patrick Collison’s tweet: https://twitter.com/patrickc/status/1443215022029619200?lang=en\n• Brian Chesky on LinkedIn:\
+  \ https://www.linkedin.com/in/brianchesky/\n• Brian Chesky on Lenny’s Podcast: https://www.lennyspodcast.com/brian-cheskys-new-playbook/\n\
+  • What is CSAT and how do you measure it?: https://www.qualtrics.com/experience-management/customer/what-is-csat/\n• Michael\
+  \ Murakami on LinkedIn: https://www.linkedin.com/in/michaelhmurakami/\n• Bad Leadership: What It Is, How It Happens, Why\
+  \ It Matters: https://www.amazon.com/Bad-Leadership-Happens-Matters-Common/dp/1591391660\n• Demon Copperhead: https://www.amazon.com/Demon-Copperhead-Novel-Barbara-Kingsolver/dp/0063251922\n\
+  • All Systems Red: The Murderbot Diaries: https://www.amazon.com/All-Systems-Red-Murderbot-Diaries/dp/0765397536\n• The\
+  \ Last of Us on HBO: https://www.hbo.com/the-last-of-us\n• Belay glasses: https://www.amazon.com/Belay-Glasses-Climbing-Comfortable-Sturdy/dp/B08GSBYDKQ/\n\
+  • Epictetus: Control What You Can—Especially Yourself: https://www.shortform.com/blog/epictetus-control/\n• The 7 Habits\
+  \ of Highly Effective People: Powerful Lessons in Personal Change: https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519\n\
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4475.0
 duration: '1:14:35'
 view_count: 48444

@@ -1,15 +1,177 @@
 ---
 guest: Ethan Smith
-title: 'The ultimate guide to AEO: How to get ChatGPT to recommend your product |
-  Ethan Smith (Graphite)'
+title: 'The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)'
 youtube_url: https://www.youtube.com/watch?v=iT7kq-R3Gjc
 video_id: iT7kq-R3Gjc
 publish_date: 2025-09-14
-description: 'Ethan Smith is the CEO of Graphite—the leading SEO growth agency—and
-  my go-to expert on SEO. After 18 years of mastering traditional SEO, Ethan has been
-  at the forefront of what is called...
+description: 'Ethan Smith is the CEO of Graphite—the leading SEO growth agency—and my go-to expert on SEO. After 18 years
+  of mastering traditional SEO, Ethan has been at the forefront of what is called AEO: answer engine optimization, or, more
+  simply, getting your product to show up in ChatGPT/Claude/Gemini/Perplexity answers. He’s discovered that ChatGPT traffic
+  converts six times better than Google search—and most companies are completely missing this opportunity.
 
-  '
+
+  *In our conversation, we discuss:*
+
+  1. His 7-step playbook to rank #1 in ChatGPT
+
+  2. Why ChatGPT traffic converts 6x better than Google
+
+  3. How early-stage startups can win at AEO immediately (unlike with SEO, which takes years)
+
+  4. The three tactics that actually work: landing pages, YouTube videos, and Reddit comments
+
+  5. Why help-center content can suddenly be your highest-ROI investment
+
+  6. The specific Reddit strategy that works (spoiler: be authentic)
+
+  7. Why AI-generated content doesn’t work
+
+
+  *Brought to you by:*
+
+  Orkes—The enterprise platform for reliable applications and agentic workflows: https://www.orkes.io/
+
+  Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+  Great Question—Empower everyone to run great research: https://www.greatquestion.com/lenny
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/the-ultimate-guide-to-aeo-ethan-smith
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/172703231/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Ethan Smith:*
+
+  • Twitter: https://twitter.com/ethan_l_s
+
+  • LinkedIn: https://bit.ly/ethans-linkedin
+
+  • Graphite: https://graphite.io/
+
+  • Graphite Research Papers: https://bit.ly/graphite-five-percent
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Welcome back, Ethan
+
+  (04:34) The changing landscape of SEO
+
+  (06:19) AEO (answer engine optimization) vs. GEO (generative engine optimization)
+
+  (08:13) The impact of AEO
+
+  (11:51) How early-stage startups can win at AEO
+
+  (14:34) The quality of AEO leads
+
+  (15:35) On-site vs. off-site traffic
+
+  (16:32) Reddit’s role in AEO and avoiding spam
+
+  (20:11) How AI models use citations (RAG)
+
+  (21:41) Key principles for winning at AEO
+
+  (25:00) Avoiding hyper-SEOed content, and the importance of originality
+
+  (28:55) Actionable AEO playbook: steps and experiments
+
+  (33:35) Tracking, measuring, and share of voice
+
+  (38:34) Adapting AEO for B2B, commerce, and early-stage companies
+
+  (41:11) Is letting AI index your content good?
+
+  (43:06) Experimentation, control groups, and measuring results
+
+  (46:15) The future of AEO, SEO, and search channels
+
+  (51:35) AI-generated content: what works and what doesn’t
+
+  (55:25) The dangers of infinite AI derivatives
+
+  (58:44) The future: convergence of LLMs and search
+
+  (01:00:40) Help-center optimization and the long tail
+
+  (01:03:18) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • AEO Tools: https://bit.ly/graphite-aeo-tool
+
+  • The ultimate guide to SEO | Ethan Smith (Graphite): https://www.lennysnewsletter.com/p/the-ultimate-guide-to-seo-ethan-smith
+
+  • Inside ChatGPT: The fastest-growing product in history | Nick Turley (Head of ChatGPT at OpenAI): https://www.lennysnewsletter.com/p/inside-chatgpt-nick-turley
+
+  • Webflow: https://webflow.com/
+
+  • YouTube: https://youtube.com/
+
+  • Reddit: https://www.reddit.com/
+
+  • Quora: https://www.quora.com/
+
+  • An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth): https://www.lennysnewsletter.com/p/an-inside-look-at-deels-unprecedented
+
+  • Dotdash Meredith: https://www.people.inc/
+
+  • Forbes: https://www.forbes.com/
+
+  • Vimeo: https://vimeo.com/
+
+  • Perplexity: https://www.perplexity.ai/
+
+  • Gemini: https://gemini.google.com/
+
+  • ChatGPT: https://chatgpt.com/
+
+  • Claude: https://claude.ai/
+
+  • TechRadar: https://www.techradar.com/
+
+  • Yelp: https://www.yelp.com
+
+  • Tripadvisor: https://www.tripadvisor.com/
+
+  • TikTok: https://www.tiktok.com/
+
+  • Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour (Reforge): https://www.lennysnewsletter.com/p/why-chatgpt-will-be-the-next-big-growth-channel-brian-balfour
+
+  • AI SEO: Latest Market Intelligence & Landscape Analysis—Summer Sessions: https://www.youtube.com/watch?v=cm589PmhIOY
+
+  • AI Content Study: https://bit.ly/ai-content-white-paper
+
+  • Free AI detector: https://surferseo.com/ai-content-detector/
+
+  • Common Crawl: https://commoncrawl.org/
+
+  • AI models collapse when trained on recursively generated data: https://www.nature.com/articles/s41586-024-07566-y
+
+  • Looker: https://cloud.google.com/looker/
+
+  ...References continued at: https://www.lennysnewsletter.com/p/the-ultimate-guide-to-aeo-ethan-smith
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4316.0
 duration: '1:11:56'
 view_count: 98036

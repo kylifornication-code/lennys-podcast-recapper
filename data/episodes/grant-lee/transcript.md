@@ -1,15 +1,166 @@
 ---
 guest: Grant Lee
-title: '“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee
-  (co-founder)'
+title: '“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)'
 youtube_url: https://www.youtube.com/watch?v=3H0ngGU5pbM
 video_id: 3H0ngGU5pbM
 publish_date: 2025-11-13
-description: 'Grant Lee is the co-founder of Gamma, the AI-powered presentation tool
-  that’s one of the hottest and most interesting AI startups in the world right now.
-  They’re valued at over $2 billion,...
+description: 'Grant Lee is the co-founder of Gamma, the AI-powered presentation tool that’s one of the hottest and most interesting
+  AI startups in the world right now. They’re valued at over $2 billion, and they hit $100 million ARR in just over two years,
+  with a lean team of just around 30 people. Unlike many fast-growing AI startups, Gamma has been profitable for most of its
+  history, has not raised significant funding, and they built a massive business in a category most investors dismissed. In
+  fact, one investor told Grant his idea was “the dumbest idea he had ever heard.”
 
-  '
+
+  *We discuss:*
+
+  1. How Gamma found product-market fit by rethinking their onboarding
+
+  2. Their process for building a “word-of-mouth machine”
+
+  3. How they leveraged more than 1,000 micro-influencers instead of big names
+
+  4. Why focusing on the “first 30 seconds” transformed their business
+
+  5. Their approach to pricing that led to profitability within months
+
+  6. How Grant thinks about building a durable “GPT wrapper” business
+
+
+  *Brought to you by:*
+
+  Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+  Justworks—The all-in-one HR solution for managing your small business with confidence: https://www.justworks.com/
+
+  Miro—A collaborative visual platform where your best work comes to life: https://miro.com/lenny
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/how-50-people-built-a-profitable-ai-unicorn
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/178015551/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Grant Lee:*
+
+  • X: https://x.com/thisisgrantlee
+
+  • LinkedIn: https://www.linkedin.com/in/grantslee
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Grant Lee and Gamma
+
+  (05:59) The founding story of Gamma
+
+  (09:52) Achieving product-market fit
+
+  (15:43) Self-awareness as a founder
+
+  (17:17) The power of onboarding
+
+  (20:41) The original insight that led to Gamma
+
+  (22:42) Founder-led marketing and growth tactics
+
+  (29:20) Sharing online
+
+  (37:40) Getting to $100M ARR
+
+  (41:19) Influencer marketing as a growth strategy
+
+  (54:08) Virality is not an accident
+
+  (58:30) Investing in brand before paid ads
+
+  (01:02:04) Tips for getting started with performance marketing
+
+  (01:04:49) Prototyping and user feedback
+
+  (01:16:12) Adapting and moving quickly
+
+  (01:19:21) The concept of GPT wrapper companies
+
+  (01:22:16) Deep dive into workflow and model utilization
+
+  (01:29:06) Pricing strategies
+
+  (01:34:53) Hiring philosophy and practices
+
+  (01:43:24) Betting big on high performers
+
+  (01:45:03) Final thoughts and lightning round
+
+
+  *Referenced:*
+
+  • How AI is transforming presentations: Gamma’s story: https://www.jpmorgan.com/insights/technology/artificial-intelligence/gammas-startup-journey-the-future-of-presentations-with-ai
+
+  • Gamma: https://gamma.app
+
+  • Product Hunt: https://www.producthunt.com
+
+  • Lessons on building product sense, navigating AI, optimizing the first mile, and making it through the messy middle |
+  Scott Belsky (Adobe, Behance): https://www.lennysnewsletter.com/p/lessons-on-building-product-sense
+
+  • Grant’s launch post on X: https://x.com/thisisgrantlee/status/1640701282959912961
+
+  • Paul Graham’s response on X: https://x.com/paulg/status/1642051326929510400
+
+  • Smith & Diction: https://smith-diction.com
+
+  • Perplexity: https://www.perplexity.ai
+
+  • 1stCollab: https://www.1stcollab.com
+
+  • AKG Media: https://akgmedia.co.uk
+
+  • Dunbar’s number: https://en.wikipedia.org/wiki/Dunbar%27s_number
+
+  • Grant’s post on X about influencer marketing: https://x.com/thisisgrantlee/status/1966874658680303880
+
+  • Midjourney: https://www.midjourney.com
+
+  • Notion: https://www.notion.com
+
+  • Voicepanel: https://www.voicepanel.com
+
+  • UserTesting: https://www.usertesting.com
+
+  • Cursor: https://cursor.com
+
+  • The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell
+
+  • Lovable: https://lovable.dev/
+
+  ...References continued at: https://www.lennysnewsletter.com/p/how-50-people-built-a-profitable-ai-unicorn
+
+
+  *Recommended books:*
+
+  • Nobody Wants to Read Your Sh*t: Why That Is and What You Can Do About It: https://www.amazon.com/Nobody-Wants-Read-Your-Sh-ebook/dp/B01GZ1TJBI
+
+  • Shoe Dog: A Memoir by the Creator of Nike: https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike/dp/1501135910
+
+  • 7 Powers: The Foundations of Business Strategy: https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 6834.0
 duration: '1:53:54'
 view_count: 41679

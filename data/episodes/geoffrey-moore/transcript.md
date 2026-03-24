@@ -1,13 +1,37 @@
 ---
 guest: Geoffrey Moore
-title: Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating
-  a market
+title: Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market
 youtube_url: https://www.youtube.com/watch?v=RBbINB5HSHk
 video_id: RBbINB5HSHk
 publish_date: 2024-01-25
-description: 'Geoffrey Moore is an author, speaker, and advisor, widely known for
-  his seminal book Crossing the Chasm: Marketing and Selling Disruptive Products to
-  Mainstream Customers, which many consider...'
+description: "Geoffrey Moore is an author, speaker, and advisor, widely known for his seminal book Crossing the Chasm: Marketing\
+  \ and Selling Disruptive Products to Mainstream Customers, which many consider the most important book ever written on go-to-market\
+  \ strategy. Moore’s work is focused on the market dynamics surrounding disruptive innovations, and how one overcomes the\
+  \ challenge of transitioning from serving early adopters to the mainstream. In this episode, we discuss:\n• What “crossing\
+  \ the chasm” means\n• What steps to take before you try crossing the chasm\n• The importance of winning a marquee customer\n\
+  • The role of executive sponsors in the sales process\n• The differences between visionaries and pragmatists, and how to\
+  \ build for each\n• Geoffrey’s four go-to-market playbooks based on stage: Early Market, Bowling Alley, Tornado, and Main\
+  \ Street\n• The problem with discounting before crossing the chasm\n• “Deadly sins” to avoid when crossing the chasm\n\n\
+  —\n\nBrought to you by:\n• CommandBar—AI-powered user assistance for modern products and impatient users: https://www.commandbar.com/lenny\n\
+  • WorkOS—An API platform for quickly adding enterprise features: https://workos.com/\n• Arcade Software—Create effortlessly\
+  \ beautiful demos in minutes: https://arcade.software/lenny\n\nFind the transcript and references at: https://www.lennysnewsletter.com/p/geoffrey-moore-on-finding-your-beachhead\n\
+  \nWhere to find Geoffrey Moore:\n• X: https://twitter.com/geoffreyamoore\n• LinkedIn: https://www.linkedin.com/in/geoffreyamoore/\n\
+  • LinkedIn posts: https://www.linkedin.com/in/geoffreyamoore/recent-activity/articles/\n\nWhere to find Lenny:\n• Newsletter:\
+  \ https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Geoffrey’s background\n(04:03) What people often get wrong about Crossing the Chasm\n\
+  (05:58) Finding your beachhead segment\n(09:29) The four inflection points of the technology adoption lifestyle \n(15:45)\
+  \ Geoffrey’s bonfire and bowling alley analogies\n(18:36) Steps to take before trying to cross the chasm\n(22:19) Signs\
+  \ you’re ready to cross the chasm\n(25:19) Advice for startups on where to start\n(27:31) Thoughts on venture capital\n\
+  (27:53) A general timeline for crossing the chasm\n(30:52) What exactly is the “chasm”?\n(32:35) The difference between\
+  \ visionaries and pragmatists\n(36:05) Finding the compelling reason to buy\n(43:45) The Early Market playbook\n(45:46)\
+  \ The Bowling Alley playbook\n(48:39) Different sales approaches for early market and bowling alley\n(51:26) Changing the\
+  \ value state of the company\n(53:28) The Tornado playbook\n(57:35) Why combining playbooks doesn’t work\n(59:10) Using\
+  \ generative AI in different market phases\n(01:03:02) The risks of discounting \n(01:04:21) Other “deadly sins” of crossing\
+  \ the chasm\n(01:09:09) Positioning in crossing the chasm\n(01:10:36) Product-led growth and crossing the chasm\n(01:13:54)\
+  \ The challenges of software and entrepreneurship\n(01:16:35) How Geoffrey’s thinking has evolved \n(01:19:30) The importance\
+  \ of entrepreneurship and impact\n(01:20:42) His book The Infinite Staircase\n(01:23:58) Connect with Geoffrey Moore\n\n\
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5090.0
 duration: '1:24:50'
 view_count: 27639

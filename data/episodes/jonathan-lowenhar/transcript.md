@@ -1,15 +1,45 @@
 ---
 guest: Jonathan Lowenhar
-title: How a great founder becomes a great CEO | Jonathan Lowenhar (co-founder of
-  Enjoy The Work)
+title: How a great founder becomes a great CEO | Jonathan Lowenhar (co-founder of Enjoy The Work)
 youtube_url: https://www.youtube.com/watch?v=s0jn7eE33nk
 video_id: s0jn7eE33nk
 publish_date: 2024-12-05
-description: 'Jonathan Lowenhar is the co-founder of Enjoy The Work, an executive
-  coaching firm that helps founders become great CEOs. Over the past decade, Enjoy
-  The Work has supported over 165 founders...
-
-  '
+description: "Jonathan Lowenhar is the co-founder of Enjoy The Work, an executive coaching firm that helps founders become\
+  \ great CEOs. Over the past decade, Enjoy The Work has supported over 165 founders on their journey to becoming better leaders.\
+  \ In our conversation, we discuss:\n• The difference between being a founder and being a CEO\n• Common failure modes for\
+  \ startup CEOs and how to avoid them\n• The four key elements of an effective go-to-market strategy\n• A framework for evaluating\
+  \ potential acquisitions: the magic box paradigm\n• How to find and hire the best people\n• How to build a repeatable GTM\
+  \ machine\n• Why founders need to trust their intuition\n• Much more\n\n—\n\nBrought to you by:\n• Pendo—The only all-in-one\
+  \ product experience platform for any type of application: https://www.pendo.io/lenny\n• OneSchema—Import CSV data 10x faster:\
+  \ https://oneschema.co/lenny\n• Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\nFind the transcript\
+  \ at: https://www.lennysnewsletter.com/p/how-a-great-founder-becomes-a-great-ceo-jonathan-lowenhar\n\nWhere to find Jonathan\
+  \ Lowenhar:\n• X: https://x.com/jlowenhar\n• LinkedIn: https://www.linkedin.com/in/jlowenhar/\n• Enjoy the Work: https://etw.live/lenny\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Jonathan’s background \n(02:56) Understanding the rhythm of well-run companies\n(09:20)\
+  \ The founder mode vs. manager mode debate\n(12:05) Common company failure modes\n(13:36) Common CEO failure modes\n(25:25)\
+  \ The magic box paradigm for selling your startup\n(43:07) Advice for founders on building relationships \n(49:28) Hiring\
+  \ and building an amazing team\n(57:11) Types of executives: architect, optimizer, scaler\n(59:45) Working backward in hiring\n\
+  (01:02:54) Four key components of a go-to-market strategy\n(01:15:01) Trusting founder intuition\n(01:19:12) Founder vs.\
+  \ CEO: different roles, different skills\n(01:20:52) Closing thoughts and lightning round\n\nReferenced:\n• Founder mode\
+  \ memes: https://techcrunch.com/2024/09/04/those-founder-mode-memes-keep-coming/\n• Founder mode: https://paulgraham.com/foundermode.html\n\
+  • “Founder Mode” Is a Dangerous Red Herring: https://enjoythework.com/founder-mode-is-a-dangerous-red-herring/\n• Magic\
+  \ Box Paradigm: A Framework for Startup Acquisitions: https://www.amazon.com/Magic-Box-Paradigm-Framework-Acquisitions/dp/0692778047\n\
+  • Facebook Buys Instagram for $1 Billion: https://archive.nytimes.com/dealbook.nytimes.com/2012/04/09/facebook-buys-instagram-for-1-billion/\n\
+  • Chris Voss on X: https://x.com/fbinegotiator\n• Who: https://www.amazon.com/Who-Geoff-Smart/dp/0345504194\n• Brian Chesky\
+  \ on LinkedIn: https://www.linkedin.com/in/brianchesky/\n• Joe Gebbia on LinkedIn: https://www.linkedin.com/in/jgebbia/\n\
+  • Nathan Blecharczyk on LinkedIn: https://www.linkedin.com/in/blecharczyk/\n• 4 questions Shreyas Doshi wishes he’d asked\
+  \ himself sooner | Former PM leader at Stripe, Twitter, Google: https://www.lennysnewsletter.com/p/shreyas-doshi-live\n\
+  • Traction: How Any Startup Can Achieve Explosive Customer Growth: https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/1591848369\n\
+  • Adam Grant on LinkedIn: https://www.linkedin.com/in/adammgrant/\n• This will make you a better decision maker | Annie\
+  \ Duke (author of “Thinking in Bets” and “Quit,” former pro poker player): https://www.lennysnewsletter.com/p/making-better-decisions-annie-duke\n\
+  • How to identify your ideal customer profile (ICP): https://www.lennysnewsletter.com/p/how-to-identify-your-ideal-customer\n\
+  • How to get your marketing team to drive more impact: https://www.lennysnewsletter.com/p/how-to-get-your-marketing-team-to\n\
+  • The Five Dysfunctions of a Team: A Leadership Fable: https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756\n\
+  • The Untethered Soul: The Journey Beyond Yourself: https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379\n\
+  • Will & Harper on Netflix: https://www.netflix.com/title/81760197\n• Slow Horses on AppleTV+: https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o\n\
+  • Aura frames: https://auraframes.com/\n• Augie studio: https://augie.studio/\n• Harrah’s Entertainment: https://en.wikipedia.org/wiki/Harrah%27s_Entertainment\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5676.0
 duration: '1:34:36'
 view_count: 13172

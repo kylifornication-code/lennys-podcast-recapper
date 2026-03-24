@@ -4,11 +4,29 @@ title: How to unlock your product leadership skills | Ken Norton, Ex-Google
 youtube_url: https://www.youtube.com/watch?v=6P0Es02vIF4
 video_id: 6P0Es02vIF4
 publish_date: 2022-07-24
-description: 'Advancing as a product leader requires new skills and a new mindset.
-  Ken Norton is an executive coach who works with some of the top people in product
-  to help them get unstuck and find creativity...
-
-  '
+description: "Advancing as a product leader requires new skills and a new mindset. Ken Norton is an executive coach who works\
+  \ with some of the top people in product to help them get unstuck and find creativity again in their approach to problems\
+  \ and their careers. After 14 years as a Product Manager at Google, Ken brings deep experience in leadership and shares\
+  \ with us the lessons he most often offers his clients to unlock growth. Join us.\n\nFind the full transcript here: https://www.lennysnewsletter.com/p/how-to-unlock-your-product-leadership\n\
+  \n—\n\nThank you to our wonderful sponsors for making this episode possible:\n\n• Amplitude: https://amplitude.com/\n• Lenny’s\
+  \ Job Board: https://www.lennysjobs.com/talent\n• Unit: https://unit.co/lenny\n\n—\n\nWhere to find Ken Norton:\n\n• Twitter:\
+  \ https://twitter.com/kennethn\n• LinkedIn: https://www.linkedin.com/in/kennethnorton/\n• Product Leadership Coaching: https://www.bringthedonuts.com/coaching/\n\
+  \n—\n\nWhere to find Lenny:\n\n• Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n—\n\nBooks and Resources Recommended By Ken: \n\n• Dare To Lead by Brene Brown  https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520\
+  \ \n• 15 Commitments of Conscious Leadership https://conscious.is/15-commitments\n• Mastering Leadership by Bob Anderson\
+  \ https://www.amazon.com/Mastering-Leadership-Breakthrough-Performance-Extraordinary/dp/1119147190\n• Immunity to Change\
+  \ by Robert Kegan https://www.amazon.com/Immunity-Change-Potential-Organization-Leadership/dp/1422117367\n• Stop Telling\
+  \ Women They Have Imposter Syndrome https://hbr.org/2021/02/stop-telling-women-they-have-imposter-syndrome\n• Innovator’s\
+  \ Dilemma by Clayton Christensen https://www.amazon.com/Innovators-Dilemma-Revolutionary-Change-Business/dp/0062060244\n\
+  \n—\n\nIn this episode, we cover:\n\n[00:00] What to expect in this episode with Ken Norton\n[03:10] Why Ken will never\
+  \ get tired of donuts\n[05:05] Ken’s career path and what he does with executive coaching now\n[08:00] What Ken learned\
+  \ from his own executive coach[\n[12:02] Driving a car and the metaphor of learning a new skill\n[16:20] How Ken’s helping\
+  \ leaders shift their mindset\n[19:41] Creative vs reactive leadership mindset\n[22:15] How your underlying beliefs impact\
+  \ your leadership style\n[33:50] Mindset and authenticity and their role within leadership\n[39:00] What you can do if you\
+  \ can’t spend a lot on coaching\n[42:05] Resources Ken recommends (linked in notes)\n[44:22] Biggest blindspots people have\n\
+  [48:10] Why doing the hard thing, may be the best thing\n[49:20] What to do with imposter syndrome\n[58:40] Ways to find\
+  \ a coach\n[1:01:03] 10x vs 10%\n[1:05:35] Ken’s One Piece Of Advice For Hiring A Product Manager\n[1:13:00] How to find\
+  \ Ken"
 duration_seconds: 4689.0
 duration: '1:18:09'
 view_count: 6090

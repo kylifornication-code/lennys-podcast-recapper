@@ -4,11 +4,39 @@ title: How to price your product | Naomi Ionita (Menlo Ventures)
 youtube_url: https://www.youtube.com/watch?v=xvQadImf568
 video_id: xvQadImf568
 publish_date: 2023-01-12
-description: 'Naomi Ionita is a Partner at the venture capital firm, Menlo Ventures.
-  She started her career in engineering in 2002, shifted to product in 2006, and built
-  product growth and monetization teams...
-
-  '
+description: "Naomi Ionita is a Partner at the venture capital firm, Menlo Ventures. She started her career in engineering\
+  \ in 2002, shifted to product in 2006, and built product growth and monetization teams starting over a decade ago as one\
+  \ of the first PLG leaders in B2B. She was an early mentor at Reforge and her expertise is in building full-stack growth\
+  \ teams and cultures, launching new products, and helping existing products monetize and retain their users. Consider today’s\
+  \ episode a master class on monetization and pricing. We talk about common mistakes made by founders, specific experiments\
+  \ for how to determine pricing, and why initial growth sometimes comes at the expense of revenue. Naomi also introduces\
+  \ the concept of the Modern Growth Stack, how AI will play a role in growth, and what she’s most excited about for the future.\n\
+  \n—\n\nFind the full transcript here: https://www.lennyspodcast.com/how-to-price-your-product-naomi-ionita-menlo-ventures/#transcript\n\
+  \n—\n\nThank you to our wonderful sponsors for supporting this podcast:\n\n• Miro—A collaborative visual platform where\
+  \ your best work comes to life: https://miro.com/lenny\n• Notion—One workspace. Every team: https://www.notion.com/lennyspod\n\
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\n—\n\nWhere to find Naomi:\n\n• Twitter: https://twitter.com/npilosof\n\
+  • LinkedIn: https://www.linkedin.com/in/naomipilosofionita/\n• Website: https://www.menlovc.com/naomi-pilosof-ionita\n\n\
+  —\n\nWhere to find Lenny:\n\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n•\
+  \ LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\n—\n\nReferenced:\n\nDisclaimer: Lenny is an angel investor in\
+  \ a few startups mentioned in this episode: Eppo, Endgame, Pocus\n\n• Evernote: https://evernote.com/\n• Figma: https://www.figma.com/\n\
+  • The Van Westendorp pricing model: https://www.forbes.com/sites/rebeccasadwick/2020/06/22/how-to-price-products/?sh=7e6077f855c7\n\
+  • OpenView: https://openviewpartners.com/\n• SaaS business model at Profitwell: https://www.profitwell.com/recur/all/saas-business-model\n\
+  • Envoy: https://envoy.com/\n• Invoice2go: https://invoice.2go.com/\n• Gas: https://apps.apple.com/us/app/gas/id1641791746\n\
+  • Endgame: https://www.endgame.io/\n• Pocus: https://www.pocus.com/\n• Optimizely: https://www.optimizely.com/\n• Eppo:\
+  \ https://www.geteppo.com/\n• Amplitude: https://amplitude.com/\n• Chargebee: https://www.chargebee.com/\n• Zuora: https://www.zuora.com/\n\
+  • Metronome: https://metronome.com/\n• Orb: https://www.withorb.com/\n• Monetizing Innovation: How Smart Companies Design\
+  \ the Product Around the Price: https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867\n• Ask\
+  \ the Storybots on Netflix: https://www.netflix.com/title/80108159\n• Madhavan Ramanujam on Lenny’s Podcast: https://www.lennyspodcast.com/videos/the-art-and-science-of-pricing-madhavan-ramanujam-monetizing-innovation-simon-kucher/\n\
+  \n—\n\nIn this episode, we cover:\n\n(00:00) Naomi’s background\n(06:21) Why Evernote wasn’t able to leverage the kind of\
+  \ growth that Notion did\n(08:06) What founders get wrong when it comes to monetization\n(12:34) Which features to include\
+  \ in a freemium product\n(13:22) Day one vs. day one-hundred premium features\n(15:35) Matching price to value for optimal\
+  \ segmentation\n(18:50) When pricing should be revisited\n(19:38) How to determine price, and why it’s a good idea to have\
+  \ a cross-functional pricing team\n(23:06) How to restructure pricing holistically \n(25:58) How Envoy learned that they\
+  \ were undercharging\n(28:39) The importance of experimentation \n(32:19) How to balance growth with revenue\n(35:12) What\
+  \ is the modern data stack?\n(36:45) The modern growth stack\n(42:22) The importance of experimentation in the growth stack\n\
+  (42:59) Platforms for billing and monetization\n(46:13) Why a hybrid model of pricing tends to be most used in SaaS companies\n\
+  (49:01) Leveraging AI \n(49:52) Lightning round\n\n—\n\nProduction and marketing by https://penname.co/. For inquiries about\
+  \ sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 3197.0
 duration: '53:17'
 view_count: 15202

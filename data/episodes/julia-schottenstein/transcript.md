@@ -4,11 +4,40 @@ title: M&A, competition, pricing, and investing | Julia Schottenstein (dbt Labs)
 youtube_url: https://www.youtube.com/watch?v=y9hmrMBRPDI
 video_id: y9hmrMBRPDI
 publish_date: 2023-07-13
-description: 'Julia Schottenstein is a product lead at dbt Labs, a data transformation
-  company, and an active angel investor in data and infrastructure startups. She first
-  got excited about dbt in 2019 when...
-
-  '
+description: "Julia Schottenstein is a product lead at dbt Labs, a data transformation company, and an active angel investor\
+  \ in data and infrastructure startups. She first got excited about dbt in 2019 when she was a VC at NEA and decided to make\
+  \ the leap from investor to operator by joining dbt Labs. She also co-hosts the dbt Labs Analytics Engineering Podcast,\
+  \ a show about data trends that impact analytics engineers’ work. In today’s episode, we discuss:\n• Advice for founders\
+  \ hoping to improve their M&A outcome\n• How to strategically think about competition\n• How to determine your paid features\
+  \ and have willingness-to-pay conversations\n• Why Julia lives by “worse is better” and “tech debt is a champagne problem”\n\
+  • Lessons from dbt Labs\n• What PMs can learn from investors\n—\nBrought to you by Vanta—Automate compliance. Simplify security\
+  \ | Superhuman—The fastest email experience ever made | AssemblyAI—Production-ready AI models to transcribe and understand\
+  \ speech\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/m-and-a-competition-pricing-and-investing\n\n\
+  Where to find Julia Schottenstein:\n• Twitter: https://twitter.com/j_schottenstein\n• LinkedIn: https://www.linkedin.com/in/julia-schottenstein-25424318/\n\
+  • Podcast: https://open.spotify.com/show/4BKMMeVXk4jJnAQSqGSJvE\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we\
+  \ cover:\n(00:00) Julia’s background\n(04:15) How Julia went from VC to working in product at dbt Labs\n(08:24) Four things\
+  \ Julia uses to evaluate a company’s potential \n(11:10) How to identify whether or not you have product-market fit\n(12:05)\
+  \ Distribution strategies \n(13:11) M&A strategies\n(15:54) Lessons from the Transform acquisition\n(18:01) Competitive\
+  \ values at dbt\n(20:25) Keys to dbt’s success \n(26:35) An offsite exercise Julia used to help her team internalize upcoming\
+  \ changes\n(29:32) Determining what features are included in open source\n(31:56) Pricing and willingness to pay\n(33:34)\
+  \ Lessons from dbt Labs’s first pricing change\n(36:33) Whether or not to be public about selling your startup\n(40:08)\
+  \ How to utilize connections during acquisitions \n(44:57) How to communicate selling your company\n(46:33) M&A market forecast\n\
+  (47:28) Values at dbt Labs \n(50:14) Lessons from working with strongly opinionated users\n(52:02) The importance of shipping,\
+  \ learning, and iterating \n(54:08) How VC skills translate into product\n(57:03) Lightning round\n\nReferenced:\n• dbt\
+  \ Labs: https://www.getdbt.com/\n• Tristan Handy on LinkedIn: https://www.linkedin.com/in/tristanhandy/\n• dbt Labs acquires\
+  \ Transform to enhance Semantic Layer tool: https://www.techtarget.com/searchbusinessanalytics/news/365530993/DBT-Labs-acquires-Transform-to-enhance-Semantic-Layer-tool\n\
+  • Snowflake: https://www.snowflake.com/en/\n• Gödel, Escher, Bach: An Eternal Golden Braid: https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567\n\
+  • Red strings training clip from Ted Lasso: https://www.youtube.com/watch?v=aVe3Iwy10MA\n• Monetizing Innovation: https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867\n\
+  • Madhavan Ramanujam on Lenny’s Podcast: https://www.lennysnewsletter.com/p/the-art-and-science-of-pricing-madhavan#details\n\
+  • Pricing survey: https://www.qualtrics.com/marketplace/vanwesterndorp-pricing-sensitivity-study/\n• Hunter Walk’s blog\
+  \ post about publicly selling your startup: https://hunterwalk.com/2023/05/13/the-acquihire-market-for-early-stage-startups-is-ice-cold-one-better-strategy-announce-youre-for-sale/\n\
+  • Range: Why Generalists Triumph in a Specialized World: https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214506/\n\
+  • The Snowball: Warren Buffett and the Business of Life: https://www.amazon.com/Snowball-Warren-Buffett-Business-Life/dp/0553384619/r\n\
+  • Sam Walton: Made in America: https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835\n• Succession on HBO: https://www.hbo.com/succession\n\
+  • In Depth podcast: https://review.firstround.com/podcast\n• dbt community Slack: https://www.getdbt.com/community/join-the-community/\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 3651.0
 duration: '1:00:51'
 view_count: 3577

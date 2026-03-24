@@ -1,15 +1,29 @@
 ---
 guest: Deb Liu
-title: Succeeding as an introvert, building zero-to-one, and PM’ing your career like
-  a product | Deb Liu
+title: Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu
 youtube_url: https://www.youtube.com/watch?v=MajB5CQUKDA
 video_id: MajB5CQUKDA
 publish_date: 2024-08-22
-description: 'Deb Liu is the CEO of Ancestry and former longtime VP of Product at
-  Facebook. At Facebook, Deb led the creation of Facebook Marketplace, developed the
-  first mobile ad product for apps, built...
-
-  '
+description: "Deb Liu is the CEO of Ancestry and former longtime VP of Product at Facebook. At Facebook, Deb led the creation\
+  \ of Facebook Marketplace, developed the first mobile ad product for apps, built the company’s games business, and launched\
+  \ Facebook Pay. She’s also held leadership roles at PayPal and eBay, serves on the board of Intuit, and is the author of\
+  \ Take Back Your Power. In our conversation, we discuss:\n• Why you should PM your career like you PM your product\n• Strategies\
+  \ for incubating new products within large companies\n• Creating a successful 30-60-90-day plan when starting a new job\n\
+  • The pitfalls of perfectionism\n• The challenges introverts face in the workplace and how to overcome them\n• The value\
+  \ of resilience and turning failures into stepping stones\n• How to leverage coaching in your career development\n\n—\n\n\
+  Brought to you by:\n• Pendo—The only all-in-one product experience platform for any type of application: https://www.pendo.io/lenny\n\
+  • WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\n• Webflow—The web experience\
+  \ platform: https://webflow.com\n\nFind the transcript and show notes at: https://www.lennysnewsletter.com/p/succeeding-as-an-introvert-deb-liu\n\
+  \nWhere to find Deb Liu:\n• Threads: https://www.threads.net/@debliu\n• LinkedIn: https://www.linkedin.com/in/deborahliu\n\
+  • Substack: https://debliu.substack.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Introduction to Deb Liu \n\
+  (02:18) Deb’s career journey and key advice \n(09:45) Navigating new roles and challenges \n(11:27) Overcoming adversity\
+  \ and failure \n(15:07) Building billion-dollar businesses at Facebook \n(19:33) Strategies for zero-to-one innovation \n\
+  (23:40) PM your career like a product \n(33:53) Challenges and strategies for introverts in business \n(39:19) Reframing\
+  \ self-promotion \n(42:25) The power of accountability \n(46:15) Growth: a game of inches \n(50:52) The 30-60-90-day plan\
+  \ \n(56:52) Contrarian corner: career and marriage \n(58:57) Final nuggets of wisdom \n(01:03:09) How to find a coach\n\
+  (01:04:47) Lightning round\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast,\
+  \ email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4286.0
 duration: '1:11:26'
 view_count: 20146

@@ -1,15 +1,173 @@
 ---
 guest: Nabeel S. Qureshi
-title: How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder,
-  writer, ex-Palantir)
+title: How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder, writer, ex-Palantir)
 youtube_url: https://www.youtube.com/watch?v=xQkSenlJvwA
 video_id: xQkSenlJvwA
 publish_date: 2025-05-11
-description: '*Nabeel Qureshi* is an entrepreneur, writer, researcher, and visiting
-  scholar of AI policy at the Mercatus Center (alongside Tyler Cowen). Previously,
-  he spent nearly eight years at Palantir,...
+description: '*Nabeel Qureshi* is an entrepreneur, writer, researcher, and visiting scholar of AI policy at the Mercatus Center
+  (alongside Tyler Cowen). Previously, he spent nearly eight years at Palantir, working as a forward-deployed engineer. His
+  work at Palantir ranged from accelerating the Covid-19 response to applying AI to drug discovery to optimizing aircraft
+  manufacturing at Airbus. Nabeel was also a founding employee and VP of business development at GoCardless, a leading European
+  fintech unicorn.
 
-  '
+
+  *What you’ll learn:*
+
+  1. Why almost a third of all Palantir’s PMs go on to start companies
+
+  2. How the “forward-deployed engineer” model works and why it creates exceptional product leaders
+
+  3. How Palantir transformed from a “sparkling Accenture” into a $200 billion data/software platform company with more than
+  80% margins
+
+  4. The unconventional hiring approach that screens for independent-minded, intellectually curious, and highly competitive
+  people
+
+  5. Why the company intentionally avoids traditional titles and career ladders—and what they do instead
+
+  6. Why they built an ontology-first data platform that LLMs love
+
+  7. How Palantir’s controversial “bat signal” recruiting strategy filtered for specific talent types
+
+  8. The moral case for working at a company like Palantir
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/inside-palantir-nabeel-qureshi
+
+
+  *Brought to you by:*
+
+  • WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny
+
+  • Attio—The powerful, flexible CRM for fast-growing startups: https://attio.com/lenny?utm_source=lennyrachitsky&utm_medium=sponsorship&utm_campaign=lenny-20230625
+
+  • OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny
+
+
+  *Where to find Nabeel S. Qureshi:*
+
+  • X: https://x.com/nabeelqu
+
+  • LinkedIn: https://www.linkedin.com/in/nabeelqu/
+
+  • Website: https://nabeelqu.co/
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Nabeel S. Qureshi
+
+  (05:10) Palantir’s unique culture and hiring
+
+  (13:29) What Palantir looks for in people
+
+  (16:14) Why they don''t have titles
+
+  (19:11) Forward-deployed engineers at Palantir
+
+  (25:23) Key principles of Palantir''s success
+
+  (30:00) Gotham and Foundry
+
+  (36:58) The ontology concept
+
+  (38:02) Life as a forward-deployed engineer
+
+  (41:36) Balancing custom solutions and product vision
+
+  (46:36) Advice on how to implement forward-deployed engineers
+
+  (50:41) The current state of forward-deployed engineers at Palantir
+
+  (53:15) The power of ingesting, cleaning and analyzing data
+
+  (59:25) Hiring for mission-driven startups
+
+  (01:05:30) What makes Palantir PMs different
+
+  (01:10:00) The moral question of Palantir
+
+  (01:16:03) Advice for new startups
+
+  (01:21:12) AI corner
+
+  (01:24:00) Contrarian corner
+
+  (01:25:42) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Reflections on Palantir: https://nabeelqu.co/reflections-on-palantir
+
+  • Palantir: https://www.palantir.com/
+
+  • Intercom: https://www.intercom.com/
+
+  • Which companies produce the best product managers: https://www.lennysnewsletter.com/p/which-companies-produce-the-best
+
+  • Gotham: https://www.palantir.com/platforms/gotham/
+
+  • Foundry: https://www.palantir.com/platforms/foundry/
+
+  • Peter Thiel on X: https://x.com/peterthiel
+
+  • Alex Karp: https://en.wikipedia.org/wiki/Alex_Karp
+
+  • Stephen Cohen: https://en.wikipedia.org/wiki/Stephen_Cohen_(entrepreneur)
+
+  • Joe Lonsdale on LinkedIn: https://www.linkedin.com/in/jtlonsdale/
+
+  • Tyler Cowen’s website: https://tylercowen.com/
+
+  • This Scandinavian City Just Won the Internet With Its Hilarious New Tourism Ad: https://www.afar.com/magazine/oslos-new-tourism-ad-becomes-viral-hit
+
+  • Safe Superintelligence: https://ssi.inc/
+
+  • Mira Murati on X: https://x.com/miramurati
+
+  • Stripe: https://stripe.com/
+
+  • Building product at Stripe: craft, metrics, and customer obsession | Jeff Weinstein (Product lead): https://www.lennysnewsletter.com/p/building-product-at-stripe-jeff-weinstein
+
+  • Airbus: https://www.airbus.com/en
+
+  • NIH: https://www.nih.gov/
+
+  • Jupyter Notebooks: https://jupyter.org/
+
+  • Shyam Sankar on LinkedIn: https://www.linkedin.com/in/shyamsankar/
+
+  • Palantir Gotham for Defense Decision Making: https://www.youtube.com/watch?v=rxKghrZU5w8
+
+  • Foundry 2022 Operating System Demo: https://www.youtube.com/watch?v=uF-GSj-Exms
+
+  • SQL: https://en.wikipedia.org/wiki/SQL
+
+  • Airbus A350: https://en.wikipedia.org/wiki/Airbus_A350
+
+  • SAP: https://www.sap.com/index.html
+
+  • Barry McCardel on LinkedIn: https://www.linkedin.com/in/barrymccardel/
+
+  ...References continued at: https://www.lennysnewsletter.com/p/inside-palantir-nabeel-qureshi
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5849.0
 duration: '1:37:29'
 view_count: 23065

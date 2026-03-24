@@ -1,15 +1,31 @@
 ---
 guest: Roger Martin
-title: 5 essential questions to craft a winning strategy | Roger Martin (author, advisor,
-  speaker)
+title: 5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker)
 youtube_url: https://www.youtube.com/watch?v=y7SN4FK8noY
 video_id: y7SN4FK8noY
 publish_date: 2024-07-25
-description: 'Roger Martin is one of the world’s leading experts on strategy and the
-  author of Playing to Win, one of the most beloved books on strategy. He’s written
-  extensively for the Harvard Business...
-
-  '
+description: "Roger Martin is one of the world’s leading experts on strategy and the author of Playing to Win, one of the\
+  \ most beloved books on strategy. He’s written extensively for the Harvard Business Review; consulted for dozens of Fortune\
+  \ 500 companies, including P&G, Lego, and Ford; and written 11 other books. In our conversation, we discuss:\n• The five\
+  \ key questions you need to answer to develop an effective strategy\n• Why most companies get strategy wrong\n• How to avoid\
+  \ “playing to play” instead of playing to win\n• Real-world strategy examples from Procter & Gamble, Southwest Airlines,\
+  \ Lego, and Figma\n• How to think about differentiation vs. low cost\n• Shortcomings of current strategy education\n• Much\
+  \ more\n\n—\n\nCorrection: Roger pointed out that he made an error during our chat. When I asked him about Richard Rumelt\
+  \ (~16 mins), he thought I said Richard D'Aveni. \n\n—\n\nBrought to you by:\n• Webflow—The web experience platform: https://webflow.com\n\
+  • WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\n• Cycle—Your feedback\
+  \ hub, on autopilot: https://www.cycle.app/lenny?utm_source=youtube&utm_medium=paid&utm_campaign=lenny\n\nFind the transcript\
+  \ and references at: https://www.lennysnewsletter.com/p/the-ultimate-guide-to-strategy-roger-martin\n\nWhere to find Roger\
+  \ Martin:\n• X: https://x.com/RogerLMartin\n• LinkedIn: https://www.linkedin.com/in/roger-martin-9916911a9/\n• Website:\
+  \ https://rogerlmartin.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Roger’s background \n(02:27)\
+  \ The importance of strategy\n(07:03) Challenges in developing strategy\n(08:30) Critique of modern strategy education\n\
+  (17:40) Defining strategy and the choice cascade\n(23:20) Playing to win vs. playing to play\n(24:57) Examples of strategic\
+  \ success\n(31:04) Exploring differentiation and moats\n(40:23) Applying strategy to real-world scenarios\n(43:39) Customer-centric\
+  \ strategy\n(44:06) Defining the market and product\n(45:31) Value chain and distribution\n(50:34) Cost leadership vs. differentiation\n\
+  (53:16) Capabilities and management systems\n(57:37) Competitive advantage and market positioning\n(01:06:10) Adapting to\
+  \ market changes\n(01:14:32) Practical strategy tips\n(01:18:44) Final thoughts on strategy\n\nProduction and marketing\
+  \ by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be\
+  \ an investor in the companies discussed."
 duration_seconds: 4923.0
 duration: '1:22:03'
 view_count: 111686

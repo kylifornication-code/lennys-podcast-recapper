@@ -1,15 +1,125 @@
 ---
 guest: Michael Truell
-title: 'The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using
-  | Michael Truell'
+title: 'The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell'
 youtube_url: https://www.youtube.com/watch?v=En5cSXgGvZM
 video_id: En5cSXgGvZM
 publish_date: 2025-05-01
-description: '*Michael Truell* is the co-founder and CEO of Anysphere, the company
-  behind Cursor—the fastest-growing AI code editor in the world, reaching $300 million
-  in annual recurring revenue just...
+description: '*Michael Truell* is the co-founder and CEO of Anysphere, the company behind Cursor—the fastest-growing AI code
+  editor in the world, reaching $300 million in annual recurring revenue just two years after its launch. In this conversation,
+  Michael shares his vision for the future, lessons learned, and advice for preparing for the fast-approaching AI future.
 
-  '
+
+  *What you’ll learn:*
+
+  1. Cursor''s early pivot from automating CAD to automating code
+
+  2. Michael’s vision for “what comes after code” and how programming will evolve
+
+  3. Why Cursor built their own custom AI models despite not starting there
+
+  4. Key lessons from Cursor’s rapid growth
+
+  5. Why “taste” and logic design will become more valuable engineering skills than technical coding ability
+
+  6. Why the market for AI coding tools is much larger than people realize—and why there will likely be one dominant winner
+
+  7. Michael’s advice for engineers and product teams preparing for the AI future
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell
+
+
+  *Brought to you by:*
+
+  Eppo—Run reliable, impactful experiments: https://www.geteppo.com/
+
+  Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+  OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny
+
+
+  *Where to find Michael Truell:*
+
+  • X: https://x.com/mntruell
+
+  • LinkedIn: https://www.linkedin.com/in/michael-t-5b1bbb122/
+
+  • Website: https://mntruell.com/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Michael Truell and Cursor
+
+  (04:20) What comes after code
+
+  (08:32) The importance of taste
+
+  (12:39) Cursor’s origin story
+
+  (18:31) Why they chose to build an IDE
+
+  (22:39) Will everyone become engineering managers?
+
+  (24:31) How they decided it was time to ship
+
+  (26:45) Reflecting on Cursor''s success
+
+  (32:03) Counterintuitive lessons on building AI products
+
+  (34:02) Inside Cursor''s stack
+
+  (38:42) Defensibility and market dynamics in AI
+
+  (46:13) Tips for using Cursor
+
+  (51:25) Hiring and building a strong team
+
+  (59:10) Staying focused amid rapid AI advancements
+
+  (01:02:31) Final thoughts and advice for aspiring AI innovators
+
+
+  *Referenced:*
+
+  • Cursor: https://www.cursor.com/
+
+  • Microsoft Copilot: https://copilot.microsoft.com/
+
+  • Scaling laws for neural language models: https://openai.com/index/scaling-laws-for-neural-language-models/
+
+  • MIT: https://www.mit.edu/
+
+  • Telegram: https://telegram.org/
+
+  • Signal: https://signal.org/
+
+  • WhatsApp: https://www.whatsapp.com/
+
+  • Devin: https://devin.ai/
+
+  • Visual Studio Code: https://code.visualstudio.com/
+
+  • Chromium: https://chromium.googlesource.com/chromium/src/base/
+
+  • Exploring ChatGPT (GPT) Wrappers—What They Are and How They Work: https://learnprompting.org/blog/gpt_wrappers
+
+  • OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil (CPO at OpenAI, ex-Instagram,
+  Twitter): https://www.lennysnewsletter.com/p/kevin-weil-open-ai
+
+  • Behind the founder: Marc Benioff: https://www.lennysnewsletter.com/p/behind-the-founder-marc-benioff
+
+  • DALL-E 3: https://openai.com/index/dall-e-3/
+
+  • Stable Diffusion 3: https://stability.ai/news/stable-diffusion-3
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4274.0
 duration: '1:11:14'
 view_count: 122050

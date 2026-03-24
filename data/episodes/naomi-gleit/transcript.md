@@ -1,15 +1,165 @@
 ---
 guest: Naomi Gleit
-title: Meta’s head of product on working with Mark Zuckerberg, early growth tactics,
-  and more | Naomi Gleit
+title: Meta’s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit
 youtube_url: https://www.youtube.com/watch?v=sTYuKgzZoL8
 video_id: sTYuKgzZoL8
 publish_date: 2024-10-27
-description: 'Naomi Gleit is head of product at Meta, joined as employee #29, and
-  is the longest-serving executive at Meta other than Mark Zuckerberg. She’s been
-  at the center of some of the company’s...
+description: 'Naomi Gleit is head of product at Meta, joined as employee #29, and is the longest-serving executive at Meta
+  other than Mark Zuckerberg. She’s been at the center of some of the company’s most foundational products, including Facebook’s
+  early growth team. In our conversation, we discuss:
 
-  '
+  • How she originally landed at Facebook
+
+  • The evolution of Facebook’s growth team and key metrics
+
+  • Lessons from working with Mark Zuckerberg
+
+  • Insights from Facebook’s activation metric and retention strategies
+
+  • Leadership lessons and “Naomiisms” for effective product management
+
+  • Tactics for creating extreme clarity in team communication
+
+  • Advice for running effective meetings
+
+  • More
+
+
+  —
+
+
+  Brought to you by:
+
+  • Pendo—The only all-in-one product experience platform for any type of application: https://www.pendo.io/lenny
+
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+  • Eppo—Run reliable, impactful experiments: https://www.geteppo.com/
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/metas-head-of-product-naomi-gleit
+
+
+  Where to find Naomi Gleit:
+
+  • Instagram: https://www.instagram.com/naomigleit
+
+  • LinkedIn: https://www.linkedin.com/in/naomi-gleit/
+
+  • Website: https://naomi.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Introduction to Naomi Gleit
+
+  (01:53) Naomi’s journey at Meta
+
+  (06:18) Landing a job at Facebook
+
+  (10:40) Becoming a product manager
+
+  (13:40) Working as Head of Product at Meta
+
+  (14:55) Insights on working with Mark Zuckerberg
+
+  (20:04) Small Groups and “disagreeable givers”
+
+  (24:28) The legendary growth team
+
+  (33:45) Activation metrics and onboarding
+
+  (43:44) Naomi’s leadership and PM philosophy
+
+  (53:00) Canonical documents
+
+  (55:55) Simplifying complex projects
+
+  (01:00:33) Teen accounts: a case study
+
+  (01:06:37) Running effective meetings
+
+  (01:12:10) The importance of exercise
+
+  (01:16:36) The role of a product manager
+
+  (01:25:49) Lightning round
+
+
+  Referenced:
+
+  • Friendster: https://friendster.com/
+
+  • Myspace: https://en.wikipedia.org/wiki/Myspace
+
+  • Sean Parker on X: https://x.com/sparker
+
+  • Sheryl Sandberg on LinkedIn: https://www.linkedin.com/in/sheryl-sandberg-5126652/
+
+  • Sheryl Sandberg quote: https://thevcfactory.com/if-youre-offered-a-seat-on-a-rocket-ship-dont-ask-what-seat-sheryl-sandberg
+
+  • Making Meta | Andrew ‘Boz’ Bosworth (CTO): https://www.lennysnewsletter.com/p/making-meta-andrew-boz-bosworth-cto
+
+  • Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG): https://www.lennysnewsletter.com/p/authenticity-and-curiosity-ami-vora
+
+  • Mark Zuckerberg on Threads: https://www.threads.net/@zuck
+
+  •Mark Zuckerberg interview on Acquired podcast: https://www.acquired.fm/episodes/the-mark-zuckerberg-interview
+
+  • Adam Grant on X: https://x.com/AdamMGrant
+
+  • Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity: https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509
+
+  • Alex Schultz on LinkedIn: https://www.linkedin.com/in/alexorig
+
+  • Javier Olivan on LinkedIn: https://www.linkedin.com/in/javierolivan/
+
+  • Social impact at Meta: https://about.meta.com/social-impact/
+
+  • Adam Mosseri on LinkedIn: https://www.linkedin.com/in/mosseri
+
+  • Instagram teen accounts: https://about.fb.com/news/2024/09/instagram-teen-accounts/
+
+  • Extreme Clarity: https://naomi.com/extreme-clarity-c977d38f56dc
+
+  • Canonical Everything: https://naomi.com/canonical-everything-c85441a84e70
+
+  • Charles Porch on LinkedIn: https://www.linkedin.com/in/charlesporch/
+
+  • Guy Rosen on LinkedIn: https://www.linkedin.com/in/guyro/
+
+  • How a Meta Executive Strong-Arms Workouts into Her Schedule: https://www.wsj.com/lifestyle/fitness/how-a-meta-executive-strong-arms-workouts-into-her-schedule-57b9ab03
+
+  • Eight Sleep: https://www.eightsleep.com/
+
+  • WAOAW sleep mask: https://www.amazon.com/WAOAW-Sleep-Sleeping-Blocking-Blindfold/dp/B09XV3Z484
+
+  • Tim Ferriss’s website: https://tim.blog/
+
+  • The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America: https://www.amazon.com/Devil-White-City-Madness-Changed/dp/0375725601/
+
+  • The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz: https://www.amazon.com/Splendid-Vile-Churchill-Family-Defiance/dp/0385348711/
+
+  • Sapiens: A Brief History of Humankind: https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/
+
+  • Sapiens: A Graphic History: The Birth of Humankind: https://www.amazon.com/Sapiens-Graphic-History-Birth-Humankind/dp/0063051338/
+
+  ...References continued at: https://www.lennysnewsletter.com/p/metas-head-of-product-naomi-gleit
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5894.0
 duration: '1:38:14'
 view_count: 41690

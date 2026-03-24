@@ -1,15 +1,49 @@
 ---
 guest: Chris Hutchins
-title: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront,
-  Google)
+title: Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)
 youtube_url: https://www.youtube.com/watch?v=kc1XhB4k0Eg
 video_id: kc1XhB4k0Eg
 publish_date: 2022-12-18
-description: 'Chris Hutchins recently left his position as Head of New Product Strategy
-  at Wealthfront to focus full-time on his podcast, All the Hacks. If you’re thinking
-  about starting your own podcast...
-
-  '
+description: "Chris Hutchins recently left his position as Head of New Product Strategy at Wealthfront to focus full-time\
+  \ on his podcast, All the Hacks. If you’re thinking about starting your own podcast or are simply interested in the process,\
+  \ be sure to check out today’s episode. We dive deep on all things podcasting: the pros and cons, how to climb the charts,\
+  \ and how much time you should expect to spend on each episode from start to finish. We talk in-depth about the process,\
+  \ from pre-production to publication, and share all of the products we use for recording, editing, and publishing. Chris\
+  \ also offers some important tips and tricks on how to get your first subscribers and how to market and grow your podcast,\
+  \ as well as some incredible money-saving hacks that you can start implementing today.\n\nInterviews recorded with Riverside.\
+  \ Sign up for free: https://bit.ly/Riverside_Lenny. Use code LENNY30 for 30% off any Riverside.fm plan. \n\n—\n\nFind the\
+  \ full transcript here: https://www.lennysnewsletter.com/p/launching-and-growing-a-podcast-chris\n\n—\n\nThank you to our\
+  \ wonderful sponsors for supporting this podcast:\n\n• Notion—One workspace. Every team: https://www.notion.com/lennyspod\n\
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n• Lenny’s Job Board—Hire the best product people.\
+  \ Find the best product gigs: https://www.lennysjobs.com/talent\n\n—\n\nWhere to find Chris Hutchins:\n\n• Twitter: https://twitter.com/hutchins\n\
+  • LinkedIn: https://www.linkedin.com/in/chrishutchins/\n• Website: https://chrishutchins.com/\n\n—\n\nWhere to find Lenny:\n\
+  \n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n—\n\nReferenced:\n\n• All the Hacks podcast: https://www.allthehacks.com/\n• All the Hacks newsletter: https://allthehacks.com/email\n\
+  • Andy Rachleff on Twitter: https://twitter.com/arachleff\n• Kerri Walsh Jennings on All the Hacks: https://www.allthehacks.com/performance-psychology-kerri-walsh-jennings/\n\
+  • Descript: https://www.descript.com/\n• Erika Taught Me podcast: https://podcasts.apple.com/us/podcast/erika-taught-me/id1650076906\n\
+  • Leigh Rowan on All the Hacks: https://www.allthehacks.com/travel-hacks-leigh-rowan/\n• Kevin Kelly’s “1,000 True Fans”:\
+  \ https://kk.org/thetechnium/1000-true-fans/\n• Emily Oster’s books: https://emilyoster.net/writing/\n• Chris Hutchins on\
+  \ The Kevin Rose Show: https://podcast.kevinrose.com/guests/chris-hutchins/\n• Nick Gray’s newsletter: https://nickgray.net/signup-for-email-updates/\n\
+  • The 2-Hour Cocktail Party: How to Build Big Relationships with Small Gatherings: https://www.amazon.com/2-Hour-Cocktail-Party-Relationships-Gatherings-ebook/dp/B0B2KW6T7J\n\
+  • MrBeast on YouTube: https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA\n• Gary Vaynerchuk on Twitter: https://twitter.com/garyvee\n\
+  • The Danny Miranda Podcast: https://podcasts.apple.com/us/podcast/the-danny-miranda-podcast/id1532160275\n• Ray Dalio on\
+  \ Twitter: https://twitter.com/RayDalio\n• Danny Miranda’s newsletter on Substack: https://dannymiranda.substack.com/\n\
+  • ATRX2100 mic bundle on Amazon: https://www.amazon.com/Audio-Technica-ATR2100X-USB-Microphone-Bundle-Filter/dp/B082SYHRY9/r\n\
+  • Riverside: https://riverside.fm/\n• Focusrite Scarlett 2i2 on Amazon: https://www.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B07QR73T66\n\
+  • Sony Alpha 7C mirrorless full-frame camera on Amazon: https://www.amazon.com/Sony-Alpha-Full-Frame-Mirrorless-Camera/dp/B08HVZLQ4F\n\
+  • Adobe Audition: https://www.adobe.com/products/audition.html\n• Pro Tools: https://www.avid.com/pro-tools\n• Podpage:\
+  \ https://www.podpage.com/\n• Simplecast: https://www.simplecast.com/\n• Chartable: https://chartable.com/\n• Podstatus:\
+  \ https://podstatus.com/\n\n—\n\nIn this episode, we cover:\n\n(00:00) Chris’s background\n(03:25) Lesson’s from Wealthfront\
+  \ \n(09:25) Storytelling and communication\n(14:56) Why you should focus on overall impact\n(17:39) Why Chris likes working\
+  \ on big, crazy ideas\n(19:10) The early days of Chris’s All the Hacks podcast\n(21:34) The pros and cons of starting a\
+  \ podcast\n(24:19) The time required to produce an episode\n(27:09) How Lenny started his podcast \n(28:29) Launch lessons\
+  \ and how Apple rankings work\n(30:49) Why you need to create authentic content \n(32:57) Be one person’s favorite podcast\n\
+  (35:01) How Chris ideated and titled All the Hacks\n(40:09) How to get started and get your first subscribers\n(43:52) How\
+  \ Gary Vaynerchuk used Twitter to establish authority \n(45:07) How to take advantage of platforms with built-in growth\
+  \ engines\n(47:42) The power of in-person interviews\n(48:57) How to pitch to other podcasts\n(51:27) Equipment and products\
+  \ for producing podcasts\n(57:36) How many downloads it takes in order to be taken seriously\n(1:01:28) Using Overcast as\
+  \ a growth lever\n(1:09:02) Lightning round\n\n—\n\nProduction and marketing by https://penname.co/. For inquiries about\
+  \ sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 4655.0
 duration: '1:17:35'
 view_count: 2795

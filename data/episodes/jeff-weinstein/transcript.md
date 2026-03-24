@@ -1,13 +1,32 @@
 ---
 guest: Jeff Weinstein
-title: 'Building product at Stripe: craft, metrics, and customer obsession | Jeff
-  Weinstein (Product lead)'
+title: 'Building product at Stripe: craft, metrics, and customer obsession | Jeff Weinstein (Product lead)'
 youtube_url: https://www.youtube.com/watch?v=qbZQjprTnrU
 video_id: qbZQjprTnrU
 publish_date: 2024-07-11
-description: Jeff Weinstein is a product lead at Stripe, where he helped grow their
-  payment APIs to hundreds of billions in volume and transformed the way founders
-  start companies into a few simple clicks...
+description: "Jeff Weinstein is a product lead at Stripe, where he helped grow their payment APIs to hundreds of billions\
+  \ in volume and transformed the way founders start companies into a few simple clicks with Atlas. Prior to Stripe, Jeff\
+  \ led several startups and sold companies to Groupon and Box. He’s known for his customer obsession, craft, quality, and\
+  \ building beloved products businesses rely on. In our conversation, we discuss:\n• The power of customer obsession and\
+  \ how to operationalize it in the product development process\n• How to pick the right metrics and use them to drive impact\n\
+  • Techniques for getting things done at big companies\n• A group practice Jeff started to uplevel product craft, called\
+  \ Study Group\n• The story behind Stripe Atlas and its mission to increase entrepreneurship globally\n• Lessons from working\
+  \ with the founders of Stripe\n\n—\n\nBrought to you by:\n• Pendo—The only all-in-one product experience platform for any\
+  \ type of application: https://www.pendo.io/lenny\n• Cycle—Your feedback hub, on autopilot: https://www.cycle.app/lenny?utm_source=youtube&utm_medium=paid&utm_campaign=lenny\n\
+  • Anvil—The fastest way to build software for documents: https://www.useanvil.com/lenny\n\nFind the transcript and references\
+  \ at: https://www.lennysnewsletter.com/p/building-product-at-stripe-jeff-weinstein\n\nWhere to find Jeff Weinstein:\n• X:\
+  \ https://x.com/jeff_weinstein\n• LinkedIn: https://www.linkedin.com/in/jeffwweinstein/\n• Email: jweinstein@gmail.com\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Jeff’s background \n(10:16)  The “go, go, go ASAP + optimistic, long-term compounding”\
+  \ approach\n(15:38) The importance of craft and quality\n(24:15) Effective customer communication strategies\n(28:57) The\
+  \ importance of speed in customer interactions \n(33:19) Narrowing your focus\n(36:53) Why you should pay attention only\
+  \ to paying-customer feedback\n(40:24) Practicing silence when communicating \n(45:33) The role of metrics in product success\n\
+  (54:08) Empowering teams with a single metric\n(58:23) Picking the right metric for your audience\n(01:05:10) The importance\
+  \ of metric hygiene\n(01:11:33) How Stripe uses “study groups” for product improvement\n(01:37:20) Stripe’s Atlas: simplifying\
+  \ company formation\n(01:50:38) Automation and operational efficiency\n(01:55:13) Diversity and team building\n(02:03:09)\
+  \ Building new products within a large company\n(02:21:10) Lightning round\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 9300.0
 duration: '2:35:00'
 view_count: 45501

@@ -4,11 +4,39 @@ title: Customer-led growth | Georgiana Laudi (Forget The Funnel)
 youtube_url: https://www.youtube.com/watch?v=0FgZ1VVxEBo
 video_id: 0FgZ1VVxEBo
 publish_date: 2022-09-29
-description: 'Georgiana Laudi is the co-founder and CEO of a consulting agency called
-  Forget The Funnel, where she helps SaaS companies scale and improve conversion rates
-  through customer-led growth. She’s...
-
-  '
+description: "Georgiana Laudi is the co-founder and CEO of a consulting agency called Forget The Funnel, where she helps SaaS\
+  \ companies scale and improve conversion rates through customer-led growth. She’s also a marketing and growth advisor to\
+  \ companies like MarketerHire, SparkToro, and Sprout Social. Previously, she was the VP of Marketing at Unbounce and has\
+  \ worked in growth marketing for over 20 years. In today’s episode, Gia speaks about how to identify your ideal customer,\
+  \ how to map their user flows in order to find the biggest growth opportunities, and examples of product changes she’s recommended\
+  \ that have led to the largest growth unlocks. She shares the exact process she works through with founders to uncover opportunities,\
+  \ as well as how to increase subscriptions and retention for SaaS businesses.\n\nFind the full transcript here: https://www.lennysnewsletter.com/p/customer-led-growth-georgiana-laudi\n\
+  \n—\n\nWhere to find Georgiana Laudi:\n\n• Twitter: https://twitter.com/ggiiaa\n• LinkedIn: https://www.linkedin.com/in/georgianalaudi/\n\
+  • Website: https://www.forgetthefunnel.com/\n\n—\n\nWhere to find Lenny:\n\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\n—\n\nThank you to our\
+  \ wonderful sponsors for making this episode possible:\n\n• Amplitude: https://amplitude.com/\n• Athletic Greens: https://athleticgreens.com/lenny\n\
+  • Maven: https://www.maven.com/lenny\n\n—\n\nReferenced:\n\n• How SaaS Marketers Can Hold High-Impact Customer Research\
+  \ Interviews: https://www.forgetthefunnel.com/resources/saas-customer-research-interviews\n• Jobs To Be Done: Email Invite\
+  \ Template & Interview Questions by Forget The Funnel: https://docs.google.com/document/d/183PzYjQi2vsIRlPMUrtzRwZF1VdnZWNDAZsrJ4MRT4Q/edit\n\
+  • The Growth Framework for Customer-Obsessed SaaS Teams: https://www.forgetthefunnel.com/resources/saas-customer-journey-mapping\n\
+  • Project Snow White: https://marker.medium.com/what-seven-years-at-airbnb-taught-me-about-building-a-company-e1d035d49c56#:~:text=middle%2C%20an[…]0White,-was%20one%20of\n\
+  • Startupfest: https://startupfestival.com/for-startups/\n• Pirate Metrics: https://fourweekmba.com/pirate-metrics/\n• How\
+  \ Airbnb Proved That Storytelling Is the Most Important Skill in Design: https://www.inc.com/yazin-akkawi/the-surprising-technique-airbnb-uses-to-better-sell-an-experience.html\n\
+  • Jobs to Be Done: https://jtbd.info/\n• Demand-Side Sales 101: https://www.amazon.com/Demand-Side-Sales-101-Customers-Progress/dp/1544509987\n\
+  • When Coffee and Kale Compete: https://www.amazon.com/When-Coffee-Kale-Compete-products-ebook/dp/B07C7HH662\n• Obviously\
+  \ Awesome: How to Nail Product Positioning So Customers Get It, Buy It, Love It: https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers/dp/1999023005\n\
+  • Hooked: How to Build Habit-Forming Products: https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788\n\
+  • Forget the Funnel: https://www.forgetthefunnel.com/customer-led-growth/book\n• Four Thousand Weeks: Time Management for\
+  \ Mortals: https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/B08XZY5ZF7\n• Shine Theory: https://www.shinetheory.com/\n\
+  • April Dunford’s website: https://www.aprildunford.com/\n• SparkToro: https://sparktoro.com/ \n\n—\n\nIn this episode,\
+  \ we cover:\n\n(00:00) Georgiana’s background\n(07:03) Why funnels are antiquated \n(08:52) Better positioning and messaging\
+  \ to find the ideal customer\n(13:59) How Gia was inspired by Airbnb’s storytelling\n(19:23) How to analyze what’s successful\
+  \ and what to invest in\n(21:54) The ideal customer to learn from\n(26:37) How to choose which customer job to prioritize\
+  \ \n(32:21) Value moments in the customer relationship\n(36:45) Applying customer feedback \n(44:40) Metrics for measuring\
+  \ the customer’s meaningful engagement \n(49:45) What’s included in the messaging and positioning guidebook\n(51:15) Tips\
+  \ for messaging\n(54:13) Example of a customer job at SparkToro\n(55:58) What is the Jobs to Be Done framework?\n(59:50)\
+  \ Lightning round\n(1:04:18) How Gia manages her time\n\n—\n\nProduction and marketing by https://penname.co/. For inquiries\
+  \ about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 4008.0
 duration: '1:06:48'
 view_count: 8832

@@ -1,15 +1,175 @@
 ---
 guest: Eric Simons
-title: 'Inside Bolt: From near-death to one of the fastest-growing products in history
-  | Eric Simons'
+title: 'Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons'
 youtube_url: https://www.youtube.com/watch?v=L22DtAHLmzs
 video_id: L22DtAHLmzs
 publish_date: 2025-03-13
-description: 'Eric Simons is the founder and CEO of StackBlitz, the company behind
-  Bolt—the #1 web-based AI coding agent and one of the fastest-growing products in
-  history. After nearly shutting down,...
+description: 'Eric Simons is the founder and CEO of StackBlitz, the company behind Bolt—the #1 web-based AI coding agent and
+  one of the fastest-growing products in history. After nearly shutting down, StackBlitz launched Bolt on Twitter and exploded
+  from zero to $40 million ARR and 1 million monthly active users in about five months.
 
-  '
+
+  What you’ll learn:
+
+  1. How Bolt reached nearly $40M ARR and 3 million registered users in just five months with a team of only 15 to 20 people
+
+  2. How Bolt leverages WebContainer technology—a browser-based operating system developed over seven years—to create a dramatically
+  faster, more reliable AI coding experience than competitors
+
+  3. Why Anthropic’s 3.5 Sonnet model was the critical breakthrough that made AI-generated code production-ready and unlocked
+  the entire text-to-app market
+
+  4. Why PMs may be better positioned than engineers in the AI era
+
+  5. How AI will dramatically reshape company org charts
+
+  6. Eric’s wild founder story (including squatting at AOL’s HQ) and how scrappiness fueled his innovation
+
+
+  —
+
+
+  Brought to you by:
+
+  • Eppo—Run reliable, impactful experiments: https://www.geteppo.com/
+
+  • Fundrise Flagship Fund—Invest in $1.1 billion of real estate: https://www.fundrise.com/lenny
+
+  • OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/inside-bolt-eric-simons
+
+
+  Where to find Eric Simons:
+
+  • X: https://x.com/ericsimons40
+
+  • LinkedIn: https://www.linkedin.com/in/eric-simons-a464a664/
+
+  • Email: Eric@stackblitz.com
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Introduction to Eric Simons and StackBlitz
+
+  (04:46) Unprecedented growth and user adoption
+
+  (10:40) Demo: Building a Spotify clone with Bolt
+
+  (15:28) Expanding to native mobile apps with Expo
+
+  (19:09) The journey and technology behind WebContainer
+
+  (25:03) Lessons learned and future outlook
+
+  (29:15) Post-launch analysis
+
+  (34:15) Growing fast with a small team
+
+  (41:00) Prioritization at Bolt
+
+  (45:51) Tooling and PRD''s
+
+  (48:42) Integration and use cases of Bolt
+
+  (52:24) Limitations of Bolt
+
+  (54:24) The role of PMs and developers in the AI era
+
+  (59:56) Skills for the future
+
+  (01:14:18) Upcoming features of Bolt
+
+  (01:20:17) How to get the most out of Bolt
+
+  (01:23:00) Eric’s journey and final thoughts
+
+
+  Referenced:
+
+  • Bolt: https://bolt.new/
+
+  • Cursor: https://www.cursor.com/
+
+  • Wix: https://www.wix.com/
+
+  • Squarespace: https://www.squarespace.com/
+
+  • Dylan Field on LinkedIn: https://www.linkedin.com/in/dylanfield/
+
+  • Evan Wallace’s website: https://madebyevan.com/
+
+  • WebGL: https://en.wikipedia.org/wiki/WebGL
+
+  • WebAssembly: https://webassembly.org/
+
+  • CloudNine: https://cloudnine.com/
+
+  • Canva: https://www.canva.com/
+
+  • StackBlitz: https://stackblitz.com/
+
+  • Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (Y Combinator, Managing Director):
+  https://www.lennysnewsletter.com/p/lessons-from-1000-yc-startups
+
+  • Y Combinator: https://www.ycombinator.com/
+
+  • Anthropic: https://www.anthropic.com/
+
+  • Dario Amodei on LinkedIn: https://www.linkedin.com/in/dario-amodei-3934934/
+
+  • Linear: https://linear.app/
+
+  • Notion: https://www.notion.com/
+
+  • Salesforce: https://www.salesforce.com/
+
+  • Atlassian: https://www.atlassian.com/
+
+  • Photoshop: https://www.adobe.com/products/photoshop/
+
+  • Figma: https://www.figma.com/
+
+  • Greenfield projects: https://en.wikipedia.org/wiki/Greenfield_project
+
+  • Gartner: https://www.gartner.com/
+
+  • OpenAI researcher on why soft skills are the future of work | Karina Nguyen (Research at OpenAI, ex-Anthropic): https://www.lennysnewsletter.com/p/why-soft-skills-are-the-future-of-work-karina-nguyen
+
+  • Albert Pai on LinkedIn: https://www.linkedin.com/in/albertpai/
+
+  • Bolt’s post on X about “Bolt Builders”: https://x.com/boltdotnew/status/1887546089294995943
+
+  • Sonnet: https://www.anthropic.com/claude/sonnet
+
+  • ChatGPT: https://chatgpt.com/
+
+  • Breaking the Rules: The Young Entrepreneur Who Squatted at AOL: https://www.inc.com/john-mcdermott/eric-simons-interview-young-entrepreneur-squatted-at-aol.html
+
+  • Imagine K12: http://www.imaginek12.com/
+
+  • Geoff Ralston on LinkedIn: https://www.linkedin.com/in/geoffralston/
+
+  • AOL: https://www.aol.com/
+
+  • Bolt on X: https://x.com/boltdotnew
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5331.0
 duration: '1:28:51'
 view_count: 25333

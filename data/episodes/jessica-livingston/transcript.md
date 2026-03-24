@@ -1,15 +1,34 @@
 ---
 guest: Jessica Livingston
-title: 'The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder
-  of YC, author)'
+title: 'The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)'
 youtube_url: https://www.youtube.com/watch?v=h9MUuhsDJOM
 video_id: h9MUuhsDJOM
 publish_date: 2024-06-27
-description: 'Jessica Livingston is a co-founder of Y Combinator, the first and most
-  successful startup accelerator. Y Combinator has funded over 5,000 companies, 200
-  of which are now unicorns, including...
-
-  '
+description: "Jessica Livingston is a co-founder of Y Combinator, the first and most successful startup accelerator. Y Combinator\
+  \ has funded over 5,000 companies, 200 of which are now unicorns, including Airbnb, Dropbox, DoorDash, Stripe, Coinbase,\
+  \ and Reddit. Jessica played a crucial role in YC’s early success, when she was nicknamed the “social radar” because of\
+  \ her uncanny ability to quickly evaluate people—an essential skill when investing in early-stage startups. She’s also the\
+  \ host of the popular podcast The Social Radars, where she interviews billion-dollar-startup founders, and the author of\
+  \ the acclaimed book Founders at Work, which captures the origin stories of some of today’s most interesting companies.\
+  \ In our conversation, we discuss:\n• How Jessica gained the affectionate title of the “social radar”\n• Why defensive founders\
+  \ are a red flag\n• How to develop your social radar\n• What she looks for in founders during YC interviews\n• How YC’s\
+  \ early inexperience in angel investing led to the batch model\n• Her favorite stories from interviews with Airbnb, Rippling,\
+  \ and more\n• Lessons learned from hosting her own podcast\n• Much more\n\n—\n\nBrought to you by:\n• Enterpret—Transform\
+  \ customer feedback into product growth\n• Anvil—The fastest way to build software for documents\n• Vanta—Automate compliance.\
+  \ Simplify security\n\nFind the transcript at: https://www.lennysnewsletter.com/p/the-social-radar-jessica-livingston\n\n\
+  Where to find Jessica Livingston:\n• X: https://x.com/jesslivingston\n• LinkedIn: https://www.linkedin.com/in/jessicalivingston1/\n\
+  • Podcast: https://www.thesocialradars.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X:\
+  \ https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Jessica’s background\n(02:42) Thoughts on being under-recognized \n(07:52) Jessica’s superpower: the social radar\n\
+  (15:11) Evaluating founders: key traits and red flags\n(21:00) The Airbnb story: a lesson in hustle and determination\n\
+  (25:57) A YC success story\n(28:26) The importance of earnestness\n(32:45) Confidence vs. defensiveness\n(34:43) Commitment\
+  \ and co-founder disputes\n(37:46) Relentless resourcefulness \n(40:00) Jessica’s social radar: origins and insights\n(43:24)\
+  \ Honing her social radar skills\n(45:44) Conviction and scams: a Y Combinator story\n(46:50) The interview process: challenges\
+  \ and insights\n(48:20) Operationalizing founder evaluation\n(49:38) Advice for building social radar skills\n(52:08) The\
+  \ “Reading the Mind in the Eyes” quiz: https://s3.amazonaws.com/he-assets-prod/interactives/233_reading_the_mind_through_eyes/Launch.html\n\
+  (55:19) Jessica’s podcast: The Social Radars\n(01:00:34) Lessons from podcasting and interviewing\n(01:09:58) Lightning\
+  \ round\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\
+  \ \n\nLenny may be an investor in the companies discussed."
 duration_seconds: 5096.0
 duration: '1:24:56'
 view_count: 22295

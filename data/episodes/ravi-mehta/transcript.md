@@ -1,15 +1,172 @@
 ---
 guest: Ravi Mehta
-title: How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor,
-  Outpace)
+title: How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)
 youtube_url: https://www.youtube.com/watch?v=tncs0m5pmQg
 video_id: tncs0m5pmQg
 publish_date: 2023-01-19
-description: 'Ravi was previously CPO at Tinder, Product Director at Facebook, and
-  VP of Product at Tripadvisor. Currently, he’s co-founder and CEO of Outpace, a coaching
-  platform designed to help people...
+description: 'Ravi was previously CPO at Tinder, Product Director at Facebook, and VP of Product at Tripadvisor. Currently,
+  he’s co-founder and CEO of Outpace, a coaching platform designed to help people reach their professional goals. In today’s
+  podcast, we dive deep into Ravi’s product strategy stack framework and how it was used to develop a powerful strategy at
+  Tinder. We also cover his other popular frameworks—the frontier of understanding and exponential feedback—and how both of
+  them can help you grow in your career. We discuss the differences between building product at a startup versus a large tech
+  company, and how Ravi has had to shift his mindset as he’s moved away from a product leadership role into a founder role.
+  Finally, he shares a bit about how Outpace is using AI to amplify coaches and help make them more efficient and effective.
 
-  '
+
+  —
+
+
+  Find the full transcript here: https://www.lennysnewsletter.com/p/building-your-product-strategy-stack
+
+
+  —
+
+
+  Thank you to our wonderful sponsors for supporting this podcast:
+
+
+  • Merge—A single API to add hundreds of integrations into your app: http://merge.dev/lenny
+
+  • OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny
+
+  • Miro—A collaborative visual platform where your best work comes to life: https://miro.com/lenny
+
+
+  —
+
+
+  Where to find Ravi Mehta:
+
+
+  • Twitter: https://twitter.com/ravi_mehta
+
+  • LinkedIn: https://www.linkedin.com/in/ravimehta/
+
+  • Website: https://www.ravi-mehta.com/
+
+
+  —
+
+
+  Where to find Lenny:
+
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  —
+
+
+  Referenced:
+
+
+  Disclaimer: Lenny is an angel investor Ravi’s company, Outpace
+
+
+  • Reforge’s Product Strategy Program created by Casey Winters and Fareed Mosavat: https://www.reforge.com/programs/product-strategy
+
+  • Matt Mochary on Lenny’s Podcast: https://www.lennyspodcast.com/videos/how-to-fire-people-with-grace-work-through-fear-and-nurture-innovation-matt-mochary/
+
+  • Indie Hackers: https://www.indiehackers.com/
+
+  • Everything Marketplaces: https://www.everythingmarketplaces.com/
+
+  • The Product Strategy Stack: https://www.ravi-mehta.com/product-strategy-stack/
+
+  • Balsamiq: https://balsamiq.com/
+
+  • Set better goals with NCTs, not OKRs: https://www.reforge.com/blog/set-better-goals-with-ncts-not-okrs
+
+  • Ravi’s product manager’s competencies framework: https://www.ravi-mehta.com/product-manager-roles/
+
+  • Hooked: How to Build Habit-Forming Products: https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/0241184835/
+
+  • Working Backwards: Insights, Stories, and Secrets from Inside Amazon: https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595
+
+  • Ian McAllister on Lenny’s Podcast: https://www.lennyspodcast.com/videos/what-it-takes-to-become-a-top-1-pm-ian-mcallister-uber-amazon-airbnb/
+
+  • The Ezra Klein Show podcast: https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447
+
+  • Ezra Klein’s AI episode: https://podcasts.apple.com/us/podcast/a-skeptical-take-on-the-a-i-revolution/id1548604447?i=1000592835492
+
+  • Andor on Disney+: https://www.disneyplus.com/series/star-wars-andor/3xsQKWG00GL5
+
+  • Airtable: https://www.airtable.com/
+
+  • Superhuman: https://superhuman.com/
+
+  • Descript: https://www.descript.com/
+
+  •  Outpace: https://www.outpace.co
+
+  •  Unlock Your Product Manager Potential: https://www.outpace.co/guides/unlock-your-product-manager-potential
+
+
+  —
+
+
+  In this episode, we cover:
+
+
+  (00:00) Ravi’s background
+
+  (04:24) Why Ravi left Tinder, and what he’s been up to recently 
+
+  (08:05) Differences between working at an established tech company vs. a startup 
+
+  (12:45) Why founders should network with “early-stage” folks
+
+  (17:49) What the product strategy stack is and how to use it
+
+  (22:08) Mission vs. vision
+
+  (23:37) How Ravi developed his strategy framework at Tripadvisor 
+
+  (26:43) Why PMs should understand design, UX, and UI
+
+  (28:20) Examples of the product strategy stack in action
+
+  (32:42) Why Tinder resisted adding filters 
+
+  (34:10) Monetization features at Tinder and the “whales” who spend the most
+
+  (38:18) How customer feedback led to new features at Tinder
+
+  (42:28) Why goals come after roadmap in Ravi’s framework
+
+  (44:30) Tripadvisor’s strategy for increasing bookings
+
+  (47:25) How to set goals that drive outcomes
+
+  (50:24) The four buckets of the frontier of understanding
+
+  (51:38) Different methods for trying to hit goals
+
+  (53:08) Understanding why you hit or missed your goal
+
+  (54:34) The product management competencies framework
+
+  (1:02:08) The exponential feedback framework
+
+  (1:04:25) Why you should ask for feedback—and graciously accept it
+
+  (1:06:05) How to determine the right amount of leadership your team needs
+
+  (1:09:40) What selective micro-management is
+
+  (1:12:25) How Outpace uses AI to assist in coaching
+
+  (1:15:24) Lightning round
+
+
+  —
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 4885.0
 duration: '1:21:25'
 view_count: 35852

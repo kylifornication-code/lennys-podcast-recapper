@@ -1,15 +1,46 @@
 ---
 guest: Brian Balfour
-title: Why ChatGPT will be the next big growth channel (and how to capitalize on it)
-  | Brian Balfour
+title: Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour
 youtube_url: https://www.youtube.com/watch?v=cX4cL6B-_aU
 video_id: cX4cL6B-_aU
 publish_date: 2025-08-17
-description: 'Brian Balfour is the founder of Reforge, the former VP of Growth at
-  HubSpot, and a student (and teacher) of product growth. Brian has studied every
-  major platform shift—from Facebook to Apple...
-
-  '
+description: "Brian Balfour is the founder of Reforge, the former VP of Growth at HubSpot, and a student (and teacher) of\
+  \ product growth. Brian has studied every major platform shift—from Facebook to Apple to Google—and he’s spotted a pattern\
+  \ that’s about to repeat with ChatGPT.\n\n*In this conversation, you’ll learn:*\n1. The 4-step cycle every platform follows\
+  \ (and why ChatGPT just entered step 2)\n2. Why ChatGPT’s platform launch could be bigger than Facebook’s early platform\n\
+  3. The exact signals that ChatGPT will launch a third-party platform within six months\n4. Why you have six months (not\
+  \ years) to make your platform bet\n5. Why companies that don’t integrate with ChatGPT will lose to competitors that do\n\
+  6. How Zynga grew to $1B by betting on Facebook’s platform early (before it was obvious)\n7. Why so few companies are actually\
+  \ doing what they need to be doing right now\n\n*Brought to you by:*\nDX—The developer intelligence platform designed by\
+  \ leading researchers: http://getdx.com/lenny\nBasecamp—The famously straightforward project management system from 37signals:\
+  \ https://www.basecamp.com/lenny\nMiro—A collaborative visual platform where your best work comes to life: https://miro.com/lenny\n\
+  \n*Transcript:* https://www.lennysnewsletter.com/p/why-chatgpt-will-be-the-next-big-growth-channel-brian-balfour\n\n*My\
+  \ biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/170294620/my-biggest-takeaways-from-this-conversation\n\
+  \n*Where to find Brian Balfour:*\n• X: https://twitter.com/bbalfour\n• LinkedIn: https://www.linkedin.com/in/bbalfour/\n\
+  • Website: https://brianbalfour.com/\n• Substack: https://blog.brianbalfour.com/\n• Podcast: https://www.reforge.com/podcast/unsolicited-feedback\n\
+  \n*Where to find Lenny:*\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\n*In this episode, we cover:*\n(00:00) Welcome back, Brian!\n(04:13) The\
+  \ changing landscape of product growth\n(05:09) The importance of distribution\n(08:14) The role of new distribution platforms\n\
+  (09:45) The four-step cycle of distribution platforms\n(17:38) Examples of platform cycles\n(30:01) The rise of ChatGPT\n\
+  (44:47) The future of AI agents\n(46:01) Preferred partners and platform credibility\n(47:18) Monetization mechanisms and\
+  \ free tiers\n(48:14) Betting strategies for startups\n(01:04:34) Adopting AI tools: challenges and strategies\n(01:08:41)\
+  \ The importance of hard constraints \n(01:14:23) Effective AI adoption in companies\n(01:19:05) Lightning round and final\
+  \ thoughts\n\n*Referenced:*\n• The Next Great Distribution Shift: https://blog.brianbalfour.com/p/the-next-great-distribution-shift\n\
+  • Brian Balfour: 10 lessons on career, growth, and life: https://www.lennysnewsletter.com/p/brian-balfour-10-lessons-on-career\n\
+  • This Week #9: Breaking into growth, leading with influence, and (not) stepping on toes: https://www.lennysnewsletter.com/p/this-week-9-breaking-into-growth\n\
+  • Distribution vs. Innovation: https://a16z.com/distribution-vs-innovation/\n• On Platform Shifts and AI: https://caseyaccidental.com/on-platform-shifts-and-ai/\n\
+  • How to sell your ideas and rise within your company | Casey Winters, Eventbrite: https://www.lennysnewsletter.com/p/how-to-sell-your-ideas-and-rise-within\n\
+  • Thinking beyond frameworks | Casey Winters (Pinterest, Eventbrite, Airbnb, Tinder, Canva, Reddit, Grubhub): https://www.lennysnewsletter.com/p/thinking-beyond-frameworks-casey\n\
+  • ChatGPT: https://chatgpt.com/\n• Claude: https://claude.ai/\n• Gemini: https://gemini.google.com/\n• Vine: https://en.wikipedia.org/wiki/Vine_(service)\n\
+  • Periscope: https://en.wikipedia.org/wiki/Periscope_(service)\n• Myspace: https://en.wikipedia.org/wiki/Myspace\n• Friendster:\
+  \ https://en.wikipedia.org/wiki/Friendster\n• AltaVista: https://en.wikipedia.org/wiki/AltaVista\n• Lycos: https://www.lycos.com/\n\
+  • HubSpot: https://www.hubspot.com/\n• Zynga: https://www.zynga.com/\n• TBPN: https://www.tbpn.com/\n• Deedy Das on LinkedIn:\
+  \ https://www.linkedin.com/in/debarghyadas/\n• ChatGPT’s product retention curves are a product manager's wet dream: https://www.linkedin.com/posts/debarghyadas_chatgpts-product-retention-curves-are-a-activity-7338384752393035776-ice1/\n\
+  • Windsurf: https://windsurf.com/\n• Building a magical AI code editor used by over 1 million developers in four months:\
+  \ The untold story of Windsurf | Varun Mohan (co-founder and CEO): https://www.lennysnewsletter.com/p/the-untold-story-of-windsurf-varun-mohan\n\
+  ...References continued at: https://www.lennysnewsletter.com/p/why-chatgpt-will-be-the-next-big-growth-channel-brian-balfour\n\
+  \n_Production and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5352.0
 duration: '1:29:12'
 view_count: 38284

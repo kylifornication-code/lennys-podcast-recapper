@@ -4,9 +4,27 @@ title: Business strategy with Hamilton Helmer (author of 7 Powers)
 youtube_url: https://www.youtube.com/watch?v=hKq1_KPSqy0
 video_id: hKq1_KPSqy0
 publish_date: 2024-05-05
-description: 'Hamilton Helmer is one of the world’s leading experts on business strategy
-  and the author of the seminal book 7 Powers: The Foundations of Business Strategy,
-  which provides a comprehensive...'
+description: "Hamilton Helmer is one of the world’s leading experts on business strategy and the author of the seminal book\
+  \ 7 Powers: The Foundations of Business Strategy, which provides a comprehensive framework for understanding what it really\
+  \ takes to achieve and sustain a competitive advantage. With more than three decades of experience in the strategic consulting\
+  \ industry, Hamilton has advised over 200 companies—from burgeoning startups to Fortune 100 giants—on how to identify, build,\
+  \ and leverage their unique strategic powers. In our conversation, we discuss:\n• Potential sources of power that startups\
+  \ should develop from an early stage\n• Common misconceptions among companies about the types of power they possess\n• How\
+  \ power relates to strategy\n• The difference between a moat and a power\n• Practical strategies for non-leaders to leverage\
+  \ insights about power and strategy in their work\n• AI’s impact on competitive advantages and barriers to entry\n\n—\n\n\
+  Brought to you by:\n• WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\n\
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n• Paragon—Ship every SaaS integration your customers\
+  \ want: https://www.useparagon.com/lenny\n\nFind the transcript and references at: https://www.lennysnewsletter.com/p/business-strategy-with-hamilton-helmer\n\
+  \nWhere to find Hamilton Helmer:\n• X: https://twitter.com/hamiltonhelmer\n• LinkedIn: https://www.linkedin.com/in/hamilton-helmer-42983/\n\
+  • Website: https://7powers.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com \n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Hamilton’s background\n(04:08)\
+  \ When power becomes important\n(08:24) How strategy relates to power\n(12:09) How power informs strategy\n(14:46) The sequence\
+  \ of powers\n(21:13) Common misconceptions \n(24:39) Network effects vs. network economies \n(26:58) Uber’s success \n(29:16)\
+  \ Moats vs. powers\n(31:12) Strategies for non-leaders to leverage power and strategy\n(37:51) Advice on how to become a\
+  \ strategic thinker\n(39:27) AI’s impact on the seven powers\n(45:43) Why moving fast is not a power \n(50:24) Three things\
+  \ that create value in a company\n(51:16) The debt trajectory of the U.S.\n(56:35) Optimism for the future\n(59:25) Lightning\
+  \ round\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4088.0
 duration: '1:08:08'
 view_count: 21086

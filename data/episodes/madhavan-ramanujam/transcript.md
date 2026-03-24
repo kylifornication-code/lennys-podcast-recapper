@@ -1,15 +1,49 @@
 ---
 guest: Madhavan Ramanujam
-title: 'Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan
-  Ramanujam'
+title: 'Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam'
 youtube_url: https://www.youtube.com/watch?v=NR85H55eYkM
 video_id: NR85H55eYkM
 publish_date: 2025-07-27
-description: 'Madhavan Ramanujam is the world’s foremost expert on pricing and monetization
-  strategy. As managing partner at Simon-Kucher, he helped over 250 companies, including
-  30 unicorns, architect...
-
-  '
+description: "Madhavan Ramanujam is the world’s foremost expert on pricing and monetization strategy. As managing partner\
+  \ at Simon-Kucher, he helped over 250 companies, including 30 unicorns, architect their pricing strategies. He’s the author\
+  \ of the definitive book on pricing, Monetizing Innovation. Now he’s back with a sequel, Scaling Innovation, which reveals\
+  \ how to build enduring businesses by dominating both market share and wallet share. He recently left Simon-Kucher to launch\
+  \ his own fund, 49 Palms, focused on helping early-stage AI companies.\n\n*In this conversation, we discuss:*\n1. The 2x2\
+  \ framework that identifies your optimal pricing model\n2. Why AI companies can capture 25% to 50% of value created, vs.\
+  \ 10% to 20% for traditional SaaS products\n3. Why popular AI coding tools may have already doomed themselves with underpricing\n\
+  4. The “give-and-get” framework top negotiators use to extract maximum value from every deal\n5. The negotiation strategy\
+  \ that helped one founder 4x their deal size overnight\n6. How to frame POCs as “business case creation” instead of technical\
+  \ demos (and why this changes everything)\n7. Why AI companies must get monetization right from day one—not “figure it out\
+  \ later”\n8. How companies like Intercom’s Fin and Sierra pioneered outcome-based pricing (charging $0.99 per AI resolution)\n\
+  9. The single question that reveals if your pricing is too complex\n\n*Brought to you by:*\nEnterpret—Transform customer\
+  \ feedback into product growth: https://enterpret.com/lenny\nDX—A platform for measuring and improving developer productivity:\
+  \ https://getdx.com/lenny\nPersona—A global leader in digital identity verification: https://withpersona.com/lenny\n\n*Transcript:*\
+  \ https://www.lennysnewsletter.com/p/pricing-and-scaling-your-ai-product-madhavan-ramanujam\n\n*My biggest takeaways (for\
+  \ paid newsletter subscribers):* https://www.lennysnewsletter.com/i/168109183/my-biggest-takeaways-from-this-conversation\n\
+  \n*Where to find Madhavan Ramanujam:*\n• X: https://x.com/madhavansf\n• LinkedIn: https://www.linkedin.com/in/madhavansf/\n\
+  • Promo email for Scaling Innovation: promo@49palmsvc.com — If you’re purchasing more than five copies, send a screenshot\
+  \ of your receipt to enter Madhavan’s exclusive bundle raffle.\n\n*Where to find Lenny:*\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\n*In this episode, we cover:*\n\
+  (00:00) Introduction to Madhavan and his work\n(04:30) The core thesis of Scaling Innovation\n(09:20) Common traps founders\
+  \ fall into\n(12:06) Beautifully simple pricing\n(15:00) Mastering negotiations\n(26:51) Other strategies for effective\
+  \ pricing and monetization\n(27:35) How AI pricing is different\n(31:33) Handling POCs \n(36:25) The importance of mastering\
+  \ monetization \n(38:58) Choosing the right AI pricing model\n(43:13) Current trends in AI pricing\n(44:48) Strategizing\
+  \ for outcome-based models\n(50:23) Packaging strategies for scaling\n(51:37) Adapting pricing strategies over time\n(53:40)\
+  \ Key axioms for pricing success\n(58:00) Takeaways for founders\n(01:01:33) Lightning round and final thoughts\n\n*Referenced:*\n\
+  • The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher): https://www.lennysnewsletter.com/p/the-art-and-science-of-pricing-madhavan\n\
+  • Cursor: https://www.cursor.com/\n• The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael\
+  \ Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell\n• Sierra Finn: http://www.sierrafinn.com/\n\
+  • Chargeflow: https://www.chargeflow.io/\n• GitHub: https://github.com/\n• Intercom: https://www.intercom.com/\n• Warren\
+  \ Buffett’s quote: https://www.goodreads.com/quotes/11478913-if-you-ve-got-the-power-to-raise-prices-without-losing\n• Sierra:\
+  \ https://sierra.ai/\n• Clay Bavor on LinkedIn: https://www.linkedin.com/in/claybavor/\n• Mission: Impossible—The Final\
+  \ Reckoning: https://www.imdb.com/title/tt9603208/\n• Delphi: https://www.delphi.ai/\n• Dara Ladjevardian on LinkedIn: https://www.linkedin.com/in/dara-ladjevardian/\n\
+  • Sam Spelsberg on LinkedIn: https://www.linkedin.com/in/samuel-spelsberg/\n• Lennybot: https://www.lennybot.com/\n• Granola:\
+  \ https://www.granola.ai/\n• Simon-Kucher: https://www.simon-kucher.com/\n• Josh Bloom on LinkedIn: https://www.linkedin.com/in/joshuabloompricingconsulting/\n\
+  \n*Recommended books:*\n• Monetizing Innovation: How Smart Companies Design the Product Around the Price: https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867\n\
+  • Scaling Innovation: How Smart Companies Architect Profitable Growth: https://www.amazon.com/dp/1119633060\n...References\
+  \ continued at: https://www.lennysnewsletter.com/p/pricing-and-scaling-your-ai-product-madhavan-ramanujam\n\n_Production\
+  \ and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4304.0
 duration: '1:11:44'
 view_count: 46113

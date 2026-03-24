@@ -1,18 +1,13 @@
 ---
 guest: Manik Gupta
-title: Becoming more strategic, navigating difficult colleagues, founder mode, more
-  | Anneka Gupta
-youtube_url: https://www.youtube.com/watch?v=E3dUveqt9Bw
-video_id: E3dUveqt9Bw
-publish_date: 2024-10-17
-description: 'Anneka Gupta is the Chief Product Officer at Rubrik, a leading B2B cybersecurity
-  company. She previously spent 11 years at LiveRamp, where she was the President
-  and Head of Product and Platforms...
-
-  '
-duration_seconds: 4117.0
-duration: '1:08:37'
-view_count: 78591
+title: ''
+youtube_url: ''
+video_id: ''
+publish_date: ''
+description: ''
+duration_seconds: 0
+duration: ''
+view_count: 0
 channel: Lenny's Podcast
 keywords:
 - growth

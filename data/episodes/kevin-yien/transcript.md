@@ -1,15 +1,100 @@
 ---
 guest: Kevin Yien
-title: 'Unorthodox PM tips: Automating user insights, unselling candidates, decision
-  logs, more | Kevin Yien'
+title: 'Unorthodox PM tips: Automating user insights, unselling candidates, decision logs, more | Kevin Yien'
 youtube_url: https://www.youtube.com/watch?v=xOTO98MXG9o
 video_id: xOTO98MXG9o
 publish_date: 2024-08-18
-description: 'Kevin Yien leads product for merchant experiences at Stripe. Before
-  that, he meandered his way from being a technical designer to a product manager,
-  built the restaurants business and ecosystem...
+description: 'Kevin Yien leads product for merchant experiences at Stripe. Before that, he meandered his way from being a
+  technical designer to a product manager, built the restaurants business and ecosystem team at Square, and most recently
+  was head of product and design at Mutiny. He also makes ice cream and teaches for fun. In our conversation, we discuss:
 
-  '
+  • Why aspiring PMs should start in engineering, design, or sales
+
+  • The importance of writing skills, and how to become a better writer
+
+  • How to automate user research
+
+  • Kevin’s “unsell email” technique for hiring
+
+  • The value of keeping a decision log
+
+  • Insights on AI and its impact on future generations
+
+  • Lessons from failure
+
+
+  —
+
+
+  Brought to you by:
+
+  • BuildBetter—AI for product teams: https://buildbetter.ai/lenny
+
+  • OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny
+
+  • Eppo—Run reliable, impactful experiments: https://www.geteppo.com/
+
+
+  Find the show notes and transcript at: https://www.lennysnewsletter.com/p/unorthodox-pm-wisdom-kevin-yien
+
+
+  Where to find Kevin Yien:
+
+  • X: https://x.com/kevinyien
+
+  • LinkedIn: https://www.linkedin.com/in/kevinyien/
+
+  • Website: https://kevinyien.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Kevin’s background 
+
+  (02:00) The story behind Kevin’s profile picture
+
+  (08:41) The role of a product manager
+
+  (10:48) Getting started in product management
+
+  (12:47) The importance of writing skills
+
+  (15:06) Becoming a better writer
+
+  (19:10) The PM’s role with engineering and design
+
+  (28:41) Drawing the perimeter for your team
+
+  (31:37) Feedback tips
+
+  (35:13) Decision logs and product sense
+
+  (45:36) Unorthodox hiring strategies
+
+  (47:01) The unsell email strategy
+
+  (54:01) Automating user research
+
+  (01:02:27) AI in everyday life
+
+  (01:06:05) Lessons from failure
+
+  (01:14:34) Lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5321.0
 duration: '1:28:41'
 view_count: 26100

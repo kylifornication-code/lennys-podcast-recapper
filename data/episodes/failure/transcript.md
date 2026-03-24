@@ -4,11 +4,21 @@ title: Failure
 youtube_url: https://www.youtube.com/watch?v=9euy9gC48lc
 video_id: 9euy9gC48lc
 publish_date: 2023-12-13
-description: 'In this special compilation episode, we delve into failure—an overlooked
-  source of wisdom. From freezing onstage in front of thousands of people, to coworkers
-  staging an intervention, to...
-
-  '
+description: "In this special compilation episode, we delve into failure—an overlooked source of wisdom. From freezing onstage\
+  \ in front of thousands of people, to coworkers staging an intervention, to huge product investments that went to zero,\
+  \ we’ve pulled our favorite stories of failure from 100+ podcast episodes. I hope these stories serve as a gentle nudge\
+  \ to view failure not as a setback but as a crucial detour toward growth.\n\n—\n\nBrought to you by Sendbird—The (all-in-one)\
+  \ communications API platform for mobile apps: https://sendbird.com/lenny | Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\n\
+  \nFind the full transcript at: https://www.lennysnewsletter.com/p/failure\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, you’ll hear\
+  \ from:\n(00:00) Lenny: Why I’m focusing on failure\n(03:25) Katie Dill: The single meeting that changed how Katie leads\
+  \ forever\n(08:03) Paul Adams: Freezing onstage in front of thousands of people\n(18:38) Tom Conrad: Lessons from Pets.com\
+  \ and Quibi—two of the most famous product disasters of all time \n(33:19) Sri Batchu: When you fail, make sure you fail\
+  \ conclusively \n(39:00) Jiaona Zhang (JZ): One of the biggest product misses at Airbnb\n(44:32) Gina Gotthilf: Everyone\
+  \ has an “A side” and a “B side,” and we should all share our B sides more \n(57:57) Maggie Crowley: Her favorite interview\
+  \ question about failure, and lessons from a personal failure \n(1:00:33) Thanks for listening\n\nProduction and marketing\
+  \ by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be\
+  \ an investor in the companies discussed."
 duration_seconds: 3672.0
 duration: '1:01:12'
 view_count: 9074

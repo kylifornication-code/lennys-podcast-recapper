@@ -1,15 +1,48 @@
 ---
 guest: Albert Cheng
-title: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo,
-  Grammarly, Chess.com)
+title: Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)
 youtube_url: https://www.youtube.com/watch?v=2BKmNmnEj9w
 video_id: 2BKmNmnEj9w
 publish_date: 2025-10-05
-description: 'Albert Cheng has led growth at three of the world’s most successful
-  consumer subscription companies: Duolingo, Grammarly, and Chess.com. A former Google
-  product manager (and serious pianist!),...
-
-  '
+description: "Albert Cheng has led growth at three of the world’s most successful consumer subscription companies: Duolingo,\
+  \ Grammarly, and Chess.com. A former Google product manager (and serious pianist!), Albert developed a unique approach to\
+  \ finding and scaling growth opportunities through rapid experimentation and deep user psychology. His teams run 1,000/year,\
+  \ discovering counterintuitive insights that have driven tens of millions in revenue.\n\n*What you’ll learn:*\n1. How to\
+  \ use the explore–exploit framework to find new growth opportunities\n2. How showing premium features to free users doubled\
+  \ Grammarly’s upgrades to paid plans\n3. What good retention looks like for a consumer subscription app\n4. Why resurrected\
+  \ users drive 80% of mature product growth\n5. Why “reverse trials” work better than time-based trials\n6. The three pillars\
+  \ of successful gamification: core loop, metagame, and profile\n\n*Brought to you by:*\nVanta—Automate compliance. Simplify\
+  \ security: https://vanta.com/lenny\nJira Product Discovery—Confidence to build the right thing: https://atlassian.com/lenny\n\
+  Miro—A collaborative visual platform where your best work comes to life: https://miro.com/lenny\n\n*Transcript:* https://www.lennysnewsletter.com/p/how-to-find-hidden-growth-opportunities-albert-cheng\n\
+  \n*My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/174369960/my-biggest-takeaways-from-this-conversation\n\
+  \n*Where to find Albert Cheng:*\n• X: https://x.com/albertc248\n• LinkedIn: https://www.linkedin.com/in/albertcheng1/\n\
+  • Chess.com: https://www.chess.com/member/Goniners\n\n*Where to find Lenny:*\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\n*In this episode, we cover:*\n\
+  (00:00) Introduction to Albert Cheng\n(04:25) From classical pianist to growth leader\n(09:37) The explore and exploit framework\
+  \ for growth\n(15:19) How to know when to explore vs. exploit\n(16:34) Using AI to accelerate growth experimentation\n(20:42)\
+  \ Grammarly’s biggest monetization win\n(24:36) Freemium vs. trial models for subscription products\n(28:03) What retention\
+  \ rates you need for subscription success\n(32:06) The importance of resurrected users \n(34:35) Differences between Duolingo,\
+  \ Grammarly, and Chess.com\n(45:53) How AI is changing Chess.com\n(51:19) How AI is changing the growth role\n(53:47) Tips\
+  \ for running successful experiments at scale\n(57:22) How to shift company culture toward experimentation\n(1:01:19) Key\
+  \ lessons from running experiments at scale\n(01:04:41) The three pillars of successful gamification\n(1:07:50) The most\
+  \ counterintuitive lesson about building teams\n(01:10:38) Deciding what size company is a good fit\n(1:13:28) Failure corner\n\
+  (1:16:42) Lightning round and final thoughts\n\n*Referenced:*\n• How Duolingo reignited user growth: https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth\n\
+  • Inside ChatGPT: The fastest-growing product in history | Nick Turley (Head of ChatGPT at OpenAI): https://www.lennysnewsletter.com/p/inside-chatgpt-nick-turley\n\
+  • Explore vs. Exploit: https://brianbalfour.com/quick-takes/explore-vs-exploit\n• Grammarly: https://www.grammarly.com/\n\
+  • Reforge: https://www.reforge.com/\n• Chess.com: https://www.chess.com/\n• Everyone’s an engineer now: Inside v0’s mission\
+  \ to create a hundred million builders | Guillermo Rauch (founder & CEO of Vercel, creators of v0 and Next.js): https://www.lennysnewsletter.com/p/everyones-an-engineer-now-guillermo-rauch\n\
+  • Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder): https://www.lennysnewsletter.com/p/building-lovable-anton-osika\n\
+  • Figma: https://www.figma.com/\n• Cursor: https://cursor.com/\n• The rise of Cursor: The $300M ARR AI tool that engineers\
+  \ can’t stop using | Michael Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell\n\
+  • Claude Code: https://www.anthropic.com/claude-code\n• GitHub Copilot: https://github.com/features/copilot\n• Noam Lovinsky\
+  \ on LinkedIn: https://www.linkedin.com/in/noaml/\n• The happiness and pain of product management | Noam Lovinsky (Grammarly,\
+  \ Facebook, YouTube, Thumbtack): https://www.lennysnewsletter.com/p/the-happiness-and-pain-of-product\n• Kyla Siedband on\
+  \ LinkedIn: https://www.linkedin.com/in/kylasiedband/\n...References continued at: https://www.lennysnewsletter.com/p/how-to-find-hidden-growth-opportunities-albert-cheng\n\
+  \n*Recommended books:*\n• Snuggle Puppy!: A Little Love Song: https://www.amazon.com/Snuggle-Puppy-Little-Boynton-Board/dp/1665924985\n\
+  • Ogilvy on Advertising: https://www.amazon.com/Ogilvy-Advertising-David/dp/039472903X\n• Dark Squares: How Chess Saved\
+  \ My Life Hardcover: https://www.amazon.com/Dark-Squares-Chess-Saved-Life/dp/1541703286\n\n_Production and marketing by\
+  \ https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\nLenny may be\
+  \ an investor in the companies discussed."
 duration_seconds: 5125.0
 duration: '1:25:25'
 view_count: 21773

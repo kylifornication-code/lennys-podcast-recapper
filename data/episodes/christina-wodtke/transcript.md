@@ -4,11 +4,40 @@ title: The ultimate guide to OKRs | Christina Wodtke (Stanford)
 youtube_url: https://www.youtube.com/watch?v=kvkL18Ue0dE
 video_id: kvkL18Ue0dE
 publish_date: 2023-03-16
-description: 'Christina Wodtke is an author, Stanford University professor, and speaker
-  who teaches strategies for building high-performing teams. She’s also the author
-  of Radical Focus, which some consider...
-
-  '
+description: "Christina Wodtke is an author, Stanford University professor, and speaker who teaches strategies for building\
+  \ high-performing teams. She’s also the author of Radical Focus, which some consider the de facto guide to OKRs. In today’s\
+  \ episode, we dive into OKRs and how they can be used to help your team achieve better results. Christina shares her expertise\
+  \ on crafting OKRs, how she uses them in her personal life, and common mistakes you should avoid when you sit down to write\
+  \ your own. She discusses effective goal setting and outlines a systematic approach to achieving key results. Finally, Christina\
+  \ gives some specific tips on how to improve your storytelling and drawing skills and explains why it’s smart to set ambitious\
+  \ goals.\n\n—\n\nBrought to you by Miro—A collaborative visual platform where your best work comes to life | Dovetail—Bring\
+  \ your customer into every decision | Writer—Generative AI for the enterprise\n\nFind the full transcript here: https://www.lennysnewsletter.com/p/the-ultimate-guide-to-okrs-christina\n\
+  \nWhere to find Christina Wodtke:\n• Twitter: https://twitter.com/cwodtke\n• LinkedIn: https://www.linkedin.com/in/christinawodtke/\n\
+  • Website: https://eleganthack.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter:\
+  \ https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nReferenced:\n• Yahoo’s peanut\
+  \ butter memo: https://www.wsj.com/articles/SB116379821933826657\n• The Five Dysfunctions of a Team: A Leadership Fable:\
+  \ https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/\n• Radical Focus: Achieving Your Most Important\
+  \ Goals with Objectives and Key Results: https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006087\n\
+  • Pencil Me In: https://www.amazon.com/Pencil-Me-Christina-Wodtke-ebook/dp/B075Z8J35G?\n• The Back of the Napkin: Solving\
+  \ Problems and Selling Ideas with Pictures: https://www.amazon.com/Back-Napkin-Expanded-Problems-Pictures/dp/1591842697/ref=sr_1_1\n\
+  • The Minto Pyramid Principle: https://www.barbaraminto.com/\n• Lane Shackleton’s guest post on Lenny’s Newsletter: https://www.lennysnewsletter.com/p/how-coda-builds-product\n\
+  • The Product Trio by Teresa Torres: https://www.producttalk.org/2021/05/product-trio/\n• Ken Norton’s website: https://www.bringthedonuts.com/about/\n\
+  • The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth: https://www.amazon.com/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247\n\
+  • The Overstory: https://www.amazon.com/Overstory-Novel-Richard-Powers/dp/039335668X/\n• Cloud Atlas: https://www.amazon.com/Cloud-Atlas-Novel-David-Mitchell/dp/0375507256\n\
+  • Black Panther: Wakanda Forever: https://www.imdb.com/title/tt9114286/\n• The Team That Managed Itself: A Story of Leadership:\
+  \ https://www.amazon.com/Team-that-Managed-Itself-Leadership-ebook/dp/B07ZG5Y689\n\nIn this episode, we cover:\n(00:00)\
+  \ Christina’s background\n(04:54) How Christina uses OKRs to manage her personal life\n(07:42) The purpose of OKRs\n(16:15)\
+  \ Mission, vision, roadmaps, and OKRs\n(20:57) How strategy ties in\n(22:39) Why OKRs should be kept simple, and the ideal\
+  \ way to express key results\n(23:45) The importance of customer satisfaction and why you need a qualitative researcher\n\
+  (24:58) Common mistakes people make when writing OKRs\n(26:14) An example of writing OKRs for an online magazine about interior\
+  \ design\n(29:28) The importance of repetition\n(33:17) The 5 whys \n(36:40) Why you should start OKRs with your best multi-disciplinary\
+  \ team\n(38:44) Christina’s book, Radical Focus\n(40:26) The importance of storytelling and drawing (even badly!)\n(43:21)\
+  \ Tips to become a better storyteller\n(44:29) Using the Minto method for storytelling\n(46:02) The cadence of OKRs and\
+  \ the importance of celebrations\n(51:09) A different kind of approval process to get OKRs done more efficiently\n(53:01)\
+  \ Why the focus on learning is more important than grading\n(54:29) Why you should set ambitious goals\n(57:47) Where to\
+  \ start\n(1:00:48) The overemphasis of UX in product management education and the importance of business sense\n(1:03:01)\
+  \ Advice for people seeking a career in product management\n(1:05:44) Lightning round\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 4393.0
 duration: '1:13:13'
 view_count: 33904

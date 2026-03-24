@@ -13,6 +13,9 @@ Usage:
     # Dry run (print what would change without writing):
     YOUTUBE_API_KEY=your_key python3 scripts/enrich-metadata.py --dry-run
 
+    # Re-fetch full descriptions for episodes with truncated descriptions:
+    YOUTUBE_API_KEY=your_key python3 scripts/enrich-metadata.py --refresh-descriptions
+
 Environment variables:
     YOUTUBE_API_KEY  - Required. Your YouTube Data API v3 key.
     EPISODES_DIR     - Optional. Defaults to data/episodes.
@@ -138,6 +141,14 @@ def needs_enrichment(fm: dict) -> bool:
     return not fm.get("video_id")
 
 
+def has_truncated_description(fm: dict) -> bool:
+    """Detect descriptions truncated by YouTube's Search API (end with '...')."""
+    desc = (fm.get("description") or "").strip()
+    if not desc:
+        return False
+    return desc.endswith("...")
+
+
 def enrich_episode(fm: dict, video_details: dict) -> dict:
     """Merge YouTube video details into the frontmatter dict."""
     snippet = video_details["snippet"]
@@ -160,15 +171,121 @@ def enrich_episode(fm: dict, video_details: dict) -> dict:
     return fm
 
 
+def refresh_descriptions(dry_run: bool, api_key: str):
+    """Re-fetch full descriptions for episodes with truncated descriptions."""
+    if not EPISODES_DIR.is_dir():
+        print(f"Error: {EPISODES_DIR} not found", file=sys.stderr)
+        sys.exit(1)
+
+    episode_dirs = sorted(EPISODES_DIR.iterdir())
+    total = 0
+    refreshed = 0
+    skipped = 0
+    failed = 0
+
+    for ep_dir in episode_dirs:
+        transcript_path = ep_dir / "transcript.md"
+        if not transcript_path.is_file():
+            continue
+
+        total += 1
+        fm, transcript = read_episode(transcript_path)
+
+        if not has_truncated_description(fm):
+            skipped += 1
+            continue
+
+        video_id = fm.get("video_id")
+        if not video_id:
+            skipped += 1
+            continue
+
+        old_desc = (fm.get("description") or "").strip()
+        print(f"Refreshing: {ep_dir.name}")
+        print(f"  Old (truncated): {old_desc[:80]}...")
+
+        try:
+            details = get_video_details(api_key, video_id)
+            if not details:
+                print(f"  Could not fetch details for video {video_id}, skipping")
+                failed += 1
+                continue
+
+            new_desc = details["snippet"].get("description", "")
+            if not new_desc or new_desc.strip() == old_desc:
+                print(f"  No change (YouTube returned same text), skipping")
+                skipped += 1
+                continue
+
+            fm["description"] = new_desc
+            print(f"  New: {new_desc[:80]}... ({len(new_desc)} chars)")
+
+            if not dry_run:
+                write_episode(transcript_path, fm, transcript)
+
+            refreshed += 1
+
+        except Exception as e:
+            print(f"  Error: {e}", file=sys.stderr)
+            failed += 1
+
+        time.sleep(0.2)
+
+    print()
+    print("Description refresh complete.")
+    print(f"  Total episodes:     {total}")
+    print(f"  Already complete:   {skipped}")
+    print(f"  Refreshed:          {refreshed}")
+    print(f"  Failed/skipped:     {failed}")
+    if dry_run:
+        print("  (dry run -- no files were modified)")
+
+
+def build_video_id_index(episode_dirs: list[Path]) -> dict[str, str]:
+    """Map existing video_id → episode slug for collision detection."""
+    index = {}
+    for ep_dir in episode_dirs:
+        transcript_path = ep_dir / "transcript.md"
+        if not transcript_path.is_file():
+            continue
+        fm, _ = read_episode(transcript_path)
+        vid = fm.get("video_id", "")
+        if vid:
+            index[vid] = ep_dir.name
+    return index
+
+
+def guest_matches_title(guest: str, title: str) -> bool:
+    """Check whether the guest name (or a significant part) appears in the video title."""
+    if not guest or not title:
+        return False
+    guest_lower = guest.lower().strip('"').strip()
+    title_lower = title.lower()
+    if guest_lower in title_lower:
+        return True
+    words = [w for w in guest_lower.split() if len(w) > 2]
+    if words:
+        matches = sum(1 for w in words if w in title_lower)
+        return matches >= len(words) / 2
+    return False
+
+
 def main():
     dry_run = "--dry-run" in sys.argv
+    refresh_mode = "--refresh-descriptions" in sys.argv
     api_key = get_api_key()
+
+    if refresh_mode:
+        refresh_descriptions(dry_run, api_key)
+        return
 
     if not EPISODES_DIR.is_dir():
         print(f"Error: {EPISODES_DIR} not found", file=sys.stderr)
         sys.exit(1)
 
     episode_dirs = sorted(EPISODES_DIR.iterdir())
+    used_video_ids = build_video_id_index(episode_dirs)
+
     total = 0
     enriched = 0
     skipped = 0
@@ -196,9 +313,21 @@ def main():
                 failed += 1
                 continue
 
+            if video_id in used_video_ids:
+                owner = used_video_ids[video_id]
+                print(f"  video_id {video_id} already assigned to '{owner}', skipping")
+                failed += 1
+                continue
+
             details = get_video_details(api_key, video_id)
             if not details:
                 print(f"  Could not fetch details for video {video_id}, skipping")
+                failed += 1
+                continue
+
+            title = details.get("snippet", {}).get("title", "")
+            if not guest_matches_title(guest, title):
+                print(f"  Title mismatch: '{title}' doesn't match guest '{guest}', skipping")
                 failed += 1
                 continue
 
@@ -210,6 +339,7 @@ def main():
             if not dry_run:
                 write_episode(transcript_path, fm, transcript)
 
+            used_video_ids[video_id] = ep_dir.name
             enriched += 1
 
         except Exception as e:

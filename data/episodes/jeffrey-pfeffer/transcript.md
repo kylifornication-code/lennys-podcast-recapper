@@ -1,15 +1,33 @@
 ---
 guest: Jeffrey Pfeffer
-title: 'The paths to power: How to grow your influence and advance your career | Jeffrey
-  Pfeffer (Stanford)'
+title: 'The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (Stanford)'
 youtube_url: https://www.youtube.com/watch?v=etVCBDRXUH8
 video_id: etVCBDRXUH8
 publish_date: 2024-06-13
-description: 'Jeffrey Pfeffer teaches the single most popular (and somewhat controversial)
-  class at Stanford’s Graduate School of Business: The Paths to Power. He’s also the
-  author of 16 books, including...
-
-  '
+description: "Jeffrey Pfeffer teaches the single most popular (and somewhat controversial) class at Stanford’s Graduate School\
+  \ of Business: The Paths to Power. He’s also the author of 16 books, including 7 Rules of Power: Surprising—But True—Advice\
+  \ on How to Get Things Done and Advance Your Career. He has taught at Harvard, the London Business School, and IESE and\
+  \ has written for publications like Fortune and the Washington Post. Recognized by the Academy of Management and listed\
+  \ in the Thinkers50 Hall of Fame, Jeffrey also serves on several corporate and nonprofit boards, bringing his expertise\
+  \ to global audiences through seminars and executive education. In our conversation, we discuss:\n• Jeffrey’s seven rules\
+  \ of power\n• How individuals can acquire and use power in business\n• Networking, and how to do it effectively\n• How to\
+  \ build a non-cringe personal brand\n• How to increase your influence to amplify your impact\n• Examples and stories of\
+  \ people building power\n• Tradeoffs and challenges that come with power\n\n—\n\nBrought to you by:\n• Uizard—AI-powered\
+  \ prototyping for visionary product leaders: https://uizard.io/lenny\n• Webflow—The web experience platform: https://webflow.com\n\
+  • Heap—Cross-platform product analytics that converts, engages, and retains customers: https://www.heap.io/lenny\n\nFind\
+  \ the transcript and references at: https://www.lennysnewsletter.com/p/the-paths-to-power-jeffrey-pfeffer\n\nWhere to find\
+  \ Jeffrey Pfeffer:\n• X: https://x.com/JeffreyPfeffer\n• LinkedIn: https://www.linkedin.com/in/jeffrey-pfeffer-57a01b6/\n\
+  • Website: https://jeffreypfeffer.com/\n• Podcast: https://jeffreypfeffer.com/pfeffer-on-power/\n\nWhere to find Lenny:\n\
+  • Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Jeffrey’s background \n(02:54) Understanding discomfort with power\n(04:56) Power\
+  \ skills for underrepresented groups\n(07:51) The popularity and challenges of Jeffrey’s class at Stanford\n(12:21) The\
+  \ seven rules of power\n(13:03) Success stories from his course\n(15:43) Building a personal brand\n(21:11) Getting out\
+  \ of your own way\n(26:04) Breaking the rules to gain power\n(30:34) Networking relentlessly\n(40:10) Why Jeffrey says to\
+  \ “pursue weak ties”\n(42:00) Using your power to build more power\n(44:34) The importance of appearance and body language\n\
+  (47:15) Mastering the art of presentation\n(55:12) Examples of homework assignments that Jeffrey gives students \n(59:11)\
+  \ People will forget how you acquired power\n(01:03:58) More good people need to have power\n(01:10:49) The price of power\
+  \ and autonomy\n(01:17:13) A homework assignment for you\n\nProduction and marketing by https://penname.co/. For inquiries\
+  \ about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4951.0
 duration: '1:22:31'
 view_count: 161034

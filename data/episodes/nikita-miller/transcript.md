@@ -1,15 +1,138 @@
 ---
 guest: Nikita Miller
-title: Driving alignment within teams, work-life balance, and the changing PM landscape
-  | Nikita Miller
+title: Driving alignment within teams, work-life balance, and the changing PM landscape | Nikita Miller
 youtube_url: https://www.youtube.com/watch?v=4PhfAbRQpbI
 video_id: 4PhfAbRQpbI
 publish_date: 2023-04-06
-description: 'Nikita Miller is a product leader, angel investor, and advisor. She
-  has built and led product teams at companies ranging from early-stage startups to
-  multinationals, and she is currently SVP...
+description: 'Nikita Miller is a product leader, angel investor, and advisor. She has built and led product teams at companies
+  ranging from early-stage startups to multinationals, and she is currently SVP of Product Management at The Knot Worldwide.
+  Nikita is passionate about scaling product teams to support high-growth businesses and was a product leader at Trello and
+  Atlassian for five years. In today’s podcast, we cover:
 
-  '
+
+  • Lessons from building and growing Trello
+
+  • Nikita’s roles and responsibilities framework
+
+  • How the PM landscape is changing
+
+  • Lessons about managing remote teams
+
+  • Tactics for driving urgency within teams
+
+  • Why working cross-culturally was such a formative experience
+
+
+  —
+
+
+  Brought to you by Wealthfront—Make smarter stock investments | Lenny’s Job Board—Hire the best product people. Find the
+  best product gigs | Ahrefs—Improve your website’s SEO for free
+
+
+  Find the full transcript at: https://www.lennyspodcast.com/driving-alignment-and-urgency-within-teams-work-life-balance-and-the-changing-pm-landscape-nikita-miller-the-knot-trello/#transcript
+
+
+  Where to find Nikita Miller:
+
+  • Twitter: https://twitter.com/nikitadyer
+
+  • LinkedIn: https://www.linkedin.com/in/nikitadyer/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Nikita’s background
+
+  (03:56) How Nikita helped Trello develop enterprise features 
+
+  (09:41) Trello vs. Jira
+
+  (10:28) Similarities and differences between building for users at The Knot vs. Trello
+
+  (15:02) Pro tips for Trello users
+
+  (15:41) Nikita’s roles and responsibilities framework
+
+  (21:10) Why scrum masters are disappearing and what shifts are happening on teams
+
+  (21:56) Why every team should have a data scientist embedded in it
+
+  (23:27) The proper cadence for the rules and responsibilities framework, and problems around execution
+
+  (25:27) Outcomes and output
+
+  (28:34) The importance of urgency, and how to cultivate a sense of urgency
+
+  (29:52) How to determine if your team is moving quickly enough
+
+  (31:03) Prioritization between big bets and optimizations
+
+  (31:29) Questions Nikita asks to understand her team’s speed 
+
+  (33:30) Changes in the field of product management
+
+  (36:42) Advice for people who want to get into product
+
+  (38:40) Why being a PM is hard, and thoughts on work-life balance
+
+  (43:03) How to manage remote teams and how to do successful, short, in-person meetups
+
+  (47:59) The importance of having overlapping work hours and onboarding in person
+
+  (49:09) The advantages of working in different cultures 
+
+  (52:58) The question Nikita finds most useful
+
+  (55:07) Lightning round
+
+
+  Referenced:
+
+  • Trello: https://www.atlassian.com/software/trello
+
+  • The Knot: https://www.theknot.com/
+
+  • Jira: https://www.atlassian.com/software/jira
+
+  • Roles and Responsibilities template: https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities
+
+  • OKR examples: https://www.whatmatters.com/get-examples
+
+  • Set goals with OKRs: https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/
+
+  • Objectives and Key Results (OKRs): https://www.atlassian.com/team-playbook/plays/okrs
+
+  • Amp It Up: Leading for Hypergrowth by Raising Expectations, Increasing Urgency, and Elevating Intensity: https://www.amazon.com/Amp-Unlocking-Hypergrowth-Expectations-Intensity/dp/1119836115
+
+  • Nikita’s LinkedIn post on working abroad: https://www.linkedin.com/feed/update/urn:li:activity:7039394235304824832/
+
+  • You Will Hear Thunder: https://www.amazon.com/Will-Hear-Thunder-Anna-Akhmatova/dp/0821408062
+
+  • The Fire Next Time: https://www.amazon.com/Fire-Next-Time-James-Baldwin/dp/067974472X/
+
+  • High Output Management: https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884
+
+  • Crash Landing on You on Netflix: https://www.netflix.com/title/81159258
+
+  • Arc browser: https://arc.net/
+
+  • Josh Miller on Lenny’s Podcast: https://www.lennyspodcast.com/competing-with-giants-an-inside-look-at-how-the-browser-company-builds-product-josh-miller-ceo/
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Disclosure: I am a Wealthfront client and I have received non-cash compensation for the testimonial in this episode.'
 duration_seconds: 3560.0
 duration: '59:20'
 view_count: 6020

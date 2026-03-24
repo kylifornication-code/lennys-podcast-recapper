@@ -4,9 +4,35 @@ title: Lessons from scaling Stripe | Claire Hughes Johnson (ex-COO of Stripe)
 youtube_url: https://www.youtube.com/watch?v=Mv0o9o4MRh0
 video_id: Mv0o9o4MRh0
 publish_date: 2023-03-05
-description: Claire Hughes Johnson is the former COO at Stripe where she helped scale
-  the company from a small startup to the legendary company it is today. She also
-  spent close to 10 years at Google, where...
+description: "Claire Hughes Johnson is the former COO at Stripe where she helped scale the company from a small startup to\
+  \ the legendary company it is today. She also spent close to 10 years at Google, where she filled several executive roles\
+  \ including VP of Global Online Sales and Director of Sales and Ops for Gmail, YouTube, Google Apps, and AdWords. Claire\
+  \ shares invaluable insights from her upcoming book, Scaling People, on how to successfully build and scale organizations.\
+  \ We talk about the importance of building self-awareness and Claire gives tons of tactical advice on how to say things\
+  \ that are hard to say, as well as how to improve your internal communications and so much more.\n\n—\n\nBrought to you\
+  \ by Linear—The new standard for modern software development | Vanta—Automate compliance. Simplify security. | Dovetail—Bring\
+  \ your customer into every decision.\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/lessons-from-scaling-stripe-tactics\n\
+  \nWhere to find Claire Hughes Johnson:\n• Twitter: https://twitter.com/chughesjohnson\n• LinkedIn: https://www.linkedin.com/in/claire-hughes-johnson-7058/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nReferenced:\n• Scaling People: Tactics for Management and Company Building:\
+  \ https://www.amazon.com/Scaling-People-Tactics-Management-Building/dp/1953953212\n• John Collison on LinkedIn: https://www.linkedin.com/in/johnbcollison/\n\
+  • Patrick Collison on LinkedIn: https://www.linkedin.com/in/patrickcollison/\n• Discord: https://discord.com/\n• Toast:\
+  \ https://pos.toasttab.com/\n• High Growth Handbook: Scaling Startups from 10 to 10,000 People: https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100\n\
+  • Myers-Briggs personality type: https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/\n• Enneagram types: \
+  \ https://www.enneagraminstitute.com/type-descriptions\n• Disc assessment: https://www.discprofile.com/what-is-disc\n• Conscious\
+  \ Business: How to Build Value through Values: https://www.amazon.com/Conscious-Business-Build-through-Values/dp/1622032020/\n\
+  • Reid Hoffman on LinkedIn: https://www.linkedin.com/in/reidhoffman/\n• Eeke de Milliano on Lenny’s Podcast: https://www.lennyspodcast.com/how-to-foster-innovation-and-big-thinking-eeke-de-milliano-retool-stripe/\n\
+  • Running an effective meeting: https://www.youtube.com/watch?v=GIiaFW874q8\n• Gokul’s S.P.A.D.E. framework: https://coda.io/@gokulrajaram/gokuls-spade-toolkit\n\
+  \nIn this episode, we cover:\n(00:00) Claire’s background\n(04:47) How writing Scaling People helped Claire crystallize\
+  \ learnings\n(07:58) How Claire got started writing her book\n(11:11) Advice that changed the way Claire operates\n(15:18)\
+  \ The lack of job titles at Stripe\n(19:01) Scaling your organizational structure\n(23:46) What founders need to think about\
+  \ in the early days\n(26:38) Personal operating principles\n(29:04) How to crystallize your own values to gain self-awareness\n\
+  (34:29) Advice for saying uncomfortable things \n(37:12) Being an explorer, not a lecturer\n(43:57) Come back to the operating\
+  \ system\n(47:17) Organizational structure using Claire’s house metaphor\n(50:50) Why some chaos is normal\n(52:45) Founding\
+  \ documents you need\n(58:30) The components of a company’s operating system \n(1:01:31) Finding the right cadence\n(1:04:48)\
+  \ COOs and which types of businesses need them\n(1:11:30) Advice on scaling quickly\n(1:13:56) The importance of internal\
+  \ communications\n(1:16:03) Running effective meetings\n(1:17:17) Advice for aligning and making decisions as a manager\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 4877.0
 duration: '1:21:17'
 view_count: 39501

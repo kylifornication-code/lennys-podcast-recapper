@@ -4,11 +4,30 @@ title: What AI means for your product strategy | Paul Adams (CPO of Intercom)
 youtube_url: https://www.youtube.com/watch?v=R-Geamq9xc0
 video_id: R-Geamq9xc0
 publish_date: 2023-10-26
-description: 'Paul Adams is the longtime chief product officer at Intercom, where
-  he leads the product management, product design, data science, and research teams.
-  Before Intercom, Paul was the global head...
-
-  '
+description: "Paul Adams is the longtime chief product officer at Intercom, where he leads the product management, product\
+  \ design, data science, and research teams. Before Intercom, Paul was the global head of brand design at Facebook, a senior\
+  \ user researcher at Google, and a product designer at Dyson. He’s also a best-selling author, a podcast host, and a public\
+  \ speaker. In today’s episode, we discuss:\n• Practical advice on integrating AI into your organization\n• Tips and tools\
+  \ for learning AI as a PM\n• Hilarious stories from Google and Facebook\n• How to build conviction with skeptical coworkers\n\
+  • Lessons learned from pricing at Intercom\n• How Intercom implemented JTBD\n\n—\n\nBrought to you by Eppo—Run reliable,\
+  \ impactful experiments: Eppo—Run reliable, impactful experiments: https://www.geteppo.com/ | Hex—Helping teams ask and\
+  \ answer data questions by working together: https://www.hex.tech/lenny | HelpBar by Chameleon—The free in-app universal\
+  \ search solution built for SaaS: https://helpbar.ai/lenny/?utm_source=lennys-podcast&utm_medium=sponsorship&utm_campaign=helpbar-launch-lennys-podcast\n\
+  \nFind the transcript and references at: https://www.lennyspodcast.com/what-ai-means-for-your-product-strategy-paul-adams-cpo-of-intercom/\n\
+  \nWhere to find Paul Adams:\n• X: https://twitter.com/Padday\n• LinkedIn: https://www.linkedin.com/in/pauladams/\n\nWhere\
+  \ to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Paul’s background\n(04:09) Freezing onstage in front of 8,000 people\n(07:28) Insights\
+  \ from Google+ days\n(12:31) Learning from failure\n(13:56) Intercom’s “ship fast, ship early, ship often” principle \n\
+  (15:17) Integrating AI into product strategy\n(17:31) Making time for AI learning\n(19:37) AI in new-product development\n\
+  (21:16) Questions to ask about your product\n(23:33) How Intercom pivoted after the release of ChatGPT\n(25:13) Intercom’s\
+  \ AI chatbot, Fin \n(26:45) The early impact of AI adoption at Intercom\n(28:53) Capabilities of AI\n(34:27) How to structure\
+  \ teams around AI products\n(37:57) Why all teams should be involved in AI\n(39:04) Staying up to date on emerging technology\n\
+  (42:44) Hurdles implementing AI at Intercom\n(45:52) Building conviction around AI\n(49:52) Why you shouldn’t fear AI\n\
+  (50:56) Paul’s “before-after” framework\n(51:54) Pricing lessons from Intercom\n(54:54) Paul’s “differentiation vs. table\
+  \ stakes” framework\n(59:22) What “swinging the pendulum” means and examples from Intercom\n(1:05:21) Paul’s “product market\
+  \ story fit” framework\n(1:08:23) His take on JTBD\n(1:11:01) How Intercom uses the “four forces” framework\n(1:12:54) Lightning\
+  \ round\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4981.0
 duration: '1:23:01'
 view_count: 25212

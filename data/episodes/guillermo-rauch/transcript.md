@@ -1,13 +1,50 @@
 ---
 guest: Guillermo Rauch
-title: 'Everyone’s an engineer now: Inside v0’s mission to create 100 million builders
-  | Guillermo Rauch'
+title: 'Everyone’s an engineer now: Inside v0’s mission to create 100 million builders | Guillermo Rauch'
 youtube_url: https://www.youtube.com/watch?v=-QsTmu2CqhA
 video_id: -QsTmu2CqhA
 publish_date: 2025-04-13
-description: Guillermo Rauch is the founder and CEO of Vercel, creators of v0 (one
-  of the most popular AI app building tools), and the mind behind foundational JavaScript
-  frameworks like Next.js and Socket.io....
+description: "Guillermo Rauch is the founder and CEO of Vercel, creators of v0 (one of the most popular AI app building tools),\
+  \ and the mind behind foundational JavaScript frameworks like Next.js and Socket.io. An open source pioneer and legendary\
+  \ engineer, Guillermo has built tools that power some of the internet’s most innovative products, including Midjourney,\
+  \ Grok, and Notion. His mission is to democratize product creation, expanding the pool of potential builders from 5 million\
+  \ developers to over 100 million people worldwide. In this episode, you’ll learn:\n1. How AI will radically speed up product\
+  \ development—and the three critical skills PMs and engineers should master now to stay ahead\n2. Why the future of building\
+  \ apps is shifting toward prompts instead of code, and how that affects traditional product teams\n3. Specific ways to improve\
+  \ your design “taste,” plus practical tips to consistently create beautiful, user-loved products\n4. How Guillermo built\
+  \ a powerful app in under two hours for $20 (while flying and using plane Wi-Fi) that would normally take weeks and thousands\
+  \ of dollars in engineering time\n5. The exact strategies Vercel uses internally to leverage AI tools like v0 and Cursor,\
+  \ enabling their team of 600 to ship faster and better than ever before\n6. Guillermo’s actionable advice on increasing\
+  \ your product quality through rapid iteration, real-world user feedback, and creating intentional “exposure hours” for\
+  \ your team\n\nTranscript: https://www.lennysnewsletter.com/p/everyones-an-engineer-now-guillermo-rauch\n\nBrought to you\
+  \ by:\n• WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\n• Vanta—Automate\
+  \ compliance. Simplify security: https://vanta.com/lenny\n• LinkedIn Ads—Reach professionals and drive results for your\
+  \ business: https://www.linkedin.com/podlenny\n\nWhere to find Guillermo Rauch:\n• X: https://x.com/rauchg\n• LinkedIn:\
+  \ https://www.linkedin.com/in/rauchg/\n• Website: https://rauchg.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Introduction to Guillermo Rauch\n(04:43) v0's mission\n(07:03) The impact and growth of v0\n(15:54) The future of\
+  \ product development with AI\n(19:05) Empowering engineers and product builders\n(24:01) Skills for the future: coding,\
+  \ math, and eloquence\n(35:05) v0 in action: real-world applications\n(36:40) Tips for using v0 effectively\n(45:46) Core\
+  \ skills for building AI apps\n(49:44) Live demo\n(59:45) Understanding how AI thinks\n(01:04:35) AI integration and future\
+  \ prospects\n(01:07:22) Building taste \n(01:13:43) Limitations of v0\n(01:16:54) Improving the design of your product \n\
+  (01:20:09) The secret to product quality\n(01:22:35) Vercel’s AI-driven development\n(01:25:43) Guillermo's vision for the\
+  \ future\n\nReferenced:\n• v0: https://v0.dev/\n• Vercel: https://vercel.com/\n• GitHub: https://github.com/\n• Cursor:\
+  \ https://www.cursor.com/\n• Next.js Framework: https://nextjs.org/\n• Claude: https://claude.ai/new\n• Grok: https://x.ai/\n\
+  • Midjourney: https://www.midjourney.com\n• SocketIO: https://socket.io/\n• Notion’s lost years, its near collapse during\
+  \ Covid, staying small to move fast, the joy and suffering of building horizontal, more | Ivan Zhao (CEO and co-founder):\
+  \ https://www.lennysnewsletter.com/p/inside-notion-ivan-zhao\n• Notion: https://www.notion.com/\n• Automattic: https://automattic.com/\n\
+  • Inside Bolt: From near-death to ~$40m ARR in 5 months—one of the fastest-growing products in history | Eric Simons (founder\
+  \ & CEO of StackBlitz): https://www.lennysnewsletter.com/p/inside-bolt-eric-simons\n• v0 Community: https://v0.dev/chat/community\n\
+  • Figma: https://www.figma.com/\n• Git Commit: https://www.atlassian.com/git/tutorials/saving-changes/git-commit\n• What\
+  \ are Artifacts and how do I use them?: https://support.anthropic.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them\n\
+  • Design Engineering at Vercel: https://vercel.com/blog/design-engineering-at-vercel\n• CSS: https://en.wikipedia.org/wiki/CSS\n\
+  • Tailwind: https://tailwindcss.com/\n• Wordcel / Shape Rotator / Mathcel: https://knowyourmeme.com/memes/wordcel-shape-rotator-mathcel\n\
+  • Steve Jobs’s Ultimate Lesson for Companies: https://hbr.org/2011/08/steve-jobss-ultimate-lesson-fo\n• Bloom Hackathon:\
+  \ https://bloom.build/\n• Expenses Should Do Themselves | Saquon Barkley x Ramp (Super Bowl Ad): https://www.youtube.com/watch?v=p1Tgsy7D0Jg\n\
+  • Velocity over everything: How Ramp became the fastest-growing SaaS startup of all time | Geoff Charles (VP of Product):\
+  \ https://www.lennysnewsletter.com/p/velocity-over-everything-how-ramp\n...References continued at: https://www.lennysnewsletter.com/p/everyones-an-engineer-now-guillermo-rauch\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5264.0
 duration: '1:27:44'
 view_count: 37057

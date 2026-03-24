@@ -1,13 +1,179 @@
 ---
 guest: Hamel Husain & Shreya Shankar
-title: Why AI evals are the hottest new skill for product builders | Hamel Husain
-  & Shreya Shankar
+title: Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar
 youtube_url: https://www.youtube.com/watch?v=BsWxPI9UM4c
 video_id: BsWxPI9UM4c
 publish_date: 2025-09-25
-description: Hamel Husain and Shreya Shankar teach the world’s most popular course
-  on AI evals and have trained over 2,000 PMs and engineers (including many teams
-  at OpenAI and Anthropic). In this conversatio...
+description: 'Hamel Husain and Shreya Shankar teach the world’s most popular course on AI evals and have trained over 2,000
+  PMs and engineers (including many teams at OpenAI and Anthropic). In this conversation, they demystify the process of developing
+  effective evals, walk through real examples, and share practical techniques that’ll help you improve your AI product.
+
+
+  *What you’ll learn:*
+
+  1. WTF evals are
+
+  2. Why they’ve become the most important new skill for AI product builders
+
+  3. A step-by-step walkthrough of how to create an effective eval
+
+  4. A deep dive into error analysis, open coding, and axial coding
+
+  5. Code-based evals vs. LLM-as-judge
+
+  6. The most common pitfalls and how to avoid them
+
+  7. Practical tips for implementing evals with minimal time investment (30 minutes per week after initial setup)
+
+  8. Insight into the debate between “vibes” and systematic evals
+
+
+  *Brought to you by:*
+
+  Fin—The #1 AI agent for customer service: https://fin.ai/lenny
+
+  Dscout—The UX platform to capture insights at every stage: from ideation to production: https://www.dscout.com/
+
+  Mercury—The art of simplified finances: https://mercury.com/
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/173871171/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Shreya Shankar*
+
+  • X: https://x.com/sh_reya
+
+  • LinkedIn: https://www.linkedin.com/in/shrshnk/
+
+  • Website: https://www.sh-reya.com/
+
+  • Maven course: https://bit.ly/4myp27m
+
+
+  *Where to find Hamel Husain*
+
+  • X: https://x.com/HamelHusain
+
+  • LinkedIn: https://www.linkedin.com/in/hamelhusain/
+
+  • Website: https://hamel.dev/
+
+  • Maven course: https://bit.ly/4myp27m
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Hamel and Shreya
+
+  (04:57) What are evals?
+
+  (09:56) Demo: Examining real traces from a property management AI assistant
+
+  (16:51) Writing notes on errors
+
+  (23:54) Why LLMs can’t replace humans in the initial error analysis
+
+  (25:16) The concept of a “benevolent dictator” in the eval process
+
+  (28:07) Theoretical saturation: when to stop
+
+  (31:39) Using axial codes to help categorize and synthesize error notes
+
+  (44:39) The results
+
+  (46:06) Building an LLM-as-judge to evaluate specific failure modes
+
+  (48:31) The difference between code-based evals and LLM-as-judge
+
+  (52:10) Example: LLM-as-judge
+
+  (54:45) Testing your LLM judge against human judgment
+
+  (01:00:51) Why evals are the new PRDs for AI products
+
+  (01:05:09) How many evals you actually need
+
+  (01:07:41) What comes after evals
+
+  (01:09:57) The great evals debate
+
+  (1:15:15) Why dogfooding isn’t enough for most AI products
+
+  (01:18:23) OpenAI’s Statsig acquisition
+
+  (1:23:02) The Claude Code controversy and the importance of context
+
+  (01:24:13) Common misconceptions around evals
+
+  (1:22:28) Tips and tricks for implementing evals effectively
+
+  (1:30:37) The time investment
+
+  (1:33:38) Overview of their comprehensive evals course
+
+  (1:37:57) Lightning round and final thoughts
+
+
+  *LLM Log Open Codes Analysis Prompt:*
+
+  _Please analyze the following CSV file. There is a metadata field which has an nested field called z_note that contains
+  open codes for analysis of LLM logs that we are conducting. Please extract all of the different open codes. From the _note
+  field, propose 5-6 categories that we can create axial codes from._
+
+
+  *Referenced:*
+
+  • Building eval systems that improve your AI product: https://www.lennysnewsletter.com/p/building-eval-systems-that-improve
+
+  • Mercor: https://mercor.com/
+
+  • Brendan Foody on LinkedIn: https://www.linkedin.com/in/brendan-foody-2995ab10b
+
+  • Nurture Boss: https://nurtureboss.io/
+
+  • Braintrust: https://www.braintrust.dev/
+
+  • Andrew Ng on X: https://x.com/andrewyng
+
+  • Carrying Out Error Analysis: https://www.youtube.com/watch?v=JoAxZsdw_3w
+
+  • Julius AI: https://julius.ai/
+
+  • Brendan Foody on X—“evals are the new PRDs”: https://x.com/BrendanFoody/status/1939764763485171948
+
+  ...References continued at: https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill
+
+
+  *Recommended books:*
+
+  • Pachinko: https://www.amazon.com/Pachinko-National-Book-Award-Finalist/dp/1455563935
+
+  • Apple in China: The Capture of the World’s Greatest Company: https://www.amazon.com/Apple-China-Capture-Greatest-Company/dp/1668053373/
+
+  • Machine Learning: https://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/1259096955
+
+  • Artificial Intelligence: A Modern Approach: https://www.amazon.com/Artificial-Intelligence-Modern-Approach-Global/dp/1292401133/
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 6393.0
 duration: '1:46:33'
 view_count: 79329

@@ -4,9 +4,43 @@ title: An inside look at X’s Community Notes | Keith Coleman & Jay Baxter
 youtube_url: https://www.youtube.com/watch?v=8dgyqYHLcCI
 video_id: 8dgyqYHLcCI
 publish_date: 2025-02-27
-description: Keith Coleman (VP of Product) and Jay Baxter (founding ML engineer),
-  the minds behind Community Notes, reveal how a small, scrappy team inside Twitter/X
-  built the most trusted crowdsourced...
+description: "Keith Coleman (VP of Product) and Jay Baxter (founding ML engineer), the minds behind Community Notes, reveal\
+  \ how a small, scrappy team inside Twitter/X built the most trusted crowdsourced information system on the internet—one\
+  \ that’s changing the way we understand truth online. What you'll learn:\n1. How Community Notes actually works—a deep dive\
+  \ into the groundbreaking algorithm that rewards “bridging agreement” instead of majority rule\n2. The seemingly crazy yet\
+  \ brilliant way this idea survived multiple CEO changes—from Jack to Parag to Elon\n3. How this project started with a dumpster\
+  \ fire GIF (literally)—the untold backstory of its early launch\n4. The secret to running ultra-fast, high-impact product\
+  \ teams—no OKRs, no Jira; just one Google Doc\n5. What Meta’s adoption of Community Notes means for the future of online\
+  \ (mis)information—why this open source system is becoming the industry standard\n\n—\n\nBrought to you by:\n• WorkOS—Modern\
+  \ identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\n• Productboard—Make products that\
+  \ matter: https://www.productboard.com/lenny\n• Wix Studio—The web creation platform built for agencies: https://www.wix.com/studio?utm_source=Lennyspodcast&utm_medium=Podcastad&utm_campaign=SL\n\
+  \nFind the transcript at: https://www.lennysnewsletter.com/p/how-x-built-the-best-fact-checking-system-on-the-internet\n\
+  \nWhere to find Keith Coleman:\n• X: https://x.com/kcoleman\n• LinkedIn: https://www.linkedin.com/in/keith-coleman-19b12b46/\n\
+  \nWhere to find Jay Baxter:\n• X: https://x.com/_jaybaxter_\n• LinkedIn: https://www.linkedin.com/in/jaybaxter/\n• Website:\
+  \ http://jaybaxter.net/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Introduction to Community\
+  \ Notes\n(06:56) How the “bridging-based” algorithm works\n(13:33) The impact and scale of Community Notes\n(17:24) Understanding\
+  \ the note publishing threshold \n(21:32) Challenges and philosophies\n(26:26) The effect of notes on re-sharing content\n\
+  (29:41) Origin story\n(35:46) Embracing small teams for big impact\n(40:23) The thermal project approach\n(47:47) Algorithm\
+  \ development and internal competitions\n(50:34) An inside look at how the team operates \n(58:56) Working with Elon\n(01:05:30)\
+  \ Launching Birdwatch \n(01:10:48) The core principles behind Community Notes\n(01:26:15) Anonymity and pseudonymity in\
+  \ contributions\n(01:32:17) Sustaining the project through leadership changes\n(01:37:57) Future directions for Community\
+  \ Notes\n(01:42:12) Final thoughts and optimism for the future\n\nReferenced:\n• Community Notes on X: https://x.com/CommunityNotes\n\
+  • Sign up to be a Community Notes contributor: https://communitynotes.x.com/guide/en/contributing/signing-up\n• The Making\
+  \ of Community Notes: https://asteriskmag.com/issues/08/the-making-of-community-notes\n• “Readers added a Community Note\
+  \ to this Tweet”: https://x.com/HelpfulNotes/status/1718103364792205704\n• Note-ranking algorithm: https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes#matrix-factorization\n\
+  • Study: Community Notes on X could be key to curbing misinformation: https://giesbusiness.illinois.edu/news/2024/11/18/study--community-notes-on-x-could-be-key-to-curbing-misinformation\n\
+  • Study Finds X’s (Formerly Twitter’s) Community Notes Provide Accurate, Credible Answers to Vaccine Misinformation: https://qi.ucsd.edu/study-finds-xs-formerly-twitters-community-notes-provide-accurate-credible-answers-to-vaccine-misinformation/\n\
+  • Did the Roll-Out of Community Notes Reduce Engagement with Misinformation on X/Twitter?: https://dl.acm.org/doi/10.1145/3686967\n\
+  • Kayvon Beykpour on LinkedIn: https://www.linkedin.com/in/kayvz/\n• Jack Dorsey on X: https://x.com/jack\n• “Birdwatch\
+  \ gives me the creeps” tweet: https://x.com/elonmusk/status/1589454464611540992\n• Blake Scholl on LinkedIn: https://www.linkedin.com/in/blakescholl/\n\
+  • Creating Truthtelling Incentives with the Bayesian Truth Serum: https://www.eecs.harvard.edu/cs286r/courses/fall12/papers/DW08.pdf\n\
+  • Asana: https://asana.com/\n• Spaces: https://blog.x.com/en_us/topics/product/2021/spaces-is-here\n• Amazon MTurk: https://www.mturk.com/\n\
+  • Community notes on GitHub: https://github.com/twitter/communitynotes\n• What do I think about Community Notes?: https://vitalik.eth.limo/general/2023/08/16/communitynotes.html\n\
+  • X’s community-led approach: tackling inaccurate and misleading information: https://blog.x.com/en_us/topics/company/2023/xs-community-led-approach-tackling-inaccurate-and-misleading-information\n\
+  • Messi-Ronaldo rivalry: https://en.wikipedia.org/wiki/Messi%E2%80%93Ronaldo_rivalry\n• Supernotes paper: https://arxiv.org/pdf/2411.06116v1\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 6478.0
 duration: '1:47:58'
 view_count: 8772

@@ -1,15 +1,128 @@
 ---
 guest: Matt Dixon
-title: 'The surprising truth about what closes deals: Insights from 2.5m sales conversations
-  | Matt Dixon'
+title: 'The surprising truth about what closes deals: Insights from 2.5m sales conversations | Matt Dixon'
 youtube_url: https://www.youtube.com/watch?v=cUzEgRetmC4
 video_id: cUzEgRetmC4
 publish_date: 2024-05-30
-description: 'Matt Dixon is one of the world’s foremost experts in sales and the author
-  of The Challenger Sale, which sold over a million copies worldwide and was a #1
-  Amazon and Wall Street Journal bestseller...
+description: 'Matt Dixon is one of the world’s foremost experts in sales and the author of The Challenger Sale, which sold
+  over a million copies worldwide and was a #1 Amazon and Wall Street Journal bestseller. His most recent book, The JOLT Effect,
+  focuses on overcoming customer indecision—one of the biggest challenges to closing deals. Outside of writing, Matt co-founded
+  DCM Insights, a boutique consultancy helping organizations understand customer behavior, and is a frequent contributor to
+  the Harvard Business Review, with more than 20 print and online articles to his credit. In our conversation, we discuss:
 
-  '
+  • Why 40% to 60% of qualified sales opportunities are lost due to customer indecision
+
+  • Why dialing up FOMO doesn’t work, and what to do instead
+
+  • The “pings and echoes” technique to catch issues early
+
+  • The JOLT method for overcoming indecision
+
+  • Key lessons from The Challenger Sale
+
+  • Practical examples of how to apply these principles to close more deals
+
+
+  —
+
+
+  Brought to you by:
+
+  • Enterpret—Transform customer feedback into product growth: https://enterpret.com/lenny
+
+  • Webflow—The web experience platform: https://webflow.com
+
+  • Heap—Cross-platform product analytics that converts, engages, and retains customers: https://www.heap.io/lenny
+
+
+  Find the transcript and references at: https://www.lennysnewsletter.com/p/close-more-deals-matt-dixon
+
+
+  Where to find Matt Dixon:
+
+  • LinkedIn: https://www.linkedin.com/in/matthewxdixon
+
+  • Website: https://www.jolteffect.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Matt’s background
+
+  (01:57) The research behind Matt’s books
+
+  (06:08) Insights from The JOLT Effect
+
+  (10:15) FOMO vs. FOMU
+
+  (18:18) An example of selling software
+
+  (26:04) The JOLT method Step 1: Judge their level of indecision
+
+  (29:41) The “pings and echoes” technique
+
+  (34:49) Step 2: Offer a recommendation
+
+  (38:36) Step 3: Limit the exploration
+
+  (41:43) Step 4: Take risk off the table
+
+  (45:58) When to hit the pause button with a customer
+
+  (47:27) Insights from The Challenger Sale
+
+  (49:07) An example of a challenger sale
+
+  (55:23) Where to find Matt
+
+
+  Referenced:
+
+  • A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch):
+  https://www.lennysnewsletter.com/p/a-step-by-step-guide-to-crafting
+
+  • The Challenger Sale: Taking Control of the Customer Conversation: https://www.amazon.com/Challenger-Sale-Control-Customer-Conversation/dp/0670922854
+
+  • The JOLT Effect: How High Performers Overcome Customer Indecision: https://www.amazon.com/JOLT-Effect-Performers-Overcome-Indecision/dp/0593538102
+
+  • Gartner acquires CEB: https://www.gartner.com/en/about/acquisitions/history/ceb-acquisition
+
+  • Tiger King on Netflix: https://www.netflix.com/title/81115994
+
+  • Why sourdough went viral: https://www.economist.com/1843/2020/08/04/why-sourdough-went-viral
+
+  • Neil Rackham: https://en.wikipedia.org/wiki/Neil_Rackham
+
+  • Status quo bias in decision-making: https://en.wikipedia.org/wiki/Status_quo_bias
+
+  • Omission bias: https://thedecisionlab.com/biases/omission-bias
+
+  • Gartner Magic Quadrant & Critical Capabilities: https://www.gartner.com/en/research/magic-quadrant
+
+  • Dunning-Kruger effect: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+
+  • Stop Losing Sales to Customer Indecision: https://hbr.org/2022/06/stop-losing-sales-to-customer-indecision
+
+  • Dentsply Sirona: https://www.dentsplysirona.com/
+
+  • “We happy?” Briefcase scene from Tarantino’s Pulp Fiction: https://www.youtube.com/watch?v=FGchDuOpbhE
+
+  • Nupro Freedom Cordless Prophy System: https://www.dentsplysirona.com/en-us/discover/discover-by-category/preventive/hygiene-handpieces.html
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 3399.0
 duration: '56:39'
 view_count: 19770

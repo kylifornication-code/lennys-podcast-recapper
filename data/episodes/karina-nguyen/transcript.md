@@ -4,11 +4,40 @@ title: OpenAI researcher on why soft skills are the future of work | Karina Nguy
 youtube_url: https://www.youtube.com/watch?v=DeskgjrLxxs
 video_id: DeskgjrLxxs
 publish_date: 2025-02-09
-description: 'Karina Nguyen leads research at OpenAI, where she’s been pivotal in
-  developing groundbreaking products like Canvas, Tasks, and the o1 language model.
-  Before OpenAI, Karina was at Anthropic,...
-
-  '
+description: "Karina Nguyen leads research at OpenAI, where she’s been pivotal in developing groundbreaking products like\
+  \ Canvas, Tasks, and the o1 language model. Before OpenAI, Karina was at Anthropic, where she led post-training and evaluation\
+  \ work for Claude 3 models, created a document upload feature with 100,000 context windows, and contributed to numerous\
+  \ other innovations. With experience as an engineer at the New York Times and as a designer at Dropbox and Square, Karina\
+  \ has a rare firsthand perspective on the cutting edge of AI and large language models. In our conversation, we discuss:\n\
+  • How OpenAI builds product\n• What people misunderstand about AI model training\n• Differences between how OpenAI and Anthropic\
+  \ operate\n• The role of synthetic data in model development\n• How to build trust between users and AI models\n• Why she\
+  \ moved from engineering to research\n• Much more\n\n—\n\nBrought to you by:\n• Enterpret—Transform customer feedback into\
+  \ product growth: https://enterpret.com/lenny\n• Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\
+  • Loom—The easiest screen recorder you’ll ever use: http://loom.com/lenny\n\nFind the transcript at: https://www.lennysnewsletter.com/p/why-soft-skills-are-the-future-of-work-karina-nguyen\n\
+  \nWhere to find Karina Nguyen:\n• X: https://x.com/karinanguyen_\n• LinkedIn: https://www.linkedin.com/in/karinanguyen28\n\
+  • Website: https://karinanguyen.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Introduction to Karina Nguyen\n\
+  (04:42) Challenges in model training\n(08:21) Synthetic data and its importance\n(12:38) Creating Canvas\n(18:33) Day-to-day\
+  \ operations at OpenAI\n(20:28) Writing evaluations\n(23:22) Prototyping and product development\n(26:57) Building Canvas\
+  \ and Tasks\n(33:34) Understanding the job of a researcher \n(35:36) The future of AI and its impact on work and education\n\
+  (42:15) Soft skills in the age of AI\n(47:50) AI’s role in creativity and strategy development\n(53:34) Comparing Anthropic\
+  \ and OpenAI\n(57:11) Innovations and future visions\n(01:07:13) The potential of AI agents\n(01:11:36) Final thoughts and\
+  \ career advice\n\nReferenced:\n• What’s in your stack: The state of tech tools in 2025: https://www.lennysnewsletter.com/p/whats-in-your-stack-the-state-of\n\
+  • Anthropic: https://www.anthropic.com/\n• OpenAI: https://openai.com/\n• What is synthetic data—and how can it help you\
+  \ competitively?: https://mitsloan.mit.edu/ideas-made-to-matter/what-synthetic-data-and-how-can-it-help-you-competitively\n\
+  • GPQA: https://datatunnel.io/glossary/gpqa/\n• Canvas: https://openai.com/index/introducing-canvas/\n• Barret Zoph on LinkedIn:\
+  \ https://www.linkedin.com/in/barret-zoph-65990543/\n• Mira Murati on LinkedIn: https://www.linkedin.com/in/mira-murati-4b39a066/\n\
+  • JSON Schema: https://json-schema.org/\n• Anthropic—100K Context Windows: https://www.anthropic.com/news/100k-context-windows\n\
+  • Claude 3 Haiku: https://www.anthropic.com/news/claude-3-haiku\n• A.I. Chatbots Defeated Doctors at Diagnosing Illness:\
+  \ https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html\n• Cursor: https://www.cursor.com/\n• How\
+  \ AI will impact product management: https://www.lennysnewsletter.com/p/how-ai-will-impact-product-management\n• Lee Byron\
+  \ on LinkedIn: https://www.linkedin.com/in/lee-byron/\n• GraphQL: https://graphql.org/\n• Claude in Slack: https://www.anthropic.com/claude-in-slack\n\
+  • Sam Altman on X: https://x.com/sama\n• Jakub Pachocki on LinkedIn: https://www.linkedin.com/in/jakub-pachocki/\n• Lennybot:\
+  \ https://www.lennybot.com/\n• ElevenLabs: https://elevenlabs.io/\n• Westworld on Prime Video: https://www.amazon.com/Westworld-Season-1/dp/B01N05UD06\n\
+  • A conversation with OpenAI’s CPO Kevin Weil, Anthropic’s CPO Mike Krieger, and Sarah Guo: https://www.youtube.com/watch?v=IxkvVZua28k\n\
+  • Tuple: https://tuple.app/\n• How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng): https://www.lennysnewsletter.com/p/how-shopify-builds-a-high-intensity-culture-farhan-thawar\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4474.0
 duration: '1:14:34'
 view_count: 22860

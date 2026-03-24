@@ -1,15 +1,47 @@
 ---
 guest: Tom Conrad
-title: Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora,
-  Pets.com, Zero)
+title: Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)
 youtube_url: https://www.youtube.com/watch?v=maK0XD9ARoI
 video_id: maK0XD9ARoI
 publish_date: 2023-11-26
-description: 'Tom Conrad is the CEO of Zero and on the board of Sonos. He began his
-  career in engineering at Apple, where he helped build key features that remain in
-  iOS today. Tom was previously the VP...
-
-  '
+description: "Tom Conrad is the CEO of Zero and on the board of Sonos. He began his career in engineering at Apple, where\
+  \ he helped build key features that remain in iOS today. Tom was previously the VP of Product at Snap and the chief technology\
+  \ officer of Pandora. He also held leadership positions at notable tech flops Pets.com and Quibi, giving him a unique perspective\
+  \ not only on what it takes to build a successful company but also on lessons from failure. In today’s conversation, we\
+  \ discuss:\n• Lessons learned from the infamous failures of Pets.com and Quibi\n• Lessons learned from the successes of\
+  \ Apple, Pandora, and Snap\n• Advice on choosing where to work\n• Understanding the math formula of a business\n• How to\
+  \ avoid burnout\n• Why Tom says not everyone needs to be a founder\n• What he’s building now\n—\nBrought to you by Coda—Meet\
+  \ the evolution of docs: https://coda.io/lenny | Jira Product Discovery—Atlassian’s new prioritization and roadmapping tool\
+  \ built for product teams: https://atlassian.com/lenny/?utm_source=lennypodcast&utm_medium=paid-audio&utm_campaign=fy24q1-jpd-imc\
+  \ | HelpBar by Chameleon—the free in-app universal search solution built for SaaS: https://helpbar.ai/lenny/?utm_source=lennys-podcast&utm_medium=sponsorship&utm_campaign=helpbar-launch-lennys-podcast\n\
+  \nFind the transcript at: https://www.lennysnewsletter.com/p/billion-dollar-failures-and-billion\n\nWhere to find Tom Conrad:\n\
+  • X: https://twitter.com/tconrad\n• LinkedIn: https://www.linkedin.com/in/tomconrad/\n\nWhere to find Lenny:\n• Newsletter:\
+  \ https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Tom’s background\n(04:40) Landing a gig at Apple\n(07:41) Pioneering the blinking\
+  \ folder design on iOS\n(11:04) Advice on choosing where to work\n(12:43) The importance of trusting your gut when it comes\
+  \ to people\n(14:05) Lessons from failed ventures\n(17:32) Why and how Pets.com shut down \n(18:30) How Tom’s experience\
+  \ at Quibi renewed his passion for building\n(28:48) Takeaways from Quibi and why it ultimately failed\n(31:42) Failing\
+  \ is okay\n(35:04) Tom’s career at Apple\n(39:11) Lessons from You Don’t Know Jack\n(40:24) Lessons from building Pandora\n\
+  (48:24) Looking back at Pandora and what could have been done differently\n(55:17) How Tom became VP of Product at Snapchat\n\
+  (1:01:31) Tom’s philosophy on being involved as CEO\n(1:05:51) Tom’s current role as CEO of Zero, and what he’s learned\
+  \ along the way\n(1:10:37) How Zero builds product\n(1:18:33) Advice on work-life balance \n(1:27:22) Contrarian corner:\
+  \ why not everyone needs to be a founder\n(1:30:08) Lightning round\n\nReferenced:\n• Ron Lichty on LinkedIn: https://www.linkedin.com/in/ronlichty/\n\
+  • 11 reasons why Quibi crashed and burned in less than a year: https://www.theverge.com/2020/10/22/21528404/quibi-shut-down-cost-subscribers-content-tv-movies-katzenberg-whitman-tiktok-netflix\n\
+  • Meg Whitman: https://en.wikipedia.org/wiki/Meg_Whitman\n• Jeffrey Katzenberg on LinkedIn: https://www.linkedin.com/in/jeffrey-katzenberg-4b3b47123/\n\
+  • John Sculley on LinkedIn: https://www.linkedin.com/in/johnsculley/\n• Flickr: https://www.flickr.com/\n• How Pandora Soothed\
+  \ the Savage Beast: https://www.fastcompany.com/3001052/how-pandora-soothed-savage-beast\n• Joe Kennedy on LinkedIn: https://www.linkedin.com/in/joe-kennedy-329417/\n\
+  • Why Did Yahoo Pay $160 Million for Musicmatch?: https://www.wired.com/2007/07/why-did-yahoo-p/\n• TikTok Is the New TV:\
+  \ https://www.wired.com/story/tiktok-new-show-tv-takeover/\n• Evan Spiegel on X: https://twitter.com/evanspiegel\n• Flashtags:\
+  \ https://lane.substack.com/p/flashtags\n• Patrick Spence on LinkedIn: https://www.linkedin.com/in/patrickspence/\n• The\
+  \ Philosophy of Ikigai: 3 Examples About Finding Purpose: https://positivepsychology.com/ikigai\n• The Subtle Art of Not\
+  \ Giving a F*ck: A Counterintuitive Approach to Living a Good Life: https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713\n\
+  • High Growth Handbook: Scaling Startups from 10 to 10,000 People: https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100\n\
+  • Hyperion: https://www.amazon.com/Hyperion-Cantos-Dan-Simmons/dp/0553283685\n• A Fire Upon the Deep: https://www.amazon.com/Fire-Upon-Deep-Zones-Thought/dp/0812515285/\n\
+  • Mrs. Davis on Peacock: https://www.peacocktv.com/stream-tv/mrs-davis\n• Watchmen on HBO: https://www.hbo.com/watchmen\n\
+  • Lost on Hulu: https://www.hulu.com/series/lost-466b3994-b574-44f1-88bc-63707507a6cb\n• Eartune replacement tips: https://eartune.com/products/eartune-fidelity-ufa\n\
+  • Charles Eames’s quote: https://www.brainyquote.com/quotes/charles_eames_169188\n• Compuserve: https://www.compuserve.com/\n\
+  • Steve Wilhite: https://en.wikipedia.org/wiki/Steve_Wilhite\n\nProduction and marketing by https://penname.co/. For inquiries\
+  \ about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 6004.0
 duration: '1:40:04'
 view_count: 10025

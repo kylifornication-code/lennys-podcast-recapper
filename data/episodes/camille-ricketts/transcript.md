@@ -4,11 +4,177 @@ title: How Notion leveraged community to build a $10B business | Camille Rickett
 youtube_url: https://www.youtube.com/watch?v=bY5KC9Gguz8
 video_id: bY5KC9Gguz8
 publish_date: 2022-12-11
-description: 'Camille Ricketts began her career in journalism, at the Wall Street
-  Journal, in 2006. In 2010 she joined Tesla, where she worked in communications alongside
-  Elon Musk. She transitioned into...
+description: 'Camille Ricketts began her career in journalism, at the Wall Street Journal, in 2006. In 2010 she joined Tesla,
+  where she worked in communications alongside Elon Musk. She transitioned into marketing and became the Head of Content and
+  Marketing at First Round Capital and then went on to become the very first marketing hire at Notion. In today’s episode,
+  we dig into community-led growth—what it is, and when and how to pursue it. We get super-specific on how Notion championed
+  their most loyal users and built a passionate community, and the incredible outcome it had for the company’s growth. We
+  also talk about how to create great content, and how content can drive growth for your business and brand.
 
-  '
+
+  —
+
+
+  Find the full transcript here: https://www.lennysnewsletter.com/p/how-notion-leveraged-community-to
+
+
+  —
+
+
+  Thank you to our wonderful sponsors for supporting this podcast:
+
+
+  • Eppo—Run reliable, impactful experiments: https://www.geteppo.com/
+
+  • Flatfile—A CSV importer that says yes instead of error: mismatch: https://www.flatfile.com/lenny
+
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+
+  —
+
+
+  Where to find Camille:
+
+
+  • Twitter: https://twitter.com/camillericketts
+
+  • LinkedIn: https://www.linkedin.com/in/camillericketts/
+
+
+  —
+
+
+  Where to find Lenny:
+
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  —
+
+
+  People referenced:
+
+
+  • Ivan Zhao: https://www.linkedin.com/in/ivanhzhao/
+
+  • Simon Last: https://www.linkedin.com/in/simon-last-41404140/
+
+  • Lexie Barnhorn: https://www.linkedin.com/in/alexisbarnhorn/
+
+  • Ben Lang: https://www.linkedin.com/in/benmlang/
+
+  • Claire Butler: https://www.linkedin.com/in/clairetbutler/
+
+  • Jessi Craige Shikman at First Round: https://firstround.com/person/jessi-craige-shikman/
+
+  • Brett Berson at First Round: https://firstround.com/person/brett-berson/
+
+  • Josh Kopelman at First Round: https://firstround.com/person/josh-kopelman/#mystory
+
+  • Shaun Young on LinkedIn: https://www.linkedin.com/in/shaunyou/
+
+  • David Pierce at The Verge: https://www.theverge.com/authors/david-pierce
+
+
+  Additionally, Camille would love to shout out Nate Martins and Andrea Lim, who ran Notion’s content program:
+
+  • Nate Martins: https://www.linkedin.com/in/nate-martins/
+
+  • Andrea Lim: https://www.linkedin.com/in/andreawlim/
+
+
+
+  Content and companies referenced:
+
+
+  • Community & Content Resources: https://camnotes.notion.site/Community-Content-Resources-f18fb1db2d094ec2a4140a7737fae362
+
+  • Station F: https://stationf.co/
+
+  • Figma: https://www.figma.com/
+
+  • Canva: https://www.canva.com/
+
+  • Stripe: https://stripe.com/
+
+  • Stripe Atlas: https://stripe.com/atlas
+
+  • Salesforce: https://www.salesforce.com/
+
+  • First Round Review: https://review.firstround.com/
+
+  • Jobs to be done framework: https://jobs-to-be-done.com/jobs-to-be-done-a-framework-for-customer-needs-c883cbf61c90
+
+  • The Only App You Need for Work-Life Productivity: https://www.wsj.com/articles/the-only-app-you-need-for-work-life-productivity-1521640800
+
+  • Product Hunt: https://www.producthunt.com/
+
+
+
+  Find all lightning round references at https://www.lennyspodcast.com/how-notion-leveraged-community-to-build-a-10b-business-camille-ricketts-notion-first-round-capital
+
+
+  —
+
+
+  In this episode, we cover:
+
+
+  (00:00) Camille’s background
+
+  (05:43) What it was like working with Elon Musk
+
+  (07:38) Working at Notion in the early days
+
+  (12:16) What is community-led growth?
+
+  (15:48) How Notion measured the impact of marketing efforts
+
+  (16:35) The most successful community efforts at Notion
+
+  (18:24) Why metrics aren’t always necessary for community growth 
+
+  (19:52) When it makes sense to invest in community-led growth
+
+  (21:34) How creators make money using Notion
+
+  (23:12) The Ambassador Program and Champions Program at Notion
+
+  (27:20) Why founders should consider investing in community and delay monetizing some features
+
+  (31:03) Companies that have done well in building community
+
+  (32:54) How to determine the level of community engagement appropriate for your company to invest in
+
+  (34:00) Using Camille’s 2x2 grid to implement community
+
+  (36:42) How to launch an ambassador program
+
+  (41:22) Advice for founders who want to build community
+
+  (47:17) How Lenny got his first 500 newsletter subscribers
+
+  (48:58) Examples of Camille’s most impactful content marketing
+
+  (51:20) Content-market fit: how to determine the needs of your reader 
+
+  (53:37) Content categories and the time it takes to create top-notch content
+
+  (57:02) The future of comms and how the press helped Notion grow
+
+  (1:01:35) Lightning round
+
+
+  —
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 4056.0
 duration: '1:07:36'
 view_count: 12661

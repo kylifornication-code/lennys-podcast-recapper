@@ -1,15 +1,46 @@
 ---
 guest: Carole Robin
-title: How to build deeper, more robust relationships | Carole Robin (Stanford professor,
-  “Touchy Feely”)
+title: How to build deeper, more robust relationships | Carole Robin (Stanford professor, “Touchy Feely”)
 youtube_url: https://www.youtube.com/watch?v=Cew9-GlC_yk
 video_id: Cew9-GlC_yk
 publish_date: 2024-04-25
-description: 'Carole Robin spent over 20 years teaching the Stanford Graduate School
-  of Business course Interpersonal Dynamics, affectionately known as “Touchy Feely.”
-  After leaving Stanford, she founded...
-
-  '
+description: "Carole Robin spent over 20 years teaching the Stanford Graduate School of Business course Interpersonal Dynamics,\
+  \ affectionately known as “Touchy Feely.” After leaving Stanford, she founded a nonprofit called Leaders in Tech, which\
+  \ applies the Touchy Feely principles to help Silicon Valley executives build their leadership and interpersonal skills.\
+  \ Carole co-authored the popular book Connect: Building Exceptional Relationships with Family, Friends, and Colleagues,\
+  \ which shares key insights from her decades of teaching these courses. In our conversation, we discuss:\n• The benefits\
+  \ of building robust relationships, in life and work\n• The 15% rule, and how it will help you build better relationships\n\
+  • The power of vulnerability\n• Examples of how to practice vulnerability\n• Why mental models you build early in life hold\
+  \ you back later\n• The “three realities” and “the net”\n• The art of inquiry\n• Practical tips for avoiding defensiveness\
+  \ when getting feedback\n• The impact of long Covid on Carole’s life\n\n—\n\nBrought to you by:\n• Eppo—Run reliable, impactful\
+  \ experiments: https://www.geteppo.com/\n• CommandBar—AI-powered user assistance for modern products and impatient users:\
+  \ https://www.commandbar.com/lenny\n• The a16z Podcast—Featuring conversations with the founders and technologists shaping\
+  \ our future: https://link.chtbl.com/qLhgyi65 \n\nFind the transcript at: https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin\n\
+  \nWhere to find Carole Robin:\n• LinkedIn: https://www.linkedin.com/in/carole-robin/\n• Email: carolerobinllc@gmail.com\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Carole’s background\n(05:17) The importance of building robust relationships\n(10:20)\
+  \ The “Touchy Feely” course at Stanford\n(13:29) An example of the in-class experience \n(17:19) Leaders in Tech: developing\
+  \ interpersonal competence\n(21:36) Progressive disclosure and the 15% rule\n(24:28) Appropriate disclosure \n(26:52) The\
+  \ power of vulnerability\n(34:57) Admitting mistakes and sharing feelings\n(37:08) Understanding mental models\n(42:57)\
+  \ The “three realities” framework\n(53:52) The power of feedback and personal change\n(58:47) The art of inquiry \n(01:03:27)\
+  \ How to get better at giving feedback\n(01:07:47) Exercises and continued learning \n(01:10:49) “Advice hinders relationships”\n\
+  (01:16:49) Failure corner: AFOG\n(01:20:30) Takeaways\n(01:21:51) Lessons from long Covid\n\nReferenced:\n• How to Build\
+  \ Better Relationships: https://www.gsb.stanford.edu/insights/how-build-better-relationships\n• Connect: Building Exceptional\
+  \ Relationships with Family, Friends, and Colleagues: https://www.amazon.com/Connect-Building-Exceptional-Relationships-Colleagues-ebook/dp/B0894279WZ\n\
+  • Leaders in Tech: https://leadersintech.org/\n• Leaders in Tech Fellows: https://leadersintech.org/learnaboutfellows\n\
+  • Steve Jobs: https://www.forbes.com/profile/steve-jobs/\n• Sheryl Sandberg on X: https://twitter.com/sherylsandberg\n•\
+  \ Ursula Burns: https://www.forbes.com/profile/ursula-burns/\n• Application for Leaders in Tech: https://leadersintech.org/programs-and-applications\n\
+  • Vygotsky’s Zone of Proximal Development and Scaffolding Theory: https://www.simplypsychology.org/zone-of-proximal-development.html\n\
+  • The Best Leaders Aren’t Afraid to Be Vulnerable: https://hbr.org/2022/07/the-best-leaders-arent-afraid-of-being-vulnerable\n\
+  • The Surprising Benefits of Admitting Mistakes: 5 Ways to Build Intellectual Humility: https://www.forbes.com/sites/tracybrower/2021/12/29/the-surprising-benefits-of-admitting-mistakes-5-ways-to-build-intellectual-humility/\n\
+  • How to Build Conflict Skills—The Pinch/Crunch Model: https://www.forbes.com/sites/hannahart/2023/12/15/how-to-build-conflict-skills-the-pinchcrunch-model/\n\
+  • Slides mentioned (The Three Realities Framework | The 15% Rule | Feedback Guidelines): https://www.notion.so/pen-name/Carole-Robin-on-Lenny-s-Podcast-dc7159208e4242428f4b11ebc92285eb\n\
+  • Mindset: The New Psychology of Success: https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322\n• Management\
+  \ Time: Who’s Got the Monkey?: https://hbr.org/1999/11/management-time-whos-got-the-monkey\n• Long COVID: major findings,\
+  \ mechanisms and recommendations: https://www.nature.com/articles/s41579-022-00846-2\n• Leadership, acceptance, and self-management:\
+  \ my journey with long COVID: https://www.linkedin.com/pulse/leadership-acceptance-self-management-my-journey-long-carole-robin/\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5220.0
 duration: '1:27:00'
 view_count: 18515

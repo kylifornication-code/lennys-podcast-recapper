@@ -4,11 +4,28 @@ title: The ultimate guide to paid growth | Timothy Davis (Shopify)
 youtube_url: https://www.youtube.com/watch?v=zNJyb3R_Pnc
 video_id: zNJyb3R_Pnc
 publish_date: 2024-07-28
-description: 'Timothy Davis has led performance marketing for all of Shopify for the
-  past 2.5 years, and as a consultant has helped companies like Pinterest, LinkedIn,
-  Redfin, and Eventbrite kickstart and...
-
-  '
+description: "Timothy Davis has led performance marketing for all of Shopify for the past 2.5 years, and as a consultant has\
+  \ helped companies like Pinterest, LinkedIn, Redfin, and Eventbrite kickstart and scale their performance marketing teams.\
+  \ In every one of those cases, he got them so performant at paid growth that they significantly scale spend and investment\
+  \ in these channels. In our conversation, we cover:\n• When and how to start investing in performance marketing\n• Common\
+  \ mistakes companies make with paid ads\n• How to build and structure a performance marketing team\n• How to get your creatives\
+  \ performing better\n• Strategies for optimizing workflows and team efficiency\n• How AI will change performance marketing\n\
+  • Much more\n\n—\n\nBrought to you by:\n• BuildBetter—AI for product teams: https://buildbetter.ai/lenny\n• OneSchema—Import\
+  \ CSV data 10x faster: https://oneschema.co/lenny\n• Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\n\
+  \nFind the transcript and references at: https://www.lennysnewsletter.com/p/performance-marketing-timothy-davis\n\nWhere\
+  \ to find Timothy Davis: \n• LinkedIn: https://www.linkedin.com/in/timothypatrickdavis/\n\nWhere to find Lenny:\n• Newsletter:\
+  \ https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Timothy’s background \n(02:31) Understanding performance marketing \n(06:31) The importance\
+  \ of paid search \n(08:39) Identifying growth potential \n(09:54) Case studies: Hairstory and Ipsy \n(12:22) Experimenting\
+  \ with new platforms \n(18:57) Choosing the right platforms \n(20:23) LinkedIn for B2B marketing \n(27:56) When to start\
+  \ investing in paid growth \n(33:33) Common mistakes in performance marketing \n(37:41) Working with agencies and consultants \n\
+  (40:36) Hiring for performance marketing \n(47:33) Metrics that matter \n(54:43) Competitor analysis and CPC insights \n\
+  (56:15) Custom reports and data visualization\n(56:38) Understanding impression and click share \n(59:10) True competition\
+  \ metrics \n(01:02:14) Attribution and incrementality \n(01:08:52) Building a performance marketing team \n(01:10:53) Creative\
+  \ and ad copy collaboration \n(01:15:48) Managing workload and hiring strategy \n(01:20:52) Training and onboarding new\
+  \ hires \n(01:24:41) Impact of ATT on performance marketing \n(01:25:56) The power of creative in ads \n(01:29:47) Using\
+  \ AI in performance marketing \n(01:37:16) Lightning round \n\nProduction and marketing by https://penname.co/. For inquiries\
+  \ about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 6124.0
 duration: '1:42:04'
 view_count: 19230

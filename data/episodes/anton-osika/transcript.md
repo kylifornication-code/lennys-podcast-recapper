@@ -1,15 +1,38 @@
 ---
 guest: Anton Osika
-title: 'Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and
-  co-founder)'
+title: 'Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)'
 youtube_url: https://www.youtube.com/watch?v=DZtGxNs9AVg
 video_id: DZtGxNs9AVg
 publish_date: 2025-03-09
-description: 'Anton Osika is the co-founder and CEO of Lovable, which is building
-  what they call “the last piece of software”—an AI-powered tool that turns descriptions
-  into working products without...
-
-  '
+description: "Anton Osika is the co-founder and CEO of Lovable, which is building what they call “the last piece of software”—an\
+  \ AI-powered tool that turns descriptions into working products without requiring any coding knowledge. Since launching\
+  \ three months ago, Lovable hit $4 million ARR in the first four weeks and $10 million ARR in two months with a team of\
+  \ just 15 people, making it Europe’s fastest-growing startup ever.\n\nWhat you’ll learn:\n1. Why you need to be in the top\
+  \ 1% of AI tool users\n2. Watch Lovable build a functional Airbnb clone in 30 seconds—complete with working features and\
+  \ modern design\n3. The unconventional hiring approach that helped build a 15-person team capable of extraordinary execution\n\
+  4. How traditional product development will look with AI\n5. What skills will matter most to product teams going forward\n\
+  6. How Anton’s team discovered a breakthrough in AI “unsticking itself”\n\n—\n\nBrought to you by:\n• Sinch—Build messaging,\
+  \ email, and calling into your product: https://sinch.com/lenny\n• Persona—A global leader in digital identity verification:\
+  \ https://withpersona.com/lenny\n• Fundrise Flagship Fund—Invest in $1.1 billion of real estate: https://www.fundrise.com/lenny\n\
+  \nFind the transcript at: https://www.lennysnewsletter.com/p/building-lovable-anton-osika\n\nWhere to find Anton Osika:\n\
+  • X: https://x.com/antonosika\n• LinkedIn: https://www.linkedin.com/in/antonosika/\n\nWhere to find Lenny:\n• Newsletter:\
+  \ https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Introduction to Anton and Lovable\n(05:12) Lovable’s rapid growth \n(09:39) Live demo:\
+  \ Building an Airbnb clone\n(18:34) Tips for mastering Lovable\n(21:42) The origin story\n(26:50) Scaling laws and getting\
+  \ AI unstuck \n(33:20) Reliability and unique features\n(36:25) The vision and future of Lovable\n(38:14) Skills and job\
+  \ market evolution in the age of AI\n(40:30) Hiring philosophy and team dynamics\n(46:21) Building in Europe\n(48:02) Prioritization\
+  \ and product roadmap\n(51:38) Tools and work environment\n(53:17) Tactics for moving fast \n(54:37) Advice for building\
+  \ product teams\n(57:11) Empowering non-technical founders\n(58:31) Future developments and user support\n(01:01:23) Failure\
+  \ corner\n(01:05:20) Final thoughts and advice\n\nReferenced:\n• Lovable: https://lovable.dev/\n• Lovable Launched: https://launched.lovable.app/\n\
+  • Cloudflare: https://www.cloudflare.com/\n• Supabase: https://supabase.com/\n• GPT engineer: https://github.com/gpt-engineer-org/gptengineer.app\n\
+  • Microsoft Copilot: https://copilot.microsoft.com/chats/cmFw8dTsGU8D6b9siqQ6U\n• Fabian Hedin on LinkedIn: https://www.linkedin.com/in/fabian-hedin-2377b0144/\n\
+  • Behind the product: Replit | Amjad Masad (co-founder and CEO): https://www.lennysnewsletter.com/p/behind-the-product-replit-amjad-masad\n\
+  • Replit: https://replit.com/\n• Cursor: https://www.cursor.com\n• Bolt: https://bolt.new/\n• GitHub: https://github.com/\n\
+  • Lane Shackleton on LinkedIn: https://www.linkedin.com/in/laneshackleton/\n• FigJam: https://www.figma.com/figjam/\n• Linear:\
+  \ https://linear.app/\n• Sana Labs: https://sanalabs.com/\n• Duolingo: https://www.duolingo.com/\n• Claude: https://claude.ai/\n\
+  • ChatGPT: https://chatgpt.com/\n• Lovable on X: https://x.com/Lovable_dev\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 4188.0
 duration: '1:09:48'
 view_count: 56547

@@ -4,11 +4,28 @@ title: The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Y
 youtube_url: https://www.youtube.com/watch?v=YP_QghPLG-8
 video_id: YP_QghPLG-8
 publish_date: 2022-08-25
-description: 'Shreyas Doshi is a treasure trove of wisdom and tactical insights on
-  product, strategy, psychology, leadership, and life. Over the course of his career,
-  he’s PM’d at Google, Twitter, Yahoo,...
-
-  '
+description: "Shreyas Doshi is a treasure trove of wisdom and tactical insights on product, strategy, psychology, leadership,\
+  \ and life. Over the course of his career, he’s PM’d at Google, Twitter, Yahoo, and Stripe—where he joined as its fourth\
+  \ product manager, later becoming Stripe’s first PM manager and helping define and grow its product management function\
+  \ from ~5 to more than 50 people. Since leaving Stripe, Shreyas has amassed a huge Twitter following in large part thanks\
+  \ to consistent sharing of high-quality insights on the art of product management.\n\nWhere to find Shreyas Doshi:\n• Twitter:\
+  \ https://twitter.com/shreyas\n• LinkedIn: https://www.linkedin.com/in/shreyasdoshi/\n\nWhere to find Lenny:\n• Newsletter:\
+  \ https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nReferenced:\n• Coda template: https://coda.io/@shreyas/pre-mortems-how-a-stripe-product-manager-predicts-prevents-probl\n\
+  • Pre-mortems: https://twitter.com/shreyas/status/1221257568510603264\n• LNO framework: https://twitter.com/shreyas/status/1492345184171945984\n\
+  • Three levels of product work: https://twitter.com/shreyas/status/1370248637842812936\n• Execution problems: https://twitter.com/shreyas/status/1427116991274307588\n\
+  • Opportunity-cost thinking: https://twitter.com/shreyas/status/1409726218438549514\n• High agency: https://twitter.com/shreyas/status/1276956836856393728\n\
+  \nEpisode transcripts: \nhttps://www.lennyspodcast.com/shreyas-doshi-on-pre-mortems-the-lno-framework-the-three-levels-of-product-work-why-most-execution-problems-are-strategy-problems-and-roi-vs-opportunity-cost-thinking/#transcription\
+  \ \n\nIn this episode, we cover:\n[00:00] Shreyas’ upbringing and path into product management\n[14:22] Lessons from working\
+  \ at Stripe, Twitter, Google, and Yahoo\n[27:12] How pre-mortem meetings impacted the culture at Stripe\n[33:23] What are\
+  \ the best practices in running a pre-mortem meeting?\n[39:27] The LNO framework: What is it and how did it change the way\
+  \ Shreyas went about his day?\n[48:06] The two-step tactic you can apply to overcome procrastination on important tasks\n\
+  [53:19] The three levels of product work and which level should you optimize for\n[56:46] How might these product work levels\
+  \ cause conflict or influence your company culture?\n[1:03:43] Common types of problems hiding behind the execution label\n\
+  [1:05:14] Two traits you need to identify a fake execution problem\n[1:13:10] The pitfall of ROI thinking\n[1:21:03] What\
+  \ is opportunity-cost thinking and how can you apply it?\n\nThank you to our wonderful sponsors for making this episode\
+  \ possible:\n• Coda: https://coda.io/lenny\n• Productboard: https://www.productboard.com/\n• Sprig: https://sprig.com/lenny\n\
+  \nProduction and marketing by https://penname.co/. For inquires about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 5482.0
 duration: '1:31:22'
 view_count: 260513

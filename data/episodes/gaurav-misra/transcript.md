@@ -1,17 +1,13 @@
 ---
 guest: Gaurav Misra
-title: Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)
-youtube_url: https://www.youtube.com/watch?v=dLku0AiGPVA
-video_id: dLku0AiGPVA
-publish_date: 2023-02-12
-description: 'Lauryn Isford is a product growth leader and practitioner, who most
-  recently led Growth at Airtable, and is about to start something new 🤫.  In today’s
-  episode, we get into the many tactics...
-
-  '
-duration_seconds: 3861.0
-duration: '1:04:21'
-view_count: 18254
+title: ''
+youtube_url: ''
+video_id: ''
+publish_date: ''
+description: ''
+duration_seconds: 0
+duration: ''
+view_count: 0
 channel: Lenny's Podcast
 keywords:
 - growth

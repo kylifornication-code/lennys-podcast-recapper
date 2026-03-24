@@ -1,13 +1,31 @@
 ---
 guest: Crystal W
-title: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek
-  and Kumu
+title: How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu
 youtube_url: https://www.youtube.com/watch?v=lYaiyi2ZX6Q
 video_id: lYaiyi2ZX6Q
 publish_date: 2022-07-31
-description: You don't need lots of employees to achieve impressive growth, but you
-  do need a unique approach to hiring and measuring what matters most. Crystal Widjaja
-  has used scrappy tactics to unlock...
+description: "You don't need lots of employees to achieve impressive growth, but you do need a unique approach to hiring and\
+  \ measuring what matters most. Crystal Widjaja has used scrappy tactics to unlock massive success for Gojek (a wildly successful\
+  \ ride-share app in South East Asia) and is currently the Chief Product Officer at Kumu. In this episode, she shares the\
+  \ exact strategies she’s used as a product leader to hack growth, hire the best, and perfect data collection. Join us.\n\
+  \nFind the full transcript here: https://www.lennysnewsletter.com/p/how-to-hire-for-measure-and-unlock\n\n—\n\nThank you\
+  \ to our wonderful sponsors for making this episode possible:\n\n• Amplitude: https://amplitude.com/\n• Flatfile: https://www.flatfile.com/lenny\n\
+  • Eppo: https://www.geteppo.com/\n\n—\n\nWhere to find Crystal:\n\n• Website: https://www.crissyw.com/\n• Twitter: https://twitter.com/crystalwidjaja\n\
+  • LinkedIn: https://www.linkedin.com/in/crystalwidjaja/\n\n—\n\nWhere to find Lenny:\n\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\n—\n\nReferenced:\n\n\
+  • Generation Girl: https://www.generationgirl.org/\n• Experiment Design Question Example: https://docs.google.com/spreadsheets/d/1tSrEGpvg19OMKrRg45HGvsZBGz8BkeVc/edit#gid=1841057518\n\
+  \n—\n\nIn this episode, we cover:\n\n[00:00] Crystal's path to product\n[09:40] How Crystal decided to join a risky startup\
+  \ \n[11:31] Why haven't super apps emerged in the U.S.? \n[13:15] What startups in the U.S. can learn from companies in\
+  \ Asia\n[16:35] How to get intentionally scrappier in your organization\n[18:28] How to get and utilize scrappy and small\
+  \ data sets \n[21:26] How to increase retention\n[22:28] What does and doesn't work in growth?\n[25:01] The conversion rates\
+  \ Crytsal looks for to determine viability and success\n[28:03] How founders should think about approaching growth\n[32:44]\
+  \ Figuring out how to grow and the resources you have at your disposal\n[34:53] Optimizing the funnel to make growth happen\
+  \ faster\n[37:40] Crystal's biggest lessons on unlocking growth\n[40:07] Why most analytics efforts fail and how to avoid\
+  \ failure\n[44:24] Signs your organization is getting analytics wrong\n[46:17] The best resources for figuring out how to\
+  \ do analytics right\n[47:05] Crystal's recommendations for metric tracking stacks.\n[48:37] How you should set up your\
+  \ growth team originally\n[51:38] Integrating growth teams or separating them?\n[52:43] Who should be the first growth hire?\n\
+  [53:55] How to hire a great growth person for your organization\n[56:55] How to help women and young girls get into STEM\
+  \ (a non-profit that you started)\n[1:02:07] Where to reach Crystal"
 duration_seconds: 3790.0
 duration: '1:03:10'
 view_count: 13767

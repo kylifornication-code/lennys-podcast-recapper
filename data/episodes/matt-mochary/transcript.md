@@ -4,14 +4,25 @@ title: Are your fears giving you terrible advice? | Matt Mochary
 youtube_url: https://www.youtube.com/watch?v=qOrwVtZvdaE
 video_id: qOrwVtZvdaE
 publish_date: 2023-01-17
-description: 'From episode: (https://youtu.be/bCel0X2Ta7U) How to fire people with
-  grace, work through fear, and nurture innovation | Matt Mochary (CEO coach)
+description: 'From episode: (https://youtu.be/bCel0X2Ta7U) How to fire people with grace, work through fear, and nurture innovation
+  | Matt Mochary (CEO coach)
 
   —
 
-  Matt Mochary, CEO of Mochary Method, is...
+  Matt Mochary, CEO of Mochary Method, is a full-time executive coach who has worked with some of the biggest names in tech
+  and finance, including investor Naval Ravikant and the CEOs of Notion, OpenAI, Coinbase, Reddit, and many others.
 
-  '
+  —
+
+  🔔 For more videos like these, subscribe here: https://www.youtube.com/c/LennysPodcast?sub_confirmation=1
+
+  —
+
+  🎙️ Lenny''s Podcast:  https://www.lennyspodcast.com/
+
+
+  Lenny Rachitsky interviews world-class product leaders and growth experts to uncover concrete, actionable, and tactical
+  advice to help you build, launch, and grow your own product.'
 duration_seconds: 420.0
 duration: '7:00'
 view_count: 2138

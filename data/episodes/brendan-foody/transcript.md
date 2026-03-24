@@ -1,15 +1,49 @@
 ---
 guest: Brendan Foody
-title: Why experts writing AI evals is creating the fastest-growing companies in history
-  | Brendan Foody
+title: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody
 youtube_url: https://www.youtube.com/watch?v=ja6fWTDPQl4
 video_id: ja6fWTDPQl4
 publish_date: 2025-09-18
-description: 'Brendan Foody is the CEO and co-founder of Mercor, the fastest-growing
-  company in history to go from $1M to $500M in revenue (in just 17 months!). At 22,
-  he is also the youngest American unicorn...
-
-  '
+description: "Brendan Foody is the CEO and co-founder of Mercor, the fastest-growing company in history to go from $1M to\
+  \ $500M in revenue (in just 17 months!). At 22, he is also the youngest American unicorn founder ever. Mercor works with\
+  \ 6 of the Magnificent 7 and all top 5 AI labs to help them hire experts to create evaluations and training data that improve\
+  \ their models. In this conversation, Brendan explains why evals have become the critical bottleneck for AI progress, how\
+  \ he discovered this massive opportunity, and what the future of work might look like in an AI-driven economy. \n_Big thank\
+  \ you to Peter Deng for introducing me to Brendan._\n\n*What you’ll learn:*\n1. Why evals are becoming the primary bottleneck\
+  \ for AI progress and what this means for AI startups\n2. How Mercor grew to $500M revenue in 17 months (fastest in history)\n\
+  3. Brendan’s meeting with xAI that changed his company’s trajectory\n4. Which skills and jobs will remain most valuable\
+  \ as AI continues to advance (hint: jobs with “elastic” demand)\n5. Why Brendan believes AGI and superintelligence are not\
+  \ happening anytime soon\n6. The three unique core values that drove Mercor’s success\n7. How Harvard Lampoon writers are\
+  \ making Claude funnier\n\n*Brought to you by:*\nWorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs:\
+  \ https://workos.com/lenny\nJira Product Discovery—Atlassian’s new prioritization and roadmapping tool built for product\
+  \ teams: https://atlassian.com/lenny\nEnterpret—Transform customer feedback into product growth: https://enterpret.com/lenny\n\
+  \n*Transcript:* https://www.lennysnewsletter.com/p/experts-writing-ai-evals-brendan-foody\n\n*My biggest takeaways (for\
+  \ paid newsletter subscribers):* https://www.lennysnewsletter.com/i/173303790/my-biggest-takeaways-from-this-conversation\n\
+  \n*Where to find Brendan Foody:*\n• X: https://x.com/BrendanFoody\n• LinkedIn: https://www.linkedin.com/in/brendan-foody-2995ab10b/\n\
+  \n*Where to find Lenny:*\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\n*In this episode, we cover:*\n(00:00) Introduction to Brendan Foody and\
+  \ Mercor\n(05:38) The “era of evals”\n(09:26) Understanding the AI training landscape\n(17:10) The future of work and AI\n\
+  (25:54) The evolution of labor markets\n(29:55) Understanding how AI models are trained\n(38:58) Building Mercor\n(53:27)\
+  \ Lessons from past ventures\n(56:55) The future of AI and model improvement\n(01:00:41) His personal use of AI and final\
+  \ thoughts\n\n*Referenced:*\n• Mercor: https://mercor.com/\n• No Priors Ep. 110 | With Mercor CEO and Co-Founder Brendan\
+  \ Foody: https://www.youtube.com/watch?v=vnkVYLhGd_s\n• Sarah Guo’s post on X about evals: https://x.com/saranormous/status/1948565353514316021\n\
+  • Cursor: https://cursor.com/\n• The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell\
+  \ (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell\n• Lovable: https://lovable.dev/\n\
+  • Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder): https://www.lennysnewsletter.com/p/building-lovable-anton-osika\n\
+  • Bolt: https://bolt.new/\n• Inside Bolt: From near-death to ~$40m ARR in 5 months—one of the fastest-growing products in\
+  \ history | Eric Simons (founder and CEO of StackBlitz): https://www.lennysnewsletter.com/p/inside-bolt-eric-simons\n• Replit:\
+  \ https://replit.com/\n• Behind the product: Replit | Amjad Masad (co-founder and CEO): https://www.lennysnewsletter.com/p/behind-the-product-replit-amjad-masad\n\
+  • v0: https://v0.app/\n•Everyone’s an engineer now: Inside v0’s mission to create a hundred million builders | Guillermo\
+  \ Rauch (founder and CEO of Vercel, creators of v0 and Next.js): https://www.lennysnewsletter.com/p/everyones-an-engineer-now-guillermo-rauch\n\
+  • Handshake: https://joinhandshake.com/\n• Inside the expert network training every frontier AI model | Garrett Lord (Handshake\
+  \ CEO): https://www.lennysnewsletter.com/p/inside-handshake-garrett-lord\n• Scale: https://scale.com/\n• Surge: https://www.surgehq.ai/\n\
+  • Andrej Karpathy on X: https://x.com/karpathy\n• Anthropic co-founder on quitting OpenAI, AGI predictions, $100M talent\
+  \ wars, 20% unemployment, and the nightmare scenarios keeping him up at night | Ben Mann: https://www.lennysnewsletter.com/p/anthropic-co-founder-benjamin-mann\n\
+  • Amber Yang’s post on X about creating RL training data: https://x.com/theamberyang/status/1952462320174600385\n• Codex:\
+  \ https://openai.com/codex/\n• Claude code: https://www.anthropic.com/claude-code\n• Neuralink: https://neuralink.com/\n\
+  • Alphasights: https://www.alphasights.com/\n• GLG: https://glginsights.com/\n...References continued at: https://www.lennysnewsletter.com/p/experts-writing-ai-evals-brendan-foody\n\
+  \n_Production and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4028.0
 duration: '1:07:08'
 view_count: 28965

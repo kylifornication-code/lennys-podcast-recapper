@@ -4,11 +4,42 @@ title: Scripts for navigating difficult conversations | Alisa Cohn (executive co
 youtube_url: https://www.youtube.com/watch?v=bvF0ZM8DjuI
 video_id: bvF0ZM8DjuI
 publish_date: 2025-01-05
-description: 'Alisa Cohn is an executive coach who has worked with C-suite executives
-  at startups like Venmo, Etsy, Wirecutter, and DraftKings, and Fortune 500 companies
-  like Microsoft, Google, Pfizer, Dell,...
-
-  '
+description: "Alisa Cohn is an executive coach who has worked with C-suite executives at startups like Venmo, Etsy, Wirecutter,\
+  \ and DraftKings, and Fortune 500 companies like Microsoft, Google, Pfizer, Dell, and IBM. Inc. Magazine named Alisa one\
+  \ of the top 100 leadership speakers, and she was named one of the Top 50 coaches in the world by Thinkers50 and the #1\
+  \ startup coach for the past four years by Global Gurus. She is also the author of From Start-Up to Grown-Up, which won\
+  \ the 2022 Independent Press Award and the American Book Fest 2023 Best Book Award for Entrepreneurship, and is the creator\
+  \ and host of a podcast of the same name. In our conversation, we discuss:\n• The psychology behind why we avoid difficult\
+  \ conversations\n• Specific scripts for having five common difficult conversations\n• How to handle defensive reactions\
+  \ in the moment\n• The three questions you should end every meeting with\n• “The founder prenup” that every founding team\
+  \ should work through\n• Common leadership myths\n• Stories of failure from Alisa’s career\n\n—\n\nBrought to you by:\n\
+  • Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\n• Rippling—Automate HR, IT, and finance so you can\
+  \ scale faster: http://www.rippling.com/lenny\n• Liveblocks—Ready-made collaborative features to drop into your product:\
+  \ https://liveblocks.io/lenny\n\nFind the transcript at: https://www.lennysnewsletter.com/p/scripts-for-difficult-conversations-alisa-cohn\n\
+  \nWhere to find Alisa Cohn:\n• X: https://x.com/AlisaCohn\n• LinkedIn: https://www.linkedin.com/in/alisacohn\n• Website:\
+  \ https://www.alisacohn.com\n• Podcast: https://www.alisacohn.com/podcast\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Alisa’s background\n(04:48) Having difficult conversations\n(12:48) Scripts for performance feedback\n(20:20) How\
+  \ to respond when someone is defensive or upset\n(25:07) Scripts for handling promotion disappointments\n(31:00) Scripts\
+  \ for handling terminations\n(35:44) The importance of positive feedback\n(38:49) Understanding your job as a leader\n(44:55)\
+  \ Recognizing your own blind spots \n(49:38) Three vital questions to ask in every meeting\n(55:57) The founder prenup\n\
+  (01:08:24) Failure corner\n(01:13:00) Final thoughts and lightning round\n\nReferenced:\n• Alisa’s free PDF downloads for\
+  \ Lenny’s listeners: https://www.alisacohn.com/Lenny/\n• Radical Candor: From theory to practice with author Kim Scott:\
+  \ https://www.lennysnewsletter.com/p/radical-candor-from-theory-to-practice\n• Non-Violent Communication (NVC) Model: https://www.ucop.edu/ombuds/_files/nvc-model-requesting-change-remove.pdf\n\
+  • Sheryl Sandberg on LinkedIn: https://www.linkedin.com/in/sheryl-sandberg-5126652\n• How embracing emotions will accelerate\
+  \ your career | Joe Hudson (executive coach, Art of Accomplishment): https://www.lennysnewsletter.com/p/embracing-your-emotions-joe-hudson\n\
+  • Joe Gebbia on X: https://x.com/jgebbia\n• Noam Wasserman on LinkedIn: https://www.linkedin.com/in/noam-wasserman-462425\n\
+  • Core Values List: https://jamesclear.com/core-values\n• How Cofounders Can Prevent Their Relationship from Derailing:\
+  \ https://hbr.org/2022/04/how-cofounders-can-prevent-their-relationship-from-derailing\n• Inside Out 2 on Disney+: https://www.disneyplus.com/movies/inside-out-2/6MeZYf9JkFii\n\
+  • Ninja CREAMi: https://www.amazon.com/Ninja-NC299AMZ-Milkshakes-One-Touch-Container/dp/B09QV24FFZ\n• Joseph Campbell quote:\
+  \ https://www.goodreads.com/quotes/136819-if-the-path-before-you-is-clear-you-re-probably-on\n\nRecommended books:\n• From\
+  \ Start-Up to Grown-Up: Grow Your Leadership to Grow Your Business: https://www.amazon.com/Start-Up-Grown-Up-Grow-Leadership-Business/dp/1398601403\n\
+  • Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity: https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375\n\
+  • Working Backwards: Insights, Stories, and Secrets from Inside Amazon: https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595\n\
+  • Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards): https://www.lennysnewsletter.com/p/unpacking-amazons-unique-ways-of\n\
+  • Walt Disney: The Triumph of the American Imagination: https://www.amazon.com/Walt-Disney-Triumph-American-Imagination/dp/0679757473\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5023.0
 duration: '1:23:43'
 view_count: 15528

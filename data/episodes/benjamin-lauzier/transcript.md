@@ -1,15 +1,169 @@
 ---
 guest: Benjamin Lauzier
-title: 'How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier
-  (Lyft, Thumbtack)'
+title: 'How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)'
 youtube_url: https://www.youtube.com/watch?v=CYwgStMln6U
 video_id: CYwgStMln6U
 publish_date: 2024-09-29
-description: 'Benjamin Lauzier has been building and scaling marketplaces for almost
-  15 years. He was the VP of product and growth at Thumbtack, where he rebuilt the
-  product team and Thumbtack’s growth...
+description: 'Benjamin Lauzier has been building and scaling marketplaces for almost 15 years. He was the VP of product and
+  growth at Thumbtack, where he rebuilt the product team and Thumbtack’s growth levers, re-architected their revenue model,
+  and helped double the company’s growth within three years. Prior to Thumbtack, Ben was at Lyft for six years, where he led
+  the supply side of the product organization to a point where 1% of U.S. workers were driving for Lyft every month. Currently,
+  he advises marketplace teams and founders, teaches a Reforge course on marketplace growth, and has recently launched a health
+  tech company called Nurra, which connects users with care advocates to navigate the health-care system. In our conversation,
+  we cover:
 
-  '
+  • What defines a marketplace business
+
+  • Strategies for growing supply and demand in the early stages
+
+  • How to measure liquidity and other marketplace health metrics
+
+  • How to evaluate if a marketplace model is right for your idea
+
+  • Lessons from Lyft, Thumbtack, and other successful marketplaces
+
+  • The differences between product management in the U.S. and Europe
+
+
+  —
+
+
+  Brought to you by:
+
+  • Eppo—Run reliable, impactful experiments: https://www.geteppo.com/
+
+  • Paragon—Ship every SaaS integration your customers want: https://www.useparagon.com/lenny
+
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/how-marketplaces-win-benjamin-lauzier
+
+
+  Where to find Benjamin Lauzier:
+
+  • LinkedIn: https://www.linkedin.com/in/benjaminlauzier/
+
+  • Ben’s Reforge course: https://www.reforge.com/courses/marketplace-growth/details
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Ben’s background
+
+  (02:24) Defining a marketplace
+
+  (07:52) Challenges in building a marketplace
+
+  (13:28) Methods for growing supply
+
+  (15:57) Understanding marketplace liquidity
+
+  (21:36) Identifying product-market fit in marketplaces
+
+  (24:10) Evaluating marketplace business models
+
+  (27:20) Common pitfalls and failures in marketplaces
+
+  (36:23) Managed marketplaces and quality control
+
+  (42:26) Lyft’s rental car initiative
+
+  (46:35) Mentorship and ambassador programs
+
+  (51:21) Driver recruitment strategies
+
+  (54:12) Lyft vs. Uber: a strategic analysis
+
+  (59:24) Cultural differences in tech: Europe vs. U.S.
+
+  (01:10:30) Building a health advocacy platform
+
+  (01:16:52) Lightning round and final thoughts
+
+
+  Referenced:
+
+  • Craigslist: https://www.craigslist.org/
+
+  • Lyft: https://www.lyft.com/
+
+  • Shopify: https://www.shopify.com/
+
+  • Airbnb: https://www.airbnb.com/
+
+  • eBay: https://www.ebay.com/
+
+  • Faire: https://www.faire.com/
+
+  • Rover: https://www.rover.com/
+
+  • Thumbtack: https://www.thumbtack.com/
+
+  • Taskrabbit: https://www.taskrabbit.com/
+
+  • OpenTable: https://www.opentable.com/
+
+  • DoorDash: https://www.doordash.com/
+
+  • The Sean Ellis Test for Measuring Product-Market Fit: https://productcoalition.com/using-sean-ellis-test-for-measuring-your-product-market-fit-c8ac98053c2c
+
+  • The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking Growth”): https://www.lennysnewsletter.com/p/the-original-growth-hacker-sean-ellis
+
+  • Sidecar: https://en.wikipedia.org/wiki/Sidecar_(company)
+
+  • Cherry Is Shutting Down Its On-Demand Car Wash Service, Will Refund Pre-Paid Customers: https://techcrunch.com/2012/12/23/cherry-car-wash-shut-down/
+
+  • Toptal: https://www.toptal.com/
+
+  • Lyft Express Drive: https://www.lyft.com/expressdrive
+
+  • Ambassadors and Partnerships at Lyft: https://www.lyft.com/ambassador
+
+  • Twilio: https://pages.twilio.com/
+
+  • Mozza: https://www.mozza.io/
+
+  • Mistral AI: https://mistral.ai/
+
+  • Hugging Face: https://huggingface.co/
+
+  • Gemini: https://gemini.google.com/app
+
+  • Paul Graham’s “Founder Mode”: https://paulgraham.com/foundermode.html
+
+  • Nurra Health: https://nurra.me/
+
+  • Misbehaving: The Making of Behavioral Economics: https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler/dp/039335279X
+
+  • Range: Why Generalists Triumph in a Specialized World: https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484
+
+  • Immune: A Journey into the Mysterious System That Keeps You Alive: https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312/
+
+  • Kurzgesagt YouTube channel: https://www.youtube.com/@kurzgesagt
+
+  • The Last of Us on HBO: https://www.hbo.com/the-last-of-us
+
+  • The Arc browser: https://arc.net/
+
+  • Competing with giants: An inside look at how The Browser Company builds product | Josh Miller (CEO): https://www.lennysnewsletter.com/p/competing-with-giants-an-inside-look
+
+  • John Muir quote: https://www.brainyquote.com/quotes/john_muir_3802
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5043.0
 duration: '1:24:03'
 view_count: 21572

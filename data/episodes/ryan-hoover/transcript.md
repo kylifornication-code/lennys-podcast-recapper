@@ -1,18 +1,13 @@
 ---
 guest: Ryan Hoover
-title: A better way to plan, build, and ship products | Ryan Singer (creator of “Shape
-  Up")
-youtube_url: https://www.youtube.com/watch?v=GF-yUANql0c
-video_id: GF-yUANql0c
-publish_date: 2025-03-30
-description: 'Ryan Singer is one of the earliest employees and the former Head of
-  Strategy at 37signals (the makers of Basecamp), where he spent nearly two decades
-  refining a product development approach...
-
-  '
-duration_seconds: 6310.0
-duration: '1:45:10'
-view_count: 29557
+title: ''
+youtube_url: ''
+video_id: ''
+publish_date: ''
+description: ''
+duration_seconds: 0
+duration: ''
+view_count: 0
 channel: Lenny's Podcast
 keywords:
 - growth

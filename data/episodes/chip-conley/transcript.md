@@ -1,18 +1,13 @@
 ---
 guest: Chip Conley
-title: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift,
-  TripAdvisor)
-youtube_url: https://www.youtube.com/watch?v=4LjddcccYIo
-video_id: 4LjddcccYIo
-publish_date: 2023-11-05
-description: 'Maggie Crowley is VP of product at Toast and previously vice president
-  and head of product at Charlie Health, senior director of product management at
-  Drift, and a PM at TripAdvisor. She’s...
-
-  '
-duration_seconds: 4954.0
-duration: '1:22:34'
-view_count: 43061
+title: ''
+youtube_url: ''
+video_id: ''
+publish_date: ''
+description: ''
+duration_seconds: 0
+duration: ''
+view_count: 0
 channel: Lenny's Podcast
 keywords:
 - growth

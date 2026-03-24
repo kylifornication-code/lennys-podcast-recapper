@@ -1,15 +1,38 @@
 ---
 guest: Cam Adams
-title: 'Inside Canva: Coaches not managers, giving away your Legos, and embracing
-  AI | Cameron Adams'
+title: 'Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams'
 youtube_url: https://www.youtube.com/watch?v=wgrJNHlYUA8
 video_id: wgrJNHlYUA8
 publish_date: 2024-06-02
-description: 'Cameron Adams is the co-founder and chief product officer of Canva.
-  Canva is one of the world’s most valuable private software companies, used by 95%
-  of Fortune 500 companies. Since its...
-
-  '
+description: "Cameron Adams is the co-founder and chief product officer of Canva. Canva is one of the world’s most valuable\
+  \ private software companies, used by 95% of Fortune 500 companies. Since its launch in 2013, Canva has grown to over 150\
+  \ million monthly users in more than 190 countries, generating $2.3 billion in annual revenue. Prior to Canva, Cameron ran\
+  \ a design consultancy, worked at Google on Google Wave, and founded the email startup Fluent. He is also an author of five\
+  \ web design books and a regular speaker at global conferences. In our conversation, we discuss:\n• Why they spent a year\
+  \ building their minimum viable product (MVP) before launch\n• Why Canva has no managers, and their unique approach to coaching\
+  \ and performance reviews\n• Why they encourage employees to “give away their Legos”\n• Insights into Canva’s SEO growth\
+  \ strategy\n• Their three-pillar framework for integrating AI into their product\n• Stories from the early days\n\n—\n\n\
+  Brought to you by:\n• WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\n\
+  • Attio—The powerful, flexible CRM for fast-growing startups: https://attio.com/lenny\n• Vanta—Automate compliance. Simplify\
+  \ security: https://vanta.com/lenny\n\nFind the transcript at: https://www.lennysnewsletter.com/p/inside-canva-with-cameron-adams\n\
+  \nWhere to find Cameron Adams:\n• X: https://twitter.com/themaninblue\n• LinkedIn: https://www.linkedin.com/in/themaninblue\n\
+  • Website: https://themaninblue.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Cameron’s background\n(02:00)\
+  \ Reflecting on the success of Canva\n(04:50) Reflecting on hard times\n(10:01) Canva’s product-obsessed culture \n(12:02)\
+  \ Why they prioritize internal promotions and hires\n(13:56) What makes Canva unique\n(16:31) The concept of giving away\
+  \ your Legos\n(21:44) Why Canva has no managers\n(24:29) Product management at Canva\n(27:56) Reflections on working with\
+  \ a married couple\n(30:37) Why they spent a year building their MVP before launch\n(33:49) Advice for building an MVP\n\
+  (41:23) Canva’s onboarding transformation \n(44:25) Canva’s SEO strategy \n(50:37) The success of Canva’s freemium strategy\n\
+  (54:24) Integrating AI into Canva’s product\n(01:01:50) Where to find Cameron\n\nReferenced:\n• Canva: https://www.canva.com/\n\
+  • Melanie Perkins on LinkedIn: https://www.linkedin.com/in/melanieperkins\n• Cliff Obrecht on LinkedIn: https://www.linkedin.com/in/cliff-obrecht-79ba9920\n\
+  • Jennie Rogerson, Head of People, LinkedIn post about “season opener” events: https://www.linkedin.com/posts/jennierogerson_season-opener-is-one-of-my-favourite-events-activity-7006815614556135424-73bD/\n\
+  • Game of Thrones on HBO: https://www.hbo.com/game-of-thrones\n• Woodstock: https://en.wikipedia.org/wiki/Woodstock\n• ‘Give\
+  \ Away Your Legos’ and Other Commandments for Scaling Startups: https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups/\n\
+  • Minimum viable product (MVP): https://www.productboard.com/glossary/minimum-viable-product-mvp\n• Canva’s SEO Strategy\
+  \ Is Elite: https://thegrowthplaybook.substack.com/p/canvas-seo-strategy-is-elite\n• The SEO Strategy That Led Canva to\
+  \ a $40 Billion Valuation: https://www.youtube.com/watch?v=INyGKt6LAqM\n• Andrianes Pinantoan on LinkedIn: https://www.linkedin.com/in/andrianes/\n\
+  • Canva Create: https://www.canva.com/canva-create/\n\nProduction and marketing by https://penname.co/. For inquiries about\
+  \ sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 3789.0
 duration: '1:03:09'
 view_count: 25631

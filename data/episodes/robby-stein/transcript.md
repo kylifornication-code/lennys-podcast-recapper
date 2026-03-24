@@ -1,15 +1,163 @@
 ---
 guest: Robby Stein
-title: 'Inside Google''s AI turnaround: AI Mode, AI Overviews, and vision for AI-powered
-  search | Robby Stein'
+title: 'Inside Google''s AI turnaround: AI Mode, AI Overviews, and vision for AI-powered search | Robby Stein'
 youtube_url: https://www.youtube.com/watch?v=kOnsqqVbIeY
 video_id: kOnsqqVbIeY
 publish_date: 2025-10-10
-description: 'Robby Stein is VP of Product at Google, where he oversees the core products
-  of Google Search—including the new AI Overviews, AI Mode, search ranking, Google
-  Lens, and more. Previously, he...
+description: 'Robby Stein is VP of Product at Google, where he oversees the core products of Google Search—including the new
+  AI Overviews, AI Mode, search ranking, Google Lens, and more. Previously, he led consumer products at Instagram, where he
+  and his teams built Stories, Reels, Close Friends, and other key features now used by billions.
 
-  '
+
+  *What you’ll learn:*
+
+  1. Why Google’s AI products are suddenly taking off after years of perceived stagnation
+
+  2. How AI is expanding Search rather than replacing it, contrary to what many predicted
+
+  3. The three core product principles that have helped Robby build multiple billion-user products
+
+  4. Inside Instagram’s decision to build its own version of Snapchat Stories
+
+  5. His mantra of “relentless improvement”
+
+  6. How Google developed AI Mode from concept to launch in just one year
+
+  7. Why most teams give up too early on potentially transformative products
+
+
+  *Brought to you by:*
+
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+  • Jira Product Discovery—Confidence to build the right thing: https://atlassian.com/lenny/?utm_source=lennypodcast&utm_medium=paid-audio&utm_campaign=fy24q1-jpd-imc
+
+  • Orkes—The enterprise platform for reliable applications and agentic workflows: https://www.orkes.io/
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/how-google-built-ai-mode-in-under-a-year
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/175041217/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Robby Stein:*
+
+  • X: https://x.com/rmstein
+
+  • LinkedIn: https://www.linkedin.com/in/robbystein/
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Robby Stein
+
+  (04:46) Google’s recent success with AI
+
+  (06:08) The evolution of Google Search
+
+  (09:41) AI Mode and its impact
+
+  (15:30) The rise of AEO
+
+  (18:50) Building successful AI products
+
+  (21:31)   Embodying relentless improvement
+
+  (30:10) Lessons from Instagram Stories
+
+  (35:20) Driving growth in established products
+
+  (40:08) Balancing optimization and innovation
+
+  (43:39) The journey of AI Mode: From launch to expansion
+
+  (48:05) Organizational changes and urgency
+
+  (49:51) AI Mode vs. competitors
+
+  (51:35) Core product principles
+
+  (57:07) Instagram’s Close Friends feature
+
+  (01:03:01) The importance of resources in development
+
+  (01:06:39) AI corner
+
+  (01:11:19) Curiosity and learning
+
+  (01:15:01) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Google Gemini: https://gemini.google.com/app
+
+  • Nano Banana: https://aistudio.google.com/models/gemini-2-5-flash-image
+
+  • Chat GPT: https://chatgpt.com/
+
+  • Perplexity: https://www.perplexity.ai/
+
+  • Google Lens: https://lens.google/
+
+  • AI Google search: https://www.google.com/ai
+
+  • Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour (Reforge): https://www.lennysnewsletter.com/p/why-chatgpt-will-be-the-next-big-growth-channel-brian-balfour
+
+  • Alex Rampell on X: https://x.com/arampell
+
+  • A 4-step framework for building delightful products | Nesrine Changuel (Spotify, Google, Skype): https://www.lennysnewsletter.com/p/a-4-step-framework-for-building-delightful-products
+
+  • Look broader, look closer, think younger: Tony Fadell speaks at TED2015: https://blog.ted.com/look-broader-look-closer-think-younger-tony-fadell-speaks-at-ted2015/
+
+  • Jobs to Be Done: https://www.christenseninstitute.org/theory/jobs-to-be-done/
+
+  • The ultimate guide to JTBD | Bob Moesta (co-creator of the framework): https://www.lennysnewsletter.com/p/the-ultimate-guide-to-jtbd-bob-moesta
+
+  • Rinstagram or Finstagram? The curious duality of the modern Instagram user: https://www.theguardian.com/technology/2016/sep/26/rinstagram-finstagram-instagram-accounts
+
+  • V03: https://v03ai.com/
+
+  • Pirate GPT: https://www.kickstarter.com/projects/silentmeditation/pirate-gpt/
+
+  • The Bear on Hulu: https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f
+
+  • Dune on HBO Max: https://www.hbomax.com/movies/dune/e7dc7b3a-a494-4ef1-8107-f4308aa6bbf7
+
+  • Top Gun: Maverick: https://www.imdb.com/title/tt1745960/
+
+  • Purple pillows: https://purple.com/pillows
+
+  • Avocado pillow: https://www.avocadogreenmattress.com/products/green-pillow
+
+
+  *Recommended books:*
+
+  • Competing Against Luck: The Story of Innovation and Customer Choice: https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612
+
+  • The Design of Everyday Things: https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654
+
+  • Aurora: https://www.amazon.com/Aurora-High-Stakes-Survival-Navigate-Darkness/dp/0062916475
+
+  • Project Hail Mary: https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4898.0
 duration: '1:21:38'
 view_count: 27015

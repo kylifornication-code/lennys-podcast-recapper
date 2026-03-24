@@ -1,15 +1,136 @@
 ---
 guest: Graham Weaver
-title: How to break out of autopilot and create the life you want | Graham Weaver
-  (Stanford GSB professor)
+title: How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor)
 youtube_url: https://www.youtube.com/watch?v=UpGR9P0Ufts
 video_id: UpGR9P0Ufts
 publish_date: 2025-01-16
-description: 'Graham Weaver teaches a top-rated course at Stanford’s Graduate School
-  of Business (GSB), where he often unexpectedly ends up helping students figure out
-  what to do with their lives. He...
+description: 'Graham Weaver teaches a top-rated course at Stanford’s Graduate School of Business (GSB), where he often unexpectedly
+  ends up helping students figure out what to do with their lives. He is also the founder and CEO of Alpine Investors, a people-driven
+  private equity firm. In our conversation, we discuss:
 
-  '
+  • Why everything worthwhile requires suffering
+
+  • Why most people operate on autopilot, and how to break free
+
+  • The “genie methodology” for discovering your true path
+
+  • The Nine Lives exercise for exploring different life possibilities
+
+  • How to overcome limiting beliefs that hold you back
+
+  • Why “not now” is often just another way of saying “never”
+
+  • More
+
+
+  —
+
+
+  Brought to you by:
+
+  • Merge—A single API to add hundreds of integrations into your app: http://merge.dev/lenny
+
+  • Persona—A global leader in digital identity verification: https://withpersona.com/lenny
+
+  • Liveblocks—Ready-made collaborative features to drop into your product: https://liveblocks.io/lenny
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/how-to-break-out-of-autopilot-graham-weaver
+
+
+  Where to find Graham Weaver:
+
+  • LinkedIn: https://www.linkedin.com/in/graham-weaver-2b79
+
+  • Instagram: https://www.instagram.com/grahamcweaver
+
+  • YouTube: https://www.youtube.com/@grahamcweaver
+
+  • Website: https://www.grahamweaver.com
+
+  • TikTok: https://www.tiktok.com/@grahamcweaver
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Graham’s background
+
+  (05:30) Helping students find their true path
+
+  (07:40) The genie methodology
+
+  (12:36) Breaking free from autopilot mode
+
+  (17:54) Identifying and overcoming limiting beliefs
+
+  (20:33) Teaching entrepreneurship and personal fulfillment
+
+  (22:53) The reality of long-term success
+
+  (35:14) The role of accountability and executive coaching
+
+  (40:22) Daily goal setting for success
+
+  (43:11) The Nine Lives framework
+
+  (48:01) The dangers of the “not now” mentality
+
+  (55:27) Navigating life’s transitions
+
+  (57:19) Failure corner
+
+  (01:00:24) When to quit and when to persevere
+
+  (01:02:18) Final thoughts and lightning round
+
+
+  Referenced:
+
+  • Setting Goals: Demystified: https://www.grahamweaver.com/blog/goals
+
+  • Tony Robbins’s website: https://www.tonyrobbins.com
+
+  • Alpine Investors: https://alpineinvestors.com
+
+  • Stanford GSB Last Lecture 2024—How to Live Your Life at Full Power: https://www.grahamweaver.com/blog/stanford-graduate-business-school-last-lecture-2024
+
+  • I turned 50 today. Here is the most important thing I learned in my first half century: https://www.grahamweaver.com/blog/turning-50
+
+  • Where the Crawdads Sing on Prime Video: https://www.amazon.com/Where-Crawdads-Sing-Daisy-Edgar-Jones/dp/B0B5KBKDNL
+
+  • Chilipad Cube Bed Cooling System: https://www.amazon.com/Chilipad-Cube-Bed-Cooling-System/dp/B07GT9MYRW
+
+  • Sleepme OOLER Sleep System: https://www.amazon.com/OOLER-Sleep-System-Temperature-Integration/dp/B07RX8LT9G
+
+  • Eightsleep: https://www.eightsleep.com
+
+  • Howard Thurman’s quote: https://www.goodreads.com/quotes/6273-don-t-ask-what-the-world-needs-ask-what-makes-you
+
+
+  Recommended books:
+
+  • Switch: How to Change Things when Change Is Hard: https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752
+
+  • The Untethered Soul: The Journey Beyond Yourself: https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379
+
+  • Don’t Believe Everything You Think: Why Your Thinking Is the Beginning and End of Suffering: https://www.amazon.com/Dont-Believe-Everything-Think-Expanded/dp/B0D47VYQMY
+
+  • How to Win Friends and Influence People: https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4333.0
 duration: '1:12:13'
 view_count: 46252

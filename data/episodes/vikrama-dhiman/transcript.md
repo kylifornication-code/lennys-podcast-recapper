@@ -4,11 +4,39 @@ title: A framework for PM skill development | Vikrama Dhiman (Gojek)
 youtube_url: https://www.youtube.com/watch?v=ImSvm11GR0Y
 video_id: ImSvm11GR0Y
 publish_date: 2024-05-12
-description: 'Vikrama Dhiman heads all things product at Gojek, including product
-  management, design, program management, and research, across Indonesia, Singapore
-  and India. He has over 16 years of experience...
-
-  '
+description: "Vikrama Dhiman heads all things product at Gojek, including product management, design, program management,\
+  \ and research, across Indonesia, Singapore and India. He has over 16 years of experience building internet products, consults\
+  \ with Fortune 500 companies, and is among the most well-known and respected product leaders in all of Asia. In our conversation,\
+  \ we discuss:\n• The most common traits among successful product managers\n• The 3 W’s framework for PM career growth\n\
+  • The Four A’s of leveling up in product management\n• The right way to push back as a PM\n• Common pitfalls that stall\
+  \ PM careers\n• Vikrama’s advice for transitioning into product management\n• Why intent alone is not enough\n\n—\n\nBrought\
+  \ to you by:\n• Uizard—AI-powered prototyping for visionary product leaders: https://uizard.io/lenny\n• Webflow—The web\
+  \ experience platform: https://webflow.com\n• Coda—The all-in-one collaborative workspace: https://coda.io/lenny\n\nFind\
+  \ the transcript at: https://www.lennysnewsletter.com/p/a-framework-for-pm-skill-development\n\nWhere to find Vikrama Dhiman:\n\
+  • X: https://twitter.com/vikramadhiman\n• LinkedIn: https://www.linkedin.com/in/vikrama/\n• Website: https://www.vikramadhiman.com/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Vikrama’s background\n(03:56) Three common traits among great PMs\n(07:09) The first\
+  \ W: What you produce\n(15:40) The second W: What you bring to the table\n(18:58) The third W: What’s your operating model?\n\
+  (20:36) Three traits that make you a great PM to work with\n(21:49) How to improve the quality and quantity of your outputs\
+  \ \n(23:26) The art of the pushback\n(26:55) Common factors that impede career growth\n(33:39) Vikrama’s personal reflections\n\
+  (39:33) Choosing which skill(s) to focus on developing\n(46:28) The ambiguity of the PM role\n(51:47) The 8 axis for PM\
+  \ growth\n(56:57) Contrarian corner: Why intent alone is not enough\n(59:30) Lightning round\n\nReferenced:\n• Taxi mafias,\
+  \ cash vaults, and 100% MoM growth: The story behind Southeast Asia’s biggest startup | Kevin Aluwi (Gojek): https://www.lennysnewsletter.com/p/taxi-mafias-cash-vaults-and-100-mom\n\
+  • How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu: https://www.lennysnewsletter.com/p/how-to-hire-for-measure-and-unlock\n\
+  • Gojek: https://www.gojek.com/en-id\n• SQL: https://en.wikipedia.org/wiki/SQL\n• Oracle: https://www.oracle.com/\n• Crystal\
+  \ Widjaja on LinkedIn: https://www.linkedin.com/in/crystalwidjaja\n• Raditya Wibowo: https://www.linkedin.com/in/raditya-wibowo-a0845436/?originalSubdomain=id\n\
+  • Sidu Ponnappa on LinkedIn: https://www.linkedin.com/in/sidup\n• Leveraging mentors to uplevel your career | Jules Walter\
+  \ (YouTube, Slack): https://www.lennysnewsletter.com/p/leveraging-mentors-to-uplevel-your\n• Kevin Aluwi on LinkedIn: https://www.linkedin.com/in/kaluwi/\n\
+  • Workday: https://www.workday.com/\n• Salesforce: https://www.salesforce.com/\n• Small Data: The Tiny Clues That Uncover\
+  \ Huge Trends: https://www.amazon.com/Small-Data-Clues-Uncover-Trends/dp/1250080681\n• Originals: How Non-Conformists Move\
+  \ the World: https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/014312885X\n• Thinking, Fast and Slow: https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555\n\
+  • Miss Congeniality on Prime Video: https://www.amazon.com/Miss-Congeniality-Sandra-Bullock/dp/B002R5HQDK\n• Schitt’s Creek\
+  \ on Prime Video: https://www.amazon.com/Schitts-Creek/dp/B083LDRW9F\n• DramaBox: https://www.dramaboxapp.com/\n• Am I Overthinking\
+  \ This?: Over-Answering Life’s Questions in 101 Charts: https://www.amazon.com/Am-Overthinking-This-Over-answering-questions/dp/1452175861/\n\
+  • Crazy Rich Asians on Prime Video: https://www.amazon.com/Crazy-Rich-Asians-Constance-Wu/dp/B07JGJFXBF\n• 9 Best Hawker\
+  \ Centers in Singapore—and What to Eat There: https://www.afar.com/magazine/best-hawker-centers-in-singapore-and-what-to-eat-there\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4339.0
 duration: '1:12:19'
 view_count: 137982

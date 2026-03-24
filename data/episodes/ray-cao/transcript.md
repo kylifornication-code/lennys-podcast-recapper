@@ -1,17 +1,13 @@
 ---
 guest: Ray Cao
-title: Product management theater | Marty Cagan (Silicon Valley Product Group)
-youtube_url: https://www.youtube.com/watch?v=9N4ZgNaWvI0
-video_id: 9N4ZgNaWvI0
-publish_date: 2024-03-10
-description: 'Marty Cagan is a luminary in the world of product. He’s the author of
-  two of the most foundational books for product teams and product leaders (Inspired and Empowered),
-  he’s the founder...
-
-  '
-duration_seconds: 5115.0
-duration: '1:25:15'
-view_count: 226150
+title: ''
+youtube_url: ''
+video_id: ''
+publish_date: ''
+description: ''
+duration_seconds: 0
+duration: ''
+view_count: 0
 channel: Lenny's Podcast
 keywords:
 - growth

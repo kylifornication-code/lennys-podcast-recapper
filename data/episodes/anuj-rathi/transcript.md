@@ -4,11 +4,42 @@ title: The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)
 youtube_url: https://www.youtube.com/watch?v=1sClhfuCxP0
 video_id: 1sClhfuCxP0
 publish_date: 2023-12-07
-description: 'Anuj Rathi is the Chief Product and Marketing Officer at Jupiter Money,
-  where he leads product management, marketing, design, growth, and analytics. Before
-  Jupiter Money, Anuj served as the...
-
-  '
+description: "Anuj Rathi is the Chief Product and Marketing Officer at Jupiter Money, where he leads product management, marketing,\
+  \ design, growth, and analytics. Before Jupiter Money, Anuj served as the Senior Vice President of Revenue and Growth at\
+  \ Swiggy, VP of Product at SnapDeal, a senior PM at Walmart Labs, and the first-ever PM at Flipkart. He’s also one of the\
+  \ most beloved and respected product leaders in India. In this episode, we discuss:\n• How product management is different\
+  \ in India\n• How to rethink your approach to new users\n• How Anuj operationalizes the “working backwards” framework\n\
+  • Why Anuj thinks PMs should be more full-stack than they are\n• How to use Anuj’s “4BB” framework to get better at product\
+  \ strategy and prioritization\n• Advice on developing innovative roadmap ideas\n• The three essential skills of a successful\
+  \ PM\n• Three reasons why leadership fails• Why OKRs don’t work in marketplaces\n\n—\n\nBrought to you by Sanity—The most\
+  \ customizable content layer to power your growth engine: https://www.sanity.io/lenny | Vanta—Automate compliance. Simplify\
+  \ security: https://vanta.com/lenny | Wix Studio—The web creation platform built for agencies: https://www.wix.com/studio?utm_source=Lennyspodcast&utm_medium=Podcastad&utm_campaign=SL\n\
+  \nFind the transcript and references at: https://www.lennysnewsletter.com/p/the-full-stack-pm-anuj-rathi-swiggy\n\nWhere\
+  \ to find Anuj Rathi:\n• X: https://twitter.com/anujrathi\n• LinkedIn: https://www.linkedin.com/in/anujrathi1\n\nWhere to\
+  \ find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Anuj’s background\n(04:28) How product differs in India \n(08:34) When modern product\
+  \ thinking started to gain traction in India\n(14:01) How Anuj thinks about new-user experiences\n(15:07) Scott Belsky’s\
+  \ “lazy, vain, and selfish” framework \n(19:59) Why PMs must understand category consumers\n(22:30) Anuj’s philosophy on\
+  \ the PM job\n(23:59) How Anuj applies the working-backwards framework\n(28:36) The importance of FAQs\n(30:10) The full-stack\
+  \ PM mindset\n(33:06) Anuj’s “show don’t tell” framework\n(36:19) How to use the show-don’t-tell framework\n(39:14) The\
+  \ impact of using this framework\n(41:27) Anuj’s “4BB framework” for product strategy\n(48:59) Contrarian corner\n(50:49)\
+  \ Anuj’s “framework of 3” for great PMs\n(52:34) How to develop grit and influence \n(54:00) Three reasons why leaders fail \n\
+  (56:21) AI corner\n(57:51) Lessons from building a successful marketplace \n(1:02:19) How to balance and maintain stability\
+  \ on all sides of a marketplace\n(1:07:48) Lightning round\n\nReferenced:\n• MakeMyTrip: https://www.makemytrip.com/\n•\
+  \ Shaadi.com: https://www.shaadi.com/\n• Bharat Matrimony: https://www.bharatmatrimony.com/\n• Flipkart: https://www.flipkart.com/\n\
+  • Ola: https://www.olacabs.com/mobile\n• Swiggy: https://www.swiggy.com/\n• Jio: https://www.jio.com/\n• UPI: http://cashlessindia.gov.in/upi.html\n\
+  • The First 15 Seconds, by Scott Belsky: https://medium.com/positiveslope/the-first-15-seconds-9590d7dabc\n• Jupiter Money:\
+  \ https://jupiter.money/\n• How to get better at influence: https://www.lennysnewsletter.com/p/how-to-get-better-at-influence\n\
+  • Working Backwards: https://www.workingbackwards.com/\n• Range: Why Generalists Triumph in a Specialized World: https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484\n\
+  • In Search of Greatness on Prime Video: https://www.amazon.com/Search-Greatness-Wayne-Gretzky/dp/B07P5X99P5\n• Team Topologies:\
+  \ Organizing Business and Technology Teams for Fast Flow: https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819\n\
+  • Conway’s Law: https://www.atlassian.com/blog/teamwork/what-is-conways-law-acmi\n• Taobao: https://world.taobao.com/\n\
+  • Alibaba: https://offer.alibaba.com/\n• Working Backwards: https://www.amazon.com/Working-Backwards-PB/dp/1529033845\n\
+  • How Brands Grow: What Marketers Don’t Know: https://www.amazon.com/How-Brands-Grow-What-Marketers/dp/0195573560\n• The\
+  \ Luxury Strategy: Break the Rules of Marketing to Build Luxury Brands: https://www.amazon.com/Luxury-Strategy-Break-Marketing-Brands/dp/0749464917\n\
+  • The Office on Peacock: https://www.peacocktv.com/stream-tv/the-office\n• Rise: https://www.risescience.com/\n\nProduction\
+  \ and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\n\
+  Lenny may be an investor in the companies discussed."
 duration_seconds: 4349.0
 duration: '1:12:29'
 view_count: 25289

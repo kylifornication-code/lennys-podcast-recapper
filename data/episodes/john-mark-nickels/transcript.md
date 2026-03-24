@@ -1,15 +1,168 @@
 ---
 guest: John Mark Nickels
-title: 'Conscious leadership: Unlocking vision, strategy and purpose | JM Nickels
-  (Uber, Waymo, DoorDash)'
+title: 'Conscious leadership: Unlocking vision, strategy and purpose | JM Nickels (Uber, Waymo, DoorDash)'
 youtube_url: https://www.youtube.com/watch?v=W7o40qcYHlM
 video_id: W7o40qcYHlM
 publish_date: 2024-10-06
-description: 'JM Nickels is a Senior Director of Product Management at Uber. Previously,
-  he was Head of Product for Commercialization at Waymo and led product teams at DoorDash.
-  JM is also a coach and advisor...
+description: 'JM Nickels is a Senior Director of Product Management at Uber. Previously, he was Head of Product for Commercialization
+  at Waymo and led product teams at DoorDash. JM is also a coach and advisor focused on conscious leadership. In our conversation,
+  we discuss:
 
-  '
+  • How to sharpen your vision and strategy skills
+
+  • What “conscious leadership” means and how to practice it
+
+  • Practical techniques for managing stress
+
+  • The power of soft skills and emotional intelligence in product leadership
+
+  • Lessons from working at Uber, Waymo, and DoorDash
+
+  • Keys to living a successful and fulfilling life
+
+  • Much more
+
+
+  —
+
+
+  Brought to you by:
+
+  • Pendo — The only all-in-one product experience platform for any type of application: https://www.pendo.io/lenny
+
+  • The Enterprise Ready Conference — For B2B leaders building enterprise SaaS: https://www.enterprise-ready.com/
+
+  • Vanta — Automate compliance. Simplify security: https://vanta.com/lenny
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/becoming-a-conscious-leader-john-mark-nickels
+
+
+  Where to find John Mark Nickels:
+
+  • X: https://x.com/nickelsjm
+
+  • LinkedIn: https://www.linkedin.com/in/jmnickels/
+
+  • Website: https://www.rhythmofbeing.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Introduction to JM
+
+  (02:02) Conscious leadership explained
+
+  (03:41) The power of soft skills
+
+  (07:34) Navigating Uber’s evolution
+
+  (12:41) Embracing emotions and inner work
+
+  (21:46) Crafting strategy and vision
+
+  (41:16) Balancing vision and execution
+
+  (46:13) Lessons from DoorDash, Uber, and Waymo
+
+  (52:32) The future of autonomous ride-hailing
+
+  (55:18) Contrarian corner: Embracing emotions in the workplace
+
+  (59:47) Keys to a fulfilling life
+
+  (01:04:45) Taking responsibility and agency
+
+  (01:07:29) Lightning round and final thoughts
+
+
+  Referenced:
+
+  • The Power of Soft Skills: Our Favorite Reads: https://hbr.org/2023/05/the-power-of-soft-skills-our-favorite-reads
+
+  • Theodore Roosevelt quote: https://www.brainyquote.com/quotes/theodore_roosevelt_130674
+
+  • Content vs. Context: https://conscious.is/video/content-vs-context
+
+  • Travis Kalanick on X: https://x.com/travisk
+
+  • Garrett van Ryzin on LinkedIn: https://www.linkedin.com/in/garrett-van-ryzin-7084a1/
+
+  • Mike Isaac on LinkedIn: https://www.linkedin.com/in/mikejisaac/
+
+  • Dara Khosrowshahi on LinkedIn: https://www.linkedin.com/in/dara-khosrowshahi-70949862/
+
+  • Reid Hoffman on LinkedIn: https://www.linkedin.com/in/reidhoffman/
+
+  • Wim Hof breathing exercises: https://www.wimhofmethod.com/breathing-exercises
+
+  • The Breath Vault: https://george-ramsay-s-school.teachable.com/p/the-breath-vault
+
+  • Waking Up app on the Apple Store: https://apps.apple.com/us/app/waking-up-meditation-wisdom/id1307736395
+
+  • The 5AM Club: Own Your Morning. Elevate Your Life: https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624
+
+  • The Lion Tracker’s Guide to Life: https://www.amazon.com/Lion-Trackers-Guide-Life/dp/0358099773/
+
+  • Nelson Mandela: https://en.wikipedia.org/wiki/Nelson_Mandela
+
+  • Brent Goldman on LinkedIn: https://www.linkedin.com/in/brentgoldman/
+
+  • LIDAR: https://oceanservice.noaa.gov/facts/lidar
+
+  • Lessons from Pixar 1: The Braintrust: https://medium.com/great-business-stories/lessons-from-pixar-1-the-braintrust-e306843a5153
+
+  • Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration: https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012
+
+  • Paul Graham’s website: https://www.paulgraham.com/
+
+  • Time management techniques that actually work: https://substack.com/@lenny/p-147172995
+
+  • Getting Things Done website: https://gettingthingsdone.com/
+
+  • Getting Things Done: The Art of Stress-Free Productivity: https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280
+
+  • Mark Zuckerberg on Threads: https://www.threads.net/@zuck
+
+  • Daniel Ek on X: https://x.com/eldsjal
+
+  • Jeff Bezos on X: https://x.com/jeffbezos
+
+  • Waymo: https://waymo.com/
+
+  • Shopify: https://www.shopify.com/
+
+  • Cruise: https://www.getcruise.com/
+
+  • Motional: https://motional.com/
+
+  • Ray Dalio “write down your principles” activity: https://www.linkedin.com/posts/raydalio_if-you-write-your-principles-down-1-you-activity-7003078168060297216-XnjV/
+
+  • How Will You Measure Your Life?: https://www.amazon.com/How-Will-Measure-Your-Life/dp/0062102419
+
+  • Seneca: https://en.wikipedia.org/wiki/Seneca_the_Younger
+
+  • Marcus Aurelius: https://en.wikipedia.org/wiki/Marcus_Aurelius
+
+  • Man’s Search for Meaning: https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273/
+
+  • The 15 Commitments of Conscious Leadership: A New Paradigm for Sustainable Success: https://www.amazon.com/15-Commitments-Conscious-Leadership-Sustainable/dp/0990976904
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4686.0
 duration: '1:18:06'
 view_count: 8028

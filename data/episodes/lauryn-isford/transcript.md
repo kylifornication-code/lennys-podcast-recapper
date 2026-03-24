@@ -4,11 +4,39 @@ title: Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)
 youtube_url: https://www.youtube.com/watch?v=dLku0AiGPVA
 video_id: dLku0AiGPVA
 publish_date: 2023-02-12
-description: 'Lauryn Isford is a product growth leader and practitioner, who most
-  recently led Growth at Airtable, and is about to start something new 🤫.  In today’s
-  episode, we get into the many tactics...
-
-  '
+description: "Lauryn Isford is a product growth leader and practitioner, who most recently led Growth at Airtable, and is\
+  \ about to start something new \U0001F92B.  In today’s episode, we get into the many tactics Lauryn has learned about optimizing\
+  \ onboarding flows. Lauryn describes how overhauling Airtable’s onboarding led to a 20% increase in activation rate, the\
+  \ company’s unique segmentation process, and why North Star metrics are so vital. Lauryn also shares her framework for a\
+  \ PLG growth funnel, and how to use a reverse trial to leverage the benefits of both freemium products and trials. If you’re\
+  \ looking to find growth opportunities within your funnel, this episode is for you.\n\n—\n\nBrought to you by Public—Invest\
+  \ in stocks, treasuries, crypto, and more: https://public.com/lenny | Miro—A collaborative visual platform where your best\
+  \ work comes to life: https://miro.com/lenny | Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\n\nFind\
+  \ the full transcript here: https://www.lennysnewsletter.com/p/mastering-onboarding-lauryn-isford\n\nWhere to find Lauryn\
+  \ Isford:\n• Twitter: https://twitter.com/laurynisford\n• LinkedIn: https://www.linkedin.com/in/laurynisford/\n\nWhere to\
+  \ find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nReferenced:\n• Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days: https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683\n\
+  • Blue Bottle coffee: https://bluebottlecoffee.com/\n• Airtable: https://www.airtable.com/\n• How to determine your activation\
+  \ metric: https://www.lennysnewsletter.com/p/how-to-determine-your-activation\n• Elena Verna on Lenny’s Podcast: https://www.lennyspodcast.com/elena-verna-on-how-b2b-growth-is-changing-product-led-growth-product-led-sales-why-you-should-go-freemium-not-trial-what-features-to-make-free-and-much-more/\n\
+  • The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company: https://www.amazon.com/Ride-Lifetime-Lessons-Learned-Company/dp/0399592091/\n\
+  • Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man’s First Journey to the Moon: https://www.amazon.com/Rocket-Men-Odyssey-Astronauts-Journey/dp/081298871X\n\
+  • Fifth & Mission podcast: https://podcasts.apple.com/us/podcast/fifth-mission/id1457274965\n• The White Lotus on HBO: https://www.hbo.com/the-white-lotus\n\
+  • Belfast: https://www.imdb.com/title/tt12789558/\n• Figma: https://www.figma.com/\n• Miro: https://miro.com/\n• Zoelle\
+  \ Egner on Lenny’s Podcast: https://www.lennyspodcast.com/videos/what-pr-is-and-isnt-good-for-according-to-zoelle-egner-head-of-marketing-and-growth-at-box/\n\
+  \nIn this episode, we cover:\n(00:00) Lauryn’s background \n(03:48) Lauryn’s spicy take on experimentation\n(06:44) Why\
+  \ doing the right thing for customers should be the ultimate goal\n(08:54) How Airtable rolled out Airtable Forms with A/B\
+  \ testing\n(11:38) The importance of onboarding\n(13:15) Airtable’s onboarding revamp and how it increased activation by\
+  \ 20%\n(16:57) How Airtable’s guided onboarding wizard improved the user experience\n(18:00) Why reducing reliance on tooltips\
+  \ can be a good idea for complicated products\n(20:06) The importance of meeting users where they are\n(22:52) How Airtable\
+  \ segmented users by learning styles\n(24:10) Airtable’s activation metrics\n(27:22) How the week-four multi-user collaboration\
+  \ metric was operationalized\n(30:45) Other metrics Airtable used\n(34:34) When Airtable changed their North Star metric \n\
+  (36:26) How much time to give a North Star metric before pivoting\n(38:05) Trials vs. freemium and what a reverse trial\
+  \ is\n(42:51) How to have self-serve options when you’re not fully self-serve\n(46:04) Onboarding experiences that aren’t\
+  \ very helpful\n(47:31) How to help users understand features\n(48:42) Why user education is more important than pushing\
+  \ premium features\n(50:03) The role of guardrail metrics \n(51:40) Lauryn’s PLG growth funnel framework\n(54:26) How Lauryn’s\
+  \ framework helps teams communicate more clearly\n(55:57) How Lauryn structured the growth team\n(57:53) B2B growth as an\
+  \ emerging space \n(1:00:18) Lightning round\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring\
+  \ the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 3861.0
 duration: '1:04:21'
 view_count: 18254

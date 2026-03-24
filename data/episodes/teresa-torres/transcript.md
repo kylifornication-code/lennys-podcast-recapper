@@ -4,11 +4,100 @@ title: Build better products with continuous product discovery | Teresa Torres
 youtube_url: https://www.youtube.com/watch?v=9RFaz9ZBXpk
 video_id: 9RFaz9ZBXpk
 publish_date: 2022-10-06
-description: 'Teresa Torres is an internationally acclaimed author, speaker, and coach.
-  She teaches a structured and sustainable system for continuous discovery that helps
-  product teams infuse their daily...
+description: 'Teresa Torres is an internationally acclaimed author, speaker, and coach. She teaches a structured and sustainable
+  system for continuous discovery that helps product teams infuse their daily product decisions with customer input. She’s
+  coached hundreds of teams at companies of all sizes, from early-stage startups to global enterprises, in a variety of industries.
+  She has taught over 11,000 product people discovery skills through the Product Talk Academy and hundreds through her coaching
+  practice, and is the author of Continuous Discovery Habits.
 
-  '
+
+  Find the full transcript here: https://www.lennyspodcast.com/teresa-torres-on-how-to-interview-customers-automating-continuous-discovery-the-opportunity-solution-tree-framework-making-the-case-for-user-research-common-interviewing-mistakes-and-much-more/#transcript
+
+
+  —
+
+
+  Where to find Teresa:
+
+
+  • Product Talk: https://www.producttalk.org/
+
+  • Opportunity solution tree: https://www.producttalk.org/opportunity-solution-tree/
+
+  • Continuous Discovery Habits: https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309
+
+  • LinkedIn: https://www.linkedin.com/in/teresatorres/
+
+  • Twitter: https://twitter.com/ttorres
+
+
+  —
+
+
+  Where to find Lenny:
+
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  —
+
+
+  Thank you to our sponsors for making this episode possible:
+
+
+  • Persona: https://withpersona.com/lenny
+
+  • Dovetail: https://dovetailapp.com/lenny
+
+  • Stytch: https://stytch.com/
+
+
+  —
+
+
+  In this episode, we cover:
+
+
+  (00:00) Teresa''s background
+
+  (04:56) How Teresa is in the top 5 people in the world who’s helped the most PMs.
+
+  (06:19) What is the “opportunity solution tree framework”?
+
+  (09:35) What’s an example of an opportunity solution tree, for Netflix?
+
+  (14:04) Why do we usually approach opportunity finding wrong?
+
+  (18:01) What should you do if your company is a feature factory?
+
+  (21:58) What is continuous discovery, and why is it so important?
+
+  (23:57) What do you do if your leaders tell you there’s no time for user research?
+
+  (26:49) How can you automate weekly conversations with customers?
+
+  (30:07) How do you stay unbiased as a PM about a potential solution?
+
+  (32:13) Should a PM have more say over other functions?
+
+  (36:20) What are Teresa’s best tips for how to interview customers?
+
+  (40:28) What’s the most common mistake people make while interviewing customers?
+
+  (41:04) How does discovery change as your company grows?
+
+  (43:58) When should you do user research and when should you run an experiment?
+
+
+  —
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 2898.0
 duration: '48:18'
 view_count: 53376

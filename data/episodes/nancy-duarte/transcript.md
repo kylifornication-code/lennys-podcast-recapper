@@ -1,13 +1,150 @@
 ---
 guest: Nancy Duarte
-title: 'Storytelling with Nancy Duarte: How to craft compelling presentations and
-  tell a story that sticks'
+title: 'Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks'
 youtube_url: https://www.youtube.com/watch?v=-kHkWgjGD7U
 video_id: -kHkWgjGD7U
 publish_date: 2023-06-01
-description: Nancy Duarte is the CEO of Duarte Inc. and has helped create over 250,000
-  presentations for influential business leaders across the globe, including Apple,
-  TED, the World Bank, and Al Gore’s...
+description: 'Nancy Duarte is the CEO of Duarte Inc. and has helped create over 250,000 presentations for influential business
+  leaders across the globe, including Apple, TED, the World Bank, and Al Gore’s An Inconvenient Truth. She’s also written
+  six best-selling books, and her TED talk has garnered over 3 million views. She regularly contributes to HBR, MIT-Sloan,
+  and Forbes, and her books are essential reading in leading business schools worldwide. In today’s episode, we discuss:
+
+  • Why empathy is at the heart of everything Nancy does
+
+  • Why you’re presenting more often than you think
+
+  • Tactics for creating interesting presentations and telling better stories
+
+  • The concept of a “torchbearer leader” and why it’s important
+
+  • Strategies for overcoming stage fright and nerves
+
+  • Tips for communicating and presenting remotely
+
+  • How Nancy landed Apple as a client and what she learned
+
+
+  —
+
+
+  Brought to you by Microsoft Clarity—See how people actually use your product | Lenny’s Job Board—Hire the best product people.
+  Find the best product gigs | Eppo—Run reliable, impactful experiments
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/storytelling-with-nancy-duarte-how
+
+
+  Where to find Nancy Duarte:
+
+  • Twitter: https://twitter.com/nancyduarte
+
+  • LinkedIn: https://www.linkedin.com/in/nancyduarte/
+
+  • Website: https://www.duarte.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Nancy’s background
+
+  (03:25) The insane number of presentations Nancy has helped create
+
+  (04:52) The most memorable presentation of Nancy’s career, and what it taught her
+
+  (07:04) The lasting impact of working with Al Gore
+
+  (09:00) How Nancy landed Apple as a client
+
+  (11:44) How working with Apple informed future presentations
+
+  (16:22) 3 things to remember when creating a deck
+
+  (17:33) The importance of empathy
+
+  (20:29) Empathy in action
+
+  (22:40) Why internal presentations are so high-pressure
+
+  (23:09) Signs you’re doing a good job making the audience the hero of the story
+
+  (25:38) The structure of great talks
+
+  (28:08) Lessons from great historical speeches
+
+  (30:02) You’re presenting more often than you think
+
+  (32:07) How Nancy uses this story structure in her marriage
+
+  (35:00) The framework What is? What could be? What is the ideal bliss?
+
+  (36:07) The importance of visuals
+
+  (41:12) Slide-making principles (titles, organization, and more)
+
+  (45:46) The Minto Pyramid Principle
+
+  (48:02) Think and plan before diving into software
+
+  (50:00) The Duarte process for crafting presentations
+
+  (53:18) How remote work has influenced the way we communicate and present 
+
+  (55:46) Strategies for overcoming stage fright and nerves
+
+  (1:01:10) The concept of “torchbearer leaders” and why it’s important 
+
+  (1:04:54) The surprising truth about informal vs. formal production quality
+
+  (1:07:37) Examples of PMs telling great stories
+
+  (1:11:49) Lightning round
+
+
+  Referenced:
+
+  • Al Gore’s An Inconvenient Truth: https://algore.com/library/an-inconvenient-truth-dvd
+
+  • Apple’s Think Different campaign: https://www.youtube.com/watch?v=5sMBhDv4sik
+
+  • The Secret Structure of Great Talks (Nancy’s TED talk): https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks
+
+  • The Structure of Great Talks graphic: https://www.google.com/search?q=nancy+duarte+ted+talk+great+story+up+and+down+like+teeth&tbm=isch&sa=X&ved=2ahUKEwi2hoCZmJH_AhVXATQIHb1KC2AQ0pQJegQIBxAB&biw=1512&bih=838&dpr=2#imgrc=5Jei-bDCXe2qQM
+
+  • I Have a Dream speech by Martin Luther King Jr.: https://www.youtube.com/watch?v=vP4iY1TtS3s
+
+  • The Minto Pyramid Principle: Logic in Writing, Thinking and Problem Solving: https://www.amazon.com/Minto-Pyramid-Principle-Writing-Thinking/dp/0960191046
+
+  • The Minto Pyramid Principle and the SCR Framework, by Lenny: https://www.lennysnewsletter.com/p/minto-pyramid-principle-scr
+
+  • Illuminate: Ignite Change Through Speeches, Stories, Ceremonies, and Symbols: https://www.amazon.com/Illuminate-audiobook/dp/B01A7QEUG6
+
+  • Marshall Ganz: https://www.hks.harvard.edu/faculty/marshall-ganz
+
+  • Brian Chesky: https://www.linkedin.com/in/brianchesky/
+
+  • Airbnb’s Snow White storyboards: https://uxdesign.cc/how-airbnb-proved-that-storytelling-is-the-most-important-skill-in-design-15d04ac71039
+
+  • The Writer’s Journey: https://www.amazon.com/Writers-Journey-Anniversary-Mythic-Structure/dp/1615933158
+
+  • Business Proposal: https://asianwiki.com/Business_Proposal
+
+  • Writer: https://writer.com/
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4644.0
 duration: '1:17:24'
 view_count: 32045

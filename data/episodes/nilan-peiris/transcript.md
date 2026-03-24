@@ -4,11 +4,37 @@ title: How to drive word of mouth | Nilan Peiris (CPO of Wise)
 youtube_url: https://www.youtube.com/watch?v=xZifSLGOrrw
 video_id: xZifSLGOrrw
 publish_date: 2023-09-24
-description: 'Nilan Peiris is Chief Product Officer at Wise, one of the fastest-growing
-  (and profitable) tech companies in the world. Wise allows anyone to send money in
-  more than 60 currencies to over 160...
-
-  '
+description: "Nilan Peiris is Chief Product Officer at Wise, one of the fastest-growing (and profitable) tech companies in\
+  \ the world. Wise allows anyone to send money in more than 60 currencies to over 160 countries at low cost, and throughout\
+  \ its history has grown primarily through word of mouth. In today’s episode, we discuss:\n• Tactical advice on driving word\
+  \ of mouth (WOM)\n• Strategies for measuring WOM\n• How NPS surveys helped Wise determine their growth and product strategy\n\
+  • How Wise incentivizes teams to do the hard things\n• The small change that generated a 3x increase in referrals\n• How\
+  \ Wise structures its product and growth teams\n\n—\n\nBrought to you by Pendo—The all-in-one platform for product-led companies\
+  \ building breakthrough digital experiences: https://www.pendo.io/lenny | Wix Studio—The web creation platform built for\
+  \ agencies: https://www.wix.com/studio?utm_source=Lennyspodcast&utm_medium=Podcastad&utm_campaign=SL | Masterworks—Invest\
+  \ in blue-chip art: https://www.masterworks.art/lenny\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/how-to-drive-word-of-mouth-nilan\n\
+  \nWhere to find Nilan Peiris:\n• Twitter/X: https://twitter.com/nilanp\n• LinkedIn: https://www.linkedin.com/in/nilanpeiris/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter/X: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Nilan’s background\n(03:27) A brief\
+  \ overview of Wise\n(06:11) How word of mouth is measured\n(07:56) Why Wise leaned into WOM\n(10:21) Why Wise built their\
+  \ WOM motion using the NPS method\n(16:13) How WOM solves trust problems\n(18:55) How to get to 9 or 10 on the NPS scale\n\
+  (20:51) Determining what will wow users\n(21:31) Common missteps companies make when trying to drive WOM\n(23:24) Using\
+  \ the “working backward” method at Airbnb\n(25:45) How Wise is able to offer drastically lower money transfer fees \n(27:51)\
+  \ The three costs associated with moving money\n(32:02) Rational vs. irrational reasons behind recommendations\n(34:11)\
+  \ Prioritizing customer happiness\n(38:14) How Wise approaches experimentation\n(46:11) Thoughts on performance reviews\
+  \ and general analysis\n(48:06) How Wise provides a 10x better banking experience\n(51:57) Advice on how to approach word-of-mouth\
+  \ marketing\n(53:47) Building a culture of doing hard things\n(55:59) The macrostructure of international banking and where\
+  \ Wise fits in\n(57:54) How Wise solves for local regulations in their onboarding flow\n(1:01:49) How Wise structures teams\n\
+  (1:03:26) The small change that generated a 3x increase in referrals\n(1:08:01) Nilan’s philanthropic endeavors\n(1:09:13)\
+  \ Lightning round\n\nReferenced:\n• Wise: https://wise.com/us/\n• Henry Chen on LinkedIn: https://www.linkedin.com/in/henry-h-chen/\n\
+  • About NPS: https://www.productboard.com/blog/the-power-of-nps-in-your-product-strategy/\n• How Snow White helped Airbnb\
+  \ prove that storytelling is the most important skill in design: https://uxdesign.cc/how-airbnb-proved-that-storytelling-is-the-most-important-skill-in-design-15d04ac71039\n\
+  • Seth Godin: This Is How You Create a Remarkable Product: https://www.businessinsider.com/seth-godin-this-is-how-you-create-a-remarkable-product-2012-10\n\
+  • Discover the Spotify model: https://www.atlassian.com/agile/agile-at-scale/spotify\n• Beam: https://beam.org/\n• Affinity:\
+  \ https://affinityghana.com/\n• Crime and Punishment: https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503\n\
+  • Midnight’s Children: https://www.amazon.com/Midnights-Children-Modern-Library-Novels/dp/0812976533\n• Barbie: https://www.imdb.com/title/tt1517268/\n\
+  • Arc browser: https://arc.net/\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast,\
+  \ email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4594.0
 duration: '1:16:34'
 view_count: 13919

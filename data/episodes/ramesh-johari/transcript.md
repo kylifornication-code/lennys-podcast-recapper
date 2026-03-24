@@ -1,15 +1,47 @@
 ---
 guest: Ramesh Johari
-title: Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford
-  professor)
+title: Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford professor)
 youtube_url: https://www.youtube.com/watch?v=BVzTfsUMaK8
 video_id: BVzTfsUMaK8
 publish_date: 2023-11-09
-description: 'Ramesh Johari is a professor at Stanford University focusing on data
-  science methods and practice, as well as the design and operation of online markets
-  and platforms. Beyond academia, Ramesh...
-
-  '
+description: "Ramesh Johari is a professor at Stanford University focusing on data science methods and practice, as well as\
+  \ the design and operation of online markets and platforms. Beyond academia, Ramesh has advised some incredible startups,\
+  \ including Airbnb, Uber, Bumble, and Stitch Fix. Today we discuss:\n• What exactly a marketplace is, if you boil it down\n\
+  • What you need to get right to build a successful marketplace\n• How to optimize any marketplace\n• An easy litmus test\
+  \ to see if there’s an opportunity to build a marketplace in the space\n• The role of data science in successful marketplaces\n\
+  • Ramesh’s philosophy on experimentation and AI\n• Advice on implementing rating systems\n• Why learning isn’t free\n\n\
+  —\n\nBrought to you by Sanity—The most customizable content layer to power your growth engine: https://www.sanity.io/lenny\
+  \ | Hex—Helping teams ask and answer data questions by working together: https://www.hex.tech/lenny | Eppo—Run reliable,\
+  \ impactful experiments: https://www.geteppo.com/\n\nFind the full transcript at: https://www.lennyspodcast.com/marketplace-lessons-from-uber-airbnb-bumble-and-more-ramesh-johari-stanford-professor-startup/\n\
+  \nWhere to find Ramesh Johari:\n• LinkedIn: https://www.linkedin.com/in/rameshjohari/\n• Website: https://web.stanford.edu/~rjohari/\n\
+  • X: https://twitter.com/rameshjohari\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Ramesh’s background\n(04:31)\
+  \ A brief overview of what a marketplace is\n(08:10) The role of data science in marketplaces\n(11:21) Common flaws of marketplaces\
+  \ \n(16:43) Why every founder is a marketplace founder\n(20:26) How Substack increased value to creators by driving demand\n\
+  (20:58) An example of overcommitting at eBay\n(22:24) An easy litmus test for marketplaces \n(25:52) Thoughts on employees\
+  \ vs. contractors\n(28:02) How to leverage data scientists to improve your marketplace\n(34:10) Correlation vs. causation\n\
+  (35:27) Decisions that should be made using data\n(39:29) Ramesh’s philosophy on experimentation\n(41:06) How to find a\
+  \ balance between running experiments and finding new opportunities \n(44:11) Badging in marketplaces\n(46:04) The “superhost”\
+  \ badge at Airbnb\n(49:59) How marketplaces are like a game of Whac-A-Mole\n(52:41) How to shift an organization’s focus\
+  \ from impact to learning\n(55:43) Frequentist vs. Bayesian A/B testing \n(57:50) The idea that learning is costly\n(1:01:55)\
+  \ The basics of rating systems\n(1:04:41) The problem with averaging\n(1:07:14) Double-blind reviews at Airbnb\n(1:08:55)\
+  \ How large language models are affecting data science\n(1:11:27) Lightning round\n\nReferenced:\n• Riley Newman on LinkedIn:\
+  \ https://www.linkedin.com/in/rileynewman/\n• Upwork (formerly Odesk): https://www.upwork.com/\n• Ancient Agora: https://en.wikipedia.org/wiki/Ancient_Agora_of_Athens\n\
+  • Trajan’s Market: https://en.wikipedia.org/wiki/Trajan%27s_Market\n• Kayak: https://www.kayak.com/\n• UrbanSitter: https://www.urbansitter.com/\n\
+  • Thumbtack: https://www.thumbtack.com/\n• Substack: https://substack.com/\n• Ebay: https://www.ebay.com/\n• Coase: “The\
+  \ Nature of the Firm”: https://en.wikipedia.org/wiki/The_Nature_of_the_Firm\n• Stitch Fix: https://www.stitchfix.com/\n\
+  • A/B Testing with Fat Tails: https://www.journals.uchicago.edu/doi/abs/10.1086/710607\n• The ultimate guide to A/B testing\
+  \ | Ronny Kohavi (Airbnb, Microsoft, Amazon): https://www.lennyspodcast.com/the-ultimate-guide-to-ab-testing-ronny-kohavi-airbnb-microsoft-amazon/\n\
+  • Servaes Tholen on LinkedIn: https://www.linkedin.com/in/servaestholen/\n• Bayesian A/B Testing: A More Calculated Approach\
+  \ to an A/B Test: https://blog.hubspot.com/marketing/bayesian-ab-testing\n• Designing Informative Rating Systems: Evidence\
+  \ from an Online Labor Market: https://arxiv.org/abs/1810.13028\n• Reputation and Feedback Systems in Online Platform Markets:\
+  \ https://faculty.haas.berkeley.edu/stadelis/Annual_Review_Tadelis.pdf\n• How to Lie with Statistics: https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728\n\
+  • David Freedman’s books on Amazon: https://www.amazon.com/stores/David-Freedman/author/B001IGLSGA\n• Four Thousand Weeks:\
+  \ Time Management for Mortals: https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122\n• The Alpinist\
+  \ on Prime Video: https://www.amazon.com/Alpinist-Peter-Mortimer/dp/B09KYDWVVC\n• Only Murders in the Building on Hulu:\
+  \ https://www.hulu.com/series/only-murders-in-the-building-ef31c7e1-cd0f-4e07-848d-1cbfedb50ddf\n\nProduction and marketing\
+  \ by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be\
+  \ an investor in the companies discussed."
 duration_seconds: 5016.0
 duration: '1:23:36'
 view_count: 44479

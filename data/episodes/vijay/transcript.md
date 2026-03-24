@@ -4,11 +4,37 @@ title: An inside look at Mixpanel’s product journey | Vijay Iyengar
 youtube_url: https://www.youtube.com/watch?v=t-2oXtZrlEc
 video_id: t-2oXtZrlEc
 publish_date: 2023-01-26
-description: 'Vijay Iyengar is Head of Product at Mixpanel, and similar to myself,
-  came from an engineering background before transitioning to product. In today’s
-  episode, he explains how Mixpanel has...
-
-  '
+description: "Vijay Iyengar is Head of Product at Mixpanel, and similar to myself, came from an engineering background before\
+  \ transitioning to product. In today’s episode, he explains how Mixpanel has evolved its growth strategy from a fast-paced,\
+  \ feature-focused approach to a more deliberate approach that prioritizes design and user experience. He also shares how\
+  \ Mixpanel irons out customer problems, including implementing internal tools that allow engineering and product teams to\
+  \ respond to customer feedback directly. Additionally, Vijay shares his top SaaS products, books, frameworks, and more.\
+  \ Tune in to gain valuable insights from a seasoned product leader.\n\n—\n\nBrought to you by Pando—Always on employee progression\
+  \ (https://www.pando.com/lenny), Notion—One workspace. Every team (https://www.notion.com/lennyspod), and Lemon.io—A marketplace\
+  \ of vetted software developers (https://lemon.io/lenny).\n\nFind the full transcript here: https://www.lennyspodcast.com/an-inside-look-at-mixpanels-product-journey-vijay-iyengar-head-of-product/#transcript\n\
+  \nWhere to find Vijay Iyengar:\n• Twitter: https://twitter.com/vijayiyengar\n• LinkedIn: https://www.linkedin.com/in/vijay4/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nReferenced:\n• Mixpanel: https://mixpanel.com/\n• Figma: https://www.figma.com/\n\
+  • Notion: https://www.notion.so/\n• “Shape Up: Stop Running in Circles and Ship Work That Matters”: https://basecamp.com/shapeup\n\
+  • The RICE prioritization framework: https://www.productplan.com/glossary/rice-scoring-model/\n• BigQuery: https://cloud.google.com/bigquery\n\
+  • Census: https://www.getcensus.com/\n• Zoom: https://zoom.us/\n• FigJam: https://www.figma.com/figjam/\n• A Data Stack\
+  \ for PLG teams: https://mixpanel.com/blog/data-analytics-product-led-growth/\n• Product analytics in the modern data stack:\
+  \ https://mixpanel.com/blog/mixpanel-partners-with-census-to-bring-product-analytics-to-the-modern-data-stack/\n• Snowflake:\
+  \ https://www.snowflake.com/en/\n• Amazon Redshift: https://www.amazonaws.cn/en/redshift/\n• Event-Based Analytics: https://developer.mixpanel.com/docs/under-the-hood\n\
+  • The Goal: A Process of Ongoing Improvement: https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951\n• Cool\
+  \ Gray City of Love: 49 Views of San Francisco: https://www.amazon.com/Cool-Gray-City-Love-Francisco/dp/1608199606\n• The\
+  \ West Wing Weekly podcast: http://thewestwingweekly.com/\n• WeCrashed on AppleTV+: https://tv.apple.com/us/show/wecrashed/\n\
+  • Severance on AppleTV+: https://tv.apple.com/us/show/severance/\n• Gibson Biddle on Lenny’s Podcast: https://www.lennyspodcast.com/gibson-biddle-on-his-dhm-product-strategy-framework-gem-roadmap-prioritization-framework-5-netflix-strategy-mini-case-studies-building-a-personal-board-of-directors-and-much-more/\n\
+  • Shishir Mehrotra on Lenny’s Podcast: https://www.lennyspodcast.com/the-rituals-of-great-teams-shishir-mehrotra-coda-youtube-microsoft/\n\
+  \nIn this episode, we cover:\n(00:00) Vijay’s background\n(04:12) How Vijay learned to be more open-minded to new ideas\
+  \ \n(07:15) Mixpanel’s journey\n(12:53) When to optimize for speed\n(14:03) The feature phase vs. the design phase\n(17:26)\
+  \ The importance of not losing focus on your core product\n(20:03) How Mixpanel organizes teams around buckets of problems\n\
+  (20:53) Mixpanel’s most recent six-month time horizon planning cycle\n(23:09) Mixpanel’s favorite tools\n(25:16) The RICE\
+  \ framework for prioritization (and when to ignore the C and E)\n(26:57) The problem with estimations, and why Basecamp\
+  \ suggests using a six-week time box\n(30:17) How Mixpanel keeps product teams and engineers connected to customers via\
+  \ Slack \n(33:31) SaaS tools Mixpanel’s teams use\n(35:15) The biggest product analytics mistakes\n(37:43) The present and\
+  \ future of analytics \n(41:09) How adopting a product mindset has helped Vijay grow his career\n(41:58) Lightning round\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 2811.0
 duration: '46:51'
 view_count: 8119

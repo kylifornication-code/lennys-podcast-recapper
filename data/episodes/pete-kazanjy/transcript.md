@@ -4,11 +4,41 @@ title: Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)
 youtube_url: https://www.youtube.com/watch?v=cZd5234Eem0
 video_id: cZd5234Eem0
 publish_date: 2022-12-15
-description: 'Pete Kazanjy is the author of Founding Sales: The Early Stage Go-to-Market
-  Handbook and the founder of Modern Sales Pros, an invite-only peer learning community
-  focused on sales operations...
-
-  '
+description: "Pete Kazanjy is the author of Founding Sales: The Early Stage Go-to-Market Handbook and the founder of Modern\
+  \ Sales Pros, an invite-only peer learning community focused on sales operations and sales leadership. He’s also the co-founder\
+  \ of Atrium, a B2B SaaS company that provides data-driven sales solutions. Pete got his start in product at VMware and then\
+  \ dove deep into the art and science of sales. In today’s episode, we talk about the importance of founder-led sales and\
+  \ how to methodically scale a sales department. He explains the difference between old-school sales and modern sales, which\
+  \ focuses on human connection and solving problems for customers. He also shares actionable tips to improve your sales technique\
+  \ and explains how to use data to monitor your success at different milestones in the sales process.\n\n—\n\nFind the full\
+  \ transcript here: https://www.lennysnewsletter.com/p/founder-led-sales-pete-kazanjy-founding\n\n—\n\nThank you to our wonderful\
+  \ sponsors for supporting this podcast:\n\n• Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n• Flatfile—A\
+  \ CSV importer that says yes instead of error: mismatch: https://www.flatfile.com/lenny\n• Merge—A single API to add hundreds\
+  \ of integrations into your app: http://merge.dev/lenny\n\n—\n\nWhere to find Pete:\n\n• Twitter: https://twitter.com/Kazanjy\n\
+  • LinkedIn: https://www.linkedin.com/in/kazanjy/\n• Website: https://kazanjy.svbtle.com/ \n\n—\n\nWhere to find Lenny:\n\
+  \n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n—\n\nReferenced:\n\n• Founding Sales: The Early Stage Go-to-Market Handbook: https://www.amazon.com/Founding-Sales-Go-Market-Handbook-ebook/dp/B08PMK17Z1\n\
+  • Brianne Kimmel’s SaaS school: http://briannekimmel.com/saas-school/\n• Modern Sales Pros: https://modernsaleshq.com/\n\
+  • The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses: https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898\n\
+  • The Four Steps to the Epiphany: Successful Strategies for Products That Win: https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358/\n\
+  • Pete’s presentation on founder-led sales: https://www.youtube.com/watch?v=WAXIVAZJyPA\n• Pete’s guest post on Lenny’s\
+  \ newsletter: https://www.lennysnewsletter.com/p/sales-bottom-up\n• The Cadence: How to Operate a SaaS Startup: https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8\n\
+  • Maker vs. Manager Schedule: http://www.paulgraham.com/makersschedule.html\n• Amplitude: https://amplitude.com/\n• Atrium:\
+  \ https://www.atriumhq.com/\n• Greenhouse: https://www.greenhouse.io/\n• Pete’s ICP Template: https://www.foundingsales.com/2-product-marketing#building-narrative\n\
+  • Marissa Fuhrer Bell on LinkedIn: https://www.linkedin.com/in/marissafuhrer/\n• Data-driven sales master class: https://salesnerds.atriumhq.com/msp-nailing-science-of-sales-figma-webinar-video\n\
+  • The Goal: A Process of Ongoing Improvement: https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951\n• The\
+  \ Score Takes Care of Itself: My Philosophy of Leadership: https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472\n\
+  • All-In podcast: https://www.allinpodcast.co/\n• Encanto on Disney+: https://www.disneyplus.com/movies/encanto/33q7DY1rtHQH\n\
+  \n—\n\nIn this episode, we cover:\n\n(00:00) How Pete met Lenny \n(05:05) Pete’s background\n(07:20) Modern sales vs. old-school\
+  \ sales\n(09:17) What is founder-led sales, and why is it so important?\n(14:58) When to hire your first salesperson \n\
+  (18:20) Why you should keep your in-person events to around 10 people\n(19:34) What a sales motion is and why it needs to\
+  \ be updated regularly \n(20:55) What are the leading indicators of success?\n(23:54) Why founders don’t need to be rock\
+  \ stars at sales\n(28:28) Sales mindset changes—the number-one tip to improve your sales\n(33:30) How modern sales should\
+  \ focus on helping customers solve problems\n(36:00) A few tips to help you get better at sales\n(36:40) ICP and personas\n\
+  (39:14) Why you should hire junior sales staff in the early stages\n(45:40) Signs your new hires aren’t a good fit\n(47:38)\
+  \ The importance of using metrics for success\n(49:33) Month-by-month expectations for sales hires\n(51:19) Why work from\
+  \ home is bad for junior salespeople\n(54:19) Why you shouldn’t be afraid of sales\n(55:19) Lightning round\n\n—\n\nProduction\
+  \ and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 3701.0
 duration: '1:01:41'
 view_count: 24047

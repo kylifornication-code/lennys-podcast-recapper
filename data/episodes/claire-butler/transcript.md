@@ -4,11 +4,46 @@ title: An inside look at Figma’s unique GTM motion | Claire Butler (first GTM 
 youtube_url: https://www.youtube.com/watch?v=UmirRfy-gzA
 video_id: UmirRfy-gzA
 publish_date: 2023-09-07
-description: 'Claire Butler was Figma’s first GTM hire and their 10th employee. She
-  led Figma’s early GTM strategy from stealth through monetization. She also helped
-  the team through the journey to find...
-
-  '
+description: "Claire Butler was Figma’s first GTM hire and their 10th employee. She led Figma’s early GTM strategy from stealth\
+  \ through monetization. She also helped the team through the journey to find product-market fit and built the team that\
+  \ drove Figma’s unique bottom-up growth motion. Eight years later, as Senior Director of Marketing, she continues to lead\
+  \ Figma’s bottom-up growth motion, along with community, events, social, advocacy, and Figma for education. In this episode,\
+  \ we discuss:\n• An in-depth look at Figma’s bottom-up GTM motion\n• Why you need to start with individual contributors\
+  \ (ICs) loving your product\n• How to spread adoption within the organization\n• How “designer advocates” have played a\
+  \ critical role in Figma’s growth\n• The freemium strategy that drove massive growth for Figma\n• How to leverage product\
+  \ champions\n• When to leave stealth\n• Early-stage metrics, and why they are often unreliable\n• Advice for people looking\
+  \ to join a startup\n\n—\n\nBrought to you by Vanta—Automate compliance. Simplify security: https://vanta.com/lenny | Mixpanel—Event\
+  \ analytics that everyone can trust, use, and afford: https://mixpanel.com/startups | AssemblyAI—Production-ready AI models\
+  \ to transcribe and understand speech: https://www.assemblyai.com/lenny\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/an-inside-look-at-figmas-unique-bottom\n\
+  \nWhere to find Claire Butler:\n• Twitter/X: https://twitter.com/clairetbutler\n• LinkedIn: https://www.linkedin.com/in/clairetbutler/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter/X: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Claire’s background\n(03:47) The huge\
+  \ branding decision that Claire made on day one at Figma\n(07:45) The most stressful memory of early days at Figma\n(09:55)\
+  \ Advice for people looking to join a startup\n(12:55) What a bottom-up go-to-market motion is\n(17:12) Figma’s unique approach\
+  \ to bottom-up GTM\n(18:52) Figma’s launch out of stealth \n(23:01) Signals vs. hard metrics in the early days \n(24:50)\
+  \ How Figma won over Microsoft\n(30:08) How to win over ICs\n(32:00) How to establish credibility\n(37:38) Customer obsession\
+  \ in action\n(41:11) Why getting users to love your product is so vital\n(44:01) How Figma used Twitter as its primary channel\
+  \ in the early days\n(49:06) Transparency and authenticity\n(49:52) GTM tactics at scale\n(52:09) “Little big updates” at\
+  \ Figma\n(54:16) Figma’s acquisition, and why it was one of the hardest days of Claire’s career\n(57:10) Figma’s core values\n\
+  (58:06) The Config conference\n(1:00:21) Spreading your product within the organization \n(1:02:09) The pricing tiers at\
+  \ Figma\n(1:07:35) The role of designer advocates\n(1:10:57) Design systems\n(1:16:12) Leveraging internal champions\n(1:17:53)\
+  \ Accelerating spread at scale\n(1:19:14) What types of companies are a good fit for bottom-up GTM\n(1:24:16) A summary\
+  \ of the bottom-up GTM model\n(1:25:27) Lightning round\n\nReferenced:\n• Dylan Field on LinkedIn: https://www.linkedin.com/in/dylanfield/\n\
+  • John Lilly on LinkedIn: https://www.linkedin.com/in/johnlilly/\n• Ivan Zhao on LinkedIn: https://www.linkedin.com/in/ivanhzhao/\n\
+  • Xamarin: https://dotnet.microsoft.com/en-us/apps/xamarin\n• Josef Müller-Brockmann: https://en.wikipedia.org/wiki/Josef_M%C3%BCller-Brockmann\n\
+  • Datadog: https://www.datadoghq.com/\n• Coda: https://coda.io/\n• Oren’s Hummus on Instagram: https://www.instagram.com/orenshummus/\n\
+  • Intercom: https://www.intercom.com/\n• How Coda builds product: https://www.lennysnewsletter.com/p/how-coda-builds-product\n\
+  • Dylan’s tweet: https://twitter.com/zoink/status/1566566649712431105\n• Little Big Updates: https://www.figma.com/blog/little-big-updates-august-2022/\n\
+  • Sho Kuwamoto on Twitter: https://twitter.com/skuwamoto\n• Kris Rasmussen on Twitter: https://twitter.com/kris_rasmussen\n\
+  • Config: https://config.figma.com/\n• Tom Lowry on LinkedIn: https://www.linkedin.com/in/thomaslowry\n• Atomic Design:\
+  \ https://atomicdesign.bradfrost.com/\n• Figjam: https://www.figma.com/figjam/\n• Dev Mode: https://www.figma.com/dev-mode/\n\
+  • Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity: https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375\n\
+  • Dare to Lead: Brave Work. Tough Conversations. Whole Hearts: https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520\n\
+  • 100 Foot Wave on HBO: https://www.hbo.com/100-foot-wave\n• Atomic Habits: An Easy & Proven Way to Build Good Habits &\
+  \ Break Bad Ones: https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH\n• How to create an exceptional\
+  \ coverage plan for your parental leave (Tamara Hinckley): https://www.lennysnewsletter.com/p/how-to-create-an-exceptional-coverage\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5486.0
 duration: '1:31:26'
 view_count: 29014

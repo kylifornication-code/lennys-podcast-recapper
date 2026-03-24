@@ -1,15 +1,169 @@
 ---
 guest: Andrew Wilkinson
-title: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea.
-  | Andrew Wilkinson
+title: I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson
 youtube_url: https://www.youtube.com/watch?v=VxAwUb86MUE
 video_id: VxAwUb86MUE
 publish_date: 2025-07-03
-description: 'Andrew Wilkinson is the co‑founder of Tiny, a holding company that quietly
-  owns more than three dozen profitable internet and consumer brands, including Dribbble
-  and the AeroPress coffee...
+description: 'Andrew Wilkinson is the co‑founder of Tiny, a holding company that quietly owns more than three dozen profitable
+  internet and consumer brands, including Dribbble and the AeroPress coffee maker. Starting as a teenage barista and web designer,
+  he’s created a portfolio approaching $300 million in yearly sales (and he was personally worth over $1 billion at one point)—all
+  without ever raising venture capital.
 
-  '
+
+  *In this conversation, you’ll learn:*
+
+  1. The “fish where the fish are” framework for spotting high‑margin niches no one else notices
+
+  2. The exact agent stack (Lindy, Replit, Limitless, and more) that supercharges Andrew’s day-to-day productivity (and has
+  replaced his assistant)
+
+  3. How Andrew evaluates companies in less than 15 minutes using Buffett‑style moats and “lazy leadership”
+
+  4. Telltale signs you should shut down (or never start) that startup idea
+
+  5. His journey from crippling anxiety to clarity through SSRIs and ADHD medication
+
+  6. His prediction that most knowledge work will be automated—and the skills to teach your kids now
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/ive-run-75-businesses-andrew-wilkinson
+
+
+  *Brought to you by:*
+
+  Sauce—Turn customer pain into product revenue: http://sauce.app/lenny
+
+  Enterpret—Transform customer feedback into product growth: https://enterpret.com/lenny
+
+  Miro—A collaborative visual platform where your best work comes to life: https://miro.com/lenny
+
+
+  *Where to find Andrew Wilkinson:*
+
+  • X: https://x.com/awilkinson
+
+  • LinkedIn: https://www.linkedin.com/in/awilkinson/
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Andrew Wilkinson
+
+  (04:07) Finding the right business idea
+
+  (07:18) Avoiding common business pitfalls
+
+  (11:58) Finding your unfair advantage
+
+  (17:08) Fish where the fish are
+
+  (20:08) Why boring is good
+
+  (25:30) Bootstrapping vs. venture capital
+
+  (31:20) Lessons from acquiring and managing businesses
+
+  (36:47) Avoiding people problems
+
+  (42:39) Leveraging AI in business and life
+
+  (49:30) The Limitless device
+
+  (53:13) Job displacement and AI’s future impact
+
+  (58:20) Advice for new grads
+
+  (01:02:50) Parenting in the age of AI
+
+  (01:05:26) The pursuit of happiness beyond wealth
+
+  (01:10:10) Mental health and medication
+
+  (01:16:45) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Andrew’s post on X with the Charlie Munger quote: https://x.com/awilkinson/status/1265653805443506182
+
+  • Metalab: https://www.metalab.com/
+
+  • Letterboxd: https://letterboxd.com/
+
+  • AeroPress: https://aeropress.com/
+
+  • Brian Armstrong on X: https://x.com/brian_armstrong
+
+  • Warren Buffett’s quote: https://quotefancy.com/quote/931119/Warren-Buffett-I-am-a-better-investor-because-I-am-a-businessman-and-a-better-businessman
+
+  • Flow: https://www.getflow.com/
+
+  • Instacart: https://www.instacart.com/
+
+  • Things: https://culturedcode.com/things/
+
+  • Dustin Moskovitz on LinkedIn: https://www.linkedin.com/in/dmoskov/
+
+  • Salesforce: https://www.salesforce.com/
+
+  • Serato: https://serato.com/
+
+  • Chris Sparling on X: https://x.com/_sparling_
+
+  • Lindy: https://www.lindy.ai/
+
+  • Replit: https://replit.com/
+
+  • Behind the product: Replit | Amjad Masad (co-founder and CEO): https://www.lennysnewsletter.com/p/behind-the-product-replit-amjad-masad
+
+  • David Ogilvy: https://en.wikipedia.org/wiki/David_Ogilvy_(businessman)
+
+  • Malcolm Gladwell’s website: https://www.gladwellbooks.com/
+
+  • Inside Bolt: From near-death to ~$40m ARR in 5 months—one of the fastest-growing products in history | Eric Simons (founder
+  and CEO of StackBlitz): https://www.lennysnewsletter.com/p/inside-bolt-eric-simons
+
+  • Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder): https://www.lennysnewsletter.com/p/building-lovable-anton-osika
+
+  • Limitless: https://www.limitless.ai/
+
+  • Perplexity: https://www.perplexity.ai/
+
+  • Claude: https://claude.ai/
+
+  • ChatGPT: https://chatgpt.com/
+
+  • Gemini: https://gemini.google.com/app
+
+  • William Gibson’s quote: https://www.goodreads.com/quotes/681-the-future-is-already-here-it-s-just-not-evenly
+
+  • Palm Treo: https://en.wikipedia.org/wiki/Palm_Treo
+
+  ...References continued at: https://www.lennysnewsletter.com/p/ive-run-75-businesses-andrew-wilkinson
+
+
+  *Recommended books:*
+
+  • The Laws of Human Nature: https://www.amazon.com/Laws-Human-Nature-Robert-Greene/dp/0525428143
+
+  • How to Get Rich: One of the World’s Greatest Entrepreneurs Shares His Secrets: https://www.amazon.com/How-Get-Rich-Greatest-Entrepreneurs/dp/1591842719
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5308.0
 duration: '1:28:28'
 view_count: 57875

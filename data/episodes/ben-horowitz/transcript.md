@@ -1,15 +1,166 @@
 ---
 guest: Ben Horowitz
-title: '$46B of hard truths: Why founders fail and why you need to run toward fear
-  | Ben Horowitz (a16z)'
+title: '$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)'
 youtube_url: https://www.youtube.com/watch?v=KPxTekxQjzc
 video_id: KPxTekxQjzc
 publish_date: 2025-09-11
-description: 'Ben Horowitz is the co-founder of Andreessen Horowitz, Silicon Valley’s
-  largest and most influential venture capital firm, with over $46B in committed capital
-  across multiple funds. He took...
+description: 'Ben Horowitz is the co-founder of Andreessen Horowitz, Silicon Valley’s largest and most influential venture
+  capital firm, with over $46B in committed capital across multiple funds. He took Loudcloud public with just $2 million in
+  revenue (dubbed “the IPO from hell”), sold it for $1.6 billion, and has backed companies from Facebook to Stripe to Airbnb
+  to OpenAI to Databricks (now worth more than $100 billion). His management philosophy—forged through near-death experiences
+  and refined through coaching hundreds of CEOs—contradicts most conventional startup wisdom.
 
-  '
+
+  *In our conversation, Ben shares:*
+
+  1. Why “founder mode” is half right and half dangerously wrong
+
+  2. The story behind “Good Product Manager/Bad Product Manager” and why it went viral despite being written in anger
+
+  3. Where the biggest AI startup opportunities remain
+
+  4. Why you need to run toward fear, never away
+
+  5. The one trait that predicts that a founder will fail as CEO
+
+  6. Inside Paid in Full, Ben’s nonprofit awarding pensions to pioneering hip-hop artists
+
+
+  *Brought to you by:*
+
+  DX—The developer intelligence platform designed by leading researchers: https://getdx.com/lenny
+
+  Basecamp—The famously straightforward project management system from 37signals: https://www.basecamp.com/lenny
+
+  Miro—A collaborative visual platform where your best work comes to life: https://miro.com/lenny
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/46b-of-hard-truths-from-ben-horowitz
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* ⁠https://www.lennysnewsletter.com/i/172439345/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Ben Horowitz:*
+
+  • X: https://x.com/bhorowitz
+
+  • LinkedIn: https://www.linkedin.com/in/behorowitz/
+
+  • Andreessen Horowitz’s website: https://a16z.com/
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Ben Horowitz
+
+  (04:09) Important leadership lessons from Shaka Senghor
+
+  (10:15) Running toward fear and why hesitation kills companies
+
+  (19:35) Who shouldn’t start a company
+
+  (22:36) The Databricks story: thinking bigger
+
+  (24:54) Managerial leverage and CEO psychology
+
+  (28:06) When founders should be replaced as CEOs
+
+  (31:20) Normalizing failure for CEOs
+
+  (37:57) Counterintuitive lessons about building companies
+
+  (42:31) “Good Product Manager/Bad Product Manager”
+
+  (48:21) Product managers as leaders
+
+  (51:16) Why a16z invested in Adam Neumann after WeWork
+
+  (56:23) Is AI in a bubble?
+
+  (01:02:43) The biggest opportunities in AI
+
+  (01:12:51) Why U.S. leadership in AI matters
+
+  (01:18:53) The Paid in Full Foundation for hip-hop pioneers
+
+  (01:23:18) Lightning round: book recommendations, products, and life mottos
+
+
+  *Referenced:*
+
+  • Shaka Senghor on The Joe Rogan Experience: https://open.spotify.com/episode/79neOSawKbrxY6Tl2wV1Kx
+
+  • 1999 Martha’s Vineyard plane crash: https://en.wikipedia.org/wiki/1999_Martha%27s_Vineyard_plane_crash
+
+  • John Reed: https://en.wikipedia.org/wiki/John_S._Reed#
+
+  • LoudCrowd: https://loudcrowd.com/
+
+  • Marc Andreessen on X: https://x.com/pmarca
+
+  • Ali Ghodsi on LinkedIn: https://www.linkedin.com/in/alighodsi/
+
+  • Databricks: https://www.databricks.com/
+
+  • Ion Stoica on LinkedIn: https://www.linkedin.com/in/ionstoica/
+
+  • Hadoop: https://hadoop.apache.org/
+
+  • The Sad Truth About Developing Executives: https://a16z.com/the-sad-truth-about-developing-executives/
+
+  • Mark Zuckerberg on Facebook: https://www.facebook.com/zuck/
+
+  • Sam Altman on X: https://x.com/sama
+
+  • Brian Chesky’s new playbook: https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach
+
+  • Brian Chesky—Founder Mode & The Art of Hiring: https://www.youtube.com/watch?v=aFOGlNL39xs
+
+  • Bob Iger: https://en.wikipedia.org/wiki/Bob_Iger
+
+  • Larry Page: https://en.wikipedia.org/wiki/Larry_Page
+
+  • Kanye West: https://en.wikipedia.org/wiki/Kanye_West
+
+  • Diddy: https://en.wikipedia.org/wiki/Sean_Combs
+
+  • Arsalan Tavakoli on LinkedIn: https://www.linkedin.com/in/arsalantavakoli/
+
+  • Good Product Manager/Bad Product Manager: https://a16z.com/good-product-manager-bad-product-manager/
+
+  • Netscape: https://en.wikipedia.org/wiki/Netscape
+
+  • Jensen Huang on LinkedIn: https://www.linkedin.com/in/jenhsunhuang/
+
+  • David Weiden on LinkedIn: https://www.linkedin.com/in/davidweiden/
+
+  • Raghu Raghuram on LinkedIn: https://www.linkedin.com/in/raghuraghuram/
+
+  • Adam Neumann on X: https://en.wikipedia.org/wiki/Adam_Neumann
+
+  • WeWork: https://www.wework.com/
+
+  • Cluely: https://cluely.com/
+
+  ...References continued at: https://www.lennysnewsletter.com/p/46b-of-hard-truths-from-ben-horowitz
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5880.0
 duration: '1:38:00'
 view_count: 119415

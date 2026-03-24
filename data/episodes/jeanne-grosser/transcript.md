@@ -1,15 +1,143 @@
 ---
 guest: Jeanne Grosser
-title: What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe,
-  Google)
+title: What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)
 youtube_url: https://www.youtube.com/watch?v=RmnWHz8HD74
 video_id: RmnWHz8HD74
 publish_date: 2025-11-30
-description: 'Jeanne DeWitt Grosser built world-class GTM teams at Stripe, Google,
-  and, most recently, Vercel, where she serves as COO and oversees marketing, sales,
-  customer success, revenue operations,...
+description: 'Jeanne DeWitt Grosser built world-class GTM teams at Stripe, Google, and, most recently, Vercel, where she serves
+  as COO and oversees marketing, sales, customer success, revenue operations, and field engineering. She transformed Stripe’s
+  early sales organization from the ground up and advises founders on GTM strategy.
 
-  '
+
+  *We discuss:*
+
+  1. Why GTM is becoming more strategically important in the AI era
+
+  2. The rise of the GTM engineer
+
+  3. A primer on segmentation
+
+  4. How to build a sales org that engineers and product teams respect
+
+  5. The changing calculus of build vs. buy for go-to-market tools in the AI era
+
+  6. Why most customers buy to avoid pain rather than to gain upside
+
+
+  *Brought to you by:*
+
+  Datadog—Now home to Eppo, the leading experimentation and feature flagging platform: https://www.datadoghq.com/lenny
+
+  Lovable—Build apps by simply chatting with AI: https://lovable.dev/
+
+  Stripe—Helping companies of all sizes grow revenue: https://stripe.com/
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/what-the-best-gtm-teams-do-differently
+
+
+  *My biggest takeaways (for paid newsletter subscribers):*  https://www.lennysnewsletter.com/i/179503137/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Jeanne DeWitt Grosser:*
+
+  • X: https://x.com/jdewitt29
+
+  • LinkedIn: https://www.linkedin.com/in/jeannedewitt
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Jeanne DeWitt Grosser
+
+  (05:26) Defining go-to-market
+
+  (08:43) The evolution of go-to-market roles
+
+  (11:23) The rise of the go-to-market engineer
+
+  (14:21) Implementing AI in sales processes
+
+  (15:28) Optimizing sales with AI agents
+
+  (23:47) Defining sales roles: SDRs and AEs
+
+  (26:04) When to hire a GTM engineer
+
+  (29:04) Hiring and scaling sales teams
+
+  (30:50) The ideal go-to-market engineer
+
+  (34:24) The go-to-market tool stack
+
+  (40:39) Advice on building a great sales bot
+
+  (44:34) Vercel’s unfair advantage
+
+  (46:37) Go-to-market as a product
+
+  (47:04) Innovative sales tactics at Stripe
+
+  (52:38) Effective go-to-market tactics
+
+  (01:00:37) Segmentation strategies
+
+  (01:09:31) Building a sales org that engineers love
+
+  (01:14:00) Thoughts on PLG and pricing
+
+  (01:16:44) Sales compensation and hiring
+
+  (01:19:24) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Vercel: https://vercel.com
+
+  • Stripe: https://stripe.com
+
+  • Rosalind Franklin: https://en.wikipedia.org/wiki/Rosalind_Franklin
+
+  • Ben Salzman on LinkedIn: https://www.linkedin.com/in/bensalzman
+
+  • SDK: https://ai-sdk.dev/docs/introduction
+
+  • Gong: https://www.gong.io
+
+  • Lyft: https://www.lyft.com
+
+  • Instacart: https://www.instacart.com
+
+  • DoorDash: https://www.instacart.com
+
+  • “Sell the alpha, not the feature”: The enterprise sales playbook for $1M to $10M ARR | Jen Abel: https://www.lennysnewsletter.com/p/the-enterprise-sales-playbook-1m-to-10m-arr
+
+  • A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch):
+  https://www.lennysnewsletter.com/p/a-step-by-step-guide-to-crafting
+
+  • Kate Jensen on LinkedIn: https://www.linkedin.com/in/kateearle
+
+  • Lessons from scaling Stripe | Claire Hughes Johnson (former COO of Stripe): https://www.lennysnewsletter.com/p/lessons-from-scaling-stripe-tactics
+
+  • Atlassian: atlassian.com
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5162.0
 duration: '1:26:02'
 view_count: 55863

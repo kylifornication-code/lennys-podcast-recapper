@@ -1,15 +1,172 @@
 ---
 guest: Dhanji R. Prasanna
-title: How Block is becoming the most AI-native enterprise in the world | Dhanji R.
-  Prasanna
+title: How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna
 youtube_url: https://www.youtube.com/watch?v=JMeXWVw0r3E
 video_id: JMeXWVw0r3E
 publish_date: 2025-10-26
-description: 'Dhanji R. Prasanna is the chief technology officer at Block (formerly
-  Square), where he’s managed more than 4,000 engineers over the past two years. Under
-  his leadership, Block has become...
+description: 'Dhanji R. Prasanna is the chief technology officer at Block (formerly Square), where he’s managed more than
+  4,000 engineers over the past two years. Under his leadership, Block has become one of the most AI-native large companies
+  in the world. Before becoming CTO, Dhanji wrote an “AI manifesto” to CEO Jack Dorsey that sparked a company-wide transformation
+  (and his promotion to CTO).
 
-  '
+
+  *We discuss:*
+
+  1. How Block’s internal open-source agent, called Goose, is saving employees 8 to 10 hours weekly
+
+  2. How the company measures AI productivity gains across technical and non-technical teams
+
+  3. Which teams are benefiting most from AI (it’s not engineering)
+
+  4. The boring organizational change that boosted productivity even more than AI tools
+
+  5. Why code quality has almost nothing to do with product success
+
+  6. How to drive AI adoption throughout an organization (hint: leadership needs to use the tools daily)
+
+  7. Lessons from building Google Wave, Google+, and other failed products
+
+
+  *Brought to you by:*
+
+  Sinch—Build messaging, email, and calling into your product: https://sinch.com/lenny
+
+  Figma Make—A prompt-to-code tool for making ideas real: https://www.figma.com/lenny/
+
+  Persona—A global leader in digital identity verification: https://withpersona.com/lenny
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/how-block-is-becoming-the-most-ai-native
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/176082333/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Dhanji R. Prasanna:*
+
+  • LinkedIn: https://www.linkedin.com/in/dhanji/
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Dhanji
+
+  (05:26) The AI manifesto: convincing Jack Dorsey
+
+  (07:33) Transforming into a more AI-native company
+
+  (12:05) How engineering teams work differently today
+
+  (15:24) Goose: Block’s open-source AI agent
+
+  (20:18) Measuring AI productivity gains across teams
+
+  (21:38) What Goose is and how it works
+
+  (32:15) The future of AI in engineering and productivity
+
+  (37:42) The importance of human taste
+
+  (40:10) Building vs. buying software
+
+  (44:08) How AI is changing hiring and team structure
+
+  (53:45) The importance of using AI tools yourself before deploying them
+
+  (55:13) How Goose helped solve a personal problem with receipts
+
+  (58:01) What makes Goose unique
+
+  (59:57) What Dhanji wishes he knew before becoming CTO
+
+  (01:01:49) Counterintuitive lessons in product development
+
+  (01:04:56) Why controlled chaos can be good for engineering teams
+
+  (01:08:07) Core leadership lessons
+
+  (01:13:36) Failure corner
+
+  (01:15:50) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Jack Dorsey on X: https://x.com/jack
+
+  • Block: https://block.xyz/
+
+  • Square: https://squareup.com/
+
+  • Cash App: https://cash.app/
+
+  • What is Conway’s Law?: https://www.microsoft.com/en-us/microsoft-365-life-hacks/organization/what-is-conways-law#
+
+  • Goose: https://github.com/block/goose
+
+  • Gosling: https://github.com/block/goose-mobile
+
+  • Salesforce: https://www.salesforce.com/
+
+  • Snowflake: https://www.snowflake.com/
+
+  • Claude: https://claude.ai/
+
+  • Anthropic co-founder on quitting OpenAI, AGI predictions, $100M talent wars, 20% unemployment, and the nightmare scenarios
+  keeping him up at night | Ben Mann: https://www.lennysnewsletter.com/p/anthropic-co-founder-benjamin-mann
+
+  • OpenAI: https://openai.com/
+
+  • OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil (CPO at OpenAI, ex-Instagram,
+  Twitter): https://www.lennysnewsletter.com/p/kevin-weil-open-ai
+
+  • Llama: https://www.llama.com/
+
+  • Cursor: https://cursor.com/
+
+  • The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell
+
+  • Top Gun: https://www.imdb.com/title/tt0092099/
+
+  • Lenny’s vibe-coded Lovable app: https://gdoc-images-grab.lovable.app/
+
+  • Afterpay: https://github.com/afterpay
+
+  • Bitkey: https://bitkey.world/
+
+  • Proto: https://github.com/proto-at-block
+
+  • Brad Axen on LinkedIn: https://www.linkedin.com/in/bradleyaxen/
+
+  • Databricks: https://www.databricks.com/
+
+  • Carl Sagan’s quote: https://www.goodreads.com/quotes/32952-if-you-wish-to-make-an-apple-pie-from-scratch
+
+  ...References continued at: https://www.lennysnewsletter.com/p/how-block-is-becoming-the-most-ai-native
+
+
+  *Recommended books:*
+
+  • The Master and Margarita: https://www.amazon.com/Master-Margarita-Mikhail-Bulgakov/dp/0802130119
+
+  • Tennyson Poems: https://www.amazon.com/Tennyson-Poems-Everymans-Library-Pocket/dp/1400041872/
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5202.0
 duration: '1:26:42'
 view_count: 31288

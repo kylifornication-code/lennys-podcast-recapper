@@ -1,15 +1,41 @@
 ---
 guest: Raaz Herzberg
-title: 'Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO
-  and VP Product Strategy)'
+title: 'Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)'
 youtube_url: https://www.youtube.com/watch?v=vnW3zIkrOvY
 video_id: vnW3zIkrOvY
 publish_date: 2024-11-17
-description: 'Raaz Herzberg is the chief marketing officer and VP of product strategy
-  at Wiz. Wiz hit $100 million ARR within 18 months (the fastest growth in startup
-  history) and, five years in, is generating...
-
-  '
+description: "Raaz Herzberg is the chief marketing officer and VP of product strategy at Wiz. Wiz hit $100 million ARR within\
+  \ 18 months (the fastest growth in startup history) and, five years in, is generating over $500 million ARR. It also serves\
+  \ over 45% of the Fortune 100. Raaz was one of the first five employees at Wiz, joining as the first product manager, and\
+  \ helped the team pivot to what may be the most intense PMF in history. Before Wiz, Raaz led security products at Microsoft,\
+  \ including Azure Sentinel. In our conversation, we discuss:\n• How Wiz pivoted from their initial idea and found deep product-market\
+  \ fit\n• What Raaz learned about listening to customers\n• Why she moved from product to marketing, despite no prior experience\n\
+  • How she thinks differently as a marketer with a product background\n• Lessons learned from scaling a hypergrowth startup\
+  \ like Wiz\n• Much more\n\n—\n\nBrought to you by:\n• WorkOS—Modern identity platform for B2B SaaS, free up to 1 million\
+  \ MAUs: https://workos.com/lenny\n• Rippling—Automate HR, IT, and finance so you can scale faster: http://www.rippling.com/lenny\n\
+  • Cloudinary—The foundational technology for all images and video on the internet: http://cloudinary.com/lenny\n\nFind the\
+  \ transcript at: https://www.lennysnewsletter.com/p/building-wiz-raaz-herzberg\n\nWhere to find Raaz Herzberg:\n• X: https://x.com/raazherzberg\n\
+  • LinkedIn: https://www.linkedin.com/in/raazh\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Raaz’s background\n(02:54) Early challenges and Wiz’s essential pivot\n(06:41) Finding product-market fit\n(11:31)\
+  \ Lessons from early customer interactions\n(14:54) The power in speaking up when you don’t understand something\n(17:46)\
+  \ How Wiz pivoted from their initial idea\n(23:52) Marketing and leadership insights\n(28:05) Following the “heat” in your\
+  \ organization \n(30:22) How Raaz found success as CMO\n(34:01) Common CMO mistakes\n(36:23) Creating noise and standing\
+  \ out\n(40:28) Embracing failure and taking risks\n(44:53) The importance of clear communication\n(48:32) The “dummy” explanation\n\
+  (51:00) Building trust and company culture\n(53:45) Contrarian corner\n(56:34) Lightning round\n\nReferenced:\n• Wiz: https://www.wiz.io/\n\
+  • An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth): https://www.lennysnewsletter.com/p/an-inside-look-at-deels-unprecedented\n\
+  • Velocity over everything: How Ramp became the fastest-growing SaaS startup of all time | Geoff Charles (VP of Product):\
+  \ https://www.lennysnewsletter.com/p/velocity-over-everything-how-ramp\n• Assaf Rappaport on LinkedIn: https://www.linkedin.com/in/assafrappaport/\n\
+  • How LinkedIn became interesting: The inside story | Tomer Cohen (CPO at LinkedIn): https://www.lennysnewsletter.com/p/how-linkedin-became-interesting-tomer-cohen\n\
+  • Shardul Shah on LinkedIn: https://www.linkedin.com/in/shardul-shah-3589062/\n• Doug Leone on LinkedIn: https://www.linkedin.com/in/douglas-leone-a2714/\n\
+  • Jeff Horing on LinkedIn: https://www.linkedin.com/in/jeffhoring2009/\n• RSA Conference: https://www.rsaconference.com/\n\
+  • Microsoft acquires Adallom to advance identity and security in the cloud: https://blogs.microsoft.com/blog/2015/09/08/microsoft-acquires-adallom-to-advance-identity-and-security-in-the-cloud/\n\
+  • Imposter syndrome: https://www.psychologytoday.com/us/basics/imposter-syndrome\n• Careers at Wiz: https://www.wiz.io/careers\n\
+  • Setting the Table: The Transforming Power of Hospitality in Business: https://www.amazon.com/Setting-Table-Transforming-Hospitality-Business/dp/0060742763\n\
+  • No Rules Rules: Netflix and the Culture of Reinvention: https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860/\n\
+  • Gong: https://www.gong.io/\n• The Wire on HBO: https://www.hbo.com/the-wire\n• Raaz’s pen holder recommendation: https://www.paper-republic.com/products/le-loop-penholder\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 3920.0
 duration: '1:05:20'
 view_count: 31399

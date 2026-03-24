@@ -4,11 +4,41 @@ title: Brian Chesky’s new playbook
 youtube_url: https://www.youtube.com/watch?v=4ef0juAMqoE
 video_id: 4ef0juAMqoE
 publish_date: 2023-11-12
-description: 'Brian Chesky is the co-founder and CEO of Airbnb. Under Brian’s leadership,
-  Airbnb has grown into a community of over 4 million hosts who have welcomed more
-  than 1.5 billion guests across...
-
-  '
+description: "Brian Chesky is the co-founder and CEO of Airbnb. Under Brian’s leadership, Airbnb has grown into a community\
+  \ of over 4 million hosts who have welcomed more than 1.5 billion guests across over 220 countries and regions. I had the\
+  \ privilege of working under his leadership, so it is a great honor to have him on the show. We discuss:\n• How Airbnb has\
+  \ shifted their thinking on product management\n• Why bureaucracy happens in companies, and how to avoid it\n• The importance\
+  \ of founders diving into the details\n• Why Airbnb moved away from traditional growth channels and what they are doing\
+  \ instead\n• Airbnb’s newly released features\n• How and why Brian encourages his team to set ambitious goals\n• Why he\
+  \ says he still has a lot to prove\n—\nBrought to you by Sidebar—Catalyze your career with a Personal Board of Directors:\
+  \ https://www.sidebar.com/lenny/?utm_source=lennys&utm_medium=newsletter&utm_campaign=waitlist&utm_content=pbod | Jira Product\
+  \ Discovery—Atlassian’s new prioritization and roadmapping tool built for product teams: https://atlassian.com/lenny/?utm_source=lennypodcast&utm_medium=paid-audio&utm_campaign=fy24q1-jpd-imc\
+  \ | Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\n\nFind the full transcript at: https://www.lennyspodcast.com/brian-cheskys-new-playbook/#transcript\n\
+  \nWhere to find Brian Chesky:\n• X: https://twitter.com/bchesky\n• LinkedIn: https://www.linkedin.com/in/brianchesky/\n\n\
+  Where to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Brian’s background\n(05:18) The current structure of product management at Airbnb\n\
+  (09:21) How fast-moving companies become slow-moving bureaucracies \n(12:20) Brian’s thoughts on performance marketing\n\
+  (13:50) Airbnb’s rolling two-year roadmap\n(15:30) Brian’s journey as CEO in a growing company\n(18:34) Best practices for\
+  \ A/B testing \n(20:30) Who inspired Airbnb’s new direction\n(23:18) The first changes Brian implemented at the onset of\
+  \ the pandemic\n(24:51) Why founders should be “in the details” \n(30:15) Airbnb’s marketing, communication, and creative\
+  \ functions \n(31:38) Advice for founders on how to lead\n(34:15) Tips for implementing Airbnb’s business methodology \n\
+  (38:48) Airbnb’s winter release\n(41:47) Why Airbnb no longer has separate guest and host teams \n(42:38) Brian’s thoughts\
+  \ on design trends \n(45:36) The importance of empowering hosts with great tools\n(45:57) How setting ambitious goals improves\
+  \ team performance \n(50:05) Tips for preventing burnout\n(56:02) Tips for personal and professional growth \n(58:19) Why\
+  \ Brian says he still has a lot to prove\n(1:02:58) Paying it forward\n(1:05:03) A fun fact about Brian\n(1:09:26) Airbnb’s\
+  \ origin story\n\nReferenced:\n• Localmind: https://www.crunchbase.com/organization/localmind\n• Config 2023 in review:\
+  \ https://www.figma.com/blog/config-2023-recap/\n• Why Founders Fail: The Product CEO Paradox: https://techcrunch.com/2013/08/10/why-founders-fail-the-product-ceo-paradox/\n\
+  • Hiroki Asai on LinkedIn: https://www.linkedin.com/in/hiroki-asai-a44137110/\n• Jony Ive on Crunchbase: https://www.crunchbase.com/person/jonathan-ive\n\
+  • Charles Eames: https://en.wikipedia.org/wiki/Charles_Eames\n• Airbnb 2023 Winter Release: https://news.airbnb.com/en-in/airbnb-2023-winter-release-introducing-guest-favorites-a-collection-of-the-2-million-most-loved-homes-on-airbnb/\n\
+  • Airbnb 2023 winter release reel: https://x.com/bchesky/status/1722243847751970861?s=20\n• John Wooden’s website: https://coachwooden.com/\n\
+  • An 85-year Harvard study found the No. 1 thing that makes us happy in life: It helps us ‘live longer’: https://www.cnbc.com/2023/02/10/85-year-harvard-study-found-the-secret-to-a-long-happy-and-successful-life.html\n\
+  • Sam Altman on X: https://twitter.com/sama\n• Alfred P. Sloan: https://en.wikipedia.org/wiki/Alfred_P._Sloan\n• Bob Dylan\
+  \ quote: https://quotefancy.com/quote/950807/Bob-Dylan-An-artist-has-got-to-be-careful-never-really-to-arrive-at-a-place-where-he\n\
+  • OpenAI: https://openai.com/\n• Michael Seibel’s website: https://www.michaelseibel.com/\n• Y Combinator: https://www.ycombinator.com/\n\
+  • The Norman Rockwell Museum: https://www.nrm.org/\n• Rhode Island School of Design: https://www.risd.edu/\n• Joe Gebbia\
+  \ on LinkedIn: https://www.linkedin.com/in/jgebbia/\n• Nathan Blecharczyk on LinkedIn: https://www.linkedin.com/in/blecharczyk/\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4408.0
 duration: '1:13:28'
 view_count: 381905

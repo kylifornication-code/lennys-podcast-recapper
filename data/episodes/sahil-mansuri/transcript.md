@@ -4,11 +4,134 @@ title: How to hit revenue targets in a recession | Sahil Mansuri (Bravado)
 youtube_url: https://www.youtube.com/watch?v=pYZ0S7a72po
 video_id: pYZ0S7a72po
 publish_date: 2022-12-04
-description: 'Sahil Mansuri is the CEO of Bravado, the world’s largest online sales
-  community. Sahil is passionate about sales, and his experience dates all the way
-  back to 2008, working for Obama’s...
+description: 'Sahil Mansuri is the CEO of Bravado, the world’s largest online sales community. Sahil is passionate about sales,
+  and his experience dates all the way back to 2008, working for Obama’s presidential campaign. During his time at Glassdoor,
+  Sahil was able to close some incredible accounts, including Facebook, Google, Microsoft, and Amazon. In today’s podcast,
+  we talk about why sales is a crucial part of any business and how to continue selling successfully through a recession.
+  We get super-specific on building a conservative plan for the near future and cover everything from where to place your
+  best salespeople to restructuring comp plans. The episode is full of great advice about how to shift with this market, improve
+  agility, and perhaps grow an even stronger business with happier customers. 
 
-  '
+
+  —
+
+
+  Find the full transcript here: https://www.lennyspodcast.com/how-to-hit-revenue-targets-in-a-recession-sahil-mansuri-bravado/#transcript
+
+
+  —
+
+
+  Where to find Sahil Mansuri:
+
+
+  • Twitter: https://twitter.com/svmansuri
+
+  • LinkedIn: https://www.linkedin.com/in/sahilmansuri/
+
+  • Email: sahil@bravado.com
+
+
+  —
+
+
+  Where to find Lenny:
+
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  —
+
+
+  Thank you to our wonderful sponsors for making this episode possible:
+
+
+  • Flatfile: https://www.flatfile.com/lenny
+
+  • Merge: http://merge.dev/lenny
+
+  • Miro: https://miro.com/lenny
+
+
+  —
+
+
+  Referenced:
+
+
+  • Bravado: https://bravado.co/
+
+  • Stumbling on Happiness: https://www.amazon.com/Stumbling-Happiness-Daniel-Gilbert/dp/1400077427
+
+  • All-In podcast: https://www.allinpodcast.co/
+
+  • How I Built This podcast: https://www.npr.org/series/490248027/how-i-built-this
+
+  • The Blacklist on Netflix: https://www.netflix.com/title/70281312
+
+  • The Newsroom on Hulu: https://www.hulu.com/series/the-newsroom-3d51e070-e77d-4294-ac83-cab80d3f94dd
+
+  • The West Wing on HBO Max: https://www.hbomax.com/series/urn:hbo:series:GX5nwgQDNJZ6aoQEAAAHJ
+
+  • Jeopardy!: https://www.jeopardy.com/watch
+
+  • Frasier on Hulu: https://www.hulu.com/series/frasier-0cb9b63b-de82-4751-99c9-1cb12118ab9d
+
+  • Slack: https://slack.com/
+
+  • Zoom: https://zoom.us/
+
+  • Grain: https://grain.com/
+
+
+  —
+
+
+  In this episode, we cover:
+
+
+  (00:00) Sahil’s background
+
+  (08:26) What is Bravado? 
+
+  (10:27) How to shift your sales strategy to meet the market
+
+  (12:00) How to set a conservative plan that still allows you to lean in when growth is possible
+
+  (19:06) Why the downturn in tech may not be over anytime soon
+
+  (21:34) How Bravado gets its data from users and creates global benchmarks 
+
+  (23:04) Why SAAS has an outdated comp structure
+
+  (33:23) Why companies are resistant to restructuring comp plans
+
+  (37:18) The problem with hypergrowth in today’s market
+
+  (41:18) Why it’s time to shift into a retention-based strategy
+
+  (43:28) Why your best sales staff should transition to post-sales for customer retention
+
+  (51:20) What are warm intros, and how can existing customers help you get new ones?
+
+  (59:30) How Sahil was able to get Facebook’s account at Glassdoor
+
+  (1:08:08) Why CEOs are actually salespeople
+
+  (1:12:50) How to survive a downturn
+
+  (1:19:44) Lightning round
+
+
+  —
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 5191.0
 duration: '1:26:31'
 view_count: 13762

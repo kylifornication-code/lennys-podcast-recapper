@@ -1,15 +1,48 @@
 ---
 guest: Kevin Weil
-title: OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks,
-  more | Kevin Weil
+title: OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil
 youtube_url: https://www.youtube.com/watch?v=scsW6_2SPC4
 video_id: scsW6_2SPC4
 publish_date: 2025-04-10
-description: 'Kevin Weil is the chief product officer at OpenAI, where he oversees
-  the development of ChatGPT, enterprise products, and the OpenAI API. Prior to OpenAI,
-  Kevin was head of product at Twitter,...
-
-  '
+description: "Kevin Weil is the chief product officer at OpenAI, where he oversees the development of ChatGPT, enterprise\
+  \ products, and the OpenAI API. Prior to OpenAI, Kevin was head of product at Twitter, Instagram, and Planet, and was instrumental\
+  \ in the development of the Libra (later Novi) cryptocurrency project at Facebook.\n\nIn this episode, you’ll learn:\n1.\
+  \ How OpenAI structures its product teams and maintains agility while developing cutting-edge AI\n2. The power of model\
+  \ ensembles—using multiple specialized models together like a company of humans with different skills\n3. Why writing effective\
+  \ evals (AI evaluation tests) is becoming a critical skill for product managers\n4. The surprisingly enduring value of chat\
+  \ as an interface for AI, despite predictions of its obsolescence\n5. How “vibe coding” is changing how companies operate\n\
+  6. What OpenAI looks for when hiring product managers (hint: high agency and comfort with ambiguity)\n7. “Model maximalism”\
+  \ and why today’s AI is the worst you’ll ever use again\n8. Practical prompting techniques that improve AI interactions,\
+  \ including example-based prompting\n\nFind the transcript at: https://www.lennysnewsletter.com/p/kevin-weil-open-ai\n\n\
+  Brought to you by:\n• Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\n• Persona—A global leader in digital\
+  \ identity verification: https://withpersona.com/lenny\n• OneSchema—Import CSV data 10x faster: OneSchema — Import CSV data\
+  \ 10x faster\n\nWhere to find Kevin Weil:\n• X: https://x.com/kevinweil\n• LinkedIn: https://www.linkedin.com/in/kevinweil/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Kevin’s background\n(05:16) OpenAI’s new image model\n(08:13) The role of chief product\
+  \ officer at OpenAI\n(11:42) His recruitment story and joining OpenAI\n(15:59) Working at OpenAI\n(18:44) The importance\
+  \ of evals in AI\n(24:40) Opportunities in the space\n(26:34) Shipping quickly and consistently\n(29:47) Product reviews\
+  \ and iterative deployment\n(32:53) Winning consumer awareness\n(36:03) Designing thoughtful experiences \n(40:56) Chat\
+  \ as an interface for AI\n(45:21) Collaboration between researchers and product teams\n(48:05) Hiring product managers at\
+  \ OpenAI\n(53:06) How OpenAI uses AI: vibe coding, AI prototyping, and more\n(01:04:34) Raising kids in an increasingly\
+  \ intelligent AI world\n(01:08:07) Why Kevin feels optimistic about our AI future\n(01:14:20) The AI model you're using\
+  \ today is the worst AI model you'll ever use\n(01:17:58) Reflections on the Libra project\n(01:21:51) Lightning round and\
+  \ final thoughts\n\nReferenced:\n• OpenAI: https://openai.com/\n• The AI-Generated Studio Ghibli Trend, Explained: https://www.forbes.com/sites/danidiplacido/2025/03/27/the-ai-generated-studio-ghibli-trend-explained/\n\
+  • Introducing 4o Image Generation: https://openai.com/index/introducing-4o-image-generation/\n• Waymo: https://waymo.com/\n\
+  • X: https://x.com\n• Facebook: https://www.facebook.com/\n• Instagram: https://www.instagram.com/\n• Planet: https://www.planet.com/\n\
+  • Sam Altman on X: https://x.com/sama\n• A conversation with OpenAI’s CPO Kevin Weil, Anthropic’s CPO Mike Krieger, and\
+  \ Sarah Guo: https://www.youtube.com/watch?v=IxkvVZua28k\n• OpenAI evals: https://github.com/openai/evals\n• Deep Research:\
+  \ https://openai.com/index/introducing-deep-research/\n• Ev Williams on X: https://x.com/ev\n• OpenAI API: https://platform.openai.com/docs/overview\n\
+  • Dwight Eisenhower quote: https://www.brainyquote.com/quotes/dwight_d_eisenhower_164720\n• Inside Bolt: From near-death\
+  \ to ~$40m ARR in 5 months—one of the fastest-growing products in history | Eric Simons (founder & CEO of StackBlitz): https://www.lennysnewsletter.com/p/inside-bolt-eric-simons\n\
+  • StackBlitz: https://stackblitz.com/\n• Claude 3.5 Sonnet: https://www.anthropic.com/news/claude-3-5-sonnet\n• Anthropic:\
+  \ https://www.anthropic.com/\n• Four-minute mile: https://en.wikipedia.org/wiki/Four-minute_mile\n• Chad: https://chatgpt.com/g/g-3F100ZiIe-chad-open-a-i\n\
+  • Dario Amodei on LinkedIn: https://www.linkedin.com/in/dario-amodei-3934934/\n• Figma: https://www.figma.com/\n• Julia\
+  \ Villagra on LinkedIn: https://www.linkedin.com/in/juliavillagra/\n• Andrej Karpathy on X: https://x.com/karpathy\n...References\
+  \ continued at: https://www.lennysnewsletter.com/p/kevin-weil-open-ai\n\nRecommended books:\n• Co-Intelligence: Living and\
+  \ Working with AI: https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X\n• The Accidental Superpower:\
+  \ Ten Years On: https://www.amazon.com/Accidental-Superpower-Ten-Years/dp/1538767341\n• Cable Cowboy: https://www.amazon.com/Cable-Cowboy-Malone-Modern-Business/dp/047170637X\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5501.0
 duration: '1:31:41'
 view_count: 202940

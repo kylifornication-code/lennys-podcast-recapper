@@ -1,15 +1,43 @@
 ---
 guest: Melissa Perri
-title: Everything you’ve ever wanted to know about SAFe and the product owner role
-  | Melissa Perri
+title: Everything you’ve ever wanted to know about SAFe and the product owner role | Melissa Perri
 youtube_url: https://www.youtube.com/watch?v=wbi9chsAHp4
 video_id: wbi9chsAHp4
 publish_date: 2024-11-10
-description: 'Melissa Perri is the founder of Product Institute, author of Escaping
-  the Build Trap, and host of the Product Thinking Podcast. She has worked with startups, Fortune
-  50 companies, and everything...
-
-  '
+description: "Melissa Perri is the founder of Product Institute, author of Escaping the Build Trap, and host of the Product\
+  \ Thinking Podcast. She has worked with startups, Fortune 50 companies, and everything in between to help them build better\
+  \ products and level up their product teams. In our conversation, we discuss:\n• The history of the product owner role\n\
+  • The differences between product owners and product managers\n• How to transition from product owner to product manager\n\
+  • The evolution of and problems with the SAFe framework\n• How large non-tech companies can improve their product practices\n\
+  • Much more\n\n—\n\nBrought to you by:\n• Pendo—The only all-in-one product experience platform for any type of application:\
+  \ https://www.pendo.io/lenny\n• OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny\n• Coda—The all-in-one\
+  \ collaborative workspace: https://coda.io/lenny\n\nFind the transcript at: https://www.lennysnewsletter.com/p/product-owners-melissa-perri\n\
+  \nWhere to find Melissa Perri:\n• X: https://twitter.com/lissijean\n• LinkedIn: https://www.linkedin.com/in/melissajeanperri/\n\
+  • Website: https://melissaperri.com/\n• Product Institute: https://productinstitute.com/\n• Podcast: https://www.produxlabs.com/product-thinking\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Melissa’s background\n(02:12) The rise of the product owner role\n(06:37) Understanding\
+  \ Agile and Scrum\n(08:27) Challenges in Agile transformations\n(10:41) The history of the product owner role\n(13:58) The\
+  \ Scrum Guide\n(15:43)  Product owner responsibilities\n(21:01) Adopting Scrum in organizations\n(26:21) The origins and\
+  \ implementation of SAFe\n(35:20) Why Melissa doesn’t recommend SAFe\n(40:33) Advice for implementing a digital transformation\
+  \ \n(49:12) An example of SAFe adoption \n(51:27) The value of experienced product leaders\n(56:53) Career paths for product\
+  \ owners\n(01:04:14) Transitioning from product owner to product manager\n(01:06:41) Be careful relying on certifications\n\
+  (01:11:43) Evaluating existing product owners\n(01:16:55) Final thoughts on Agile and product management\n\nReferenced:\n\
+  • Escaping the Build Trap: How Effective Product Management Creates Real Value: https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X\n\
+  • Lean UX: https://leanuxnyc.co/\n• Scrum: https://www.scrum.org/\n• What is Extreme Programming? https://www.agilealliance.org/glossary/xp/\n\
+  • Capital One: https://www.capitalone.com/\n• The Agile Manifesto: https://www.atlassian.com/agile/manifesto\n• Ken Schwaber\
+  \ on X: https://x.com/kschwaber\n• Jeff Sutherland on X: https://x.com/jeffsutherland\n• Kanban: https://www.atlassian.com/agile/kanban\n\
+  • What is a kanban board?: https://www.atlassian.com/agile/kanban/boards\n• Ron Jeffries’s website: https://www.ronjeffries.com/\n\
+  • Jeff Patton on X: https://x.com/jeffpatton\n• The Scrum Guide: https://www.scrum.org/resources/scrum-guide\n• OpenSky:\
+  \ https://www.openskycc.com/\n• SAFe: https://scaledagileframework.com/\n• Dean Leffingwell on LinkedIn: https://www.linkedin.com/in/deanleffingwell/\n\
+  • Capital One scraps 1,100 tech positions: https://www.reuters.com/technology/capital-one-scraps-1100-tech-positions-source-2023-01-19/\n\
+  • Product management theater | Marty Cagan (Silicon Valley Product Group): https://www.lennysnewsletter.com/p/product-management-theater-marty\n\
+  • Marty Cagan on LinkedIn: https://www.linkedin.com/in/cagan/\n• Jeff Gothelf on X: https://x.com/jboogie\n• Shruti Patel\
+  \ on LinkedIn: https://www.linkedin.com/in/shruti-patel-32bb573a/\n• Product Thinking Podcast: Mastering Product Focus:\
+  \ Balancing Legacy and Innovation with Shruti Patel: https://www.produxlabs.com/product-thinking-blog/2024/9/25/episode-190-mastering-product-focus-balancing-legacy-and-innovation-with-shruti-patel\n\
+  • Melissa Douros on LinkedIn: https://www.linkedin.com/in/melissadouros/\n• Mind the Product: https://www.mindtheproduct.com/\n\
+  • Athenahealth: https://www.athenahealth.com/\n• McKinsey: https://www.mckinsey.com/\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 5060.0
 duration: '1:24:20'
 view_count: 29280

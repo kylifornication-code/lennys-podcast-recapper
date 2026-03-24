@@ -1,15 +1,153 @@
 ---
 guest: Ryan Singer
-title: A better way to plan, build, and ship products | Ryan Singer (creator of “Shape
-  Up")
+title: A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up")
 youtube_url: https://www.youtube.com/watch?v=GF-yUANql0c
 video_id: GF-yUANql0c
 publish_date: 2025-03-30
-description: 'Ryan Singer is one of the earliest employees and the former Head of
-  Strategy at 37signals (the makers of Basecamp), where he spent nearly two decades
-  refining a product development approach...
+description: 'Ryan Singer is one of the earliest employees and the former Head of Strategy at 37signals (the makers of Basecamp),
+  where he spent nearly two decades refining a product development approach that helped the company build super-successful
+  products with small teams. Based on these lessons, he wrote "Shape Up: Stop Running in Circles and Ship Work that Matters,"
+  and Ryan now works with companies of all sizes to help them escape the cycle of endless sprints, missed deadlines, and dragging
+  projects.
 
-  '
+
+  What you’ll learn:
+
+  1. Why traditional Agile and Scrum methods often lead teams into endless cycles of work without meaningful shipping milestones.
+
+  2. The “appetite-driven” approach to product development where teams set fixed timeboxes (usually six weeks maximum) and
+  vary the scope instead of expanding timelines.
+
+  3. The exact process for running effective “shaping” sessions that collaboratively define projects before committing resources.
+
+  4. Why most teams struggle with too little detail in their planning, not too much.
+
+  5. Why a 30-to-50-person team size is the critical breaking point when growing startups need to adopt more structured processes.
+
+  6. Practical techniques for bridging the engineering-design divide by bringing technical and product perspectives together
+  earlier in the process.
+
+  7. The powerful “breadboarding” and “fat marker sketching” techniques that help teams align on solutions without getting
+  lost in high-fidelity details.
+
+  8. The clear warning signs that your current development process is failing before it’s too late to change course.
+
+  9. Proven strategies to implement Shape Up methods, whether you’re working in a startup or enterprise environment.
+
+  10. A step-by-step approach to transitioning from Scrum to Shape Up by piloting the methodology with a single team before
+  broader implementation.
+
+  11. Why the PM role shifts upstream in Shape Up, focusing more on problem definition than project management.
+
+  12. How to adapt Shape Up principles to your company’s unique context, even if it’s nothing like Basecamp.
+
+  —
+
+  Brought to you by:
+
+  • WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny
+
+  • Merge—A single API to add hundreds of integrations into your app: http://merge.dev/lenny
+
+  • Airtable ProductCentral—Launch to new heights with a unified system for product development: https://www.airtable.com/lenny
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/shape-up-ryan-singer
+
+
+  Where to find Ryan Singer:
+
+  • X: https://x.com/rjs
+
+  • LinkedIn: https://www.linkedin.com/in/feltpresence/
+
+  • Website: https://www.ryansinger.co/
+
+  • Course: https://www.ryansinger.co/srl/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Ryan’s background
+
+  (04:38) The origins of Shape Up
+
+  (07:40) Implementing Shape Up in different companies
+
+  (09:56) How Shape Up is different
+
+  (19:02) The core elements of Shape Up
+
+  (26:29) Shaping sessions and timeboxing
+
+  (37:23) Flexible sprint planning
+
+  (38:56) The output of a shaping session
+
+  (46:57) Balancing detail and flexibility
+
+  (53:50) A deep dive into shaping sessions
+
+  (01:01:32) Fat marker sketches
+
+  (01:02:48) Getting started using Shape Up
+
+  (01:13:20) Signs it''s time to try the Shape Up method
+
+  (01:18:25) Feature factories
+
+  (01:25:59) The role of the PM in Shape Up
+
+  (01:28:26) What makes Basecamp unique
+
+  (01:35:55) The second edition of the book
+
+  (01:38:30) Linking product strategy and shaping
+
+  (01:41:53) Conclusion and final thoughts
+
+
+  Referenced:
+
+  • Basecamp: https://basecamp.com/
+
+  • David Heinemeier Hansson on LinkedIn: https://www.linkedin.com/in/david-heinemeier-hansson-374b18221/
+
+  • Jason Fried on LinkedIn: https://www.linkedin.com/in/jason-fried/
+
+  • Jason Fried challenges your thinking on fundraising, goals, growth, and more: https://www.lennysnewsletter.com/p/jason-fried-challenges-your-thinking
+
+  • Des Traynor on LinkedIn: https://www.linkedin.com/in/destraynor/
+
+  • Intercom: https://www.intercom.com/
+
+  ...References continued at: https://www.lennysnewsletter.com/p/shape-up-ryan-singer
+
+
+  Recommended books:
+
+  • Shape Up: Stop Running in Circles and Ship Work That Matters: https://basecamp.com/shapeup
+
+  • Demand-Side Sales 101: Stop Selling and Help Your Customers Make Progress: https://www.amazon.com/Demand-Side-Sales-101-Customers-Progress/dp/1544509987/
+
+  • Competing Against Luck: The Story of Innovation and Customer Choice: https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612/
+
+  • Job Moves: 9 Steps for Making Progress in Your Career: https://www.amazon.com/Job-Moves-Making-Progress-Career/dp/0063283581
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 6310.0
 duration: '1:45:10'
 view_count: 29557

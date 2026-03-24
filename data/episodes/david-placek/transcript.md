@@ -1,17 +1,13 @@
 ---
 guest: David Placek
-title: Building a culture of excellence | David Singleton (CTO of Stripe)
-youtube_url: https://www.youtube.com/watch?v=F0_IKKY3HCk
-video_id: F0_IKKY3HCk
-publish_date: 2023-05-04
-description: 'David Singleton is Chief Technology Officer at Stripe, where he oversees
-  engineering and design teams. Since joining Stripe, David has helped grow the technology
-  org across the U.S. and developed...
-
-  '
-duration_seconds: 5400.0
-duration: '1:30:00'
-view_count: 40035
+title: ''
+youtube_url: ''
+video_id: ''
+publish_date: ''
+description: ''
+duration_seconds: 0
+duration: ''
+view_count: 0
 channel: Lenny's Podcast
 keywords:
 - churn

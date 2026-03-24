@@ -1,15 +1,47 @@
 ---
 guest: Chandra Janakiraman
-title: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat,
-  ex-Meta, Headspace)
+title: An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)
 youtube_url: https://www.youtube.com/watch?v=WFLH8Af2f30
 video_id: WFLH8Af2f30
 publish_date: 2025-01-26
-description: 'Chandra Janakiraman is the chief product officer, executive vice president,
-  and a board member at VRChat. Previously, he was a product leader at Meta, where
-  he led Facebook’s social experience...
-
-  '
+description: "Chandra Janakiraman is the chief product officer, executive vice president, and a board member at VRChat. Previously,\
+  \ he was a product leader at Meta, where he led Facebook’s social experience interfaces and Reality Labs’ growth; served\
+  \ as CPO at Headspace, where he helped relaunch the platform, driving a 4x subscriber boost; and was a GM at Zynga, delivering\
+  \ massive hit games that reached hundreds of millions. In our conversation, Chandra shares:\n• His playbook for developing\
+  \ a product strategy\n• The difference between “small s” and “big S” strategy\n• How to run strategy sprints\n• Who should\
+  \ be involved in strategy work\n• Common pitfalls in strategy development\n• The role of AI in future strategy development\n\
+  • More\n\n—\n\nBrought to you by:\n• Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\n• Airtable ProductCentral—Launch\
+  \ to new heights with a unified system for product development: https://www.airtable.com/lenny\n• OneSchema—Import CSV data\
+  \ 10x faster: https://oneschema.co/lenny\n\nFind the transcript at: https://www.lennysnewsletter.com/p/an-operators-guide-to-product-strategy-chandra-janakiraman\n\
+  \nWhere to find Chandra Janakiraman:\n• LinkedIn: https://www.linkedin.com/in/chandramohanj/\n\nWhere to find Lenny:\n•\
+  \ Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Chandra’s background\n(04:47) The importance of strategy\n(12:40) Defining product\
+  \ strategy\n(15:42) Developing a winning strategy: an overview\n(18:51) The preparation phase\n(30:46) The strategy sprint\
+  \ process\n(45:51) The design sprint \n(51:19) Document writing\n(57:39) Rolling out your strategy\n(01:01:28) Resourcing\
+  \ and roadmapping\n(01:04:42) Strategy lessons from Zynga\n(01:11:34) Strategy lessons from Meta\n(01:15:55) Big S strategy\n\
+  (01:26:58) AI in strategy formulation\n(01:38:12) Final thoughts and lightning round\n\nReferenced:\n• Headspace: https://www.headspace.com/\n\
+  • Good Strategy, Bad Strategy | Richard Rumelt: https://www.lennysnewsletter.com/p/good-strategy-bad-strategy-richard\n\
+  • 5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker): https://www.lennysnewsletter.com/p/the-ultimate-guide-to-strategy-roger-martin\n\
+  • VRChat: https://hello.vrchat.com/\n• Andrew Chen on LinkedIn: https://www.linkedin.com/in/pmandrewchen/\n• Template: Working\
+  \ Backwards PR FAQ: https://www.workingbackwards.com/resources/working-backwards-pr-faq\n• How LinkedIn became interesting:\
+  \ The inside story | Tomer Cohen (CPO at LinkedIn): https://www.lennysnewsletter.com/p/how-linkedin-became-interesting-tomer-cohen\n\
+  • Making time for what matters | Jake Knapp and John Zeratsky (authors of Sprint and Make Time, co-founders of Character\
+  \ Capital): https://www.lennysnewsletter.com/p/making-time-for-what-matters-jake\n• Identify your bullseye customer in one\
+  \ day | Michael Margolis (UX Research Partner at Google Ventures): https://www.lennysnewsletter.com/p/finding-your-bullseye-customer-michael-margolis\n\
+  • Chandra’s flow chart: https://docs.google.com/document/d/1SLmQ0oRFadzJnNM3MJetnLUvB18U4W4GXU4KtJ2ujEQ/edit?tab=t.0\n•\
+  \ Chandra’s strategy template: https://docs.google.com/document/d/1iNeYUaMnpicvkpVZO-gj9cCxLeHfWN0xtGm_QoxgemE/edit?tab=t.0#heading=h.5d3jz6v86yrs\n\
+  • Zynga: https://www.zynga.com/\n...References continued at: https://www.lennysnewsletter.com/p/an-operators-guide-to-product-strategy-chandra-janakiraman\n\
+  \nRecommended books:\n• The Art of War: https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772\n• Competitive Strategy: Techniques\
+  \ for Analyzing Industries and Competitors: https://www.amazon.com/Competitive-Strategy-Techniques-Industries-Competitors/dp/0684841487/\n\
+  • Good Strategy Bad Strategy: The Difference and Why It Matters: https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239/\n\
+  • Playing to Win: How Strategy Really Works: https://www.amazon.com/Playing-Win-Strategy-Really-Works/dp/142218739X\n• Make\
+  \ Time: How to Focus on What Matters Every Day: https://www.amazon.com/Make-Time-Focus-Matters-Every/dp/0525572422\n• Sprint:\
+  \ https://www.amazon.com/SPRINT-Jake-Zeratsky-Knapp/dp/0593076117\n• Walt Disney: The Triumph of the American Imagination:\
+  \ https://www.amazon.com/Walt-Disney-Triumph-American-Imagination/dp/0679757473\n• Creativity, Inc.: Overcoming the Unseen\
+  \ Forces That Stand in the Way of True Inspiration: https://www.amazon.com/Creativity-Inc-Expanded-Overcoming-Inspiration/dp/0593594649/\n\
+  • The Ten Faces of Innovation: Strategies for Heightening Creativity: https://www.amazon.com/dp/0385512074\n\nProduction\
+  \ and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\n\
+  Lenny may be an investor in the companies discussed."
 duration_seconds: 6442.0
 duration: '1:47:22'
 view_count: 26538

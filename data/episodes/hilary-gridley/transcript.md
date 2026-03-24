@@ -1,15 +1,159 @@
 ---
 guest: Hilary Gridley
-title: How to build a team that can “take a punch” | Hilary Gridley (Head of Core
-  Product, Whoop)
+title: How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)
 youtube_url: https://www.youtube.com/watch?v=xm5QAzAlqEY
 video_id: xm5QAzAlqEY
 publish_date: 2025-06-15
-description: 'Hilary Gridley is the Head of Core Product at WHOOP and a passionate
-  thought leader in leveraging AI to elevate product teams and management practices.
-  With extensive experience tackling challengin...
+description: 'Hilary Gridley is the Head of Core Product at WHOOP and a passionate thought leader in leveraging AI to elevate
+  product teams and management practices. With extensive experience tackling challenging problems in regulated industries
+  and high-stakes environments, Hilary emphasizes the importance of building resilience and adaptability within teams. Previously,
+  she was a senior director of product at Big Health and a senior product marketing manager at Dropbox.
 
-  '
+
+  *In this episode, you’ll learn:*
+
+  1. How to teach your team to be able to “take a punch”
+
+  2. Specific tactics to counter negative perceptions and reframe setbacks productively
+
+  3. Powerful behavioral strategies to form positive habits
+
+  4. Practical approaches for creating space in your workday to encourage creativity and deep thinking
+
+  5. The underestimated potential of AI in accelerating your personal and professional growth
+
+  6. Why you’re not the protagonist at your company (and why that’s liberating)
+
+  7. How WHOOP uses reward loops to drive real behavior change
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/how-to-build-a-team-that-can-take-a-punch
+
+
+  *Brought to you by:*
+
+  WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny
+
+  Persona—A global leader in digital identity verification: https://withpersona.com/lenny
+
+  Attio—The powerful, flexible CRM for fast-growing startups: https://attio.com/lenny
+
+
+  *Where to find Hilary Gridley:*
+
+  • X: https://x.com/yourgirlhils
+
+  • LinkedIn: https://www.linkedin.com/in/hilarygridley/
+
+  • Newsletter: https://hils.substack.com/
+
+  • Maven course: https://maven.com/hilary-gridley/ai-powered-people-management
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Hilary’s background
+
+  (04:31) Teaching teams to handle criticism and setbacks
+
+  (17:57) Behavioral activation and mental health in the workplace
+
+  (22:59) The importance of putting yourself out there
+
+  (27:51) Transparency and communication in leadership
+
+  (38:10) How to respectfully disagree with your manager
+
+  (41:49) How to use “magic questions” to decode how people think
+
+  (49:54) Why you’re not the protagonist at your company
+
+  (52:48) Aligning with the CEO''s vision
+
+  (01:01:02) Building effective habits
+
+  (01:11:14) Promoting team well-being
+
+  (01:14:28) Creating space for creativity
+
+  (01:20:45) AI’s role in accelerating learning
+
+  (01:30:35) Pivotal career moments
+
+  (01:37:21) Lessons from failure
+
+  (01:39:49) Exciting new features of WHOOP 5.0
+
+  (01:44:19) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • How to become a supermanager with AI: https://www.lennysnewsletter.com/p/how-to-become-a-supermanager-with
+
+  • How custom GPTs can make you a better manager | Hilary Gridley (Head of Core Product at Whoop): https://www.lennysnewsletter.com/p/how-custom-gpts-can-make-you-a-better-manager
+
+  • WHOOP: https://www.whoop.com/
+
+  • Big Health: https://www.bighealth.com/
+
+  • What is behavioral activation?: https://www.medicalnewstoday.com/articles/behavioral-activation
+
+  • Will Ahmed on LinkedIn: https://www.linkedin.com/in/willahmed/
+
+  • Joe Gebbia on LinkedIn: https://www.linkedin.com/in/jgebbia/
+
+  • Zach Abrams on LinkedIn: https://www.linkedin.com/in/zacharyabrams/
+
+  • Coinbase: https://www.coinbase.com/
+
+  • Bridge: https://www.bridge.xyz/
+
+  • Stripe: https://stripe.com/
+
+  • The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (author of 7 Rules of Power,
+  professor at Stanford GSB): https://www.lennysnewsletter.com/p/the-paths-to-power-jeffrey-pfeffer
+
+  • Paths to Power course: https://jeffreypfeffer.com/wp-content/uploads/2019/10/Pfeffer-OB377-Course-Outline-2018.pdf
+
+  • VO₂ max: https://en.wikipedia.org/wiki/VO2_max
+
+  • Peter Attia on X: https://x.com/PeterAttiaMD
+
+  • Hilary Gridley’s 30 days of GPT: https://docs.google.com/spreadsheets/d/1zJ4rbi9YcQuGqGxc6-AQD0-44oT9l4Eyono0AdpgJbA/edit?gid=0#gid=0
+
+  • The Handle Bar in Boston: https://www.thehandlebarstudios.com/ourstudios/charlestown
+
+  • From chalkboards to chatbots: Transforming learning in Nigeria, one prompt at a time: https://blogs.worldbank.org/en/education/From-chalkboards-to-chatbots-Transforming-learning-in-Nigeria
+
+  • Product Management Logic Coach GPT: https://chatgpt.com/g/g-673290301700819084afa36bdbcdfa3b-product-management-logic-coach
+
+  • Dropbox: https://www.dropbox.com/
+
+  • WHOOP Advanced Labs: https://www.whoop.com/us/en/waitlist/?srsltid=AfmBOor2pP5qC3n7I23Z0ZIrYE99CjAKT9xSHQxbuyxmz_wFUBGH3e-n
+
+  • Negative capability: https://en.wikipedia.org/wiki/Negative_capability
+
+  • John Keats: https://en.wikipedia.org/wiki/John_Keats
+
+  ...References continued at: https://www.lennysnewsletter.com/p/how-to-build-a-team-that-can-take-a-punch
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 6880.0
 duration: '1:54:40'
 view_count: 15779

@@ -1,15 +1,43 @@
 ---
 guest: Josh Miller
-title: 'Competing with giants: An inside look at how The Browser Company builds product
-  | Josh Miller (CEO)'
+title: 'Competing with giants: An inside look at how The Browser Company builds product | Josh Miller (CEO)'
 youtube_url: https://www.youtube.com/watch?v=AZpo5785v8A
 video_id: AZpo5785v8A
 publish_date: 2023-03-19
-description: 'Josh Miller is the CEO and co-founder of The Browser Company, where
-  he helped build Arc, my go-to web browser. In today’s episode, we get an inside
-  look at the unique structure and values...
-
-  '
+description: "Josh Miller is the CEO and co-founder of The Browser Company, where he helped build Arc, my go-to web browser.\
+  \ In today’s episode, we get an inside look at the unique structure and values of The Browser Company and how their company\
+  \ culture has helped them land some of the best talent in tech. Josh shares ways that his company embraces experimentation,\
+  \ including their “optimizing for feelings” approach to building, and explains why extreme transparency is at the forefront\
+  \ of everything they do. \n\nSpecial invite link to skip the waitlist: https://arc.net/gift/lenny\n\n—\n\nBrought to you\
+  \ by Writer—Generative AI for the enterprise | Dovetail—Bring your customer into every decision | Linear—The new standard\
+  \ for modern software development\n\nFind the full transcript at: https://www.lennyspodcast.com/competing-with-giants-an-inside-look-at-how-the-browser-company-builds-product-josh-miller-ceo/#transcript\n\
+  \nWhere to find Josh Miller:\n• Twitter: https://twitter.com/joshm\n• LinkedIn: https://www.linkedin.com/in/josh-miller-b31259106/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nReferenced:\n• Early access to Arc: https://arc.net/gift/lenny\n• The Browser\
+  \ Company: https://thebrowser.company/\n• Hursh Agrawal on LinkedIn: https://www.linkedin.com/in/hurshagrawal/\n• Hacker\
+  \ News: https://news.ycombinator.com/\n• Scott Belsky on LinkedIn: https://www.linkedin.com/in/scottbelsky/\n• Notes on\
+  \ Roadtrips: https://thebrowser.company/values/\n• Shahed Khan on Twitter: https://twitter.com/_shahedk\n• Paper by FiftyThree:\
+  \  https://www.hellobrio.com/blog/digital-drawing-paper-fiftythree\n• Vimeo: https://vimeo.com/\n• Peter Vidani on Twitter:\
+  \ https://twitter.com/pter\n• The Verge: https://www.theverge.com/\n• Ellis Hamburger on LinkedIn: https://www.linkedin.com/in/ellishamburger/\n\
+  • Airbnb’s Snow White project: https://uxdesign.cc/how-airbnb-proved-that-storytelling-is-the-most-important-skill-in-design-15d04ac71039\n\
+  • General Magic: https://www.generalmagicthemovie.com/\n• Linear: https://linear.app/\n• Raycast: https://www.raycast.com/\n\
+  • Cron: https://cron.com/\n• Thrive Capital: https://thrivecap.com/\n• Tuple: https://tuple.app/\n• Figma: https://www.figma.com/\n\
+  • Harold and the Purple Crayon: https://www.amazon.com/Harold-Purple-Crayon-Crockett-Johnson/dp/0062086529\n• Seeing Is\
+  \ Forgetting the Name of the Thing One Sees: https://www.amazon.com/Seeing-Forgetting-Name-Thing-Sees/dp/0520256093/\n•\
+  \ God Save Texas: A Journey into the Soul of the Lone Star State: https://www.amazon.com/God-Save-Texas-Journey-State/dp/0525520104\n\
+  • The Last of Us on HBO: https://www.hbo.com/the-last-of-us\n• Adam Curtis documentaries on YouTube: https://www.youtube.com/playlist?list=PLStWlBRkr0N_aYjPmbrrjm_rsstpkUBLc\n\
+  • Notion: https://www.notion.so/\n\nIn this episode, we cover:\n(00:00) Josh’s background\n(04:37) Arc and the metrics they\
+  \ use to track growth\n(05:23) Arc’s retention numbers\n(09:03) Josh’s product-building philosophy and why he believes in\
+  \ optimizing for feelings\n(19:38) How The Browser Company’s values create a culture that allows them to ship so quickly\n\
+  (23:27) The “Notes on Roadtrips” doc about values\n(28:29) How Josh is able to hire such amazing talent\n(38:10) The good\
+  \ and bad of building in public\n(45:57) Some of the odd teams at The Browser Company and why Josh calls it a prototype-driven\
+  \ culture\n(46:42) The membership team \n(48:48) The storytelling team \n(52:41) Why The Browser Company doesn’t have traditional\
+  \ PMs\n(54:48) A case for adding PMs\n(58:13) The role of data, even in a company that optimizes for feelings\n(59:11) Airbnb’s\
+  \ Snow White project\n(1:02:55) How impactful moments in Josh’s life influenced values at The Browser Company\n(1:03:49)\
+  \ How the film General Magic has inspired Josh\n(1:05:13) The value of novel names\n(1:07:31) Why The Browser Company’s\
+  \ approach works for Arc\n(1:13:28) Why you need to nail latency and why Josh loves Tupl\n(1:15:14) The shift to cloud computing\
+  \ and the ultimate vision at The Browser Company\n(1:23:56) Lightning round\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 5318.0
 duration: '1:28:38'
 view_count: 14985

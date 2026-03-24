@@ -1,15 +1,47 @@
 ---
 guest: Christopher Miller
-title: Relentless curiosity, radical accountability, and HubSpot’s winning growth
-  formula | Chris Miller
+title: Relentless curiosity, radical accountability, and HubSpot’s winning growth formula | Chris Miller
 youtube_url: https://www.youtube.com/watch?v=SzKKJwuRFZI
 video_id: SzKKJwuRFZI
 publish_date: 2023-08-10
-description: 'Christopher Miller serves as the VP of Product for Growth and AI at
-  HubSpot. Having spent the past seven years at HubSpot, Chris has been at the center
-  of one of the biggest B2B growth stories...
-
-  '
+description: "Christopher Miller serves as the VP of Product for Growth and AI at HubSpot. Having spent the past seven years\
+  \ at HubSpot, Chris has been at the center of one of the biggest B2B growth stories in history—leading HubSpot’s early growth\
+  \ strategy, their shift to PLG, and now their investment in AI. Beyond his role at HubSpot, he lends his expertise to founders\
+  \ advising them on PLG and their growth strategy broadly. In today’s podcast, we discuss:\n• The principles of winning teams,\
+  \ careers, and companies\n• What customer obsession looks like in practice\n• How sneaking into a party led to a career\
+  \ opportunity\n• Advice for breaking into product management\n• How to find mentors\n• The top four skills for growth roles\n\
+  • Lessons from building HubSpot’s famous PLG motion\n\n—\n\nBrought to you by Vanta—Automate compliance. Simplify security:\
+  \ https://vanta.com/lenny | Sidebar—Catalyze your career with a Personal Board of Directors: https://www.sidebar.com/?utm_source=lennys&utm_medium=newsletter&utm_campaign=waitlist_launch\
+  \ | Merge—A single API to add hundreds of integrations into your app: http://merge.dev/lenny\n\nFind the full transcript\
+  \ at: https://www.lennyspodcast.com/relentless-curiosity-radical-accountability-and-hubspots-winning-growth-formula-christopher-mil/#transcript\n\
+  \nWhere to find Chris Miller:\n• LinkedIn: https://www.linkedin.com/in/christopherwilliammiller/\n• Instagram: https://www.instagram.com/millsyjoeyoung/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Chris’s background\n(04:15) Chris’s\
+  \ role at HubSpot leading Growth and AI teams\n(09:17) The story of how Chris crashed a party and pitched his idea around\
+  \ pricing and packaging\n(12:25) Relentless curiosity and other important traits to have as a PM\n(16:52) How Chris broke\
+  \ into product management and advice for others wanting to do the same\n(22:12) Helpful tips for learning the craft of product\
+  \ management\n(26:30) Why you should talk to customers, former customers, and potential customers\n(29:34) Mentors vs. sponsors,\
+  \ and advice for finding people who will help you grow\n(34:02) What makes HubSpot unique\n(36:07) Customer obsession in\
+  \ action  \n(40:23) How staying in the mid-market space has benefited HubSpot \n(42:10) HubSpot’s culture code\n(45:10)\
+  \ Fun rituals at HubSpot\n(47:36) Key elements that contributed to HubSpot’s early growth \n(55:00) Fallacies of product-led\
+  \ companies and how HubSpot embraced PLG\n(1:00:48) Advice for companies wanting to become more product-led\n(1:04:35) Common\
+  \ mistakes to avoid when trying to start a PLG motion\n(1:07:53) How HubSpot structures growth loops\n(1:10:50) The importance\
+  \ of aggressive experimentation within new channels\n(1:16:11) How Covid accelerated growth at HubSpot\n(1:17:59) Lightning\
+  \ round\n\nReferenced:\n• Kyle Poyar on LinkedIn: https://www.linkedin.com/in/kyle-poyar/\n• Mariah Muscato on LinkedIn:\
+  \ https://www.linkedin.com/in/mariahmuscato/\n• Ken Norton on Lenny’s Podcast: https://www.lennyspodcast.com/how-to-unlock-your-product-leadership-skills-ken-norton-ex-google/\n\
+  • Fareed Mosavat on Lenny’s Podcast: https://www.lennyspodcast.com/videos/how-to-build-trust-and-grow-as-a-product-leader-fareed-mosavat-reforge-slack-instacart-pixar/\n\
+  • Jules Walter on Lenny’s Podcast: https://www.lennyspodcast.com/leveraging-mentors-to-uplevel-your-career-jules-walter-youtube-slack/\n\
+  • The Culture Code at HubSpot: https://blog.hubspot.com/blog/tabid/6307/bid/34234/the-hubspot-culture-code-creating-a-company-we-love.aspx\n\
+  • Brian Balfour on LinkedIn: https://www.linkedin.com/in/bbalfour/\n• Dharmesh on Twitter: https://twitter.com/dharmesh\n\
+  • ChatSpot: https://chatspot.ai/\n• Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really\
+  \ Are: https://www.amazon.com/Everybody-Lies-Internet-About-Really/dp/0062390856\n• Chop Wood Carry Water: How to Fall in\
+  \ Love with the Process of Becoming Great: https://www.amazon.com/Chop-Wood-Carry-Water-Becoming/dp/153698440X\n• The Score\
+  \ Takes Care of Itself: My Philosophy of Leadership: https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472/\n\
+  • I’m a Virgo on Amazon Prime: https://www.amazon.com/Im-A-Virgo-Season-1/dp/B0B8PXXV2M\n• Barry on HBO: https://www.hbo.com/barry\n\
+  • Succession on HBO: https://www.hbo.com/succession\n• Building a great product management organization: https://stripe.com/it-es/guides/atlas/building-a-great-pm-org\n\
+  • Garmin watch: https://www.amazon.com/Garmin-010-02174-01-Vivoactive-Smartwatch-Refurbished/dp/B0BPCNKBW1\n• Fernet: https://en.wikipedia.org/wiki/Fernet\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5484.0
 duration: '1:31:24'
 view_count: 13807

@@ -1,15 +1,32 @@
 ---
 guest: Phyl Terry
-title: 'Land your dream job in today’s market: negotiation tactics, job search councils,
-  more | Phyl Terry'
+title: 'Land your dream job in today’s market: negotiation tactics, job search councils, more | Phyl Terry'
 youtube_url: https://www.youtube.com/watch?v=OH3nzRdwYPA
 video_id: OH3nzRdwYPA
 publish_date: 2024-09-12
-description: 'Phyl Terry is the author of Never Search Alone, which I’ve seen so many
-  people reference as the most impactful guide they read for finding a job. Phyl was
-  on the founding team of the first...
-
-  '
+description: "Phyl Terry is the author of Never Search Alone, which I’ve seen so many people reference as the most impactful\
+  \ guide they read for finding a job. Phyl was on the founding team of the first company Amazon acquired back in the ’90s\
+  \ and then was CEO of pioneering product consulting firm Creative Good, with companies like Apple, Facebook, and Microsoft\
+  \ as customers. Today, Phyl is the founder and CEO of Collaborative Gain, which 20 years ago pioneered bringing councils\
+  \ to senior product leaders and GMs in Silicon Valley. That’s their day job—in addition to that, Phyl runs a free global\
+  \ community for job seekers based on their latest book. In our conversation, we discuss:\n• Why you should never search\
+  \ for a job alone\n• How job search councils work\n• How to determine your “candidate-market fit”\n• How to conduct a listening\
+  \ tour\n• Creating your job mission and OKRs\n• How to negotiate job offers\n• The art of asking for help\n• Tactics for\
+  \ effective networking and interviewing\n• Much more\n\n—\n\nBrought to you by:\n• Sidebar—Accelerate your career by surrounding\
+  \ yourself with extraordinary peers: https://www.sidebar.com/lenny?utm_source=lennys&utm_medium=newsletter&utm_campaign=waitlist&utm_content=1\n\
+  • Sprig—Build products for people, not data points: https://sprig.com/getstarted?utm_source=lenny&utm_medium=podcast\n•\
+  \ Dovetail—The customer insights hub for product teams: https://dvtl.link/3Za7aa0\n\nFind the transcript and show notes\
+  \ at: https://www.lennysnewsletter.com/p/land-your-dream-job-phyl-terry\n\nWhere to find Phyl Terry:\n• X: https://x.com/phylterry\n\
+  • LinkedIn: https://www.linkedin.com/in/phylterry/\n• Website: https://www.phyl.org/\n\nWhere to find Lenny:\n• Newsletter:\
+  \ https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Phyl’s background\n(01:58) The concept of job search councils\n(04:27) The power of\
+  \ community in job searching\n(08:55) The scale and structure of job search councils\n(12:27) The impact of job search councils\n\
+  (20:19) The concept of candidate-market fit\n(22:50) Writing a Mnookin two-pager\n(24:37) Conducting listening tours\n(30:12)\
+  \ Creating a focused candidate-market fit\n(36:20) Advice on finding the right stage of company for you \n(40:37) Identifying\
+  \ your unique path\n(45:30) Navigating tough job markets\n(49:07) Playing to win\n(53:36) Negotiation tactics for job offers\n\
+  (01:05:12) The gratitude house exercise \n(01:10:48) The power of asking for help\n(01:19:18) How to ask for help\n(01:28:40)\
+  \ Final thoughts and advice\n(01:38:21) Lightning round \n\nProduction and marketing by https://penname.co/. For inquiries\
+  \ about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 6690.0
 duration: '1:51:30'
 view_count: 45797

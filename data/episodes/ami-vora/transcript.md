@@ -1,15 +1,34 @@
 ---
 guest: Ami Vora
-title: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire,
-  ex-WhatsApp, FB, IG)
+title: Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)
 youtube_url: https://www.youtube.com/watch?v=6UHAop9fhNU
 video_id: 6UHAop9fhNU
 publish_date: 2024-06-23
-description: 'Ami Vora is the Chief Product Officer of Faire, which connects independent
-  retailers and brands around the world. Before Faire, Ami spent over 15 years at
-  Meta, including as VP of Product and...
-
-  '
+description: "Ami Vora is the Chief Product Officer of Faire, which connects independent retailers and brands around the world.\
+  \ Before Faire, Ami spent over 15 years at Meta, including as VP of Product and Design for WhatsApp (2B+ users), VP of Product\
+  \ for Facebook’s ads system (now $130B of annual revenue), and director at Instagram. She began her career working on developer\
+  \ tools at Microsoft. In our conversation, we discuss:\n• Why execution eats strategy for breakfast\n• Using metaphor to\
+  \ rally teams around one shared goal\n• How to build cross-functional relationships\n• “Dinosaur brain,” “Toddler soccer,”\
+  \ and the “hill climbing” metaphors\n• A tactic for handling disagreement\n• Tips for working well with product-minded founders\
+  \ as a product leader\n• The story of Ami’s incredible 15-year journey from temp to VP at Meta\n• Much more\n\n—\n\nBrought\
+  \ to you by:\n• Sidebar—Accelerate your career by surrounding yourself with extraordinary peers https://www.sidebar.com/lenny\n\
+  • Anvil—The fastest way to build software for documents: https://www.useanvil.com/lenny\n• User Testing—Human understanding.\
+  \ Human experiences: https://www.usertesting.com/lenny \n\nFind the transcript and references at: https://www.lennysnewsletter.com/p/authenticity-and-curiosity-ami-vora\n\
+  \nWhere to find Ami Vora:\n• LinkedIn: https://www.linkedin.com/in/amvora/\n• Substack: https://amivora.substack.com/\n\n\
+  Where to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Ami’s background\n(02:00) The myth of perfection in success\n(07:55) Emotionally connecting\
+  \ with the job \n(09:55) Embracing curiosity in moments of challenge \n(13:16) Thinking in feedback loops\n(17:17) The “dinosaur\
+  \ brain” metaphor in product reviews\n(20:20) Strategies for conducting effective product reviews\n(26:33) Using metaphors\
+  \ and imagery to communicate your vision\n(29:35) The power of having a shared narrative\n(31:55) WhatsApp: an example of\
+  \ metaphor in action\n(34:44) Emulating people that inspire you\n(36:19) WhatsApp video calling\n(37:35) Why execution is\
+  \ greater than strategy\n(41:36) Time allotment for strategy vs. execution \n(45:10) How to become a better strategic thinker\
+  \ \n(47:59) The intricacies of implementing feedback\n(51:53) Being a female leader in tech\n(55:13) Advice for young women\
+  \ in tech\n(56:07) Setting goals and aligning incentives\n(01:01:40) Acknowledging hard truths\n(01:05:46) Lessons from\
+  \ transitioning to Faire\n(01:08:40) The importance of a good CPO/CEO relationship\n(01:11:17) Vetting heads of product\
+  \ and maintaining customer focus\n(01:12:40) How Ami went from intern to leading major products at Meta\n(01:14:53) The\
+  \ one thing you should do to be successful in product\n(01:17:25) Lightning round \n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 5039.0
 duration: '1:23:59'
 view_count: 40831

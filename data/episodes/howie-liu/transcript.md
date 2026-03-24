@@ -1,15 +1,47 @@
 ---
 guest: Howie Liu
-title: How we restructured Airtable's entire org for AI | Howie Liu (co-founder and
-  CEO)
+title: How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)
 youtube_url: https://www.youtube.com/watch?v=GT0jtVjRy2E
 video_id: GT0jtVjRy2E
 publish_date: 2025-08-31
-description: 'Howie Liu is the co-founder and CEO of Airtable, the no-code platform
-  valued at around $12 billion. After a viral tweet declared “Airtable is dead” based
-  on incorrect data, Howie led a...
-
-  '
+description: "Howie Liu is the co-founder and CEO of Airtable, the no-code platform valued at around $12 billion. After a\
+  \ viral tweet declared “Airtable is dead” based on incorrect data, Howie led a radical transformation: reorganizing the\
+  \ entire company around AI, becoming an “IC CEO” who codes daily, and achieving over $100 million in free cash flow.\n\n\
+  *What you’ll learn:*\n1. The “fast thinking” vs. “slow thinking” team structure that lets Airtable ship AI features weekly\
+  \ (inspired by Daniel Kahneman)\n2. Why Howie uses AI hourly (not daily) and is Airtable’s #1 inference-cost user globally\n\
+  3. Why CEOs must become ICs again in the AI era (and how to restructure your calendar to make it possible)\n4. Why “playing”\
+  \ with AI tools should be mandatory—Howie tells employees to cancel all meetings for a week to experiment\n5. The specific\
+  \ skills product managers, engineers, and designers need to develop to succeed in the AI era\n6. Why evals can kill innovation\
+  \ (and when to use “vibes” instead)\n\n*Brought to you by:*\nLucidLink—Real-time cloud storage for teams: https://www.lucidlink.com/lenny\n\
+  DX—The developer intelligence platform designed by leading researchers: http://getdx.com/lenny\nClaude.ai—The AI for problem\
+  \ solvers and enterprise: http://claude.ai/\n\n*Transcript:* ⁠⁠⁠https://www.lennysnewsletter.com/p/how-we-restructured-airtables-entire-org-for-ai\n\
+  \n*My biggest takeaways (for paid newsletter subscribers):* ⁠https://www.lennysnewsletter.com/i/171904193/my-biggest-takeaways-from-this-conversation\n\
+  \n*Where to find Howie Liu*\n• X: https://x.com/howietl\n• LinkedIn: https://www.linkedin.com/in/howieliu/\n• Email: howie@airtable.com\n\
+  \n*Where to find Lenny:*\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\n*In this episode, we cover:*\n(00:00) Introduction to Howie Liu and Airtable\n\
+  (04:05) The “Airtable is dead” viral tweet controversy\n(08:07) The rise of IC CEOs\n(10:57) AI’s paradigm shift in product\
+  \ development\n(16:27) Specific changes Airtable has made\n(21:38) Fast- and slow-thinking teams\n(32:57) The emergence\
+  \ of new form factors in AI models\n(34:48) Airtable’s vision and philosophy \n(40:20) Empowering teams with AI tools\n\
+  (46:50) Encouraging experimentation and play\n(50:55) Cross-functional skills in product teams\n(01:03:35) The importance\
+  \ of evals and open-ended testing\n(01:08:06) Key strategies for AI-driven success\n(01:12:43) Counterintuitive startup\
+  \ wisdom\n(01:22:21) Don't step away from the details that you love\n(01:25:50) Advice for aspiring engineers and designers\n\
+  (01:30:00) Lightning round and final thoughts\n\n*Referenced:*\n• Airtable: https://www.airtable.com/\n• All In podcast:\
+  \ https://allin.com/\n• Nikita Bier on X: https://x.com/nikitabier\n• Figma: https://www.figma.com/\n• The AI-native startup:\
+  \ 5 products, 7-figure revenue, 100% AI-written code | Dan Shipper (co-founder and CEO of Every): https://www.lennysnewsletter.com/p/inside-every-dan-shipper\n\
+  • Every: https://every.to/\n• Cursor: https://cursor.com/\n• The rise of Cursor: The $300M ARR AI tool that engineers can’t\
+  \ stop using | Michael Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell\n\
+  • Windsurf: https://windsurf.com/\n• Building a magical AI code editor used by over 1 million developers in four months:\
+  \ The untold story of Windsurf | Varun Mohan (co-founder and CEO): https://www.lennysnewsletter.com/p/the-untold-story-of-windsurf-varun-mohan\n\
+  • Rippling: https://www.rippling.com/\n• Omni: https://www.airtable.com/lp/ai-psu-plp\n• How ChatGPT accidentally became\
+  \ the fastest-growing product in history | Nick Turley (Head of ChatGPT at OpenAI): https://www.lennysnewsletter.com/p/inside-chatgpt-nick-turley\n\
+  • Palantir: https://www.palantir.com/\n• Harvey: https://www.harvey.ai/\n• v0: https://v0.dev/\n• Everyone’s an engineer\
+  \ now: Inside v0’s mission to create a hundred million builders | Guillermo Rauch (founder and CEO of Vercel, creators of\
+  \ v0 and Next.js): https://www.lennysnewsletter.com/p/everyones-an-engineer-now-guillermo-rauch\n• Replit: https://replit.com/\n\
+  • Behind the product: Replit | Amjad Masad (co-founder and CEO): https://www.lennysnewsletter.com/p/behind-the-product-replit-amjad-masad\n\
+  • Lovable: https://lovable.dev/\n• Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder):\
+  \ https://www.lennysnewsletter.com/p/building-lovable-anton-osika\n...References continued at: https://www.lennysnewsletter.com/p/how-we-restructured-airtables-entire-org-for-ai\n\
+  \n_Production and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 6042.0
 duration: '1:40:42'
 view_count: 28715

@@ -1,15 +1,13 @@
 ---
 guest: Brandon Chu
-title: 'AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff'
-youtube_url: https://www.youtube.com/watch?v=eKuFqQKYRrA
-video_id: eKuFqQKYRrA
-publish_date: 2025-06-19
-description: Sander Schulhoff is the OG prompt engineer. He created the very first
-  prompt engineering guide on the internet (two months before ChatGPT’s release) and
-  recently wrote the most comprehensive...
-duration_seconds: 5867.0
-duration: '1:37:47'
-view_count: 78637
+title: ''
+youtube_url: ''
+video_id: ''
+publish_date: ''
+description: ''
+duration_seconds: 0
+duration: ''
+view_count: 0
 channel: Lenny's Podcast
 keywords:
 - growth

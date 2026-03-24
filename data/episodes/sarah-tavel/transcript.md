@@ -4,11 +4,34 @@ title: The hierarchy of engagement | Sarah Tavel (Benchmark, Greylock, Pinterest
 youtube_url: https://www.youtube.com/watch?v=H9g4pzcz6Tk
 video_id: H9g4pzcz6Tk
 publish_date: 2023-12-27
-description: 'Sarah Tavel is a General Partner at Benchmark and sits on the boards
-  of Chainalysis, Hipcamp, Rekki, Cambly, and Medely. She is a founding member of
-  All Raise, the nonprofit organization working...
-
-  '
+description: "Sarah Tavel is a General Partner at Benchmark and sits on the boards of Chainalysis, Hipcamp, Rekki, Cambly,\
+  \ and Medely. She is a founding member of All Raise, the nonprofit organization working to accelerate the success of women\
+  \ in the venture-capital and VC-backed startup ecosystem. Before Benchmark, Sarah was a partner at Greylock Partners. She\
+  \ joined Pinterest in 2012 as their first PM and launched their first search and recommendations features. She also led\
+  \ three acquisitions as she helped the company scale through a period of hypergrowth. In this episode, we discuss:\n• Sarah’s\
+  \ Hierarchy of Engagement framework for growing a consumer startup\n     • The three levels of the Hierarchy of Engagement:\
+  \ core action, retention, and self-perpetuation\n     • The importance of measuring cohorts and maintaining focus on the\
+  \ core action\n     • Examples of core user actions from Pinterest and YouTube\n• Sarah’s Hierarchy of Marketplaces framework\
+  \ for building a marketplace startup\n     • The three vectors of growth for dominating a marketplace\n     • Advice on\
+  \ “tipping the marketplace” and ultimately dominating the market\n     • The value of focusing on a constrained market\n\
+  \     • How to avoid disruption\n\n—\n\nThis entire episode is brought to you by Gelt—Redefine your approach to taxes: https://www.joingelt.com/lenny\n\
+  \nFind the transcript and references at: https://www.lennyspodcast.com/the-hierarchy-of-engagement-sarah-tavel-benchmark-greylock-pinterest/\n\
+  \nWhere to find Sarah Tavel:\n• X: https://twitter.com/sarahtavel\n• LinkedIn: https://www.linkedin.com/in/sarahtavel/\n\
+  • Substack: https://www.sarahtavel.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Sarah’s background \n(03:33)\
+  \ Framework 1: The Hierarchy of Engagement \n(06:03) Level 1: Core action \n(10:33) Level 2: Retention \n(14:00) Level 3:\
+  \ Self-perpetuation \n(19:32) The importance of focus \n(23:54) The challenge of anonymity \n(26:04) Advice for founders\
+  \ who want to increase retention \n(29:34) What founders often get wrong \n(31:43) Examples of core actions \n(37:37) Finding\
+  \ your North Star Metric \n(38:12) Who should use the Hierarchy of Engagement framework \n(38:54) The Hierarchy of Marketplaces\
+  \ framework \n(46:09) Level 1: Focus on a constrained opportunity \n(50:19) Sarah’s “happy GMV” and “minimum viable happiness”\
+  \ concepts \n(54:47) Thumbtack: a counterexample to this approach \n(56:36) Signs you’re ready to move to level 2 \n(58:06)\
+  \ Level 2: Tipping the marketplace \n(01:04:15) Tipping loops \n(01:10:53) Not all markets are susceptible to tipping \n\
+  (01:15:55) The challenge of homogeneity in B2B marketplaces \n(01:20:29) Signs you’re tipping successfully \n(01:21:43)\
+  \ Level 3: Dominating the market \n(01:28:29) The opportunity in underestimated markets \n(01:30:11) The challenges of chasing\
+  \ GMV and losing focus \n(01:36:36) Recognizing currents and momentum in the market \n(01:39:20) You can never rest on your\
+  \ laurels \n(01:41:03) How to apply these frameworks outside of marketplaces \n(01:42:57) Three ways to find marketplace\
+  \ opportunity \n(01:45:10 ) Lightning round\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring\
+  \ the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 6655.0
 duration: '1:50:55'
 view_count: 17482

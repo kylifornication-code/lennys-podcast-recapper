@@ -4,11 +4,37 @@ title: Lessons from Atlassian | Megan Cook (Head of Product, Jira)
 youtube_url: https://www.youtube.com/watch?v=MQQ1wohqArk
 video_id: MQQ1wohqArk
 publish_date: 2024-02-04
-description: 'Megan Cook is the head of product for Atlassian’s Jira software, which
-  is used by 75% of Fortune 500 companies, has over 125,000 customers globally, over
-  15 different products, and is by...
-
-  '
+description: "Megan Cook is the head of product for Atlassian’s Jira software, which is used by 75% of Fortune 500 companies,\
+  \ has over 125,000 customers globally, over 15 different products, and is by far the most popular project management tool\
+  \ in the world. Megan has been at Atlassian for just under 11 years, and before this role, she was an analyst, a developer,\
+  \ and an Agile coach. In our conversation, we discuss:\n• How to get buy-in for your ideas\n• The value of starting small\n\
+  • How, and why, creating space for play is so essential\n• How Jira stays ahead of endless competition\n• Atlassian’s approach\
+  \ to launching new product lines\n• Tactical tips for making remote work, work\n• A personal failure and the lessons learned\
+  \ from it\n\n—\n\nBrought to you by:\n• Teal—Your personal career growth platform: https://tealhq.com/lenny\n• Sprig—Build\
+  \ a product people love: Sprig — Build a product people love: https://sprig.com/getstarted?utm_source=lenny&utm_medium=podcast\n\
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/lessons-from-atlassian-launching\n\
+  \nWhere to find Megan Cook:\n• X: https://twitter.com/meganwcook\n• LinkedIn: https://www.linkedin.com/in/cookmegan\n\n\
+  Where to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Megan’s background\n(03:50) Creating space for play and psychological safety on teams\n\
+  (07:36) Peer feedback groups\n(10:30) Sharing stories of failure\n(13:33) The “10 dollar” game for priorities   \n(15:24)\
+  \ Advice on making remote work, work\n(24:16) Getting buy-in for your ideas\n(28:33) The importance of staying open-minded\
+  \ \n(34:05) A quick summary of how to get buy-in\n(36:45) Fighting the good fight\n(38:19) Identifying customer pain points\n\
+  (43:08) Starting small and showing success\n(46:08) Launching new product lines\n(53:35) Atlassian’s gated process for new\
+  \ product ideas\n(58:29) How Jira stays ahead of competitors\n(01:04:56) Learning from failure\n(01:09:00) Fight club\n\
+  (01:10:37) Lightning round \n\nReferenced:\n• Jira: https://www.atlassian.com/software/jira\n• Atlassian: https://www.atlassian.com/\n\
+  • Bitbucket: https://bitbucket.org/product\n• Ben Crowe on LinkedIn: https://www.linkedin.com/in/ben-crowe-67299714/\n•\
+  \ Ash Barty on X: https://twitter.com/ashbarty\n• Atlassian’s blog, Work Life: https://www.atlassian.com/blog\n• Atlas:\
+  \ https://www.atlassian.com/software/atlas\n• Confluence: https://www.atlassian.com/software/confluence\n• Lenny’s swag\
+  \ store: https://lennyswag.com/\n• What is CSAT and how do you measure it?: https://www.qualtrics.com/experience-management/customer/what-is-csat\n\
+  • The UX research reckoning is here | Judd Antin (Airbnb, Meta): https://www.lennyspodcast.com/the-ux-research-reckoning-is-here-judd-antin-airbnb-meta/\n\
+  • Charlie Sutton on LinkedIn: https://www.linkedin.com/in/charliesutton/\n• Nokia 6100: https://en.wikipedia.org/wiki/Nokia_6100\n\
+  • Compass: https://www.atlassian.com/software/compass\n• Jira Product Discovery: https://www.atlassian.com/software/jira/product-discovery\n\
+  • Canva: https://www.canva.com/\n• Inspired: How to Create Tech Products Customers Love: https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507\n\
+  • Scaling People: Tactics for Management and Company Building: https://www.amazon.com/Scaling-People-Tactics-Management-Building/dp/1953953212\n\
+  • Foundation on AppleTV+: https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3\n• Foundation book series:\
+  \ https://www.amazon.com/Foundation-3-Book-Boxed-Set-Empire/dp/0593499573\n• Traeger smoker: https://www.traeger.com/shop/wood-pellet-grills\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4868.0
 duration: '1:21:08'
 view_count: 14795

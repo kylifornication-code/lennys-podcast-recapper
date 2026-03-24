@@ -31,13 +31,18 @@ for txt_file in "$RAW_DIR"/*.txt; do
 
     basename_no_ext=$(basename "$txt_file" .txt)
 
-    # Generate slug: lowercase, spaces/+ to hyphens, strip special chars except hyphens and underscores
-    slug=$(echo "$basename_no_ext" \
-        | tr '[:upper:]' '[:lower:]' \
-        | tr ' +' '-' \
-        | tr -d '.' \
-        | tr -cd 'a-z0-9_-' \
-        | sed 's/--*/-/g')
+    # Generate slug: transliterate Unicode, lowercase, normalize punctuation
+    slug=$(python3 -c "
+import unicodedata, re, sys
+s = sys.argv[1]
+s = unicodedata.normalize('NFD', s)
+s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
+s = s.lower().replace(' ', '-').replace('+', '-').replace('.', '')
+s = ''.join(c for c in s if c.isalnum() or c in '-_')
+s = s.strip('_-')
+s = re.sub(r'-+', '-', s)
+print(s)
+" "$basename_no_ext")
 
     episode_dir="$EPISODES_DIR/$slug"
 
@@ -46,14 +51,14 @@ for txt_file in "$RAW_DIR"/*.txt; do
         continue
     fi
 
-    # Duplicate detection: check if any existing episode already has identical
-    # first transcript line (catches same episode under a different slug)
-    first_line=$(head -1 "$txt_file")
+    # Duplicate detection: compare first 3 non-empty transcript lines against
+    # existing episodes (catches same episode ingested under a different slug)
+    fingerprint=$(head -5 "$txt_file" | grep -v '^$' | head -3 | tr -s '[:space:]')
     is_dup=false
     for existing in "$EPISODES_DIR"/*/transcript.md; do
         [[ -f "$existing" ]] || continue
-        existing_first=$(sed '1,/^---$/d; /^---$/,$ { /^---$/d; /^$/d; p; }' "$existing" | head -1)
-        if [[ -n "$first_line" && "$first_line" == "$existing_first" ]]; then
+        existing_fp=$(sed '1,/^---$/d' "$existing" | sed '/^---$/,/^---$/d' | grep -v '^$' | head -3 | tr -s '[:space:]')
+        if [[ -n "$fingerprint" && "$fingerprint" == "$existing_fp" ]]; then
             echo "Skipping duplicate: $slug (matches $(dirname "$existing" | xargs basename))"
             is_dup=true
             break

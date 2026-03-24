@@ -4,11 +4,121 @@ title: Building a meaningful career | Jason Shah (Airbnb, Amazon, Microsoft, Alc
 youtube_url: https://www.youtube.com/watch?v=nMsA5VeLoOM
 video_id: nMsA5VeLoOM
 publish_date: 2022-09-18
-description: 'Jason Shah has led product teams at Amazon, Airbnb, Microsoft, and Yammer
-  and currently leads the product team at Alchemy (one of the most important web3
-  infrastructure companies). In addition,...
+description: 'Jason Shah has led product teams at Amazon, Airbnb, Microsoft, and Yammer and currently leads the product team
+  at Alchemy (one of the most important web3 infrastructure companies). In addition, he’s an advisor, investor, and two-time
+  founder. In today’s episode, Jason discusses what it’s like to be a PM in web3, why his role at Amazon made such a big impact
+  on his life and career, what makes a great leader, and how to hire well. He also shares his unique perspective on building
+  a meaningful career and life.
 
-  '
+
+  Find the full transcript here: https://www.lennysnewsletter.com/p/building-a-meaningful-career-jason
+
+
+  —
+
+
+  Where to find Jason Shah:
+
+
+  • Twitter: https://twitter.com/jasonyogeshshah
+
+  • LinkedIn: https://www.linkedin.com/in/jasonyogeshshah/
+
+  • Website: https://www.jasonshah.me/
+
+
+  —
+
+
+  Where to find Lenny:
+
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  —
+
+
+  Thank you to our wonderful sponsors for making this episode possible:
+
+
+  • Whimsical: https://whimsical.com/lenny
+
+  • Coda: http://coda.io/lenny
+
+  • Amplitude: https://amplitude.com/
+
+
+  —
+
+
+  Referenced:
+
+
+  • Creative Selection: Inside Apple’s Design Process During the Golden Age of Steve Jobs: https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250194466
+
+  • Casey Winters on Lenny’s Podcast: https://www.lennysnewsletter.com/p/how-to-sell-your-ideas-and-rise-within#details
+
+  • Jason Shah in Lenny’s newsletter: https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3
+
+  • The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers: https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205
+
+  • Polygon: https://polygon.technology/
+
+  • Solana: https://solana.com/
+
+  • MoonPay: https://www.moonpay.com/
+
+  • The Vietnam War series by Ken Burns: https://www.pbs.org/show/vietnam-war/
+
+  • Alchemy: https://www.alchemy.com/
+
+
+  —
+
+
+  In this episode, we cover:
+
+
+  (00:00) Jason’s background
+
+  (08:19) The current state of web3
+
+  (12:44) The evolution of product management in web3
+
+  (15:27) The value of a great product manager
+
+  (18:11) Why Amazon was a great learning experience 
+
+  (20:25) A look into Amazon’s process on working backward
+
+  (23:55) How to communicate clearly
+
+  (28:17) Working backward from excitement
+
+  (32:46) What makes a great leader
+
+  (38:26) How to influence a CEO or founder’s direction 
+
+  (46:19) The career ladder vs. career map framework
+
+  (52:27) When to follow a new opportunity vs. when to stick it out
+
+  (58:50) How to hire the right people
+
+  (1:03:47) What skill is most important for product managers
+
+  (1:06:49) Lightning round!
+
+
+  —
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 4214.0
 duration: '1:10:14'
 view_count: 5855

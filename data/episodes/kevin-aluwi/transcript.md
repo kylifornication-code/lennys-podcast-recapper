@@ -1,15 +1,99 @@
 ---
 guest: Kevin Aluwi
-title: 'Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup
-  | Kevin Aluwi (Gojek)'
+title: 'Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup | Kevin Aluwi (Gojek)'
 youtube_url: https://www.youtube.com/watch?v=HVB-dqjUJks
 video_id: HVB-dqjUJks
 publish_date: 2023-03-26
-description: 'Kevin Aluwi is the co-founder and former CEO of Gojek. With over 2.7
-  million drivers and over 3 billion orders completed, Gojek is the biggest startup
-  in Indonesia and all of Southeast Asia....
+description: 'Kevin Aluwi is the co-founder and former CEO of Gojek. With over 2.7 million drivers and over 3 billion orders
+  completed, Gojek is the biggest startup in Indonesia and all of Southeast Asia. In today’s podcast, Kevin shares the story
+  of how Gojek overcame endless obstacles—including being underfunded, being unable to send drivers payment, and the local
+  motorcycle mafia coming after their drivers. We cover the importance of brand, the value of doing the hard things, how to
+  be super-scrappy, and helpful tips on building a tech company outside of Silicon Valley.
 
-  '
+
+  —
+
+
+  Brought to you by Coda—Meet the evolution of docs | Rows—The spreadsheet where data comes to life | Lenny’s Job Board—Hire
+  the best product people. Find the best product gigs.
+
+
+  Find the full transcript here: https://www.lennysnewsletter.com/p/taxi-mafias-cash-vaults-and-100-mom
+
+
+  Where to find Kevin Aluwi:
+
+  • Twitter: https://twitter.com/kaluwi
+
+  • LinkedIn: https://www.linkedin.com/in/kaluwi/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  Referenced:
+
+  • Gojek: https://www.gojek.com/en-id/
+
+  • WeChat: https://www.wechat.com/
+
+  • Sequoia: https://www.sequoiacap.com/
+
+  • eFishery: https://efishery.com/en/
+
+  • What You Do Is Who You Are: How to Create Your Business Culture: https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331
+
+  • How Brands Grow: What Marketers Don’t Know: https://www.amazon.com/How-Brands-Grow-What-Marketers/dp/0195573560/
+
+  • The Menu on HBO: https://www.hbo.com/movies/the-menu
+
+  • Cyberpunk Edgerunners on Netflix: https://www.netflix.com/title/81054853
+
+  • Arc: https://arc.net/
+
+  • Steam Deck: https://store.steampowered.com/steamdeck
+
+
+  In this episode, we cover:
+
+  (00:00) Kevin’s background
+
+  (05:00) How Gojek got started and the current scale
+
+  (08:35) Some of the services that Gojek currently offers or has offered
+
+  (09:37) Kevin’s thoughts on super-apps
+
+  (15:36) The importance of brand
+
+  (23:08) How to create branding with consistency across copy and design
+
+  (26:53) Challenges Gojek had in the early days that required scrappiness
+
+  (33:03) Why Kevin doesn’t believe in moats as a durable solution, and the value of doing hard things
+
+  (37:30) How Gojek hired private security to keep their drivers safe
+
+  (39:38) The value of founders doing and understanding multiple roles within the company
+
+  (44:12) How Kevin’s failed finance career led him to take a bet on building tech in Indonesia
+
+  (47:30) Tips on building a tech company outside of Silicon Valley 
+
+  (52:09) What the market is like in Indonesia 
+
+  (55:42) What’s next for Kevin
+
+  (57:41) Lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 3771.0
 duration: '1:02:51'
 view_count: 9224
