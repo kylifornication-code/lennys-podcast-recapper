@@ -1,13 +1,13 @@
 ---
 guest: Matt Mullenweg
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: Matt Mullenweg is the CEO of Automattic and Co-founder of WordPress
+youtube_url: https://www.youtube.com/watch?v=Wo7jHK3qAOw
+video_id: Wo7jHK3qAOw
+publish_date: '2025-04-15'
+description: '#founder #ceo #startup #wordpress'
+duration_seconds: 87.0
+duration: '1:27'
+view_count: 1446
 channel: Lenny's Podcast
 keywords:
 - growth

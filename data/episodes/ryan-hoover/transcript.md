@@ -1,13 +1,29 @@
 ---
 guest: Ryan Hoover
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: How to launch and grow your product | Ryan Hoover of Product Hunt and Weekend Fund
+youtube_url: https://www.youtube.com/watch?v=HzDLWKI6mnI
+video_id: HzDLWKI6mnI
+publish_date: '2022-08-07'
+description: "Thousands of new products launch each year, but very few last. Ryan Hoover has seen thousands of products launched\
+  \ over the course of his time running Product Hunt and through his investing, and in this episode you’ll hear what Ryan\
+  \ has learned about launching products, growing products, and raising capital. Plus, we play a made-up game called “What\
+  \ would you rather upvote?” Join us!\n\nFind the full transcript here: https://www.lennyspodcast.com/how-to-launch-and-grow-your-product-ryan-hoover-of-product-hunt-and-weekend-fund/#transcript\n\
+  \n—\n\n Thank you to our wonderful sponsors for making this episode possible: \n\n• RevenueCat: https://www.revenuecat.com/\n\
+  • Flatfile: https://www.flatfile.com/lenny\n• Lenny’s Giveaway Bonanza: https://lennyspodcast.com/bonanza\n\n— \n\nWhere\
+  \ to find Ryan Hoover: \n\n• Twitter: https://twitter.com/rrhoover\n• LinkedIn: https://www.linkedin.com/in/ryanrhoover/\n\
+  • Website: https://www.ryanhoover.me/\n— \n\nWhere to find Lenny: \n\n• Newsletter: https://www.lennysnewsletter.com\n•\
+  \ Twitter: https://twitter.com/lennysan \n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/ \n— \n\nIn this episode,\
+  \ we cover:\n\n[00:00] Teaser\n[03:23] On being a tech celebrity \n[09:02] Using Twitter DM's as a content machine\n[11:15]\
+  \ The questions most founders ask \n[14:48] When should you start a company?\n[18:28] Would Ryan raise money for Product\
+  \ Hunt if he could do it again?\n[21:48] When should companies launch products?\n[24:52] What makes a launch successful\
+  \ versus not?\n[26:27] How to get to the top of Product Hunt\n[30:01] What skill is most helpful for moving into investing\
+  \ and venture capital?\n[31:39] What Ryan would do differently if he could re-build Product Hunt\n[38:57] What matters most\
+  \ in life\n[43:13] Which ideas Ryan would upvote\n[48:05] What founders of consumer companies do to succeed\n[55:33] Deciding\
+  \ to serve a niche or broad market\n[58:03] The surprising parts of angel investing\n[1:02:12] Advice for folks wanting\
+  \ to get into angel investing"
+duration_seconds: 4178.0
+duration: '1:09:38'
+view_count: 6391
 channel: Lenny's Podcast
 keywords:
 - growth

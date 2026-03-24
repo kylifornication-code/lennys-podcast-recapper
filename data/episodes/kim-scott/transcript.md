@@ -1,13 +1,51 @@
 ---
 guest: Kim Scott
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: 'Radical Candor: From theory to practice with author Kim Scott'
+youtube_url: https://www.youtube.com/watch?v=V7tnbx-6Ayc
+video_id: V7tnbx-6Ayc
+publish_date: '2023-12-10'
+description: "Kim Scott is the author of Radical Candor, currently the #1 most recommended book on this podcast. The book\
+  \ has sold over 1 million copies and has been translated into 23 languages. Before writing, Kim was a CEO coach at Dropbox,\
+  \ Qualtrics, Twitter, and other tech companies. She was also a member of the faculty at Apple University and before that\
+  \ led AdSense, YouTube, and DoubleClick teams at Google. This spring she’ll be launching Radical Respect, which she considers\
+  \ to be a prequel to Radical Candor. In today’s conversation, we go deep on Kim’s popular framework, including: \n• What\
+  \ separates radical candor and obnoxious aggression \n• Tactical advice on delivering constructive feedback \n• How well-meaning\
+  \ empathy can become ruinous \n• Strategies for effectively soliciting and responding to feedback \n• The importance of\
+  \ having regular career conversations \n• The false dichotomy of a good leader versus a kind person \n• A sneak peek into\
+  \ Radical Respect\n\n—\n\nBrought to you by Jira Product Discovery—Atlassian’s new prioritization and roadmapping tool built\
+  \ for product teams: https://atlassian.com/lenny/?utm_source=lennypodcast&utm_medium=paid-audio&utm_campaign=fy24q1-jpd-imc\n\
+  \nFind the transcript and references at: https://www.lennysnewsletter.com/p/radical-candor-from-theory-to-practice\n\nWhere\
+  \ to find Kim Scott:\n• X: https://twitter.com/kimballscott\n• LinkedIn: https://www.linkedin.com/in/kimm4/\n• Website:\
+  \ https://www.radicalcandor.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Kim’s background\n(03:13)\
+  \ A brief overview of Radical Candor\n(06:46) How people fail with ruinous empathy, manipulative insincerity, and obnoxious\
+  \ aggression\n(08:37) The impact of radical candor on Kim’s life\n(14:16) How to communicate feedback effectively \n(20:34)\
+  \ A story illustrating the problem with ruinous empathy and manipulative insincerity\n(27:50) How to get over the need to\
+  \ be liked\n(31:31) How to have career conversations with your direct reports\n(29:40) Reflections on how Kim handled an\
+  \ underperforming employee \n(33:31) Best practices for soliciting feedback as a leader\n(35:53) How to respond to feedback\n\
+  (39:22) How often to ask for feedback\n(41:48) Whether or not to accept “no feedback” as an answer\n(50:48) Investing time\
+  \ in feedback\n(54:04) How to ask for feedback as an employee\n(57:42) Why obnoxious aggression is not the best way to deliver\
+  \ feedback\n(1:01:23) A notable example of problematic management \n(1:03:43) Why context matters when diagnosing obnoxious\
+  \ aggression \n(1:07:39) Empathy is a good thing, but empathy can paralyze \n(1:10:47) Reflections on the limitations of\
+  \ radical candor in a society riddled with biases \n(1:14:41) Kim’s new book, Radical Respect\n(1:15:51) Tactical advice\
+  \ to get better at radical candor\n(1:16:46) Lightning round\n\nReferenced:\n• Radical Candor: Be a Kick-Ass Boss Without\
+  \ Losing Your Humanity: https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509\n• Radical Respect:\
+  \ How to Work Together Better: https://www.amazon.com/Radical-Respect-Work-Together-Better/dp/1250623766/\n• The Office\
+  \ (American version) on Peacock: https://www.peacocktv.com/stream-tv/the-office\n• Radical Candor diagram: https://www.radicalcandor.com/our-approach/\n\
+  • Career conversation templates: https://review.firstround.com/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager/\n\
+  • A behavioral scientist explains why we should reacquaint ourselves with the telephone: https://news.uchicago.edu/story/nicholas-epley-explains-why-phone-calls-can-connect-us-better-zoom\n\
+  • How to get promoted: https://www.lennysnewsletter.com/p/how-to-get-promoted\n• When They Win, You Win: Being a Great Manager\
+  \ Is Simpler Than You Think: https://www.amazon.com/When-They-Win-You-Manager/dp/1250279666\n• Peter Kazanjy on X: https://twitter.com/Kazanjy\n\
+  • Christa Quarles on LinkedIn: https://www.linkedin.com/in/christaquarles/\n• Jason Rosoff on LinkedIn: https://www.linkedin.com/in/jason-r-rosoff/\n\
+  • Andrew Grove: https://en.wikipedia.org/wiki/Andrew_Grove\n• Columbo on Prime Video: https://www.amazon.com/Columbo-Season-1/dp/B008SA89HA\n\
+  • Squid Game on Netflix: https://www.netflix.com/title/81040344\n• Leveraging mentors to uplevel your career | Jules Walter\
+  \ (YouTube, Slack): https://www.lennyspodcast.com/leveraging-mentors-to-uplevel-your-career-jules-walter-youtube-slack/\n\
+  ...References continued at: https://www.lennysnewsletter.com/p/radical-candor-from-theory-to-practice\n\nProduction and\
+  \ marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny\
+  \ may be an investor in the companies discussed."
+duration_seconds: 5199.0
+duration: '1:26:39'
+view_count: 48567
 channel: Lenny's Podcast
 keywords:
 - growth

@@ -1,13 +1,13 @@
 ---
 guest: Gaurav Misra
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: Gaurav Misra is the Co-founder and CEO of Captions
+youtube_url: https://www.youtube.com/watch?v=ZF9zR7UBGKk
+video_id: ZF9zR7UBGKk
+publish_date: '2025-05-12'
+description: '#founder #ceo #productmanagement #productmanager'
+duration_seconds: 64.0
+duration: '1:04'
+view_count: 725
 channel: Lenny's Podcast
 keywords:
 - growth

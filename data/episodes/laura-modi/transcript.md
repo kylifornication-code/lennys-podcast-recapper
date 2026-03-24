@@ -1,13 +1,13 @@
 ---
 guest: Laura Modi
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: How to build a cult-like brand | Laura Modi (Bobbie, Airbnb)
+youtube_url: https://www.youtube.com/watch?v=33iUzdZ-U8c
+video_id: 33iUzdZ-U8c
+publish_date: '2023-04-13'
+description: '#startup #founder #tech #vctok best founder podcasts, startup advice, airbnb business stories'
+duration_seconds: 55.0
+duration: 0:55
+view_count: 1278
 channel: Lenny's Podcast
 keywords:
 - growth
