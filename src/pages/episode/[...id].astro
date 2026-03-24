@@ -9,12 +9,10 @@ import EpisodeWatchFollowCard from '../../components/EpisodeWatchFollowCard.astr
 
 export async function getStaticPaths() {
   const episodes = await getCollection('episodes');
-  return episodes
-    .filter((ep) => ep.data.title)
-    .map((ep) => ({
-      params: { id: ep.id },
-      props: { episode: ep },
-    }));
+  return episodes.map((ep) => ({
+    params: { id: ep.id },
+    props: { episode: ep },
+  }));
 }
 
 const { episode } = Astro.props;

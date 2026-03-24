@@ -15,7 +15,7 @@ const episodes = allEpisodes
   .map((ep) => ({
     slug: ep.id,
     guest: ep.data.guest,
-    title: ep.data.title,
+    title: ep.data.title || `Episode with ${ep.data.guest}`,
     video_id: ep.data.video_id,
     youtube_url: ep.data.youtube_url,
     publish_date: ep.data.publish_date,
@@ -26,7 +26,6 @@ const episodes = allEpisodes
     keywords: ep.data.keywords,
     social_links: parseGuestSocialLinks(ep.data.description || ''),
   }))
-  .filter((ep) => ep.title)
   .sort((a, b) => {
     if (!a.publish_date) return 1;
     if (!b.publish_date) return -1;
