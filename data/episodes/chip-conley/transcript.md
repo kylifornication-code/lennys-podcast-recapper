@@ -1,13 +1,162 @@
 ---
 guest: Chip Conley
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: Brian Chesky's secret mentor who scaled Airbnb (after dying 9 times & building a hotel empire)
+youtube_url: https://www.youtube.com/watch?v=R5_ypwiRIyo
+video_id: R5_ypwiRIyo
+publish_date: '2025-08-03'
+description: 'Chip Conley is the founder of Joie de Vivre hotels, the second-largest boutique hotel brand in the world. At
+  age 52, he joined Airbnb as Head of Global Hospitality and Strategy, reporting to CEO Brian Chesky, who was 21 years younger.
+  He earned the title of Airbnb’s “Modern Elder” by guiding the young founders on leadership and culture while learning Silicon
+  Valley’s tech mindset himself. Today, Chip leads the Modern Elder Academy, the world’s first midlife wisdom school, and
+  is the author of best-selling books like Wisdom@Work and Peak. He champions the idea that age and experience are assets—and
+  that midlife can be a launchpad for renewed purpose and impact.
+
+
+  *In this conversation, we discuss:*
+
+  1. The reality of Brian Chesky in “founder mode”—the good, bad, and stressful
+
+  2. How Chip went from running 52 boutique hotels to becoming Airbnb’s in-house mentor in his 50s
+
+  3. The “mentor and intern” mindset: how to simultaneously teach others and stay curious like a beginner
+
+  4. Why AI might actually favor older workers (hint: human wisdom vs. artificial intelligence)
+
+  5. His framework for navigating midlife transitions and finding meaning after 40
+
+  6. Specific tactics for older professionals to thrive in tech companies
+
+  7. Surprising data that midlife is often the happiest time of life—and how to leverage your 40s, 50s, and beyond
+
+  8. Chip’s formula for managing anxiety and fear (and how to regain control when worry strikes)
+
+
+  *Brought to you by:*
+
+  Great Question—Empower everyone to run great research: https://www.greatquestion.com/lenny
+
+  Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+  Coda—The all-in-one collaborative workspace: https://coda.io/lenny
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/chip-conley
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/168435278/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Chip Conley:*
+
+  • LinkedIn: https://www.linkedin.com/in/chipconleysf/
+
+  • Website: https://chipconley.com/
+
+  • Modern Elder Academy: https://www.meawisdom.com/
+
+  • Podcast: https://www.meawisdom.com/podcast/
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Chip Conley
+
+  (04:30) Chip’s journey with Airbnb
+
+  (11:44) Insights on working with Brian Chesky
+
+  (18:27) Tactics to be effective when working with founders in founder mode
+
+  (21:08) The value of intergenerational collaboration
+
+  (27:03) Addressing ageism in tech
+
+  (31:18) Advice for thriving as an older individual in tech
+
+  (35:01) Advice for hiring managers
+
+  (42:37) Chip’s early career and founding Joie de Vivre
+
+  (44:12) A life-changing near-death experience
+
+  (47:51) The importance of company culture
+
+  (52:20) The Peak Model
+
+  (57:09) The Modern Elder Academy (MEA)
+
+  (01:00:30) The upside of aging
+
+  (01:06:43) Who MEA is for
+
+  (01:08:05) AI in daily life
+
+  (01:10:20) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Brian Chesky on LinkedIn: https://www.linkedin.com/in/brianchesky/
+
+  • Brian Chesky’s new playbook: https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach
+
+  • Natalie Tucci on LinkedIn: https://www.linkedin.com/in/natalietuccishoff/
+
+  • Laura Modi on LinkedIn: https://www.linkedin.com/in/laurahughes6/
+
+  • How to build a cult-like brand | Laura Modi (Bobbie): https://www.lennysnewsletter.com/p/from-growth-to-slowth-the-making
+
+  • George Tenet: https://en.wikipedia.org/wiki/George_Tenet
+
+  • Joie de Vivre Hospitality: https://www.hyatt.com/jdv-by-hyatt/en-US
+
+  • Fest300: https://en.wikipedia.org/wiki/Fest300
+
+  • John Q. Smith on LinkedIn: https://www.linkedin.com/in/johnqsmith/
+
+  •Will A.I. Replace New Hires or Middle Managers?: https://www.nytimes.com/2025/07/07/business/ai-job-cuts.html
+
+  • Burning Man: https://burningman.org/
+
+  • Sheryl Sandberg on LinkedIn: https://www.linkedin.com/in/sheryl-sandberg-5126652/
+
+  • Bill Graham: https://en.wikipedia.org/wiki/Bill_Graham_(promoter)
+
+  • Maslow’s hierarchy: https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
+
+  • Measuring what makes life worthwhile: https://www.ted.com/talks/chip_conley_measuring_what_makes_life_worthwhile
+
+  • Jonathan Mildenhall on LinkedIn: https://www.linkedin.com/in/mildenhall/
+
+  • Becca Levy’s website: https://becca-levy.com/
+
+  • Kabuki Springs & Spa: https://kabukisprings.com/
+
+  • How positive age beliefs can support positive health outcomes with Becca Levy, PhD: https://www.ama-assn.org/delivering-care/population-care/how-positive-age-beliefs-can-support-positive-health-outcomes-becca
+
+  • The U-shape of Happiness Across the Life Course: Expanding the Discussion: https://pmc.ncbi.nlm.nih.gov/articles/PMC7529452/
+
+  ...References continued at: https://www.lennysnewsletter.com/p/chip-conley
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
+duration_seconds: 4777.0
+duration: '1:19:37'
+view_count: 16228
 channel: Lenny's Podcast
 keywords:
 - growth

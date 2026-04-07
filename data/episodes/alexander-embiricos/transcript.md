@@ -1,13 +1,50 @@
 ---
 guest: Alexander Embiricos
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: 'Inside OpenAI: 2026 is the year of agents, AI’s biggest bottleneck, and why compute isn’t the issue'
+youtube_url: https://www.youtube.com/watch?v=z1ISq9Ty4Cg
+video_id: z1ISq9Ty4Cg
+publish_date: '2025-12-14'
+description: "Alexander Embiricos leads product on Codex, OpenAI’s powerful coding agent, which has grown 20x since August\
+  \ and now serves trillions of tokens weekly. Before joining OpenAI, Alexander spent five years building a pair programming\
+  \ product for engineers. He now works at the frontier of AI-led software development, building what he describes as a software\
+  \ engineering teammate—an AI agent designed to participate across the entire development lifecycle.\n\n*We discuss:*\n1.\
+  \ Why Codex has grown 20x since launch and what product decisions unlocked this growth\n2. How OpenAI built the Sora Android\
+  \ app in just 18 days using Codex\n3. Why the real bottleneck to AGI-level productivity isn’t model capability—it’s human\
+  \ typing speed\n4. The vision of AI as a proactive teammate, not just a tool you prompt\n5. The bottleneck shifting from\
+  \ building to reviewing AI-generated work\n6. Why coding will be a core competency for every AI agent—because writing code\
+  \ is how agents use computers best\n\n*Brought to you by:*\nWorkOS—Modern identity platform for B2B SaaS, free up to 1 million\
+  \ MAUs: https://workos.com/lenny\nFin—The #1 AI agent for customer service: https://fin.ai/lenny\nJira Product Discovery—Confidence\
+  \ to build the right thing: https://atlassian.com/lenny\n\n*Transcript:* https://www.lennysnewsletter.com/p/why-humans-are-ais-biggest-bottleneck\n\
+  \n*My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/180365355/my-biggest-takeaways-from-this-conversation\n\
+  \n*Where to find Alexander Embiricos:*\n• X: https://x.com/embirico\n• LinkedIn: https://www.linkedin.com/in/embirico\n\n\
+  *Where to find Lenny:*\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n*In this episode, we cover:*\n(00:00) Introduction to Alexander Embiricos \n(05:13) The speed and ambition at OpenAI\n\
+  (11:34) Codex: OpenAI’s coding agent\n(15:43) Codex’s explosive growth\n(24:59) The future of AI and coding agents\n(33:11)\
+  \ The impact of AI on engineering\n(44:08) How Codex has impacted the way PMs operate\n(45:40) Throwaway code and ubiquitous\
+  \ coding\n(47:10) Shipping the Sora Android app\n(49:01) Building the Atlas browser\n(53:34) Codex’s impact on productivity\n\
+  (55:35) Measuring progress on Codex\n(58:09) Why they are building a web browser\n(01:01:58) Non-engineering use cases for\
+  \ Codex\n(01:02:53) Codex’s capabilities\n(01:04:49) Tips for getting started with Codex\n(01:05:37) Skills to lean into\
+  \ in the AI age\n(01:10:36) How far are we from a human version of AI?\n(01:13:31) Hiring and team growth at Codex\n(01:15:47)\
+  \ Lightning round and final thoughts\n\n*Referenced:*\n• OpenAI: https://openai.com\n• Codex: https://openai.com/codex\n\
+  • Inside ChatGPT: The fastest-growing product in history | Nick Turley (Head of ChatGPT at OpenAI): https://www.lennysnewsletter.com/p/inside-chatgpt-nick-turley\n\
+  • Dropbox: http://dropbox.com\n• Datadog: https://www.datadoghq.com\n• Andrej Karpathy on X: https://x.com/karpathy\n• The\
+  \ rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell\n\
+  • Atlas: https://openai.com/index/introducing-chatgpt-atlas\n• How Block is becoming the most AI-native enterprise in the\
+  \ world | Dhanji R. Prasanna: https://www.lennysnewsletter.com/p/how-block-is-becoming-the-most-ai-native\n• Goose: https://block.xyz/inside/block-open-source-introduces-codename-goose\n\
+  • Lessons on building product sense, navigating AI, optimizing the first mile, and making it through the messy middle |\
+  \ Scott Belsky (Adobe, Behance): https://www.lennysnewsletter.com/p/lessons-on-building-product-sense\n• Sora Android app:\
+  \ https://play.google.com/store/apps/details?id=com.openai.sora&hl=en_US&pli=1\n• The OpenAI Podcast—ChatGPT Atlas and the\
+  \ next era of web browsing: https://www.youtube.com/watch?v=WdbgNC80PMw&list=PLOXw6I10VTv9GAOCZjUAAkSVyW2cDXs4u&index=2\n\
+  • How to measure AI developer productivity in 2025 | Nicole Forsgren: https://www.lennysnewsletter.com/p/how-to-measure-ai-developer-productivity\n\
+  • Compiling: https://3d.xkcd.com/303\n• Jujutsu Kaisen on Netflix: https://www.netflix.com/title/81278456\n• Tesla: https://www.tesla.com\n\
+  • Radical Candor: From theory to practice with author Kim Scott: https://www.lennysnewsletter.com/p/radical-candor-from-theory-to-practice\n\
+  • Andreas Embirikos: https://en.wikipedia.org/wiki/Andreas_Embirikos\n• George Embiricos: https://en.wikipedia.org/wiki/George_Embiricos:\
+  \ https://en.wikipedia.org/wiki/George_Embiricos\n...Resources continued at: https://www.lennysnewsletter.com/p/why-humans-are-ais-biggest-bottleneck\n\
+  \n_Production and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\
+  \nLenny may be an investor in the companies discussed."
+duration_seconds: 5113.0
+duration: '1:25:13'
+view_count: 28940
 channel: Lenny's Podcast
 keywords:
 - growth

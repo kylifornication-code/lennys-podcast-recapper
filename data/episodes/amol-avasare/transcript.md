@@ -1,13 +1,166 @@
 ---
-guest: "Amol Avasare"
-title: ""
-youtube_url: ""
-video_id: ""
-publish_date: ""
-description: ""
-duration_seconds: 0
-duration: ""
-view_count: 0
+guest: Amol Avasare
+title: Head of Growth (Anthropic):  “Claude is growing itself at this point”
+youtube_url: https://www.youtube.com/watch?v=k-H4nsOTuxU
+video_id: k-H4nsOTuxU
+publish_date: '2026-04-05'
+description: 'Amol Avasare is Head of Growth at Anthropic, which is going through the most unprecedented growth trajectory
+  in history—scaling from $1 billion to over $19 billion in ARR in just 14 months. Previously, Amol worked on the growth teams
+  at Mercury and MasterClass. Before that he was a founder, and he cold emailed his way into the Anthropic role when no job
+  listing existed. Most remarkably, he overcame a traumatic brain injury from a Muay Thai match that meant he couldn''t work
+  for nearly a year.
+
+
+  *In our in-depth discussion, Amol shares:*
+
+  1. How Amol landed his role by cold emailing Anthropic’s CPO Mike Krieger
+
+  2. How Anthropic is automating growth experiments with Claude (their internal tool called “CASH”)
+
+  3. Why the ratio of PMs to engineers might need to flip (more PMs than engineers) as AI makes engineers exponentially more
+  productive
+
+  4. Why activation is the single highest-leverage growth problem in AI
+
+  5. Why Anthropic indexes 70/30 toward big bets (the opposite of most growth teams)
+
+  6. How he uses Cowork to detect team misalignment in Slack
+
+  7. How the company’s focus on AI coding created a research flywheel that accelerated their models
+
+
+  *Brought to you by:*
+
+  WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny
+
+  Vanta—Automate compliance, manage risk, and accelerate trust with AI: https://vanta.com/lenny
+
+
+  *Episode transcript:* https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run
+
+  *Archive of all Lenny''s Podcast transcripts:* https://www.dropbox.com/scl/fo/yxi4s2w998p1gvtpu4193/AMdNPR8AOw0lMklwtnC0TrQ?rlkey=j06x0nipoti519e0xgm23zsn9&st=ahz0fj11&dl=0
+
+
+  *Where to find Amol Avasare:*
+
+  • X: https://x.com/TheAmolAvasare
+
+  • LinkedIn: https://www.linkedin.com/in/amolavasare
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Amol and Anthropic’s growth
+
+  (03:15) The story of cold emailing Mike Krieger to get the job
+
+  (08:28) What it’s like leading growth at the fastest-growing company ever
+
+  (10:46) What the growth team actually does at Anthropic
+
+  (12:16) The concept of “success disasters”
+
+  (13:55) Why activation is the biggest challenge in AI products
+
+  (18:05) Improving Mercury’s onboarding experience
+
+  (20:57) The importance of adding the right kind of friction
+
+  (25:10) Anthropic’s org structure
+
+  (27:06) Why Anthropic focuses on big bets over micro-optimizations
+
+  (33:34) Automating growth experiments with Claude (CASH)
+
+  (38:20) How AI is starting to identify what experiments to run
+
+  (41:07) The future of PM, engineering, and design roles
+
+  (47:19) Why you might need more PMs as engineers get more productive
+
+  (51:13) How Amol uses AI to prototype ideas and skip PRDs
+
+  (58:10) Amol’s morning routine: AI analyzes 20 to 25 charts automatically
+
+  (1:03:31) Getting coaching from an AI version of your manager
+
+  (1:06:27) How Anthropic’s focus on coding and B2B drove their success
+
+  (1:12:10) Balancing growth with AI safety as a core mission
+
+  (1:18:09) Advice for thriving in an AI-first future
+
+  (1:22:53) Anthropic’s culture and the “notebook channels” on Slack
+
+  (1:35:12) Failure corner: Shutting down his startup after raising money
+
+  (1:38:25) The traumatic brain injury that changed everything
+
+  (1:46:49) Lightning round
+
+
+  *Referenced:*
+
+  • How a traumatic brain injury made me a better PM—and person: https://www.lennysnewsletter.com/p/how-a-traumatic-brain-injury-made
+
+  • Anthropic: https://www.anthropic.com
+
+  • Snowflake: https://www.snowflake.com
+
+  • Canva: https://www.canva.com
+
+  • Palantir: https://www.palantir.com
+
+  • Atlassian: https://www.atlassian.com
+
+  • Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram): https://www.lennysnewsletter.com/p/anthropics-cpo-heres-what-comes-next
+
+  • Claude Code: https://code.claude.com
+
+  • Dario Amodei on X: https://x.com/DarioAmodei
+
+  • Facebook: https://www.facebook.com
+
+  • Uber: https://www.uber.com
+
+  • DoorDash: https://www.doordash.com
+
+  • Anthropic co-founder on quitting OpenAI, AGI predictions, $100M talent wars, 20% unemployment, and the nightmare scenarios
+  keeping him up at night | Ben Mann: https://www.lennysnewsletter.com/p/anthropic-co-founder-benjamin-mann
+
+  • Mercury: https://mercury.com
+
+  • MasterClass: https://www.masterclass.com
+
+  • Calm: https://www.calm.com
+
+  • Alexey Komissarouk’s website: https://alexeymk.com
+
+  • Alexey’s “Mastering Growth Engineering” course: https://www.reforge.com/courses/mastering-growth-engineering
+
+  • Claude Cowork: https://www.anthropic.com/product/claude-cowork
+
+  ...References continued at: https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
+duration_seconds: 6769.0
+duration: '1:52:49'
+view_count: 48079
 channel: Lenny's Podcast
 keywords: []
 ---

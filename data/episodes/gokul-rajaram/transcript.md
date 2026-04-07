@@ -1,13 +1,50 @@
 ---
 guest: Gokul Rajaram
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: How to build your product team from scratch, attract top product talent, go multi-product, and more
+youtube_url: https://www.youtube.com/watch?v=ciBdPH88C4c
+video_id: ciBdPH88C4c
+publish_date: '2025-01-12'
+description: "Rohini Pandhi is a product leader at Mercury, and previously spent over seven years at Square/Block leading\
+  \ product work on Square payments, invoicing, and the Bitkey hardware Bitcoin wallet. She’s also the co-founder of the startup\
+  \ bootcamp Transparent Collective and is an active angel investor. In our conversation, we discuss:\n• Key indicators that\
+  \ it’s time to hire PMs\n• How to build your early PM team\n• Why founders should initially take on the product manager\
+  \ role themselves\n• How to attract top PM talent\n• What she’s learned about going multi-product\n• A case for investing\
+  \ in quality\n• More\n\n—\n\nBrought to you by:\n• Cloudinary—The foundational technology for all images and video on the\
+  \ internet: http://cloudinary.com/lenny\n• OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny\n• Airtable\
+  \ ProductCentral—Launch to new heights with a unified system for product development: https://www.airtable.com/lenny\n\n\
+  Skip the Mercury Personal waitlist: https://mercurytechnologies.typeform.com/lenny\n\nFind the transcript at: https://www.lennysnewsletter.com/p/how-to-build-your-product-team-from-scratch-rohini-pandhi\n\
+  \nWhere to find Rohini Pandhi:\n• X: https://x.com/rohinip\n• LinkedIn: https://www.linkedin.com/in/rohinipandhi\n\nWhere\
+  \ to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Rohini’s background \n(05:00) The role of product managers at Mercury\n(09:51) Key\
+  \ indicators that it’s time to hire PMs\n(13:18) Building the product team at Mercury\n(19:53) Why you should avoid hiring\
+  \ PMs too early\n(22:26) The different flavors of product management\n(26:15) How to attract top talent\n(35:59) Advocating\
+  \ for quality in product development\n(44:10) Going multi-product\n(46:37) Organizational structure for multi-product success\n\
+  (50:57) Organizational culture for multi-product success\n(52:07) Customer obsession and product development\n(57:36) More\
+  \ lessons from going multi-product \n(01:05:57) Transparent Collective: supporting underrepresented founders\n(01:09:54)\
+  \ Lightning round\n\nReferenced:\n• Immad Akhund on X: https://x.com/immad\n• Mercury: https://mercury.com\n• Square: https://squareup.com\n\
+  • Product management career ladders: https://www.lennysnewsletter.com/p/product-management-career-ladders\n• Pioneers, Settlers,\
+  \ Town Planners [Wardley]: https://orghacking.com/pioneers-settlers-town-planners-wardley-9dcd3709cde7\n• Jason Zhang on\
+  \ LinkedIn: https://www.linkedin.com/in/jason-zhang-5645a860\n• What is ‘Dogfooding’?: https://www.nytimes.com/2022/11/14/business/dogfooding.html\n\
+  • Mercury Bill Pay: https://mercury.com/bill-pay\n• Zip: https://zip.co\n• Jira: https://www.atlassian.com/software/jira\n\
+  • The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher): https://www.lennysnewsletter.com/p/the-art-and-science-of-pricing-madhavan\n\
+  • Gokul Rajaram on designing your product development process, when and how to hire your first PM, a playbook for hiring\
+  \ leaders, getting ahead in you career, how to get started angel investing, more: https://www.lennysnewsletter.com/p/gokul-rajaram-on-designing-your-product\n\
+  • Gokul Rajaram on X: https://x.com/gokulr\n• Transparent Collective: https://www.transparentcollective.com\n• 16 Reading\
+  \ Tips from Naval Ravikant: https://alexandbooks.com/archive/16-reading-tips-from-naval-ravikant\n• Shrinking on AppleTV+:\
+  \ https://tv.apple.com/us/show/shrinking\n• Bad Sisters on AppleTV+: https://tv.apple.com/us/show/bad-sisters\n• Slow Horses\
+  \ on AppleTV+: https://tv.apple.com/us/show/slow-horses\n• Severance on AppleTV+: https://tv.apple.com/us/show/severance\n\
+  • Presumed Innocent on AppleTV+: https://tv.apple.com/us/show/presumed-innocent\n• Waymo: https://waymo.com\n• Adam Robinson\
+  \ on X: https://x.com/IAmAdamRobinson\n• Cyan Banister—From Homeless and Broke to Top Angel Investor (Uber, SpaceX, and\
+  \ 100+ More): https://tim.blog/2024/11/28/cyan-banister\n• Bobby Matson on LinkedIn: https://www.linkedin.com/in/bobbymatson\n\
+  • Jobs at Mercury: https://mercury.com/jobs\n\nRecommended books:\n• Vectors: Aphorisms & Ten-Second Essays: https://www.amazon.com/Vectors-Aphorisms-Ten-Second-James-Richardson/dp/0967266890\n\
+  • The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance: https://www.amazon.com/Inner-Game-Tennis-Classic-Performance/dp/0679778314\n\
+  • Pachinko: https://www.amazon.com/Pachinko-National-Book-Award-Finalist/dp/1455563927\n• Cutting for Stone: https://www.amazon.com/Cutting-Stone-Abraham-Verghese/dp/0375714367\n\
+  • The Song of Achilles: https://www.amazon.com/Song-Achilles-Novel-Madeline-Miller/dp/0062060627\n\nProduction and marketing\
+  \ by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be\
+  \ an investor in the companies discussed."
+duration_seconds: 4765.0
+duration: '1:19:25'
+view_count: 10971
 channel: Lenny's Podcast
 keywords:
 - careers
