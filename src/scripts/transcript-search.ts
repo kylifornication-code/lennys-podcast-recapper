@@ -1,10 +1,6 @@
 const MARK = 'episode-inline-search-hit';
 const MARK_ACTIVE = 'episode-inline-search-hit--active';
 
-function escapeRegExp(s: string): string {
-  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-}
-
 function clearHighlights(roots: HTMLElement[]): void {
   for (const root of roots) {
     const marks = [...root.querySelectorAll(`mark.${MARK}`)];
@@ -18,29 +14,29 @@ function clearHighlights(roots: HTMLElement[]): void {
   }
 }
 
-function highlightTextNode(textNode: Text, re: RegExp): void {
+function highlightTextNode(textNode: Text, needle: string): void {
   const text = textNode.textContent || '';
   const parent = textNode.parentNode;
-  if (!parent) return;
+  if (!parent || !needle) return;
 
+  const haystack = text.toLowerCase();
+  const lowerNeedle = needle.toLowerCase();
   const frag = document.createDocumentFragment();
   let lastIndex = 0;
-  const flags = re.flags.includes('g') ? re.flags : `${re.flags}g`;
-  const copy = new RegExp(re.source, flags);
-  let m: RegExpExecArray | null;
   let found = false;
+  let idx = haystack.indexOf(lowerNeedle);
 
-  while ((m = copy.exec(text)) !== null) {
+  while (idx !== -1) {
     found = true;
-    if (m.index > lastIndex) {
-      frag.appendChild(document.createTextNode(text.slice(lastIndex, m.index)));
+    if (idx > lastIndex) {
+      frag.appendChild(document.createTextNode(text.slice(lastIndex, idx)));
     }
     const mark = document.createElement('mark');
     mark.className = MARK;
-    mark.textContent = m[0];
+    mark.textContent = text.slice(idx, idx + needle.length);
     frag.appendChild(mark);
-    lastIndex = m.index + m[0].length;
-    if (m[0].length === 0) copy.lastIndex++;
+    lastIndex = idx + needle.length;
+    idx = haystack.indexOf(lowerNeedle, lastIndex);
   }
 
   if (!found) return;
@@ -77,14 +73,13 @@ function collectTextNodes(root: HTMLElement): Text[] {
 function highlightInRoot(root: HTMLElement, query: string): void {
   const q = query.trim();
   if (!q || q.length > 500) return;
-  const escaped = escapeRegExp(q);
-  const re = new RegExp(escaped, 'gi');
+  const needle = q.toLowerCase();
   const textNodes = collectTextNodes(root);
   for (const textNode of textNodes) {
     if (!textNode.parentNode) continue;
     const text = textNode.textContent || '';
-    if (!new RegExp(escaped, 'i').test(text)) continue;
-    highlightTextNode(textNode, re);
+    if (!text.toLowerCase().includes(needle)) continue;
+    highlightTextNode(textNode, q);
   }
 }
 

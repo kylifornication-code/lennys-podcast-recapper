@@ -56,8 +56,13 @@ def get_api_key():
 
 def youtube_get(endpoint: str, params: dict, retries: int = 3) -> dict:
     url = f"{API_BASE}/{endpoint}?" + urllib.parse.urlencode(params)
+    # SECURITY-REVIEW: urllib honors schemes like file:// and ftp://; enforce
+    # https so a malformed endpoint/base can never trigger a local-file read.
+    if urllib.parse.urlparse(url).scheme != "https":
+        raise ValueError(f"Refusing to fetch non-https URL: {url}")
     for attempt in range(retries):
         try:
+            # nosemgrep: python.lang.security.audit.dynamic-urllib-use-detected.dynamic-urllib-use-detected -- scheme is validated to https above
             with urllib.request.urlopen(url, context=SSL_CTX, timeout=30) as resp:
                 return json.loads(resp.read())
         except (urllib.error.URLError, TimeoutError, OSError) as e:
