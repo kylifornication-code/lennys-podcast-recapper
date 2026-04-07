@@ -255,17 +255,17 @@ def build_video_id_index(episode_dirs: list[Path]) -> dict[str, str]:
     return index
 
 
-def guest_matches_title(guest: str, title: str) -> bool:
-    """Check whether the guest name (or a significant part) appears in the video title."""
-    if not guest or not title:
+def guest_matches_video(guest: str, title: str, description: str = "") -> bool:
+    """Check whether the guest name (or a significant part) appears in the video title or description."""
+    if not guest:
         return False
     guest_lower = guest.lower().strip('"').strip()
-    title_lower = title.lower()
-    if guest_lower in title_lower:
+    searchable = f"{title} {description}".lower()
+    if guest_lower in searchable:
         return True
     words = [w for w in guest_lower.split() if len(w) > 2]
     if words:
-        matches = sum(1 for w in words if w in title_lower)
+        matches = sum(1 for w in words if w in searchable)
         return matches >= len(words) / 2
     return False
 
@@ -325,9 +325,11 @@ def main():
                 failed += 1
                 continue
 
-            title = details.get("snippet", {}).get("title", "")
-            if not guest_matches_title(guest, title):
-                print(f"  Title mismatch: '{title}' doesn't match guest '{guest}', skipping")
+            snippet = details.get("snippet", {})
+            title = snippet.get("title", "")
+            description = snippet.get("description", "")
+            if not guest_matches_video(guest, title, description):
+                print(f"  Content mismatch: '{title}' doesn't match guest '{guest}', skipping")
                 failed += 1
                 continue
 
