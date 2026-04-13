@@ -4,11 +4,131 @@ title: Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook
 youtube_url: https://www.youtube.com/watch?v=uMhBej6-Ey4
 video_id: uMhBej6-Ey4
 publish_date: 2022-10-20
-description: 'Adriel Frederick is VP of Product Management at Reddit X, where he helps
-  incubate and scale new products. He is a former Product Lead at Facebook, as well
-  as a former PM and Director of Product...
+description: 'Adriel Frederick is VP of Product Management at Reddit X, where he helps incubate and scale new products. He
+  is a former Product Lead at Facebook, as well as a former PM and Director of Product at Lyft. In today’s episode, we focus
+  on what it takes to become a better product leader. Adriel shares anecdotes from his time at Lyft and Facebook, insights
+  about how to lead through tough times, why there isn’t an algorithmic solution to everything, why R&D teams need to be a
+  part of the core mission, the tangible benefits of working on diverse teams, and his thoughts on the future of AI. He also
+  introduces the concept of cannonballs, why you should focus on the marginal user, why organization and empathy are the most
+  important PM skills, and so much more.
 
-  '
+
+  Find the full transcript here: https://www.lennyspodcast.com/humanizing-product-development-adriel-frederick-reddit-lyft-facebook/#transcript
+
+
+  —
+
+
+  Where to find Adriel Frederick:
+
+
+  • Twitter: https://twitter.com/drellf
+
+  • LinkedIn: https://www.linkedin.com/in/adrielfrederick/
+
+
+  —
+
+
+  Where to find Lenny:
+
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  —
+
+
+  Thank you to our wonderful sponsors for making this episode possible:
+
+
+  • Linear: https://linear.app/lenny
+
+  • Flatfile: https://www.flatfile.com/lenny
+
+  • Eppo: https://www.geteppo.com/
+
+
+  —
+
+
+  Referenced:
+
+
+  • Jules Walter on Twitter: https://twitter.com/julesdwalt
+
+  • Jules Walter’s guest post on Lenny’s newsletter: https://www.lennysnewsletter.com/p/product-sense
+
+  • Mark Zuckerberg on The Joe Rogan Experience: https://open.spotify.com/episode/51gxrAActH18RGhKNza598
+
+  • Sam Harris’s TED Talk on AI: https://www.youtube.com/watch?v=8nt3edWLgIg
+
+  • Facebook’s 7 friends in 10 days: https://www.linkedin.com/pulse/how-chamath-palihapitya-dramatically-improved-user-malinda-senanayake/
+
+  • The Prize: The Epic Quest for Oil, Money & Power: https://www.amazon.com/Prize-Epic-Quest-Money-Power/dp/1439110123/
+
+  • The New Map: Energy, Climate, and the Clash of Nations: https://www.amazon.com/New-Map-Energy-Climate-Nations/dp/0143111159/
+
+  • Revisionist History podcast: https://podcasts.apple.com/us/podcast/revisionist-history/id1119389968
+
+  • Tuned In podcast: https://www.hpacademy.com/blog/tuned-in-high-performance-academy-podcast/
+
+  • Mo on Netflix: https://www.netflix.com/title/81134264
+
+  • Radiant Nuclear: https://www.radiantnuclear.com/
+
+
+  —
+
+
+  In this episode, we cover:
+
+
+  (00:00) Adriel’s background
+
+  (06:13) What he does at Reddit X
+
+  (07:27) Reddit X’s avatar marketplace and NFTs
+
+  (08:33) Why R&D teams need to be a part of the core mission
+
+  (11:12) What it’s like to be the first black PM at Facebook
+
+  (14:58) How to foster diversity
+
+  (19:40) Being a PM at controversial companies, and how to evaluate criticism
+
+  (28:25) Adriel’s most stressful time at Lyft
+
+  (30:35) The importance of operational control and what it means
+
+  (32:35) Why there isn’t always an algorithmic solution to everything
+
+  (37:47) Thoughts on AI
+
+  (42:42) Growth hacking and algorithms at Facebook
+
+  (48:18) Cannonballs in growth—fundamental changes in the product for optimization
+
+  (49:07) Facebook’s “7 friends in 10 days” push
+
+  (51:30) What is a marginal user, and what can you learn from their experience?
+
+  (56:06) How to think about doing experiments
+
+  (59:10) Why organization and empathy are the most important skills 
+
+  (1:02:59) Lightning round 
+
+
+  —
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 4046.0
 duration: '1:07:26'
 view_count: 3562

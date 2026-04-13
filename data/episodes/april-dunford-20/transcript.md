@@ -4,9 +4,28 @@ title: How to nail your product positioning | April Dunford (Obviously Awesome)
 youtube_url: https://www.youtube.com/watch?v=hdjlCLb9Hl8
 video_id: hdjlCLb9Hl8
 publish_date: 2023-01-22
-description: April Dunford is the author of the must-read best-selling book Obviously
-  Awesome, a definitive guide to product positioning. She spent 25 years leading marketing,
-  product, and sales teams and...
+description: "April Dunford is the author of the must-read best-selling book Obviously Awesome, a definitive guide to product\
+  \ positioning. She spent 25 years leading marketing, product, and sales teams and now runs her own consulting firm, helping\
+  \ companies of all shapes and sizes nail their positioning. April has worked hands-on with over 200 companies on positioning,\
+  \ including Google, IBM, Postman, and Epic Games. In this episode, April delves into the intricacies of positioning, including\
+  \ its distinction from messaging and branding, and shares real-world examples of products with strong and weak positioning.\
+  \ Additionally, April shares her insights on when to bring in a professional and the key differences between segmentation\
+  \ and personas. Don't miss this opportunity to gain valuable knowledge from a true industry leader.\n\n—\n\nFind the full\
+  \ transcript here: https://www.lennyspodcast.com/april-dunford-on-product-positioning-segmentation-and-optimizing-your-sales-process/#transcript\n\
+  \nWhere to find April:\n• Website: https://aprildunford.com\n• Twitter: https://twitter.com/aprildunford \n• LinkedIn: https://www.linkedin.com/in/aprildunford\
+  \ \n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) April's guest post on Lenny's Newsletter\n\
+  (03:42) April's background\n(07:36) Interesting companies April has worked with\n(12:17) Defining positioning\n(15:31) Company\
+  \ misalignment vs. positioning issues\n(17:42) How to assess if your product’s positioning is weak or strong\n(19:50) Examples\
+  \ of companies with great product positioning\n(22:32) The essential five steps to figuring out your product’s positioning\n\
+  (29:25) Help Scout's positioning process\n(35:54) How important is having a differentiator?\n(40:12) The difference between\
+  \ positioning vs. messaging vs. branding\n(46:29) When to hire a professional\n(48:32) How long does product positioning\
+  \ take? \n(54:41) What’s the difference between segmentation and personas?\n(01:02:50) Where to find April\n\n\nReferences:\n\
+  • Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It: https://www.aprildunford.com/obviously-awesome\
+  \ \n• April’s guest post on Lenny's Newsletter: https://www.lennysnewsletter.com/p/positioning\n• Epic Games: https://www.epicgames.com/site/en-US/home\n\
+  • Bluelight Analytics: https://www.bluelightanalytics.com/\n• Postman: https://www.postman.com/\n• Startupfest: https://startupfestival.com/\n\
+  • Help Scout: https://www.helpscout.com/\n• Zendesk: https://www.zendesk.com/\n\n\nThank you to our sponsors:\n• Amplitude:\
+  \ https://amplitude.com/\n• Flatfile: https://flatfile.com/Lenny\n• Productboard: https://Productboard.com/"
 duration_seconds: 3939.0
 duration: '1:05:39'
 view_count: 38246

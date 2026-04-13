@@ -4,11 +4,163 @@ title: 'Behind the founder: Marc Benioff'
 youtube_url: https://www.youtube.com/watch?v=tOGK1nlHdFo
 video_id: tOGK1nlHdFo
 publish_date: 2024-12-22
-description: 'Marc Benioff is the co-founder and CEO of Salesforce, the second-largest
-  software company in the world. He started programming at age 15, selling his first
-  program for $75, and went on to build...
+description: 'Marc Benioff is the co-founder and CEO of Salesforce, the second-largest software company in the world. He started
+  programming at age 15, selling his first program for $75, and went on to build Salesforce into a company worth more than
+  $300 billion that also owns Slack, Tableau, Quip, and MuleSoft. Marc is known as a marketing legend, and is now leading
+  Salesforce into the era of AI agents. In our conversation, we discuss:
 
-  '
+  • The importance of maintaining a beginner’s mind
+
+  • His approach to product launches and marketing
+
+  • Managing through tough times and layoffs
+
+  • His relationship with Steve Jobs and lessons learned
+
+  • Why Salesforce is betting big on AI agents
+
+  • Many stories from his entrepreneurial roller coaster
+
+  • Much more
+
+
+  —
+
+
+  Brought to you by:
+
+  • Cloudinary—The foundational technology for all images and video on the internet: http://cloudinary.com/lenny
+
+  • Enterpret—Transform customer feedback into product growth: https://enterpret.com/lenny
+
+  • Coda—The all-in-one collaborative workspace: https://coda.io/lenny
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/behind-the-founder-marc-benioff
+
+
+  Where to find Marc Benioff:
+
+  • X: https://x.com/benioff
+
+  • LinkedIn: https://www.linkedin.com/in/marcbenioff
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Introduction to Marc Benioff and Salesforce
+
+  (03:54) Marc’s early career and domain names
+
+  (05:59) The App Store story and lessons from Steve Jobs
+
+  (15:18) Lessons from launching Salesforce
+
+  (22:03) The importance of keeping a beginner’s mindset
+
+  (29:53) Why Marc calls Salesforce the “25-year startup”
+
+  (31:47) Agentforce
+
+  (36:09) Why Marc says AI is the defining technology of our lifetime
+
+  (40:12) AI’s impact on the workforce
+
+  (42:31) Entrepreneurs need to be like conductors
+
+  (46:02) Failure corner
+
+  (50:32) The future of AI agents
+
+  (56:34) Final thoughts and farewell
+
+
+  Referenced:
+
+  • Bill.com: https://www.bill.com
+
+  • App Store: https://www.apple.com/app-store/
+
+  • Salesforce: https://www.salesforce.com
+
+  • Oracle: https://www.oracle.com
+
+  • Larry Ellison on X: https://x.com/larryellison
+
+  • Siebel Systems: https://en.wikipedia.org/wiki/Siebel_Systems
+
+  • Saba Software: https://talentedlearning.com/lms-vendor-directory/saba-software
+
+  • Tom Siebel on LinkedIn: https://www.linkedin.com/in/thomassiebel
+
+  • Avon: https://www.avon.com
+
+  • Salesforce Chief Has Pulled Some Crazy Stunts: https://www.businessinsider.com/marc-benioff-salesforcecom-chief-has-pulled-some-crazy-stunts-2012-3
+
+  •  Matthew McConaughey on Instagram: https://www.instagram.com/officiallymcconaughey
+
+  • Woody Harrelson on Instagram: https://www.instagram.com/woodyharrelson
+
+  • “Ask More of AI” with Matthew McConaughey: https://www.youtube.com/playlist?list=PLnobS_RgN7JaxOsLD8WH0I9E6osK3UrfI
+
+  • Marc’s tweet about the ad with McConaughey and Harrelson: https://x.com/Benioff/status/1866175950062239784
+
+  • Chris Rock on Instagram: https://www.instagram.com/chrisrock
+
+  • Sushi Iwa: http://www.sushiiwa.jp/en/
+
+  • Ryoanji Temple Rock Garden: https://www.japan.travel/en/spot/1145/
+
+  • Neil Young Archives on Instagram: https://www.instagram.com/neilyoungarchives
+
+  • Mount Tam: https://en.wikipedia.org/wiki/Mount_Tamalpais
+
+  • Spirit Rock: https://www.spiritrock.org
+
+  • Jack Kornfield: https://www.spiritrock.org/teachers/jack-kornfield
+
+  • Agentforce: https://www.salesforce.com/form/agentforce/demo
+
+  • Minority Report on Prime: https://www.amazon.com/Minority-Report-Tom-Cruise/dp/B00A2FSSHK
+
+  • Peter Schwartz on X: https://x.com/peterschwartz2
+
+  • UCSF Health: https://www.ucsfhealth.org
+
+  • A.I. Chatbots Defeated Doctors at Diagnosing Illness: https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html
+
+  • Does AI improve doctors’ diagnoses? Study puts it to the test: https://www.sciencedaily.com/releases/2024/11/241113123419.htm
+
+  • A.I. Will Transform the Global Economy—if Humans Let It: https://www.nytimes.com/2024/12/07/special-series/ai-transform-global-economy.html
+
+  • Wargames on Prime: https://www.amazon.com/Wargames-Dabney-Coleman/dp/B0011EQBOS
+
+  ...References continued at: https://www.lennysnewsletter.com/p/behind-the-founder-marc-benioff
+
+
+  Recommended books:
+
+  • Ghost Fleet: A Novel of the Next World War: https://www.amazon.com/Ghost-Fleet-Novel-Next-World/dp/054470505X
+
+  • Behind the Cloud: The Untold Story of How Salesforce.com Went from Idea to Billion-Dollar Company—and Revolutionized an
+  Industry: https://www.amazon.com/Behind-Cloud-Salesforce-com-Billion-Dollar-Company/dp/0470521163
+
+  • Trailblazer: The Power of Business as the Greatest Platform for Change: https://www.amazon.com/Trailblazer-Business-Greatest-Platform-Change/dp/1984825194
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 3439.0
 duration: '57:19'
 view_count: 78232

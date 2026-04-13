@@ -4,11 +4,96 @@ title: Product lessons from Waymo | Shweta Shrivastava (Waymo, Amazon, Cisco)
 youtube_url: https://www.youtube.com/watch?v=VtNmAjNF3Tc
 video_id: VtNmAjNF3Tc
 publish_date: 2023-04-09
-description: 'Shweta Shrivastava is a Senior Product Leader at Waymo, an autonomous
-  driving technology company backed by Alphabet. Prior to joining Waymo, she was the
-  CPO of Nauto, where she also worked...
+description: 'Shweta Shrivastava is a Senior Product Leader at Waymo, an autonomous driving technology company backed by Alphabet.
+  Prior to joining Waymo, she was the CPO of Nauto, where she also worked on AI-assisted driver tools. Shweta has worked in
+  product for over 15 years in senior roles at several companies, including Amazon and Cisco. In today’s episode, we discuss:
 
-  '
+  • How Waymo builds trust with riders
+
+  • Product management at Waymo vs software-only products
+
+  • The state of self-driving technology
+
+  • The importance of being a disruptor and why large companies need to disrupt more
+
+  • Underrated product management skills
+
+
+  —
+
+
+  Brought to you by Vanta—Automate compliance. Simplify security | Public—Invest in stocks, treasuries, crypto, and more |
+  LMNT—Zero-sugar hydration
+
+
+  Find the full transcript at: https://www.lennyspodcast.com/product-lessons-from-waymo-shweta-shrivastava-waymo-amazon-cisco/#transcript
+
+
+  Where to find Shweta Shriva
+
+  • LinkedIn: https://www.linkedin.com/in/shshrivastava/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Shweta’s background
+
+  (03:47) What Shweta and her team are responsible for at Waymo
+
+  (05:30) About the autonomous driving vehicle hardware, software, and simulation tools 
+
+  (08:14) Differences in working at Waymo vs. a more traditional software company
+
+  (11:02) How Waymo builds trust with riders and the difference between driver assist and fully autonomous
+
+  (13:57) An example of how Waymo builds trust with riders
+
+  (15:55) The commercial, operational, and system behavior metrics Waymo uses 
+
+  (20:38) What are L5 autonomous vehicles and why Shweta thinks L4 vehicles are good enough
+
+  (22:53) How to keep investors enthusiastic when it’s a long-term investment
+
+  (25:24) Building successful teams and successful products
+
+  (26:39) Determining what you’re not building, especially before product-market-fit
+
+  (27:49) Why large companies need to disrupt their own models 
+
+  (29:33) The most underrated product management skills
+
+  (33:07) Tips for getting promoted
+
+  (35:19) Where is Waymo and how to try it out
+
+  (36:46) Lightning round
+
+
+  Referenced:
+
+  • Waymo: https://waymo.com/
+
+  • Nauto: https://www.nauto.com/
+
+  • Working Backwards: Insights, Stories, and Secrets from Inside Amazon: https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595
+
+  • Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers: https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986
+
+  • The Innovator''s Dilemma: When New Technologies Cause Great Firms to Fail: https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780
+
+  • Top Gun: Maverick on Amazon Prime: https://www.amazon.com/Top-Gun-Maverick-Tom-Cruise/dp/B0B18G8R9B
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 2536.0
 duration: '42:16'
 view_count: 5227

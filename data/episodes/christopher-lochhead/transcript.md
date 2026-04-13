@@ -1,15 +1,33 @@
 ---
 guest: Christopher Lochhead
-title: How to become a category pirate | Christopher Lochhead (Author of Play Bigger,
-  Niche Down, more)
+title: How to become a category pirate | Christopher Lochhead (Author of Play Bigger, Niche Down, more)
 youtube_url: https://www.youtube.com/watch?v=mS4B541m9xg
 video_id: mS4B541m9xg
 publish_date: 2023-09-17
-description: 'Christopher Lochhead is a 14-time #1 bestselling author, top podcaster,
-  and former 3x public tech company CMO and has been an advisor to over 50 VC-backed
-  tech startups. He is best known as...
-
-  '
+description: "Christopher Lochhead is a 14-time #1 bestselling author, top podcaster, and former 3x public tech company CMO\
+  \ and has been an advisor to over 50 VC-backed tech startups. He is best known as a “godfather” of category design, and\
+  \ Adobe named his book Play Bigger one of “the five greatest marketing books of all time.” In this episode, we discuss:•\
+  \ What exactly category design is\n• The “Frame It, Name It, Claim It” framework\n• How to go about designing your category\n\
+  • Why “languaging” is so powerful\n• Rating yourself on the category design scorecard\n• Why Chris considers “product-market\
+  \ fit” a dangerous concept\n• Chris’s spicy take on positioning\n• The “better trap” and why it’s crucial to avoid it\n\
+  • The magic triangle of product, company, and category\n• How to embrace negative feedback\n• Why the greatest time in the\
+  \ history of innovation is now\n\n—\n\nBrought to you by Mixpanel—Event analytics that everyone can trust, use, and afford:\
+  \ https://mixpanel.com/startups | Vanta—Automate compliance. Simplify security: https://vanta.com/lenny | Round—The private\
+  \ network built by tech leaders for tech leaders: https://www.round.tech/apply?utm_campaign=lennys-letter&utm_medium=email-ad&utm_source=email-marketing&utm_content=send-3-2023-09-17\n\
+  \nFind the transcript and references at: https://www.lennysnewsletter.com/p/how-to-become-a-category-pirate-christopher\n\
+  \nWhere to find Christopher Lochhead:\n• Twitter/X: https://twitter.com/lochhead\n• LinkedIn: https://www.linkedin.com/in/christopherlochhead/\n\
+  • Website: https://www.categorypirates.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter/X:\
+  \ https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Chris’s background\n(05:08) Why Chris shares his negative criticism on his website\n(11:58) A simple explanation\
+  \ of category design\n(18:00) How Purell mastered category design\n(23:07) What Gong got right (and wrong)\n(29:01) The\
+  \ “better trap” and why it’s crucial to avoid it\n(38:51) Reflective thinking vs. reflexive thinking\n(44:45) How Lomi created\
+  \ a revolutionary solution for food waste \n(48:50) The “Frame It, Name It, Claim It” framework \n(49:08) The concept of\
+  \ “languaging” \n(54:00) Examples of languaging \n(59:19) Spend more time on the problem than the solution\n(1:01:37) The\
+  \ power of “backcasting”\n(1:07:33) The truth behind building legendary brands\n(1:10:39) The problem with product-market\
+  \ fit\n(1:16:11) Chris’s spicy take on positioning\n(1:19:20) “Damming the demand”\n(1:24:49) Laws from Chris’s book The\
+  \ 22 Laws of Category Design\n(1:29:46) Word of mouth: the most powerful form of marketing \n(1:34:05) Chris’s closing message\
+  \ to listeners\n(1:39:01) Lightning round\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring\
+  \ the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 6515.0
 duration: '1:48:35'
 view_count: 17217

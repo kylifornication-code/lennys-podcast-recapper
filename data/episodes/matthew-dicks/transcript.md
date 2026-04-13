@@ -4,11 +4,32 @@ title: How to tell better stories | Matthew Dicks (Storyworthy)
 youtube_url: https://www.youtube.com/watch?v=J4wguyJZI6A
 video_id: J4wguyJZI6A
 publish_date: 2023-12-15
-description: 'Matthew Dicks is a best-selling author, columnist, blogger, podcaster,
-  playwright, and teacher. He wrote my all-time favorite book on storytelling, Storyworthy.
-  He is an elementary school teacher...
-
-  '
+description: "Matthew Dicks is a best-selling author, columnist, blogger, podcaster, playwright, and teacher. He wrote my\
+  \ all-time favorite book on storytelling, Storyworthy. He is an elementary school teacher by day and by night teaches storytelling\
+  \ and public speaking to individuals, corporations, universities, religious institutions, and school districts around the\
+  \ world. He’s taught storytelling at Yale, MIT, Harvard, and Purdue, along with Amazon, Salesforce, Slack, Lego, and others.\
+  \ In this conversation, Matthew shares insights and techniques for effective storytelling, including:\n• The benefits of\
+  \ good storytelling in business\n• The five-second moment and why it’s so important\n• Why you should start every story\
+  \ at the end\n• How to build a vault of stories that can be deployed in business situations\n• Tips on how to be funnier\n\
+  • His life-changing “Homework for Life” practice\n• Advice for dealing with nervousness in public speaking\n• The power\
+  \ of saying yes\n\n—\n\nBrought to you by OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny | Maui Nui Venison—The\
+  \ healthiest red meat on the planet delivered directly to your door: https://mauinuivenison.com/discount/LENNY?utm_medium=podcast&utm_source=show_notes&utm_campaign=lenny\
+  \ | Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\nFind the transcript and references at: https://www.lennysnewsletter.com/p/how-to-tell-better-stories-matthew\n\
+  \nWhere to find Matthew Dicks:\n• Website: https://matthewdicks.com/\n• X: https://twitter.com/MatthewDicks\n• LinkedIn:\
+  \ https://www.linkedin.com/in/matthew-dicks-84a95711/\n• YouTube: https://www.youtube.com/channel/UC4K0fcEJkzJLso5h6CN00LQ\n\
+  • Storyworthy: https://www.storyworthymd.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Matthew’s background\n(04:27) The five-second moment \n(10:29) Knowing the ending \n(14:28) The importance of including\
+  \ a transformation \n(15:59) The dinner test\n(18:19) You can’t tell someone else’s story\n(20:24) Vacation stories\n(23:14)\
+  \ Adding stakes to the story \n(25:12) The power of surprise\n(29:20) The benefits of storytelling in business \n(32:20)\
+  \ An example of adding stakes\n(34:02) Storytelling in the workplace \n(44:29) Using personal inventory to make stories\
+  \ relatable \n(48:46) Four ways to keep people listening\n(50:52) Using humor in business storytelling \n(53:09) Advice\
+  \ for adding humor\n(58:43) An example of how storytelling helped a biotech company sell product\n(1:02:06) Advice for people\
+  \ who don’t want to become storytellers\n(1:06:35) The power of “Homework for Life” \n(01:15:26) Practical tips for starting\
+  \ Homework for Life \n(01:19:28) Dealing with nervousness in public speaking \n(01:24:42) Preparing for a talk or presentation\
+  \ \n(01:25:24) The power of saying yes \n(01:30:55) Lightning round\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 6177.0
 duration: '1:42:57'
 view_count: 57944

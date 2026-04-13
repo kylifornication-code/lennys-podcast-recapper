@@ -1,15 +1,40 @@
 ---
 guest: Geoff Charles
-title: 'Velocity over everything: How Ramp became the fastest-growing SaaS startup
-  ever | Geoff Charles'
+title: 'Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles'
 youtube_url: https://www.youtube.com/watch?v=aNJDZ_RzTVk
 video_id: aNJDZ_RzTVk
 publish_date: 2023-08-06
-description: 'Geoff Charles is VP of Product at Ramp—the fastest-growing SaaS startup
-  of all time, Fast Company’s #1 Most Innovative Company in North America, and a company
-  I believe we should all study...
-
-  '
+description: "Geoff Charles is VP of Product at Ramp—the fastest-growing SaaS startup of all time, Fast Company’s #1 Most\
+  \ Innovative Company in North America, and a company I believe we should all study for how they operate, execute, and hire.\
+  \ At Ramp, Geoff has led the product team from the early days, including the development and release of 60+ products and\
+  \ features in the past year alone. He has been building financial services for over a decade, and his interview in Lenny’s\
+  \ Newsletter quickly became one of the most widely read newsletter issues of all time. In today’s podcast, we will discuss:\n\
+  • How velocity is at the heart of Ramp’s culture and success\n• How writing can unlock clarity, creativity, and rapid problem-solving\n\
+  • How to empower your product team through context sharing\n• How to practically approach problems from first principles\n\
+  • How Ramp approaches hiring in a unique way\n• Suggestions for breaking into the world of product management\n\n—\n\nBrought\
+  \ to you by Ezra—The leading full-body cancer screening company: http://www.ezra.com/lenny | Coda—Meet the evolution of\
+  \ docs: https://coda.io/lenny | Attio—The powerful, flexible CRM for fast-growing startups: https://attio.com/lenny?utm_source=lennyrachitsky&utm_medium=sponsorship&utm_campaign=lenny-20230625\n\
+  \nFind the full transcript at: ⁠https://www.lennyspodcast.com/velocity-over-everything-how-ramp-became-the-fastest-growing-saas-startup-of-all-time-geoff-charl/#transcript⁠\n\
+  \nWhere to find Geoff Charles:\n• Twitter: https://twitter.com/geoffintech\n• LinkedIn: https://www.linkedin.com/in/geoffrey-charles/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Geoff’s background\n(04:49) An overview\
+  \ of Ramp\n(06:20) The importance of velocity at Ramp\n(08:50) Single-threaded goals and how to keep teams away from distractions\n\
+  (13:20) Setting lofty goals\n(15:17) How Ramp empowers teams\n(17:37) How Geoff’s management style has evolved at Ramp\n\
+  (19:55) The product design process at Ramp\n(21:19) Ramp’s system for sharing feedback\n(23:07) How Ramp handles bug fixes\
+  \ \n(24:15) Advice for PMs who want to move faster\n(29:29) Why velocity and impact can help protect against burnout\n(32:33)\
+  \ Planning vs. doing\n(37:54) Ramp’s strategy documents \n(40:55) Finding your unique positioning\n(42:46) OKRs\n(44:53)\
+  \ The importance of first-principle thinking\n(48:53) How to use writing to think through problems \n(51:46) How Geoff carves\
+  \ out time for deep work\n(54:05) How Geoff manages tasks and stays organized\n(57:15) Why other roles share the PM load\
+  \ at Ramp\n(1:00:30) PM responsibilities at Ramp\n(1:01:46) Identifying A+ talent\n(1:06:02) The skills Ramp looks for when\
+  \ hiring\n(1:07:33) Advice for people wanting to break into product management \n(1:10:37) Lightning round\n\nReferenced:\n\
+  • How Ramp builds product: https://www.lennysnewsletter.com/p/how-ramp-builds-product\n• Bill: https://www.bill.com/\n•\
+  \ Expensify: https://www.expensify.com/\n• Concur: https://www.concur.com/\n• Coupa: https://www.coupa.com/\n• Nicole Forsgren\
+  \ on Lenny’s Podcast: https://www.lennyspodcast.com/how-to-measure-and-improve-developer-productivity-nicole-forsgren-microsoft-research-github-goo/\n\
+  • Sheryl Sandberg on LinkedIn: https://www.linkedin.com/in/sheryl-sandberg-5126652/\n• Getting Things Done: https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563\n\
+  • When Breath Becomes Air: https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X\n• The Bear on Hulu:\
+  \ https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f\n• Whoop: https://www.whoop.com/\n\nProduction\
+  \ and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\n\
+  Lenny may be an investor in the companies discussed."
 duration_seconds: 4617.0
 duration: '1:16:57'
 view_count: 54457

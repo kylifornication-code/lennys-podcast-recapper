@@ -1,13 +1,48 @@
 ---
 guest: Eoghan McCabe
-title: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe
-  (founder and CEO)
+title: How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)
 youtube_url: https://www.youtube.com/watch?v=0_opWSfmN8M
 video_id: 0_opWSfmN8M
 publish_date: 2025-08-21
-description: Eoghan McCabe is the founder and CEO of Intercom, a customer service
-  platform that has successfully pivoted to become an AI-first company with its agent
-  product, Fin. After stepping away from...
+description: "Eoghan McCabe is the founder and CEO of Intercom, a customer service platform that has successfully pivoted\
+  \ to become an AI-first company with its agent product, Fin. After stepping away from the CEO role in 2020 due to health\
+  \ issues, Eoghan returned to find the company’s growth had stalled. Just one month after his return, ChatGPT launched, and\
+  \ within six weeks, Intercom had a working prototype of what would become Fin. In this conversation, Eoghan shares the brutal\
+  \ reality of transforming a late-stage SaaS business valued at multiple billions into an AI-first company that’s now growing\
+  \ faster than most public software companies.\n\n*We discuss:*\n1. Why Eoghan believes most late-stage companies won’t survive\
+  \ the AI transition\n2. The “founder mode” transformation that required firing 40% of staff and resulted in 98% employee\
+  \ satisfaction\n3. Why having “nothing to lose” is the ultimate advantage in AI transformation (and why comfortable companies\
+  \ will fail)\n4. How Intercom transformed from a plateauing SaaS business to an AI-first company growing at 300%+\n5. How\
+  \ Intercom’s pricing evolved from “the most hated in SaaS” to a model that charges just $0.99 per resolved ticket\n6. The\
+  \ cultural transformation required to compete with AI-native startups\n7. How 12 years of therapy and a period of “ego death”\
+  \ shaped Eoghan’s leadership approach\n\n*Transcript:* https://www.lennysnewsletter.com/p/how-intercom-rose-from-the-ashes-eoghan-mccabe\n\
+  \n*My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/170710700/my-biggest-takeaways-from-this-conversation\n\
+  \n*Brought to you by:*\nGreat Question—Empower everyone to run great research: https://www.greatquestion.com/lenny\nWorkOS—Modern\
+  \ identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\nDX—The developer intelligence platform\
+  \ designed by leading researchers: https://getdx.com/lenny\n\n*Where to find Eoghan McCabe:*\n• X: https://x.com/eoghan\n\
+  • LinkedIn: https://www.linkedin.com/in/eoghanmccabe/\n• Website: https://eoghanmccabe.com/\n\n*Where to find Lenny:*\n\
+  • Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n*In this episode, we cover:*\n(00:00) Introduction to Eoghan\n(05:00) The state of Intercom\n(09:53) The decision to pivot\
+  \ to AI\n(12:33) Why Eoghan is \"anti-bot\" in customer service\n(16:19) Pricing strategy evolution\n(19:26) Implementing\
+  \ the AI transformation \n(26:11) Cultural and organizational changes\n(31:18) Surviving a coup attempt\n(40:05) The future\
+  \ of AI and business\n(45:11) AI's impact on jobs\n(48:44) AI and human creativity\n(50:26) The importance of young AI talent\n\
+  (55:00) The cultural shift in AI adoption\n(58:00) Personal growth and leadership\n(01:04:34) Intercom’s success in producing\
+  \ product leaders\n(01:11:05) Intercom’s unique company culture\n(01:14:11) Lightning round and final thoughts\n\n*Referenced:*\n\
+  • Intercom: https://www.intercom.com/\n• Fin: https://fin.ai/\n• Des Traynor on LinkedIn: https://www.linkedin.com/in/destraynor/\n\
+  • The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher): https://www.lennysnewsletter.com/p/the-art-and-science-of-pricing-madhavan\n\
+  • Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam: https://www.lennysnewsletter.com/p/pricing-and-scaling-your-ai-product-madhavan-ramanujam\n\
+  • Brian Chesky’s new playbook: https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach\n• Behind the founder:\
+  \ Marc Benioff: https://www.lennysnewsletter.com/p/behind-the-founder-marc-benioff\n• Anthropic co-founder on quitting OpenAI,\
+  \ AGI predictions, $100M talent wars, 20% unemployment, and the nightmare scenarios keeping him up at night | Ben Mann:\
+  \ https://www.lennysnewsletter.com/p/anthropic-co-founder-benjamin-mann\n• Fergal Reid on LinkedIn: https://www.linkedin.com/in/fergalreid/\n\
+  • How Perplexity builds product: https://www.lennysnewsletter.com/p/how-perplexity-builds-product\n• Yosi Amram’s website:\
+  \ https://yamram.com/\n• (Nathaniel Russell) Ego Death Now: https://heythereprojects.shop/products/copy-of-nathaniel-russell-space-is-a-place\n\
+  • Daniel Kahneman: https://en.wikipedia.org/wiki/Daniel_Kahneman\n• Palantir: https://www.palantir.com/\n• Stripe: https://stripe.com/\n\
+  • Revolut: https://www.revolut.com/en-US/\n• Paul Adams on LinkedIn: https://www.linkedin.com/in/pauladams\n• What AI means\
+  \ for your product strategy | Paul Adams (CPO of Intercom): https://www.lennysnewsletter.com/p/what-ai-means-for-your-product-strategy\n\
+  ...References continued at: ⁠https://www.lennysnewsletter.com/p/how-intercom-rose-from-the-ashes-eoghan-mccabe⁠\n\n_Production\
+  \ and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5000.0
 duration: '1:23:20'
 view_count: 48959

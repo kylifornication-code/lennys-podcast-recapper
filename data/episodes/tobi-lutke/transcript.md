@@ -1,10 +1,159 @@
 ---
 guest: Tobi Lutke
-title: "Tobi Lütke's leadership playbook: First principles, infinite games, and maximizing human potential"
+title: 'Tobi Lütke''s leadership playbook: First principles, infinite games, and maximizing human potential'
 youtube_url: https://www.youtube.com/watch?v=tq6vdDJQXvs
 video_id: tq6vdDJQXvs
 publish_date: 2025-02-02
-description: "Tobi Lütke is the founder and CEO of Shopify, a $130 billion business that powers over 10% of all U.S. e-commerce. Starting as a snowboard shop in 2004, Shopify has become the leading commerce..."
+description: 'Tobi Lütke is the founder and CEO of Shopify, a $130 billion business that powers over 10% of all U.S. e-commerce.
+  Starting as a snowboard shop in 2004, Shopify has become the leading commerce platform by consistently approaching problems
+  differently. Tobi remains deeply technical, frequently coding alongside his team, and is known for his unique approach to
+  leadership, product development, and company building. In our conversation, we discuss:
+
+  • Why complexity kills entrepreneurship
+
+  • How to develop and leverage your unique talent stack
+
+  • How specifically Tobi approaches thinking from first principles
+
+  • The importance of focusing on unquantifiable qualities like joy and delight
+
+  • Why Tobi works backward from a 100-year vision
+
+  • Why metrics should support decisions, not make them
+
+  • The power of following your curiosity
+
+  • What Tobi believes it takes to be a great product leader
+
+  • Much more
+
+
+  —
+
+
+  Brought to you by:
+
+  • Sinch—Build messaging, email, and calling into your product: https://sinch.com/lenny
+
+  • Liveblocks—Ready-made collaborative features to drop into your product: https://liveblocks.io/lenny
+
+  • Loom—The easiest screen recorder you’ll ever use: http://loom.com/lenny
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/tobi-lutkes-leadership-playbook
+
+
+  Where to find Tobi Lütke:
+
+  • X: https://x.com/tobi
+
+  • LinkedIn: https://www.linkedin.com/in/tobiaslutke/
+
+  • Website: https://tobi.lutke.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Welcome and introduction
+
+  (04:17) The Tobi tornado
+
+  (07:10) Maximizing human potential
+
+  (11:05) Education and personal growth
+
+  (16:47) Operating without KPIs
+
+  (25:00) First-principles thinking
+
+  (40:04) Remote work
+
+  (45:59) Why Tobi never stopped coding
+
+  (54:46) Embracing disagreement
+
+  (01:01:27) The 100-year vision
+
+  (01:09:29) Balancing tactics and positioning
+
+  (01:17:15) Encouraging entrepreneurship
+
+  (01:19:34) The power of good UX
+
+  (01:28:42) The talent stack and unique opportunities
+
+  (01:34:30) The role of passion in product development
+
+  (01:36:39) Final thoughts and farewell
+
+
+  Referenced:
+
+  • How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng): https://www.lennysnewsletter.com/p/how-shopify-builds-a-high-intensity-culture-farhan-thawar
+
+  • Breaking the rules of growth: Why Shopify bans KPIs, optimizes for churn, prioritizes intuition, and builds toward a 100-year
+  vision | Archie Abrams (VP Product, Head of Growth at Shopify): https://www.lennysnewsletter.com/p/shopifys-growth-archie-abrams
+
+  • The ultimate guide to performance marketing | Timothy Davis (Shopify): https://www.lennysnewsletter.com/p/performance-marketing-timothy-davis
+
+  • Brandon Chu on building product at Shopify, how writing changed the trajectory of his career, the habits that make you
+  a great PM, pros and cons of being a platform PM, how Shopify got through Covid: https://www.lennysnewsletter.com/p/brandon-chu-on-what-its-like-to-build
+
+  • IRC: https://en.wikipedia.org/wiki/IRC
+
+  • Goodhart’s law: https://en.wikipedia.org/wiki/Goodhart%27s_law
+
+  • Glen Coates on LinkedIn: https://www.linkedin.com/in/glcoates/
+
+  • How Shopify builds product: https://www.lennysnewsletter.com/p/how-shopify-builds-product
+
+  • The Last Dance on Netflix: https://www.netflix.com/title/80203144
+
+  • Autoregressive Models for Natural Language Processing: https://medium.com/@zaiinn440/autoregressive-models-for-natural-language-processing-b95e5f933e1f
+
+  • Archimedean property: https://en.wikipedia.org/wiki/Archimedean_property
+
+  • Tabula rasa: https://en.wikipedia.org/wiki/Tabula_rasa
+
+  • Daniel Weinand on LinkedIn: https://www.linkedin.com/in/danielweinand/
+
+  • World of Warcraft: https://worldofwarcraft.blizzard.com
+
+  • Harley Finkelstein on LinkedIn: https://www.linkedin.com/in/harleyf/
+
+  • Monorepo: https://en.wikipedia.org/wiki/Monorepo
+
+  • The Sarbanes Oxley Act: https://sarbanes-oxley-act.com/
+
+  • Shopify builds Shopify Balance with Stripe to give small businesses an easier way to manage money: https://stripe.com/customers/shopify
+
+  • Stanford marshmallow experiment: https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment
+
+  • Brian Armstrong on LinkedIn: https://www.linkedin.com/in/barmstrong/
+
+  • We are the Web: https://link.wired.com/public/32945405
+
+
+  Recommended books:
+
+  • Finite and Infinite Games: https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713
+
+  • The Infinite Game: https://www.amazon.com/Infinite-Game-Simon-Sinek/dp/073521350X/
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 6103.0
 duration: '1:41:43'
 view_count: 94661

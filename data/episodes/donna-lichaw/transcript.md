@@ -1,15 +1,95 @@
 ---
 guest: Donna Lichaw
-title: How to discover your superpowers, own your story, and unlock personal growth
-  | Donna Lichaw
+title: How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw
 youtube_url: https://www.youtube.com/watch?v=7fA8DMMUNPI
 video_id: 7fA8DMMUNPI
 publish_date: 2024-02-25
-description: 'Donna Lichaw is an internationally sought-after executive coach, keynote
-  speaker, and best-selling author. She helps visionary founders, CEOs, and executive
-  teams level up their leadership...
+description: 'Donna Lichaw is an internationally sought-after executive coach, keynote speaker, and best-selling author. She
+  helps visionary founders, CEOs, and executive teams level up their leadership and scale their impact while staying true
+  to their mission, purpose, and themselves. Donna works with leaders at companies like Google, Disney, Twitter, Microsoft,
+  Mailchimp, and Adobe, as well as a plethora of mission-driven startups and nonprofits. In our conversation, we discuss:
 
-  '
+  • How our personal narratives influence our success and failure
+
+  • Why identifying your superpowers (and kryptonite) is so important, and how to do it
+
+  • The value of doubling down on your strengths rather than trying to fix weaknesses
+
+  • How to acknowledge and reframe feelings of impostor syndrome
+
+  • The Double Diamond framework for personal growth and goal-setting
+
+  • The power of visualization and how it can fuel motivation and creativity
+
+
+  —
+
+
+  Brought to you by:
+
+  • OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny
+
+  • Sendbird—The (all-in-one) communications API platform for mobile apps: https://sendbird.com/lenny
+
+  • Sprig—Build a product people love: https://sprig.com/getstarted?utm_source=lenny&utm_medium=podcast
+
+
+  Find the transcript and references at: https://www.lennysnewsletter.com/p/how-to-discover-your-superpowers
+
+
+  Where to find Donna Lichaw:
+
+  • LinkedIn: https://www.linkedin.com/in/dlichaw/
+
+  • Website: https://www.donnalichaw.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Donna’s background
+
+  (04:25) Donna’s origin story and transition to coaching
+
+  (08:38) The power of storytelling in leadership
+
+  (11:36) Becoming the hero of your own story
+
+  (14:49) Changing your story
+
+  (21:19) Understanding and shifting others’ stories
+
+  (25:41) Imposter syndrome
+
+  (31:28) Exploring different types of kryptonite
+
+  (36:41) Identifying and leveraging strengths
+
+  (43:53) Identifying superpowers
+
+  (56:39) Running experiments
+
+  (01:01:52) Using product frameworks for personal growth
+
+  (01:12:41) Identifying subconscious goals
+
+  (01:15:27) Envisioning impact
+
+  (01:16:44) Lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5223.0
 duration: '1:27:03'
 view_count: 11727

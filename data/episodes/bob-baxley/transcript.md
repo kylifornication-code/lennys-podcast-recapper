@@ -1,15 +1,186 @@
 ---
 guest: Bob Baxley
-title: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond
-  | Bob Baxley
+title: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley
 youtube_url: https://www.youtube.com/watch?v=X-83gvgVaWc
 video_id: X-83gvgVaWc
 publish_date: 2025-06-12
-description: 'Bob Baxley is a design leader who has shaped products used by billions
-  at Apple, Pinterest, Yahoo, and ThoughtSpot. During his eight years at Apple, he
-  led design for the online store and the...
+description: 'Bob Baxley is a design leader who has shaped products used by billions at Apple, Pinterest, Yahoo, and ThoughtSpot.
+  During his eight years at Apple, he led design for the online store and the App Store, and witnessed the iPhone’s transformative
+  launch while working under Steve Jobs. A student of history turned software craftsman, Bob discovered his calling after
+  exploring photography, filmmaking, and music, ultimately recognizing software as the most powerful creative medium of our
+  time. Bob champions the moral obligation designers have to reduce frustration in people’s daily digital interactions.
 
-  '
+
+  *What you’ll learn:*
+
+  1. Why design should report to engineering, not product
+
+  2. The “Beatles principle”—why the best products come from teams of 4 to 6, not 40 to 60
+
+  3. How to create design tenets vs. principles (with real examples)
+
+  4. The counterintuitive reason to delay drawing or prototyping as long as possible
+
+  5. Why software is fundamentally a medium, like film or music (not just a tool)
+
+  6. Why Bob “bounced off the culture” at Pinterest, and lessons from failure
+
+  7. The lunar landing story that teaches us about championing radical ideas
+
+  8. How to evaluate if a company truly values design before joining
+
+  9. The moral obligation of software makers to build great products
+
+
+  *Transcript:* ⁠https://www.lennysnewsletter.com/p/35-years-of-product-design-wisdom-bob-baxley⁠
+
+
+  *This entire episode is brought to you by Stripe—helping companies of all sizes grow revenue:* https://stripe.com/
+
+
+  *Where to find Bob Baxley:*
+
+  • Instagram: https://www.instagram.com/baxley/
+
+  • LinkedIn: https://www.linkedin.com/in/bbaxley/
+
+  • Website: http://www.bobbaxley.com/
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Bob Baxley
+
+  (03:52) Apple''s lasting culture
+
+  (06:15) Navigating unique company cultures
+
+  (13:19) Finding a company that truly values your role
+
+  (15:46) What is design?
+
+  (17:17) How to help founders understand the value of design
+
+  (23:08) How to align product managers and designers
+
+  (26:31) Design reporting to engineering
+
+  (30:54) Integrating engineers early in the design process
+
+  (33:43) The maker mindset
+
+  (35:14) Challenging the assumption that design is time-intensive
+
+  (38:04) Design tenets vs. design principles
+
+  (45:25) The moral obligation of great design
+
+  (51:48) Understanding software as a medium
+
+  (01:01:20) Reducing ambiguity for product teams
+
+  (01:07:04) Giving designers space for creativity
+
+  (01:08:48) The "primal mark" concept
+
+  (01:12:05) AI prototyping tools: benefits and risks
+
+  (01:17:00) AI as a life coach
+
+  (01:21:22) Life lessons from the Apollo program
+
+  (01:28:24) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Steve Jobs: https://en.wikipedia.org/wiki/Steve_Jobs
+
+  • Walt Disney: https://en.wikipedia.org/wiki/Walt_Disney
+
+  • Pinterest: https://www.pinterest.com/
+
+  • X: https://x.com/
+
+  • Uber: https://www.uber.com/
+
+  • Airbnb: https://www.airbnb.com/
+
+  • Slack: https://slack.com/
+
+  • Ed Catmull on X: https://x.com/edcatmull
+
+  • John Lasseter on X: https://x.com/johnlasseter5
+
+  • Apple patented a pizza box, for pizzas: https://www.theverge.com/2017/5/16/15646154/apple-pizza-box-patent-come-on
+
+  • Humane: https://en.wikipedia.org/wiki/Humane_Inc.
+
+  • Jony Ive: https://en.wikipedia.org/wiki/Jony_Ive
+
+  • Tony Fadell on LinkedIn: https://www.linkedin.com/in/tonyfadell/
+
+  • Hiroki Asai on LinkedIn: https://www.linkedin.com/in/hiroki-asai-a44137110/
+
+  • Tim Cook on X: https://x.com/tim_cook
+
+  • ThoughtSpot: https://www.thoughtspot.com/
+
+  • Ben Silbermann on LinkedIn: https://www.linkedin.com/in/silbermann/
+
+  • Ajeet Singh on LinkedIn: https://www.linkedin.com/in/ajeetsinghmann/
+
+  • Honeywell: https://www.honeywell.com
+
+  • IDEO: https://www.ideo.com/
+
+  • Nutanix: https://www.nutanix.com/
+
+  • Lego: https://www.lego.com/
+
+  • Leica: https://leica-camera.com/
+
+  • Porsche: https://www.porsche.com/
+
+  • Patagonia: https://www.patagonia.com
+
+  • Brian Eno’s website: https://www.brian-eno.net/
+
+  • Scenius: why creatives are stronger together: https://thecreativelife.net/scenius/
+
+  • The Beatles website: https://www.thebeatles.com/
+
+  • Disneyland: https://disneyland.disney.go.com/destinations/disneyland/
+
+  • Tomorrowland: https://disneyland.disney.go.com/destinations/disneyland/tomorrowland/
+
+  • Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26, ex-Binance Head of Product):
+  https://www.lennysnewsletter.com/p/unorthodox-product-lessons-from-n26-and-more
+
+  • Larry Page: https://en.wikipedia.org/wiki/Larry_Page
+
+  • Sergey Brin: https://en.wikipedia.org/wiki/Sergey_Brin
+
+  • Design Principles: https://principles.design/
+
+  ...References continued at: https://www.lennysnewsletter.com/p/35-years-of-product-design-wisdom-bob-baxley
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 6119.0
 duration: '1:41:59'
 view_count: 46540

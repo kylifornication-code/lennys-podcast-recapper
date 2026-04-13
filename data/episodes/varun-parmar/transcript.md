@@ -4,11 +4,39 @@ title: An inside look at how Miro builds product | Varun Parmar (CPO of Miro)
 youtube_url: https://www.youtube.com/watch?v=furNg4njlsg
 video_id: furNg4njlsg
 publish_date: 2023-04-20
-description: 'Varun Parmar is the Chief Product Officer of Miro and has over two decades
-  of experience in the tech industry. Prior to joining Miro, Varun held executive
-  positions as Chief Product Officer...
-
-  '
+description: "Varun Parmar is the Chief Product Officer of Miro and has over two decades of experience in the tech industry.\
+  \ Prior to joining Miro, Varun held executive positions as Chief Product Officer at Box and Syncplicity (acquired by Dell\
+  \ EMC) and spent six years in product management at Adobe. He also co-founded Doculus, which was later acquired by Box.\
+  \ In today’s episode, we discuss:\n• The importance of empathy and how to foster it\n• The “AMPED” structure for cross-functional\
+  \ product teams\n• How to move fast and stay ahead of the competition\n• Powerful product and design rituals\n• How Miro\
+  \ acquired their first 1,000 users\n• How Miro successfully added a sales motion\n\n—\n\nBrought to you by Miro—A collaborative\
+  \ visual platform where your best work comes to life | Braintrust—For when you needed talent, yesterday | Linear—The new\
+  \ standard for modern software development\n\nFind the transcript at: https://www.lennysnewsletter.com/p/an-inside-look-at-how-miro-builds\n\
+  \nWhere to find Varun Parmar:\n• Twitter: https://twitter.com/vparmar230\n• LinkedIn: https://www.linkedin.com/in/vparmar/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Varun’s background\n(04:08) How Miro\
+  \ operates as a cross-cultural product team\n(07:22) How applying empathy helped Miro build Miro Talktrack\n(11:51) What\
+  \ makes Miro stand out\n(17:08) Miro’s AMPED structure\n(22:57) The benefit of having product marketing as a part of the\
+  \ cross-functional team\n(25:24) How competition affects growth and product strategy\n(31:43) Why speed is so important\
+  \ and how to improve it\n(34:21) How Miro ensures that their products meet quality standards\n(37:19) How to remove blockers\n\
+  (47:22) Miro’s product development process\n(53:34) How OKRs work at Miro\n(55:55) The product stack at Miro\n(1:01:20)\
+  \ Big bets vs. maintenance and bug fixes at Miro\n(1:03:44) The “three horizons” framework\n(1:04:30) The importance of\
+  \ accountability \n(1:10:46) How Miro got their first 1,000 users\n(1:12:33) Other growth levers at Miro\n(1:15:53) Adding\
+  \ a sales motion \n(1:18:08) Miro AI, and new updates and enhancements coming soon\n(1:20:12) Lightning round\n\nReferenced:\n\
+  • Miro: https://miro.com/\n• Miro Talktrack: https://help.miro.com/hc/en-us/articles/7825622973330-Miro-Talktrack-board-recordings-BETA-\n\
+  • The design sprint: https://www.thesprintbook.com/the-design-sprint\n• Jake Knapp on LinkedIn: https://www.linkedin.com/in/jake-knapp/\n\
+  • Miroverse: https://miro.com/miroverse/\n• Amp It Up: Leading for Hypergrowth by Raising Expectations, Increasing Urgency,\
+  \ and Elevating Intensity: https://www.amazon.com/Amp-Unlocking-Hypergrowth-Expectations-Intensity/dp/1119836115\n• Reinforcement\
+  \ learning: https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292\n• Jira: https://www.atlassian.com/software/jira\n\
+  • Confluence: https://www.atlassian.com/software/confluence\n• Coda: https://coda.io/\n• Looker: https://www.looker.com/google-cloud/\n\
+  • Productboard: https://www.productboard.com/\n• Three horizons framework: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/enduring-ideas-the-three-horizons-of-growth\n\
+  • Capterra: https://www.capterra.com/\n• Elena Verna on Lenny’s Podcast: https://www.lennyspodcast.com/elena-verna-on-how-b2b-growth-is-changing-product-led-growth-product-led-sales-why-you-should-go-freemium-not-trial-what-features-to-make-free-and-much-more/\n\
+  • Barbra Gago on Lenny’s Podcast: https://www.lennyspodcast.com/category-creation-and-brand-building-barbra-gago-pando-miro-greenhouse-culture-amp/\n\
+  • FIFA World Cup template: https://miro.com/miroverse/fifa-world-cup-2022-editable-bracket-diagrams/\n• When Breath Becomes\
+  \ Air: https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X/\n• Hit Refresh: The Quest to Rediscover\
+  \ Microsoft’s Soul and Imagine a Better Future for Everyone: https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone/dp/0062652508/\n\
+  • Ted Lasso on AppleTV+: https://tv.apple.com/us/show/ted-lasso/\n\nProduction and marketing by https://penname.co/. For\
+  \ inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 5111.0
 duration: '1:25:11'
 view_count: 13074

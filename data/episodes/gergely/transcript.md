@@ -1,15 +1,126 @@
 ---
 guest: Gergely
-title: 'Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The
-  Pragmatic Engineer)'
+title: 'Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)'
 youtube_url: https://www.youtube.com/watch?v=CtB0O0M7YS0
 video_id: CtB0O0M7YS0
 publish_date: 2022-11-17
-description: 'Gergely Orosz writes the #1 technology newsletter at Substack, called
-  The Pragmatic Engineer. He started his career as a software developer in the U.K.,
-  spent three years at Skype, and followed...
+description: 'Gergely Orosz writes the #1 technology newsletter at Substack, called The Pragmatic Engineer. He started his
+  career as a software developer in the U.K., spent three years at Skype, and followed that role with four years as an engineering
+  manager at Uber before deciding to leave big tech and work for himself. Gergely began pursuing his newsletter full-time
+  in September 2021 and in just one year has amassed 200,000 subscribers. He now makes more money than he did at his salaried
+  tech job, and with freedom and flexibility. In today’s podcast, Gergely shares why he left his well-paying job at Uber,
+  how he got his first 1,000 subscribers, why this kind of work can be stressful and lonely (but ultimately rewarding), and
+  why it takes hard work to build authority and become a great writer. Working solo can be challenging, and in this episode,
+  both Lenny and Gergely offer tips for structuring your unstructured time and finding your focus.
 
-  '
+
+  —
+
+
+  Find the full transcript here: https://www.lennysnewsletter.com/p/leaving-big-tech-to-build-the-1-technology
+
+
+  —
+
+
+  Where to find Gergely Orosz:
+
+
+  • Website: https://www.pragmaticengineer.com/
+
+  • Newsletter: https://newsletter.pragmaticengineer.com
+
+  • Twitter: https://twitter.com/GergelyOrosz
+
+  • LinkedIn: https://www.linkedin.com/in/gergelyorosz/
+
+
+  —
+
+
+  Where to find Lenny:
+
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  —
+
+
+  Thank you to our wonderful sponsors for making this episode possible:
+
+
+  • Lemon.io: https://lemon.io/lenny
+
+  • Eppo: https://www.geteppo.com/
+
+  • Vanta: https://vanta.com/lenny
+
+
+  —
+
+
+  Referenced:
+
+
+  • Gergely’s books: https://blog.pragmaticengineer.com/books/
+
+  • Centered: https://www.centered.app/
+
+  • The Pomodoro technique: https://www.forbes.com/sites/bryancollinseurope/2020/03/03/the-pomodoro-technique/
+
+  • Coding Horror: https://blog.codinghorror.com/
+
+  • How to Achieve Ultimate Blog Success in One Easy Step: https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/
+
+  • A Comment Is an Invitation for Refactoring: https://blog.pragmaticengineer.com/a-comment-is-an-invitation-for-refactoring/
+
+  • Kent Beck’s website: https://www.kentbeck.com/
+
+  • Steve Yegge’s famous rant on Google vs. Amazon: https://www.alexanderjarvis.com/steve-yegges-famous-rant-on-google-vs-amazon/
+
+  • Stevey’s Tech Talk: https://www.youtube.com/playlist?list=PLZfuUWMTtMcC1DZF6HxJhqsGrBXu8Jzi7
+
+
+  —
+
+
+  In this episode, we cover:
+
+
+  (00:00) Gergely’s background
+
+  (07:19) The Pragmatic Engineer, growth and current subscribers 
+
+  (08:59) Compensation with a subscription-based newsletter vs. his salaried position at Uber
+
+  (10:55) How the onset of Covid and layoffs at Uber prompted Gergely to start his newsletter
+
+  (23:10) What he did immediately after leaving Uber
+
+  (25:41) The day-to-day of writing a newsletter
+
+  (35:08) Tips for productivity
+
+  (41:19) Gergely’s favorite parts of entrepreneurship 
+
+  (43:15) The downsides of solo work
+
+  (50:39) Why Gergely stopped making long-term plans
+
+  (54:30) How to get started writing a newsletter
+
+  (1:04:48) Key advice on building a successful newsletter
+
+
+  —
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 4491.0
 duration: '1:14:51'
 view_count: 13365

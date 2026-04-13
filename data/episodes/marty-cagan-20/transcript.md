@@ -4,12 +4,29 @@ title: The disease of process people | Marty Cagan
 youtube_url: https://www.youtube.com/watch?v=gXDg88rSG8U
 video_id: gXDg88rSG8U
 publish_date: 2023-02-06
-description: 'Lenny Rachitsky interviews world-class product leaders and growth experts
-  to uncover concrete, actionable, and tactical advice to help you build, launch,
-  and grow your own product.
+description: 'Lenny Rachitsky interviews world-class product leaders and growth experts to uncover concrete, actionable, and
+  tactical advice to help you build, launch, and grow your own product.
 
 
-  🎙️...'
+  🎙️ Check out all past episodes of Lenny''s Podcast here: https://www.lennyspodcast.com/
+
+  —
+
+  Find the full episode here: https://youtu.be/h-KVGHoQ_98
+
+  —
+
+  🔔 For more videos like these, subscribe here: https://www.youtube.com/c/LennysPodcast?sub_confirmation=1
+
+  —
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/'
 duration_seconds: 123.0
 duration: '2:03'
 view_count: 10749

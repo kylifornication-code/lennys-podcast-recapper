@@ -4,11 +4,39 @@ title: Becoming evidence-guided | Itamar Gilad (Gmail, YouTube, Microsoft)
 youtube_url: https://www.youtube.com/watch?v=aJWSn-tz3jQ
 video_id: aJWSn-tz3jQ
 publish_date: 2023-09-21
-description: 'Itamar Gilad is a product coach, author, and speaker with over two decades
-  of experience in senior product roles at Google, Microsoft, and various startups.
-  He is also the author of Evidence-Guided...
-
-  '
+description: "Itamar Gilad is a product coach, author, and speaker with over two decades of experience in senior product roles\
+  \ at Google, Microsoft, and various startups. He is also the author of Evidence-Guided: Creating High-Impact Products in\
+  \ the Face of Uncertainty and publishes a popular product management newsletter. In today’s episode, we discuss:\n• What\
+  \ it means to be “evidence-guided”\n• How to think about your KPIs as metric trees\n• How to prioritize ideas using the\
+  \ “confidence meter”\n• The GIST model for roadmapping\n• Common mistakes with ICE\n• Advice for using evidence to challenge\
+  \ gut-driven founders\n\n—\n\nBrought to you by Ezra—The leading full-body cancer screening company: http://www.ezra.com/lenny\
+  \ | Vanta—Automate compliance. Simplify security: https://vanta.com/lenny | LinkedIn Ads—Reach professionals and drive results\
+  \ for your business: https://www.linkedin.com/podlenny\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/becoming-evidence-guided-itamar-gilad\n\
+  \nWhere to find Itamar Gilad:\n• Twitter/X: https://twitter.com/ItamarGilad\n• LinkedIn: https://www.linkedin.com/in/itamargilad/\n\
+  • Website: https://itamargilad.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter/X:\
+  \ https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Itamar’s background\n(04:35) How his time working on Gmail shaped his philosophy of “opinion-based” development\n\
+  (08:35) Lessons from developing Gmail’s tabbed inbox \n(13:40) A brief overview of Itamar’s book, Evidence-Guided\n(14:30)\
+  \ Balancing founder creativity with an evidence-based approach\n(17:32) Advice on how to push back against founders\n(19:36)\
+  \ Signs you aren’t as evidence-guided as you may think\n(21:13) Itamar’s GIST model for becoming more evidence-guided\n\
+  (23:51) How to set overarching goals using his “value exchange loop”\n(28:45) North star metrics vs. KPIs\n(33:47) Using\
+  \ “ICE” to assess the value of ideas\n(37:39) Itamar’s confidence meter\n(44:28) Speed of delivery vs. speed of discovery\n\
+  (46:14) How to apply Itamar’s frameworks based on company type and stage\n(49:09) First steps in becoming more evidence-guided\n\
+  (50:21) Next steps in testing\n(55:41) The task layer in the GIST framework\n(1:02:54) Thoughts on roadmapping\n(1:04:56)\
+  \ How OKRs fit into the whole picture\n(1:07:11) Lightning round\n\nReferenced:\n• Itamar’s presentation slides: https://itamargilad.com/wp-content/uploads/2023/09/Podcast-Slides.pdf\n\
+  • What differentiates the highest-performing product teams | John Cutler (Amplitude, The Beautiful Mess): https://www.lennyspodcast.com/what-differentiates-the-highest-performing-product-teams-john-cutler-amplitude-the-beautiful-mess/\n\
+  • Evidence-Guided: Creating High-Impact Products in the Face of Uncertainty: https://itamargilad.com/book-evidence-guided/\n\
+  • The co-founders of Google in Forbes: https://www.forbes.com/profile/larry-page-and-sergey-brin\n• Kanban: https://www.atlassian.com/agile/kanban\n\
+  • Jira: https://www.atlassian.com/software/jira\n• The ultimate guide to OKRs | Christina Wodtke (Stanford): https://www.lennyspodcast.com/the-ultimate-guide-to-okrs-christina-wodtke-stanford/\n\
+  • Amplitude: https://amplitude.com/\n• The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon): https://www.lennyspodcast.com/the-ultimate-guide-to-ab-testing-ronny-kohavi-airbnb-microsoft-amazon/\n\
+  • ICE framework: https://growthmethod.com/ice-framework/\n• Sean Ellis on LinkedIn: https://www.linkedin.com/in/seanellis/\n\
+  • RICE scoring model: https://www.productplan.com/glossary/rice-scoring-model/\n• Idea Prioritization with ICE and the Confidence\
+  \ Meter: https://itamargilad.com/the-tool-that-will-help-you-choose-better-product-ideas/\n• Assumptions Mapping: https://designsprintkit.withgoogle.com/methodology/phase2-define/assumptions-mapping\n\
+  • What is Dog Fooding, Fish Fooding a Product?: https://matt-rickard.com/fishfooding-dogfooding-product\n• SVPG books: https://www.svpg.com/books/\n\
+  • The Lean series: https://theleanstartup.com/the-lean-series\n• Dreaming Spanish: https://www.youtube.com/c/DreamingSpanish\n\
+  • ElevenLabs: https://elevenlabs.io/\n• Lennybot: https://www.lennybot.com/\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 4372.0
 duration: '1:12:52'
 view_count: 14878

@@ -4,11 +4,42 @@ title: The essence of product management | Christian Idiodi (SVPG)
 youtube_url: https://www.youtube.com/watch?v=SXYc5RoU3Lg
 video_id: SXYc5RoU3Lg
 publish_date: 2023-12-21
-description: 'Christian Idiodi is a partner at Silicon Valley Product Group. After
-  a long product career and founding multiple companies, Christian now spends his
-  time working closely with product leaders...
-
-  '
+description: "Christian Idiodi is a partner at Silicon Valley Product Group. After a long product career and founding multiple\
+  \ companies, Christian now spends his time working closely with product leaders at companies big and small to implement\
+  \ and improve their discipline of product management. In today’s episode, we discuss:\n• Why there’s often a negative perception\
+  \ of product managers, and how we can fix this\n• The four attributes of a product manager’s job: value, usability, viability,\
+  \ and feasibility\n• The power of finding reference customers\n• How Christian developed a process for high-volume hiring\
+  \ to help companies like McDonald’s and Starbucks\n• Tactical tips for coaching, building relationships, and building trust\
+  \ as a leader\n\n—\n\nBrought to you by Jira Product Discovery—Atlassian’s new prioritization and roadmapping tool built\
+  \ for product teams: https://atlassian.com/lenny/?utm_source=lennypodcast&utm_medium=paid-audio&utm_campaign=fy24q1-jpd-imc\
+  \ | Vanta—Automate compliance. Simplify security: https://vanta.com/lenny | Teal—Your personal career growth platform: http://tealhq.com/lenny\n\
+  \nFind the full transcript at: https://www.lennysnewsletter.com/p/the-essence-of-product-management\n\nWhere to find Christian\
+  \ Idiodi:\n• X: https://twitter.com/CIdiodi\n• LinkedIn: https://www.linkedin.com/in/cidiodi/\n• Website: https://www.svpg.com/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Christian’s background \n(03:56) The negative perception of product managers\n(07:58)\
+  \ How to become a PM people want to work with \n(11:30) The definition of a product manager\n(14:46) Where new PMs fail\n\
+  (16:59) Reference customers: what they are and why they are so important \n(24:05) A quick summary of how to build a product\
+  \ that people want and love \n(26:44) How to determine product-market fit\n(29:54) The benefits of this approach \n(34:11)\
+  \ Real examples of using reference customers \n(40:06) Doing things that don’t scale\n(48:40) How to get better at coaching\
+  \ and build trust with leaders\n(55:53) The fastest way to build trust\n(01:00:01) What to do in the absence of good coaching\n\
+  (01:02:51) How to get into product management \n(01:04:16) The pitfalls of early promotions\n(01:11:11) How to train someone\
+  \ for a promotion before giving the promotion\n(01:13:30) How to find a good coach\n(01:14:40) Christian’s product work\
+  \ in Africa\n(01:21:22) The importance of passion and empathy in product work\n(01:22:54) Lightning round\n\nReferenced:\n\
+  • Marty Cagan on LinkedIn: https://www.linkedin.com/in/cagan/\n• The nature of product | Marty Cagan, Silicon Valley Product\
+  \ Group: https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/\n• Silicon Valley\
+  \ Product Group: https://www.svpg.com/\n• Enhanced Product Discovery by SVPG Partner Christian Idiodi at Lean Product Meetup:\
+  \ https://www.youtube.com/watch?v=eQKaFEqhiqc\n• Geoffrey Moore’s technology adoption curve: https://fourweekmba.com/technology-adoption-curve/\n\
+  • Stripe: https://stripe.com/\n• Building a culture of excellence | David Singleton (CTO of Stripe): https://www.lennyspodcast.com/building-a-culture-of-excellence-david-singleton-cto-of-stripe/\n\
+  • Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft): https://www.lennyspodcast.com/building-beautiful-products-with-stripes-head-of-design-katie-dill-stripe-airbnb-lyft/\n\
+  • Rippling: https://www.rippling.com/\n• Snagajob: https://www.snagajob.com/\n• Howard Schultz on LinkedIn: https://www.linkedin.com/in/howardschultz/\n\
+  • Tesla portable charger: https://shop.tesla.com/product/mobile-connector\n• Innovate Africa Foundation: https://www.innovateafrica.io/about/\n\
+  • Inspire Africa Conference: https://www.inspireafricaconference.com/\n• Inspired: How to Create Tech Products Customers\
+  \ Love: https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/\n• Empowered: Ordinary\
+  \ People, Extraordinary Products: https://www.svpg.com/books/empowered-ordinary-people-extraordinary-products/\n• Transformed:\
+  \ Moving to the Product Operating Model: https://www.svpg.com/books/transformed-moving-to-the-product-operating-model/\n\
+  • Succession on HBO: https://www.hbo.com/succession\n• Billions on Showtime: https://www.sho.com/billions\n• Real sports\
+  \ app: https://www.realapp.link/\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the\
+  \ podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 5594.0
 duration: '1:33:14'
 view_count: 24105

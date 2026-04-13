@@ -4,11 +4,33 @@ title: Making Meta | Andrew ‘Boz’ Bosworth (CTO)
 youtube_url: https://www.youtube.com/watch?v=_XqDB2Upr3s
 video_id: _XqDB2Upr3s
 publish_date: 2024-03-03
-description: 'Andrew Bosworth—or Boz, as most people know him—is the chief technology
-  officer at Meta and head of Reality Labs, the company’s augmented reality/virtual
-  reality (AR/VR) organization,...
-
-  '
+description: "Andrew Bosworth—or Boz, as most people know him—is the chief technology officer at Meta and head of Reality\
+  \ Labs, the company’s augmented reality/virtual reality (AR/VR) organization, which he created in 2017. Boz joined Facebook\
+  \ in 2006 as their approximately 10th engineer, and in his 18-year tenure he built the original News Feed, Messenger, and\
+  \ Groups, as well as many early anti-abuse and infrastructure systems. At various times he has been the engineering director\
+  \ overseeing Events, Places, Photos, Videos, Timeline, Privacy, and more. Before Reality Labs, he ran the Ads and Business\
+  \ Platform product group, where he led engineering, product, research, analytics, and design, taking annual revenue from\
+  \ $4 billion to $40 billion in five years. Andrew currently leads Meta’s efforts in AR, VR, AI, and consumer hardware across\
+  \ Quest, Ray-Ban Meta glasses, and more. In our conversation, we discuss:\n• Stories from the early days of Facebook\n•\
+  \ Lessons from Meta’s downturn and recent turnaround\n• Meta’s culture of transparency\n• Boz’s thoughts on the Apple Vision\
+  \ Pro\n• Why communication is the job\n• Why you should regularly seek help from your manager\n• Lessons in setting incentives\
+  \ and avoiding their misuse\n• Why you should optimize for a variety in experience in your career\n• The importance of trusting\
+  \ your own expertise and not being swayed by external opinions\n• Stories of failures and personal growth\n\n—\n\nBrought\
+  \ to you by:\n• Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n• Eppo—Run reliable, impactful experiments:\
+  \ https://www.geteppo.com/\n• Explo—Embed customer-facing analytics in your product: https://explo.co/lenny\n\nFind the\
+  \ transcript and references at: https://www.lennysnewsletter.com/p/making-meta-andrew-boz-bosworth-cto\n\nWhere to find\
+  \ Andrew Bosworth:\n• Facebook: https://www.facebook.com/boz/\n• Instagram: https://www.instagram.com/boztank/\n• X: https://twitter.com/boztank\n\
+  • LinkedIn: https://www.linkedin.com/in/andrew-bosworth-8247a01/\n• Website: https://boz.com/\n• Photography website: https://wardenshortbow.com/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Boz’s background\n(04:48) Fun facts about him\n(07:20) Early days at Facebook\n(11:11)\
+  \ Advice for founders\n(13:22) Leveraging leaders\n(19:27) Tips for communicating with managers\n(22:10) Transparency at\
+  \ Meta\n(27:01) The importance of clear guidelines \n(29:11) Involvement in the details\n(33:15) Building the News Feed\n\
+  (37:28) Passion and career growth\n(40:25) Exploring new opportunities\n(42:02) The value of variety in experience\n(45:01)\
+  \ Giving and receiving feedback\n(47:38) Boz’s tattoos\n(51:30) Communication is the job\n(01:00:47) Comparing VR headsets:\
+  \ Meta Quest 3 and Apple Vision Pro\n(01:10:41) Meta’s downturn and turnaround\n(01:16:10) Navigating org changes\n(01:20:43)\
+  \ Lessons from failure\n(01:26:33) Closing thoughts\n(01:29:57) Lightning round\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 6141.0
 duration: '1:42:21'
 view_count: 37528

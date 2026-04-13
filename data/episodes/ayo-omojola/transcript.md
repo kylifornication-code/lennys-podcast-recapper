@@ -1,15 +1,141 @@
 ---
 guest: Ayo Omojola
-title: Frameworks for product differentiation, team building, and first principles
-  thinking | Ayo Omojola
+title: Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola
 youtube_url: https://www.youtube.com/watch?v=EW6K8ZOWoIs
 video_id: EW6K8ZOWoIs
 publish_date: 2023-05-14
-description: 'Ayo Omojola is Chief Product Officer at Carbon Health, one of the fastest-growing
-  and most innovative health tech companies in the world. Previously, he was a PM
-  leader at Cash App, where he...
+description: 'Ayo Omojola is Chief Product Officer at Carbon Health, one of the fastest-growing and most innovative health
+  tech companies in the world. Previously, he was a PM leader at Cash App, where he co-created the Cash Card and scaled it
+  to a nine-figure revenue line for Square. He’s also an angel investor in companies like Mercury, Modern Treasury, Faire,
+  and many others. In this episode, we discuss:
 
-  '
+  • How Cash App broke through the noise and became a consumer app success story
+
+  • Why small teams are better than big ones
+
+  • Hard-won lessons on team building and hiring
+
+  • Why it’s “criminal” not to connect people in your network to things that they need
+
+  • Why you sometimes shouldn’t listen to experts
+
+  • The importance of first-principles thinking
+
+  • Advice for health tech founders
+
+
+  —
+
+
+  Brought to you by Microsoft Clarity—See how people actually use your product | Eco—Your most rewarding app | LMNT—Zero-sugar
+  hydration
+
+
+  Find the full transcript at: https://www.lennyspodcast.com/frameworks-for-product-differentiation-team-building-and-thinking-from-first-principles-ayo-omojola-carbon-health-cash-app/#transcript
+
+
+  Where to find Ayo Omojola:
+
+  • Twitter: https://twitter.com/ay_o
+
+  • LinkedIn: https://www.linkedin.com/in/omojola/
+
+  • Blog: https://kunle.app/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Ayo’s background
+
+  (04:13) The story of how Ayo used Quora for discoverability 
+
+  (06:44) The scale of Cash App 
+
+  (07:37) What Cash App did well
+
+  (10:12) Lessons from building consumer apps 
+
+  (13:08) Why it’s so important to be different
+
+  (14:08) What Ayo learned from how Square/Block operates
+
+  (16:36) How to succeed at building a startup within a startup
+
+  (19:06) How Ayo transitioned from fintech to health tech
+
+  (22:51) Why Ayo loves hiring founders 
+
+  (28:32) Team-building strategies
+
+  (32:12) The importance of going deep and challenging assumptions
+
+  (36:58) Why you should always ask questions
+
+  (38:45) Lessons in leadership
+
+  (41:43) Advice for founders in the health-care space
+
+  (44:48) What Carbon Health is
+
+  (46:58) Lightning round
+
+
+  Referenced:
+
+  • Ayo on Quora: https://www.quora.com/profile/Ayo-Omojola
+
+  • Carbon Health: https://carbonhealth.com/
+
+  • Cash App: https://cash.app/
+
+  • Lob: https://www.lob.com/
+
+  • Mailform: https://www.mailform.io/
+
+  • Venmo: https://venmo.com/
+
+  • PayPal: https://www.paypal.com/us/home
+
+  • Apple Cash: https://www.apple.com/apple-cash/
+
+  • Square: https://squareup.com/us/en/home/
+
+  • Block: https://block.xyz/
+
+  • Pinwheel: https://www.pinwheelapi.com/
+
+  • The Three-Body Problem: https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032
+
+  • Children of Time: https://www.amazon.com/Children-of-Time-audiobook/dp/B06ZXTHNSJ
+
+  • Children of Memory: https://www.amazon.com/Audible-Children-of-Memory/dp/B0B84HRYT1
+
+  • Children of Ruin: https://www.amazon.com/Children-of-Ruin-audiobook/dp/B07RB7WQR3
+
+  • Stormlight Archive: https://www.amazon.com/Stormlight-Archive-Boxed-Set-Books/dp/1250776635
+
+  • Fire in the Deep: https://www.amazon.com/Fire-Deep-Robert-J-Miller/dp/1532611641
+
+  • War of the Worlds on Amazon Prime: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.49a287c2-44ed-4ffc-afa0-fab86dd0d31d
+
+  • Succession on HBO Max: https://play.hbomax.com/player/urn:hbo:episode:GWukCJAu0e4uHwwEAAAB5
+
+  • No Context Succession on Twitter: https://twitter.com/nocontextroyco
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 3129.0
 duration: '52:09'
 view_count: 8980

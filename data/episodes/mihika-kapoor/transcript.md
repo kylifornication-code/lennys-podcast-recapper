@@ -1,13 +1,33 @@
 ---
 guest: Mihika Kapoor
-title: 'Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika
-  Kapoor (Product, Figma)'
+title: 'Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product, Figma)'
 youtube_url: https://www.youtube.com/watch?v=uDq6_CPaRjM
 video_id: uDq6_CPaRjM
 publish_date: 2024-04-21
-description: Mihika Kapoor is a design-engineer-PM hybrid at Figma, where she was
-  an early PM on FigJam and is now spearheading development on a new product at the
-  company that’s coming out this June....
+description: "Mihika Kapoor is a design-engineer-PM hybrid at Figma, where she was an early PM on FigJam and is now spearheading\
+  \ development on a new product at the company that’s coming out this June. She’s known as the go-to person at Figma for\
+  \ leading new 0-to-1 products, and, as you’ll hear in our conversation, beloved by everyone she works with. Her background\
+  \ includes founding Design Nation, a national nonprofit focused on democratizing design education for undergraduates; spearheading\
+  \ product launches at Meta; and community building within the NYC AI startup scene. In our conversation, we discuss:\n•\
+  \ How to effectively take ideas from 0 to 1 at larger companies\n• How to craft a compelling vision\n• The importance of\
+  \ vulnerability and feedback\n• The role of intuition and product sense in making decisions\n• How to practically communicate\
+  \ your vision\n• How to balance collaboration and strong opinions\n• Advice for building a strong team culture\n• Pivoting\
+  \ with grace and enthusiasm\n• The current AI revolution and its impact on PM\n\n—\n\nBrought to you by:\n• Paragon—Ship\
+  \ every SaaS integration your customers want: https://www.useparagon.com/lenny\n• Lenny’s Talent Team—Hire the best product\
+  \ people. Find the best product gigs: lennysjobs.com\n• Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\
+  \nFind the transcript and references at: https://www.lennysnewsletter.com/p/vision-conviction-hype-mihika-kapoor\n\nWhere\
+  \ to find Mihika Kapoor:\n• X: https://twitter.com/mihikapoor\n• LinkedIn: https://www.linkedin.com/in/mihikakapoor/\n\n\
+  Where to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Mihika’s background\n(04:29) Core attributes of great product managers\n(07:34) Crafting\
+  \ a compelling vision\n(12:12) The vision behind FigJam \n(18:25) Delivering a vision without design or engineering skills\n\
+  (21:52) Creating momentum\n(26:36) The importance of strong conviction\n(27:45) Direct communication\n(32:48) Building hype\n\
+  (42:20) Immersing yourself in user insights\n(47:16) Operationalizing user insights  \n(50:33) Caring deeply about what\
+  \ you build\n(54:01) Finding passion in your work\n(57:00) Building a strong culture\n(01:07:07) Pivoting with grace and\
+  \ enthusiasm\n(01:11:48) Design Nation\n(01:13:15) Mihika’s weaknesses\n(01:16:07) Building new products at larger companies\n\
+  (01:20:50) Coming up with a great idea\n(01:22:49) The key to going from 0 to 1\n(01:26:47) Spreading the idea across the\
+  \ company\n(01:29:15) Closing thoughts\n(01:32:11) Lightning round \n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 6041.0
 duration: '1:40:41'
 view_count: 94427

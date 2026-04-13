@@ -4,11 +4,39 @@ title: The future of AI in software development | Inbal Shani (CPO of GitHub)
 youtube_url: https://www.youtube.com/watch?v=f10s3rxKaJw
 video_id: f10s3rxKaJw
 publish_date: 2023-12-01
-description: 'Inbal Shani is the chief product officer at GitHub, where she leads
-  core product management, along with product strategy, marketing, open source, and
-  communities, including the development...
-
-  '
+description: "Inbal Shani is the chief product officer at GitHub, where she leads core product management, along with product\
+  \ strategy, marketing, open source, and communities, including the development of GitHub Copilot. Prior to joining GitHub,\
+  \ she led engineering and product teams at Amazon and Microsoft. In today’s conversation, we discuss:\n• What Inbal believes\
+  \ is overhyped and underhyped in the rapidly changing field of AI\n• How AI-driven code generation is changing software\
+  \ development\n• Her take on whether AI will replace developers\n• How software development looks in 3 to 5 years\n• How\
+  \ product teams operate at GitHub\n• GitHub’s Next team, and other ways the company fosters a culture of innovation\n• The\
+  \ success metrics and philosophy behind GitHub’s Copilot\n\n—\nBrought to you by Jira Product Discovery—Atlassian’s new\
+  \ prioritization and roadmapping tool built for product teams: https://atlassian.com/lenny/?utm_source=lennypodcast&utm_medium=paid-audio&utm_campaign=fy24q1-jpd-imc\
+  \ | Sanity—The most customizable content layer to power your growth engine: https://www.sanity.io/lenny | HelpBar by Chameleon—The\
+  \ free in-app universal search solution built for SaaS: https://helpbar.ai/lenny/?utm_source=lennys-podcast&utm_medium=sponsorship&utm_campaign=helpbar-launch-lennys-podcast\n\
+  \n\nFind the transcript at: https://www.lennyspodcast.com/the-future-of-ai-in-software-development-inbal-shani-cpo-of-github/\n\
+  \n\nWhere to find Inbal Shani:\n• LinkedIn: https://www.linkedin.com/in/inbalshani/\n\n\nWhere to find Lenny:\n• Newsletter:\
+  \ https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n\nIn this episode, we cover:\n(00:00) Inbal’s background\n(04:17) Why generative AI is not going to replace developers\
+  \ in the near future \n(05:54) Why AI-driven testing is underhyped\n(07:48) What the next 3 to 5 years will look like\n\
+  (10:13) Stats around the use of GitHub Copilot \n(12:07) How Copilot enables engineers to work more efficiently\n(13:38)\
+  \ Common mistakes when adopting AI into your workflows\n(16:42) How GitHub operationalizes “dogfooding”\n(18:46) The philosophy\
+  \ behind Copilot\n(20:24) Copilot’s success metrics\n(24:54) How Copilot encourages collaboration\n(26:37) What we lose\
+  \ when AI writes code for us\n(29:35) A retrospective on the generative AI space\n(30:47) Inbal’s thoughts on the future\
+  \ of AI\n(32:35) How to make space for innovative product ideas\n(34:37) How GitHub stays on the cutting edge of innovation\n\
+  (36:44) The GitHub Next team\n(39:20) Advice for early product managers\n(42:17) Inbal’s “biggest learning” from her career\n\
+  (45:34) Inbal’s closing thoughts\n(46:19) Lightning round\n\n\nReferenced:\n• How to measure and improve developer productivity\
+  \ | Nicole Forsgren (Microsoft Research, GitHub, Google): https://www.lennyspodcast.com/how-to-measure-and-improve-developer-productivity-nicole-forsgren-microsoft-research-github-goo/\n\
+  • DORA: https://dora.dev/\n• The role of AI in product development | Ryan J. Salva (VP of Product at GitHub, Copilot): https://www.lennyspodcast.com/the-role-of-ai-in-new-product-development-ryan-j-salva-vp-of-product-at-github-copilot/\n\
+  • GitHub Universe 2023 day 2 keynote: The productivity platform for all developers: https://www.youtube.com/watch?v=h_o9kFPVeiw\n\
+  • Satya Nadella on LinkedIn: https://www.linkedin.com/in/satyanadella/\n• TomTom: https://www.tomtom.com/\n• Failing Forward:\
+  \ Turning Mistakes into Stepping Stones for Success: https://www.amazon.com/Failing-Forward-Turning-Mistakes-Stepping/dp/0785288570/\n\
+  • Good to Great: Why Some Companies Make the Leap and Others Don’t: https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996\n\
+  • Turning the Flywheel: A Monograph to Accompany Good to Great: https://www.amazon.com/Turning-Flywheel-Monograph-Accompany-Great/dp/0062933795\n\
+  • Dare to Lead Like a Girl: How to Survive and Thrive in the Corporate Jungle: https://www.amazon.com/Dare-Lead-Like-Girl-Corporate/dp/1538163527\n\
+  • All the Light We Cannot See on Netflix: https://www.netflix.com/title/81083008\n• The Wheel of Time on Amazon Prime: https://www.amazon.com/Wheel-Time-Season-1/dp/B09F59CZ7R\n\
+  \n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \n\nLenny may be an investor in the companies discussed."
 duration_seconds: 3004.0
 duration: '50:04'
 view_count: 9980

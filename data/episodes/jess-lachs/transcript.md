@@ -1,15 +1,143 @@
 ---
 guest: Jess Lachs
-title: Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science
-  at DoorDash)
+title: Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)
 youtube_url: https://www.youtube.com/watch?v=D4PDb_C8Dww
 video_id: D4PDb_C8Dww
 publish_date: 2024-07-14
-description: 'Jessica Lachs is the global head of analytics and data science at DoorDash,
-  where she’s built one of the largest and most respected data organizations in tech.
-  In her more than 10 years at...
+description: 'Jessica Lachs is the global head of analytics and data science at DoorDash, where she’s built one of the largest
+  and most respected data organizations in tech. In her more than 10 years at DoorDash, she has served as the first general
+  manager, responsible for launching new markets; the head of business ops and analytics; and the VP of analytics and data
+  science. Previously, Jessica founded GiftSimple, a social gifting startup, and started her career at Lehman Brothers as
+  an investment banking analyst. In our conversation, she shares:
 
-  '
+  • How to structure and scale a high-impact analytics organization
+
+  • Centralized vs. decentralized data teams
+
+  • How to pick the right metric and aligning incentives
+
+  • Advice for data people on how and when to push back
+
+  • Lessons learned from building a global data team
+
+  • How to foster a culture of extreme ownership
+
+  • The role of AI in improving analytics team productivity
+
+  • Advice for aspiring data leaders without formal training
+
+
+  —
+
+
+  Brought to you by:
+
+  • Webflow—The web experience platform: https://webflow.com
+
+  • Anvil—The fastest way to build software for documents: https://www.useanvil.com/lenny
+
+  • Attio—The powerful, flexible CRM for fast-growing startups: https://attio.com/lenny
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/building-a-world-class-data-org-jessica-lachs
+
+
+  Where to find Jessica Lachs:
+
+  • X: https://x.com/jesslachs
+
+  • LinkedIn: https://www.linkedin.com/in/jessica-lachs/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Jessica’s background
+
+  (04:59) Centralized vs. embedded analytics teams
+
+  (10:52) The benefits of a centralized analytics team
+
+  (15:10) Balancing proactive and reactive work
+
+  (20:45) Advice on how to push back effectively
+
+  (24:20) Hiring for curiosity and problem solving
+
+  (28:57) Coming from a non-traditional background
+
+  (34:40) The early days and culture at DoorDash
+
+  (40:39) Encouraging cross-functional roles
+
+  (44:39) Defining effective metrics
+
+  (46:30) Simplifying metrics for better outcomes
+
+  (55:28) Focusing on edge cases and fail states
+
+  (01:00:12) Managing a global data organization
+
+  (01:02:31) Leveraging AI for productivity
+
+  (01:05:25) Building diverse and skilled data teams
+
+  (01:08:40) Lightning round
+
+
+  Referenced:
+
+  • How Netflix builds a culture of excellence | Elizabeth Stone (CTO): https://www.lennysnewsletter.com/p/how-netflix-builds-a-culture-of-excellence
+
+  • Riley Newman on LinkedIn: https://www.linkedin.com/in/rileynewman/
+
+  • Tony Xu on LinkedIn: https://www.linkedin.com/in/xutony/
+
+  • Imposter Syndrome: Why You May Feel Like a Fraud: https://www.verywellmind.com/imposter-syndrome-and-social-anxiety-disorder-4156469
+
+  • Stanley Tang on LinkedIn: https://www.linkedin.com/in/stanleytang/
+
+  • Andy Fang on LinkedIn: https://www.linkedin.com/in/fangsterr/
+
+  • Evan Moore on LinkedIn: https://www.linkedin.com/in/evanmoore/
+
+  • How WeDash became the flagship employee program for DoorDash: https://careers.doordash.com/blog/wedash-doordash-employee-program-how-does-it-work
+
+  • Leading with empathy | Keith Yandell (DoorDash, Uber): https://www.lennysnewsletter.com/p/leading-with-empathy-keith-yandell
+
+  • The Rose Code: https://www.amazon.com/Rose-Code-Novel-Kate-Quinn/dp/006305941X
+
+  • Libby app: https://libbyapp.com/
+
+  • The West Wing on Prime: https://www.amazon.com/West-Wing-Complete-First-Season/dp/B000KZPG04
+
+  • Alias on Prime: https://www.amazon.com/Alias-Season-1/dp/B00748O13S
+
+  • Joseon sunscreens: https://beautyofjoseon.com/
+
+  • Innisfree sunscreens: https://us.innisfree.com/
+
+  • John Steinbeck quote: https://www.brainyquote.com/quotes/john_steinbeck_103825
+
+  • Vanessa Roberts on LinkedIn: https://www.linkedin.com/in/vanessa-roberts-b8a509a/
+
+  • Tia Sherringham on LinkedIn: https://www.linkedin.com/in/tiasherringham/
+
+  • Elizabeth Jarvis-Shean on LinkedIn: https://www.linkedin.com/in/elizabeth-jarvis-shean-141a7966/
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4796.0
 duration: '1:19:56'
 view_count: 30076

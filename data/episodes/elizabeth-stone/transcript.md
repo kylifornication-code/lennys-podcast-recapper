@@ -4,11 +4,39 @@ title: How Netflix builds a culture of excellence | Elizabeth Stone (CTO)
 youtube_url: https://www.youtube.com/watch?v=2XgU6T4DalY
 video_id: 2XgU6T4DalY
 publish_date: 2024-02-22
-description: 'Elizabeth Stone is the chief technology officer of Netflix. She previously
-  served as vice president of product data science and engineering, and as vice president
-  of data and insights, at Netflix....
-
-  '
+description: "Elizabeth Stone is the chief technology officer of Netflix. She previously served as vice president of product\
+  \ data science and engineering, and as vice president of data and insights, at Netflix. Before Netflix, Elizabeth was vice\
+  \ president of science at Lyft, chief operating officer at Nuna, a trader at Merrill Lynch, and an economist at Analysis\
+  \ Group. In our conversation, we discuss:\n• Elizabeth’s advice for career advancement\n• Netflix’s unique high-performance\
+  \ culture\n• How, and why, Netflix maintains a high bar for excellence\n• Intentional leadership practices\n• How to foster\
+  \ an “open door” culture within your team\n• The Keeper Test and how it contributes to maintaining a high bar for excellence\n\
+  • The power of transparent communication\n• Much more\n\n—\n\nBrought to you by:\n• Vanta—Automate compliance. Simplify\
+  \ security: https://vanta.com/lenny\n• Sendbird—The (all-in-one) communications API platform for mobile apps: https://sendbird.com/lenny\n\
+  • Explo—Embed customer-facing analytics in your product: http://explo.co/lenny\n\nFind the full transcript at: https://www.lennyspodcast.com/how-netflix-builds-a-culture-of-excellence-elizabeth-stone-cto/\n\
+  \nWhere to find Elizabeth Stone:\n• LinkedIn: https://www.linkedin.com/in/elizabeth-stone-608a754/\n\nWhere to find Lenny:\n\
+  • Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Elizabeth’s background \n(04:36) Life as CTO vs. VP of Data \n(05:57) The role of\
+  \ economists in tech companies \n(08:32) Using economics to understand incentives \n(10:07) Success and career growth \n\
+  (20:15) Setting expectations \n(25:02) Advice for how to avoid burnout \n(27:44) Netflix culture: high talent density \n\
+  (30:31) Netflix culture: candor and directness \n(31:45) The Keeper Test \n(39:01) Maintaining a high bar for excellence\
+  \ \n(43:54) Netflix culture: freedom and responsibility \n(46:18) Unconventional processes at Netflix \n(47:55) Examples\
+  \ of candor \n(51:44) Data and insights team structure \n(01:00:12) Staying close to teams \n(01:02:31) Advice on being\
+  \ present \n(01:07:40) Lightning round\n\nReferenced:\n• What to Know About the Netflix Cup, Today’s First-Ever Live Sports\
+  \ Event: https://www.netflix.com/tudum/articles/netflix-cup-live-event-date-news\n• Ann Miura Ko interview | The Tim Ferriss\
+  \ Show (Podcast): https://www.youtube.com/watch?v=h2GO0Ks_VGg\n• Netflix culture: https://jobs.netflix.com/culture\n• No\
+  \ Rules Rules: Netflix and the Culture of Reinvention: https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860\n\
+  • Reed Hastings on LinkedIn: https://www.linkedin.com/in/reedhastings/\n• Netflix’s “Keeper Test” and Why You Need It |\
+  \ Lorne Rubis: https://www.highlights.lornerubis.com/2015/08/the-netflix-keeper-test-and-the-courage-to-take-it/\n• The\
+  \ Hunger Games: https://en.wikipedia.org/wiki/The_Hunger_Games\n• Nan Yu on LinkedIn: https://www.linkedin.com/in/thenanyu/\n\
+  • Work Life Philosophy: https://jobs.netflix.com/work-life-philosophy\n• The Scoop: Netflix’s historic introduction of levels\
+  \ for software engineers: https://blog.pragmaticengineer.com/netflix-levels/\n• Chaos Monkey: https://www.techtarget.com/whatis/definition/Chaos-Monkey\n\
+  • Ali Rauh on LinkedIn: https://www.linkedin.com/in/ali-rauh/\n• Keith Henwood on LinkedIn: https://www.linkedin.com/in/keith-henwood/\n\
+  • Jeff Bezos’ Morning Routine of Puttering Around—How It Works: https://medium.com/illumination/jeff-bezos-morning-routine-of-puttering-around-how-it-works-9d73f359ac8d\n\
+  • What I Talk About When I Talk About Running: A Memoir: https://www.amazon.com/What-Talk-About-When-Running/dp/0307389839\n\
+  • A Fine Balance: https://www.amazon.com/Fine-Balance-Rohinton-Mistry/dp/140003065X\n• Triangle of Sadness on Hulu: https://www.hulu.com/movie/triangle-of-sadness-f60937bd-45f4-469a-938f-db95026953a1\n\
+  • Beef on Netflix: https://www.netflix.com/title/81447461\n• Fellow pour-over coffee set: https://fellowproducts.com/products/stagg-xf-pour-over-set\n\
+  • Peloton bikes: https://www.onepeloton.com/shop/bike\n\nProduction and marketing by https://penname.co/. For inquiries\
+  \ about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4424.0
 duration: '1:13:44'
 view_count: 220414

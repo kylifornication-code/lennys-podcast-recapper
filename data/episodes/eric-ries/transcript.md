@@ -4,11 +4,34 @@ title: Reflections on a movement | Eric Ries (creator of the Lean Startup method
 youtube_url: https://www.youtube.com/watch?v=xzebbzIntFc
 video_id: xzebbzIntFc
 publish_date: 2023-10-29
-description: 'Eric Ries is the creator of the Lean Startup methodology, author of
-  the New York Times bestseller The Lean Startup, and founder of the Long-Term Stock
-  Exchange (LTSE). He’s also a multi-time...
-
-  '
+description: "Eric Ries is the creator of the Lean Startup methodology, author of the New York Times bestseller The Lean Startup,\
+  \ and founder of the Long-Term Stock Exchange (LTSE). He’s also a multi-time founder and currently advises startups, VC\
+  \ firms, and larger companies on business and product strategy. In today’s episode, we discuss:\n• The current state of\
+  \ the Lean Startup methodology\n• Common misconceptions about the Lean Startup methodology\n• Understanding how to actually\
+  \ think about MVPs (minimum viable products)\n• When to pivot and when to stay the course\n• Thoughts on AI and how to deal\
+  \ with uncertainty\n• How to structure your company around core values and create products that benefit humanity\n• The\
+  \ philosophy behind Eric’s current big idea: the Long-Term Stock Exchange\n• Much more\n—\nBrought to you by Sanity—The\
+  \ most customizable content layer to power your growth engine: https://www.sanity.io/lenny | Jira Product Discovery—Atlassian’s\
+  \ new prioritization and roadmapping tool built for product teams: https://atlassian.com/lenny/?utm_source=lennypodcast&utm_medium=paid-audio&utm_campaign=fy24q1-jpd-imc\
+  \ | LinkedIn Ads—Reach professionals and drive results for your business: https://www.linkedin.com/podlenny\n\nFind the\
+  \ transcript and references at: https://www.lennyspodcast.com/reflections-on-a-movement-eric-ries-creator-of-the-lean-startup-methodology/\n\
+  \nWhere to find Eric Ries:\n• LinkedIn: https://www.linkedin.com/in/eries/\n• X: https://twitter.com/ericries\n• Website:\
+  \ https://theleanstartup.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Eric’s background\n(04:46)\
+  \ Eric’s recent activities and projects\n(06:23) Eric’s start in advising and first-principles thinking\n(10:56) Lessons\
+  \ from designing the Lean Startup process\n(14:04) The current state of lean startup methodology\n(22:33) Common misconceptions\
+  \ about the methodology\n(24:28) Changes Eric would make in an updated version of Lean Startup \n(27:52) An explanation\
+  \ of minimum viable product (MVP) and why Eric still stands by the process\n(37:36) An example of “Less is more”\n(41:24)\
+  \ More on MVPs and the importance of testing your hypotheses \n(41:24) How LTSE had to pivot after a partnership fell apart\n\
+  (48:37) Eric’s take on the concept of craft\n(53:36) Why getting fired for standing by your conviction can be a career accelerator\n\
+  (55:17) Tech’s mental health crisis\n(56:28) Advice for founders stuck in a “zombie company”\n(1:00:16) How continuous pivots\
+  \ shape a company’s vision, with a real-life story\n(1:08:20) Challenges in assessing companies from an external perspective\n\
+  (1:13:17) Practical advice for businesses considering a pivot\n(1:18:42) The impact of artificial intelligence\n(1:26:59)\
+  \ The current capabilities of ChatGPT and its potential use as an equalizer in the marketplace\n(1:31:26) Eric’s current\
+  \ work with founders on human flourishing\n(1:42:40) Advice for founders who want to build ethical companies \n(1:49:37)\
+  \ Examples of first-principles thinking\n(1:53:42) Why shareholder primacy theory is wrong \n(1:55:19) The “spiritual holding\
+  \ company” \n(1:58:12) Lightning round\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring\
+  \ the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 8055.0
 duration: '2:14:15'
 view_count: 64647

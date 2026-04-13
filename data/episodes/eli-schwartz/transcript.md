@@ -4,11 +4,46 @@ title: Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)
 youtube_url: https://www.youtube.com/watch?v=Z71yGshPTwk
 video_id: Z71yGshPTwk
 publish_date: 2024-09-19
-description: 'Eli Schwartz is a leading SEO consultant and the author of Product-Led
-  SEO. He has worked with industry giants like Zapier, Tinder, Coinbase, Quora, LinkedIn,
-  and WordPress to build and execute...
-
-  '
+description: "Eli Schwartz is a leading SEO consultant and the author of Product-Led SEO. He has worked with industry giants\
+  \ like Zapier, Tinder, Coinbase, Quora, LinkedIn, and WordPress to build and execute global SEO strategies that significantly\
+  \ enhanced their organic visibility at scale. In our conversation, Eli shares:\n• How AI and LLMs are reshaping the SEO\
+  \ landscape\n• Why you should be focused on mid-funnel SEO strategies\n• How to determine if SEO is the right approach for\
+  \ your business\n• Why SEO should be treated as a product rather than just a marketing tactic\n• SEO myths\n• The future\
+  \ of search in light of recent legal challenges faced by Google\n• Much more\n\n—\n\nBrought to you by:\n• Pendo—The only\
+  \ all-in-one product experience platform for any type of application: https://www.pendo.io/lenny\n• Brave Search—A smarter\
+  \ way to search: https://brave.com/lenny\n• OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny\n\nFind the\
+  \ transcript at: https://www.lennysnewsletter.com/p/rethinking-seo-in-the-age-of-ai-eli-schwartz\n\nWhere to find Eli Schwartz:\n\
+  • X: https://x.com/5le\n• LinkedIn: https://www.linkedin.com/in/schwartze/\n• Website: https://www.elischwartz.co/\n• Newsletter:\
+  \ https://www.productledseo.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Eli’s background\n(02:10)\
+  \ The impact of AI on SEO strategies\n(11:34) Understanding search intent\n(15:30) Real-world impact and structured vs.\
+  \ unstructured data\n(20:19) Top-of-funnel vs mid-funnel SEO strategies\n(22:57) Case studies\n(31:29) Steps for getting\
+  \ started with SEO\n(35:20) Examples of when not to focus on SEO\n(39:17) Evaluating SEO investment\n(44:00) Understanding\
+  \ the tradeoffs in marketing channels\n(46:23) SEO conversion metrics and expectations\n(52:09) Understanding the time horizon\
+  \ of SEO\n(59:37) The role of AI in content creation\n(01:05:26) AI overviews \n(01:07:40) Brand building and SEO\n(01:09:51)\
+  \ Programmatic vs. editorial SEO strategies\n(01:16:06) Insights from the Google antitrust verdict\n(01:20:36) Google’s\
+  \ dominance in search\n(01:23:52) The future of SEO and user choice\n(01:26:28) SEO myths debunked\n(01:36:58) Forecasting\
+  \ SEO success\n(01:44:18) The need for SEO expertise\n(01:46:26) Lightning round and closing thoughts\n\nReferenced:\n•\
+  \ Product-Led SEO: The Why Behind Building Your Organic Growth Strategy: https://www.amazon.com/Product-Led-SEO-Building-Organic-Strategy/dp/1544519567\n\
+  • SurveyMonkey: https://www.surveymonkey.com/\n• Google AI: https://ai.google/\n• Perplexity: https://www.perplexity.ai/\n\
+  • Claude: https://claude.ai/\n• G2: https://www.g2.com/\n• Riverside: https://riverside.fm/\n• Zapier: https://zapier.com/\n\
+  • Wade Foster on LinkedIn: https://www.linkedin.com/in/wadefoster/\n• Salesforce: https://www.salesforce.com/\n• Tinder:\
+  \ https://tinder.com/\n• Udi Milo on LinkedIn: https://www.linkedin.com/in/udimilo/\n• The ultimate guide to SEO | Ethan\
+  \ Smith (Graphite): https://www.lennysnewsletter.com/p/the-ultimate-guide-to-seo-ethan-smith\n• Mixpanel: https://mixpanel.com/\n\
+  • Vanta: https://www.vanta.com\n• Quora: https://www.quora.com/\n• Canva: https://www.canva.com\n• Notion: https://www.notion.so/\n\
+  • Red Ventures: https://www.redventures.com/\n• CNet: https://www.cnet.com/\n• Noah Smith on X: https://x.com/noahpinion\n\
+  • Noahpinion newsletter: https://www.noahpinion.blog/\n• Leveraging growth advisors, hiring well, mastering SEO, and honing\
+  \ your craft | Luc Levesque (Shopify, Meta, TripAdvisor): https://www.lennysnewsletter.com/p/leveraging-growth-advisors-hiring\n\
+  • Tripadvisor: https://www.tripadvisor.com/\n• Zillow: https://www.zillow.com/\n• Capterra: https://www.capterra.com/\n\
+  • U.S. v. Google: all the news from the search antitrust showdown: https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates\n\
+  • Bing: https://www.bing.com/\n• Neeva: https://en.wikipedia.org/wiki/Neeva\n• Google’s tweet about the antitrust case:\
+  \ https://x.com/Google_Comms/status/1820558371285508123\n• Mailbag: Google and Antitrust Festivus, Credit Card Dominance,\
+  \ AI for Movies and Writing, Shohei’s Contract | Sharp Tech with Ben Thompson: https://podcasts.apple.com/ca/podcast/mailbag-google-and-antitrust-festivus-credit-card/id1646152812?i=1000638448429\n\
+  • DuckDuckGo: https://duckduckgo.com/\n• Kayak: https://www.kayak.com/\n• Expedia: https://www.expedia.com/\n• Faire: https://www.faire.com/\n\
+  • Shopify: https://www.shopify.com/\n• WordPress: https://wordpress.com/\n• Semrush: https://www.semrush.com/\n• Ahrefs:\
+  \ https://ahrefs.com/\n• Similarweb: https://www.similarweb.com/\n...References continued at: https://www.lennysnewsletter.com/p/rethinking-seo-in-the-age-of-ai-eli-schwartz\n\
+  \n—\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 6910.0
 duration: '1:55:10'
 view_count: 88168

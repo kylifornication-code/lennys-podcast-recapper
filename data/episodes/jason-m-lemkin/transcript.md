@@ -1,15 +1,153 @@
 ---
 guest: Jason M Lemkin
-title: We replaced our sales team with 20 AI agents—here’s what happened next | Jason
-  Lemkin (SaaStr)
+title: We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)
 youtube_url: https://www.youtube.com/watch?v=I-R1bc1rlFs
 video_id: I-R1bc1rlFs
 publish_date: 2026-01-01
-description: 'Jason Lemkin is the founder of SaaStr, the world’s largest community
-  for software founders, and a veteran SaaS investor who has deployed over $200 million
-  into B2B startups. After his last...
+description: 'Jason Lemkin is the founder of SaaStr, the world’s largest community for software founders, and a veteran SaaS
+  investor who has deployed over $200 million into B2B startups. After his last salesperson quit, Jason made a radical decision:
+  replace his entire go-to-market team with AI agents. What started as an experiment has transformed into a new operating
+  model, where 20 AI agents managed by just 1.2 humans now do the work previously handled by a team of 10 SDRs and AEs. In
+  this conversation, Jason shares his hands-on experience implementing AI to run his sales org, including what works, what
+  doesn’t, and how the GTM landscape is quickly being transformed.
 
-  '
+
+  *We discuss:*
+
+  1. How AI is fundamentally changing the sales function
+
+  2. Why most SDRs and BDRs will be “extinct” within a year
+
+  3. What Jason is observing across his portfolio about AI adoption in GTM
+
+  4. How to become “hyper-employable” in the age of AI
+
+  5. The specific AI tools and tactics he’s using that have been working best
+
+  6. Practical frameworks for integrating AI into your sales motion without losing what works
+
+  7. Jason’s 2026 predictions on where SaaS and GTM are heading next
+
+
+  *Brought to you by:*
+
+  DX—The developer intelligence platform designed by leading researchers: https://getdx.com/lenny
+
+  Vercel—Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web: https://vercel.com/lennyspodcast
+
+  Datadog—Now home to Eppo, the leading experimentation and feature flagging platform: https://www.datadoghq.com/lenny
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/we-replaced-our-sales-team-with-20-ai-agents
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/182902716/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Jason Lemkin:*
+
+  • X: https://x.com/jasonlk
+
+  • LinkedIn: https://www.linkedin.com/in/jasonmlemkin
+
+  • Website: https://www.saastr.com
+
+  • Substack: https://substack.com/@cloud
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Jason Lemkin
+
+  (04:36) What SaaStr does
+
+  (07:13) AI’s impact on sales teams
+
+  (10:11) How SaaStr''s AI agents work and their performance
+
+  (14:18) How go-to-market is changing in the AI era
+
+  (19:19) The future of SDRs, BDRs, and AEs in sales
+
+  (22:03) Why leadership roles are safe
+
+  (23:43) How to be in the 20% who thrive in the AI sales future
+
+  (28:40) Why you shouldn''t build your own AI tools
+
+  (30:10) Specific AI agents and their applications
+
+  (36:40) Challenges and learnings in AI deployment
+
+  (42:11) Making AI-generated emails good (not just acceptable)
+
+  (47:31) When humans still beat AI in sales
+
+  (52:39) An overview of SaaStr''s org
+
+  (53:50) The role of human oversight in AI operations
+
+  (58:37) Advice for salespeople and founders in the AI era
+
+  (01:05:40) Forward-deployed engineers
+
+  (01:08:08) What''s changing and what''s staying the same in sales
+
+  (01:16:21) Why AI is creating more work, not less
+
+  (01:19:32) Why Jason says these are magical times
+
+  (01:25:25) The "incognito mode test" for finding AI opportunities
+
+  (01:27:19) The impact of AI on jobs
+
+  (01:30:18) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Building a world-class sales org | Jason Lemkin (SaaStr): https://www.lennysnewsletter.com/p/building-a-world-class-sales-org
+
+  • SaaStr Annual: https://www.saastrannual.com
+
+  • Delphi: https://www.delphi.ai/saastr/talk
+
+  • Amelia Lerutte on LinkedIn: https://www.linkedin.com/in/amelialerutte/
+
+  • Vercel: https://vercel.com
+
+  • What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google): https://www.lennysnewsletter.com/p/what-the-best-gtm-teams-do-differently
+
+  • Everyone’s an engineer now: Inside v0’s mission to create a hundred million builders | Guillermo Rauch (founder and CEO
+  of Vercel, creators of v0 and Next.js): https://www.lennysnewsletter.com/p/everyones-an-engineer-now-guillermo-rauch
+
+  • Replit: https://replit.com
+
+  • Behind the product: Replit | Amjad Masad (co-founder and CEO): https://www.lennysnewsletter.com/p/behind-the-product-replit-amjad-masad
+
+  • ElevenLabs: https://elevenlabs.io
+
+  • The exact AI playbook (using MCPs, custom GPTs, Granola) that saved ElevenLabs $100k+ and helps them ship daily | Luke
+  Harries (Head of Growth): https://www.lennysnewsletter.com/p/the-ai-marketing-stack
+
+  ...References continued at: https://www.lennysnewsletter.com/p/we-replaced-our-sales-team-with-20-ai-agents
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 6131.0
 duration: '1:42:11'
 view_count: 47503

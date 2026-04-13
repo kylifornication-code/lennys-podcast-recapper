@@ -4,11 +4,126 @@ title: How to grow a subscription business | Yuriy Timen (Grammarly, Canva, Airt
 youtube_url: https://www.youtube.com/watch?v=8-iN7sweFBM
 video_id: 8-iN7sweFBM
 publish_date: 2022-09-01
-description: 'Yuriy Timen was Global Head of Marketing and Growth at Grammarly, and
-  is now a full-time growth advisor, having worked with more than a dozen companies,
-  including Canva, Airtable, Whimsical,...
+description: 'Yuriy Timen was Global Head of Marketing and Growth at Grammarly, and is now a full-time growth advisor, having
+  worked with more than a dozen companies, including Canva, Airtable, Whimsical, Otter.ai, Oyster, Flo Health, and Clay. In
+  today’s episode, Yuriy discusses the ever-changing world of growth, emerging growth tactics, and how to find your growth
+  engine. You’ll learn the most effective strategies for driving user acquisition, how to balance and diversify organic and
+  paid channels, when it’s time to change plans, how to vet new growth channel opportunities, and much more.
 
-  '
+
+  Find the full transcript here: https://www.lennysnewsletter.com/p/transform-your-subscription-growth
+
+  —
+
+
+  Where to find Yuriy Timen:
+
+
+  • LinkedIn: https://www.linkedin.com/in/yuriytimen/
+
+
+  —
+
+
+  Where to find Lenny:
+
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  —
+
+
+  Thank you to our wonderful sponsors for making this episode possible:
+
+
+  • Flatfile: https://www.flatfile.com/lenny
+
+  • Modern Treasury: https://www.moderntreasury.com/
+
+  • Eppo: https://www.geteppo.com/
+
+
+  —
+
+
+  Referenced:
+
+
+  • Casey Winters: https://www.linkedin.com/in/caseywinters/
+
+  • Elena Verna: https://www.linkedin.com/in/elenaverna/
+
+  • Lyka Pet Food: https://lyka.com.au/
+
+  • Ethan Smith’s LinkedIn:  https://www.linkedin.com/in/ethanls/
+
+  • Graphite: https://www.graphitehq.com/
+
+  • Recast: https://getrecast.com/
+
+  • Measured: https://www.measured.com/
+
+  • INCRMNTAL: https://www.incrmntal.com/
+
+  • Essentialism: The Disciplined Pursuit of Less: https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382/
+
+  • Man’s Search for Meaning: https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273/
+
+  • The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz: https://www.amazon.com/Splendid-Vile-Churchill-Family-Defiance/dp/0385348711/
+
+  • The All-In Podcast: https://www.allinpodcast.co/
+
+  • Hustle: https://www.netflix.com/title/80242342
+
+  • Mark Fiske at H.I.G.: https://higgrowth.com/team/mark-fiske/
+
+
+  —
+
+
+  In this episode, we cover:
+
+
+  [00:00] Yuriy’s background
+
+  [09:46] Different paths to growth for subscription-based products
+
+  [13:21] When to lean into virality
+
+  [15:39] What are network effects?
+
+  [16:32] SEO strategy and timeline: how long can it take to see results?
+
+  [24:22] The shifting landscape of paid media
+
+  [28:09] The return of media mix modeling
+
+  [32:01] How can you tell if media spending equates to business results?
+
+  [33:44] Don’t spread yourself too thin
+
+  [36:01] How to tell if you’ve taken a strategy far enough
+
+  [38:02] When to lean into a strategy that’s working vs. when to think about diversification
+
+  [42:13] Is there a shift from growth to survival?
+
+  [46:19] Two reasons to do paid media
+
+  [56:45] Why you shouldn’t dismiss TikTok (and other channels you might be overlooking)
+
+  [59:36] Lightning round!
+
+
+  —
+
+
+  Production and marketing by https://penname.co/. For inquires about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 4096.0
 duration: '1:08:16'
 view_count: 9999

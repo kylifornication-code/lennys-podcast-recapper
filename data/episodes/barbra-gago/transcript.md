@@ -1,15 +1,39 @@
 ---
 guest: Barbra Gago
-title: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse,
-  Culture Amp)
+title: Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)
 youtube_url: https://www.youtube.com/watch?v=gCEaUfZUuI0
 video_id: gCEaUfZUuI0
 publish_date: 2022-10-27
-description: 'Barbra Gago is the founder and CEO of Pando, where she’s democratizing
-  career progression. Previously she worked as the Chief Marketing Officer and Global
-  Head of Marketing at Miro, where...
-
-  '
+description: "Barbra Gago is the founder and CEO of Pando, where she’s democratizing career progression. Previously she worked\
+  \ as the Chief Marketing Officer and Global Head of Marketing at Miro, where she helped create an entirely new software\
+  \ category for the space, and also served as VP of Marketing at Greenhouse, where she led go-to-market strategy. In today’s\
+  \ episode, we cover three main topics: category creation, branding and rebranding, and building opinionated software. Barbra\
+  \ discusses how she was able to rebrand Miro and launch a whole new category—and why her attempt to do that at Greenhouse\
+  \ failed. We cover the benefits of building your own category, and when it makes sense to do so and when it doesn’t. She\
+  \ also shares the importance of getting to know your users, why a great brand is informed by its values, and why Pando is\
+  \ built in an opinionated way.\n\nFind the full transcript here: https://www.lennyspodcast.com/category-creation-and-brand-building-barbra-gago-pando-miro-greenhouse-culture-amp/#transcript\n\
+  \n—\n\nWhere to find Barbra Gago:\n\n• Twitter: https://twitter.com/barbragago\n• LinkedIn: https://www.linkedin.com/in/barbragago\n\
+  • Pando: https://www.pando.com/\n\n—\n\nWhere to find Lenny:\n\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter:\
+  \ https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\n—\n\nThank you to our wonderful\
+  \ sponsors for making this episode possible:\n\n• AssemblyAI: https://www.assemblyai.com/?utm_source=lennyspodcast&utm_medium=podcast&utm_campaign=oct27\n\
+  • Stytch: https://stytch.com/lenny\n• Vanta: https://vanta.com/lenny\n\n—\n\nReferenced:\n\n• G2: https://g2.com/\n• Software\
+  \ Advice: https://www.softwareadvice.com/\n• Marketo: https://www.marketo.com/\n• HubSpot: https://www.hubspot.com/\n• Gainsight:\
+  \ https://www.gainsight.com/\n• Greenhouse: https://www.greenhouse.io/\n• Miro: https://miro.com/\n• Gartner: https://www.gartner.com/\n\
+  • Forrester: https://www.forrester.com/research/product-management/\n• Oyster: https://www.oysterhr.com/\n• Deel: https://www.deel.com/\n\
+  • Atlassian: https://www.atlassian.com/\n• Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity: https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375\n\
+  • The Art of War: https://www.amazon.com/Art-War-Sun-Tzu/dp/1590302257\n• Kafka on the Shore: https://www.amazon.com/Kafka-Shore-Haruki-Murakami/dp/0099458322\n\
+  • Cautionary Tales podcast: https://timharford.com/articles/cautionarytales/\n• The Sandman on Netflix: https://www.netflix.com/title/81150303\n\
+  • Nancy Duarte on LinkedIn: https://www.linkedin.com/in/nancyduarte/\n• Al Gore’s TED Talk: https://www.ted.com/talks/al_gore_the_new_urgency_of_climate_change\n\
+  \n—\n\nIn this episode, we cover:\n\n(00:00) Barbra’s background\n(05:06) Barbra’s startup \n(06:07) Category creation vs.\
+  \ winning in existing categories\n(07:49) What is an applicant tracking system, and why have they been problematic?\n(09:57)\
+  \ What is a product category?\n(13:06) Examples of product categories\n(14:05) Greenhouse as an example of failed category\
+  \ creation \n(16:46) How Miro successfully created a new category\n(18:37) Utilizing user feedback\n(21:15) The mechanics\
+  \ of category creation\n(21:22) How to advocate for your new category with directory sites\n(25:53) The middle ground between\
+  \ new and existing categories\n(29:37) When is it time to rebrand?\n(38:51) How to create a lasting, global brand\n(41:18)\
+  \ How values inform brands\n(43:13) Insights into developing company values\n(44:24) The elements of a brand\n(46:37) What\
+  \ is opinionated software?\n(47:57) The benefits of opinionated software, and why Barbra’s software is opinionated\n(51:23)\
+  \ Lightning round\n\n—\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email\
+  \ podcast@lennyrachitsky.com."
 duration_seconds: 3348.0
 duration: '55:48'
 view_count: 3496

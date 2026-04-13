@@ -4,11 +4,31 @@ title: Strategies for becoming less distractible and improving focus | Nir Eyal
 youtube_url: https://www.youtube.com/watch?v=WSscIIY609c
 video_id: WSscIIY609c
 publish_date: 2023-12-29
-description: 'Nir Eyal is the author of two best-selling books, Hooked: How to Build
-  Habit-Forming Products and Indistractable: How to Control Your Attention and Choose
-  Your Life. He writes, consults, and...
-
-  '
+description: "Nir Eyal is the author of two best-selling books, Hooked: How to Build Habit-Forming Products and Indistractable:\
+  \ How to Control Your Attention and Choose Your Life. He writes, consults, and teaches at the intersection of psychology,\
+  \ technology, and business. His books have sold over 1 million copies in more than 30 languages; he has taught at Stanford’s\
+  \ Graduate School of Business and its Design School; and he has started and sold two startups since 2003. In our conversation,\
+  \ we discuss:\n• Strategies for becoming less distractible and improving focus\n• The difference between distraction and\
+  \ “traction”• Reactive work vs. reflexive work and why you should book time in your calendar\n• The 10-minute rule to overcome\
+  \ internal triggers and stay focused\n• The problem with to-do lists, and what to do instead\n• The value of creating a\
+  \ timebox schedule that aligns with personal values and priorities\n• The use of pacts as a last line of defense against\
+  \ distraction\n• How to develop a high-agency mindset\n• Advice for leaders on helping employees improve focus in the workplace\n\
+  \n—\n\nBrought to you by Vanta—Automate compliance. Simplify security: https://vanta.com/lenny | Jira Product Discovery—Atlassian’s\
+  \ new prioritization and roadmapping tool built for product teams: https://atlassian.com/lenny/?utm_source=lennypodcast&utm_medium=paid-audio&utm_campaign=fy24q1-jpd-imc\
+  \ | Teal—Your personal career growth platform: http://tealhq.com/lenny\n\nFind the transcript and references at: https://www.lennysnewsletter.com/p/strategies-for-becoming-less-distractible\n\
+  \nWhere to find Nir Eyal:\n• X: https://twitter.com/nireyal\n• LinkedIn: https://www.linkedin.com/in/nireyal/\n• Website:\
+  \ https://www.nirandfar.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Nir’s background\n(04:20)\
+  \ How to become less distractible\n(07:43) Understanding distraction and traction\n(12:52) The four steps to becoming indistractable\
+  \ \n(13:53) Mastering internal triggers\n(18:49) Surfing the urge with a 10-minute timer\n(23:20) Making time for traction\
+  \ with a timebox schedule\n(25:02) How to turn your values into time \n(28:36) Booking deep work time\n(29:22) Making pacts\
+  \ to prevent distraction\n(31:00) The problem with to-do lists\n(34:31) The drawback of deadlines\n(36:08) Distraction is\
+  \ an emotion regulation problem\n(39:54) Hacking back external triggers\n(45:03) Preventing distraction with pacts\n(48:18)\
+  \ Specific tools to hold you accountable\n(53:42) Managing emotions and discomfort \n(56:37) Taking responsibility and being\
+  \ high-agency \n(01:00:09) Becoming indistractable at work\n(01:05:04) Schedule syncing to align with managers\n(01:09:36)\
+  \ We are not as hooked on technology as people think\n(01:16:00) Life purpose and personal responsibility \n(01:17:38) Lightning\
+  \ round \n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5082.0
 duration: '1:24:42'
 view_count: 30097

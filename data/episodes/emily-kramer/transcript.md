@@ -4,11 +4,32 @@ title: How to build a powerful marketing machine | Emily Kramer (Asana, Carta, M
 youtube_url: https://www.youtube.com/watch?v=gzs61z9Fekw
 video_id: gzs61z9Fekw
 publish_date: 2022-09-11
-description: 'Emily Kramer led and built the marketing teams at Asana, Carta, Ticketfly,
-  and Astro (acquired by Slack). These days, she’s the co-founder of MKT1, where she
-  helps founders and marketers...
-
-  '
+description: "Emily Kramer led and built the marketing teams at Asana, Carta, Ticketfly, and Astro (acquired by Slack). These\
+  \ days, she’s the co-founder of MKT1, where she helps founders and marketers build and scale their marketing functions.\
+  \ Emily is also a well-respected angel investor and writes my favorite marketing newsletter (MKT1). In today’s episode,\
+  \ she shares her insights on when to hire marketers, how to determine which type of marketing hire is best for your team,\
+  \ how to best work with marketing, and what red flags to look for. Emily shares actionable templates and some incredible\
+  \ frameworks that are sure to expand your marketing knowledge.\n\nFind the full transcript here: https://www.lennysnewsletter.com/p/how-to-build-a-powerful-marketing\n\
+  \n—\n\nWhere to find Emily Kramer:\n\n• Twitter: https://twitter.com/emilykramer\n• LinkedIn: https://www.linkedin.com/in/emilykramer/\n\
+  • MKT1 Newsletter: https://mkt1.substack.com/\n\n—\n\nWhere to find Lenny:\n\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\n—\n\nThank you to our\
+  \ wonderful sponsors for making this episode possible:\n\n• Amplitude: https://amplitude.com/\n• Lenny’s Job Board: https://www.lennysjobs.com/talent\n\
+  • Athletic Greens: https://athleticgreens.com/lenny\n\n—\n\nReferenced:\n\n• Building an efficient marketing machine: the\
+  \ fuel & the engine: https://mkt1.substack.com/p/fuel-engine\n• The GACC Marketing Brief: https://mkt1.substack.com/p/the-gacc-marketing-brief-the-best\n\
+  • The Tipping Point: How Little Things Can Make a Big Difference: https://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624\n\
+  • Crossing the Chasm: https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/\n• Purple Cow: Transform\
+  \ Your Business by Being Remarkable: https://www.amazon.com/Purple-Cow-Transform-Business-Remarkable/dp/014101640X\n• All\
+  \ the Light We Cannot See: https://www.amazon.com/All-Light-We-Cannot-See/dp/1501173219/\n• The Daily podcast: https://www.nytimes.com/column/the-daily\n\
+  • Stream Yellowjackets on Showtime: https://www.sho.com/yellowjackets\n• CODA on Apple TV+: https://tv.apple.com/us/movie/coda/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir\n\
+  • Ashley Mayer’s LinkedIn: https://www.linkedin.com/in/ashleymayer/\n• Kevan Lee’s LinkedIn: https://www.linkedin.com/in/kevanlee/\n\
+  \n—\n\nIn this episode, we cover:\n\n(00:00) Emily’s background\n(06:08) Hiring a marketing team\n(11:26) Examples of fuel\
+  \ and engine in marketing\n(16:00) What is a product marketer?\n(18:20) Why you should start with a marketing generalist\
+  \ \n(20:30) The difference between a growth person and a product person \n(23:57) What to look for in a product marketer\n\
+  (26:58) When to hire a marketing person\n(30:45) The role of a brand marketer\n(33:24) Marketing for PLG startups\n(36:22)\
+  \ What is product-led growth?\n(39:23) How to get product and marketing to collaborate \n(43:38) What is the GACC framework?\n\
+  (47:58 ) How to know if your marketing team is effective\n(54:33) Why founders need angel investors with functional expertise\n\
+  (1:00:23) Lightning round\n\n—\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast,\
+  \ email podcast@lennyrachitsky.com."
 duration_seconds: 4254.0
 duration: '1:10:54'
 view_count: 12766

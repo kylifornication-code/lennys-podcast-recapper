@@ -4,11 +4,46 @@ title: Why great AI products are all about the data | Shaun Clowes (CPO at Confl
 youtube_url: https://www.youtube.com/watch?v=yVS1gTAQYSU
 video_id: yVS1gTAQYSU
 publish_date: 2024-12-29
-description: 'Shaun Clowes is the chief product officer at Confluent and former CPO
-  at Salesforce’s MuleSoft and at Metromile. He was also the first head of growth
-  at Atlassian, where he led product for...
-
-  '
+description: "Shaun Clowes is the chief product officer at Confluent and former CPO at Salesforce’s MuleSoft and at Metromile.\
+  \ He was also the first head of growth at Atlassian, where he led product for Jira Agile and built the first-ever B2B growth\
+  \ team. In our conversation, we discuss:\n• Why most PMs are bad, and how to fix this\n• Why great AI products are all about\
+  \ the data\n• Why he changed his mind about being data-driven\n• How to build your B2B growth team\n• How to choose your\
+  \ next career stop\n• Much more\n\n—\n\nBrought to you by:\n• Enterpret—Transform customer feedback into product growth:\
+  \ https://enterpret.com/lenny\n• BuildBetter—AI for product teams: https://buildbetter.ai/lenny\n• Wix Studio—The web creation\
+  \ platform built for agencies: https://www.wix.com/studio\n\nFind the transcript at: https://www.lennysnewsletter.com/p/why-great-ai-products-are-all-about-the-data-shaun-clowes\n\
+  \nWhere to find Shaun Clowes:\n• X: https://x.com/ShaunMClowes\n• LinkedIn: https://www.linkedin.com/in/shaun-clowes-80795014/\n\
+  • Website: https://shaunclowes.com/about-shaun\n• Reforge: https://www.reforge.com/profiles/shaun-clowes\n\nWhere to find\
+  \ Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Shaun’s background\n(05:08) The state of product management\n(09:33) Becoming a 10x\
+  \ product manager\n(13:23) Specific ways to leverage AI in product management\n(17:15) Feedback rivers \n(19:20) AI's impact\
+  \ on data management\n(24:35) The future of enterprise businesses with AI\n(35:41) Data-driven decision-making\n(45:50)\
+  \ Building effective growth teams\n(50:18) The evolution of product-led growth\n(56:16) Career insights and decision-making\n\
+  (01:07:45) Failure corner\n(01:12:32) Final thoughts and lightning round\n\nReferenced:\n• Steve Blank’s website: https://steveblank.com/\n\
+  • Getting Out of the Building. 2 Minutes to See Why: https://www.youtube.com/watch?v=TbMgWr1YVfs\n• OpenAI: https://openai.com/\n\
+  • Claude: https://claude.ai/\n• Sachin Rekhi on LinkedIn: https://www.linkedin.com/in/sachinrekhi/\n• Video: Building Your\
+  \ Product Intuition with Feedback Rivers: https://www.sachinrekhi.com/video-building-your-product-intuition-with-feedback-rivers\n\
+  • Confluent: https://www.confluent.io\n• Workday: https://www.workday.com/\n• Lenny and Friends Summit: https://lennyssummit.com/\n\
+  • A conversation with OpenAI’s CPO Kevin Weil, Anthropic’s CPO Mike Krieger, and Sarah Guo: https://www.youtube.com/watch?v=IxkvVZua28k\n\
+  • Anthropic: https://www.anthropic.com/\n• Salesforce: https://www.salesforce.com/\n• Atlassian: https://www.atlassian.com/\n\
+  • Jira: https://www.atlassian.com/software/jira\n• Ashby: https://www.ashbyhq.com/\n• Occam’s razor: https://en.wikipedia.org/wiki/Occam%27s_razor\n\
+  • Breaking the rules of growth: Why Shopify bans KPIs, optimizes for churn, prioritizes intuition, and builds toward a 100-year\
+  \ vision | Archie Abrams (VP Product, Head of Growth at Shopify): https://www.lennysnewsletter.com/p/shopifys-growth-archie-abrams\n\
+  • Charlie Munger quote: https://www.goodreads.com/quotes/11903426-show-me-the-incentive-and-i-ll-show-you-the-outcome\n\
+  • Elena Verna on how B2B growth is changing, product-led growth, product-led sales, why you should go freemium not trial,\
+  \ what features to make free, and much more: https://www.lennysnewsletter.com/p/elena-verna-on-why-every-company\n• The\
+  \ ultimate guide to product-led sales | Elena Verna: https://www.lennysnewsletter.com/p/the-ultimate-guide-to-product-led\n\
+  • Metromile: https://www.metromile.com/\n• Tom Kennedy on LinkedIn: https://www.linkedin.com/in/tom-kennedy-37356b2b/\n\
+  • Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy): https://www.lennysnewsletter.com/p/building-wiz-raaz-herzberg\n\
+  • Wiz: https://www.wiz.io\n• Colin Powell’s 40-70 rule: https://www.42courses.com/blog/home/2019/12/10/colin-powells-40-70-rule\n\
+  • Detroiters on Netflix: https://www.netflix.com/title/80165019\n• Glean: https://www.glean.com/\n• Radical Candor: Be a\
+  \ Kick-Ass Boss Without Losing Your Humanity: https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509\n\
+  • Listen: Five Simple Tools to Meet Your Everyday Parenting Challenges: https://www.amazon.com/Listen-Simple-Everyday-Parenting-Challenges/dp/0997459301\n\
+  • Empress Falls Canyon and abseiling: https://bmac.com.au/blue-mountains-canyoning/empress-falls-canyon-and-abseiling\n\n\
+  Recommended books:\n• The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful\
+  \ Businesses: https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898\n• Inspired: How to\
+  \ Create Products Customers Love: https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408\n\nProduction\
+  \ and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\n\
+  Lenny may be an investor in the companies discussed."
 duration_seconds: 4895.0
 duration: '1:21:35'
 view_count: 17562

@@ -4,9 +4,33 @@ title: The ultimate guide to product-led sales | Elena Verna
 youtube_url: https://www.youtube.com/watch?v=bxghtN-OlJQ
 video_id: bxghtN-OlJQ
 publish_date: 2023-04-23
-description: Elena Verna is a leading growth expert with over 15 years of experience
-  in tech. She was SVP of Growth at SurveyMonkey and interim CMO at Miro, where she
-  built high-performing teams that drove...
+description: "Elena Verna is a leading growth expert with over 15 years of experience in tech. She was SVP of Growth at SurveyMonkey\
+  \ and interim CMO at Miro, where she built high-performing teams that drove significant growth. She recently served as interim\
+  \ Head of Growth at Amplitude and currently advises and is a board member for early-stage startups. In today’s podcast,\
+  \ we discuss:\n• What product-led sales is\n• How product-led sales differs from product-led growth\n• Unpacking common\
+  \ acronyms: PQAs, PQs, PQLs, and MQLs\n• When and how to consider investing in PLS\n• Metrics for identifying qualified\
+  \ accounts\n• The team, data, and tooling required for implementing PLS\n• Common pitfalls to avoid when adding PLS\n\n\
+  —\n\nBrought to you by Linear—The new standard for modern software development | Braintrust—For when you needed talent,\
+  \ yesterday | Rows—The spreadsheet where data comes to life \n\nFind the full transcript at: https://www.lennyspodcast.com/the-ultimate-guide-to-product-led-sales-elena-verna/#transcript\n\
+  \nWhere to find Elena Verna:\n• LinkedIn: https://www.linkedin.com/in/elenaverna\n• Twitter: https://twitter.com/elenaverna\n\
+  • Newsletter: https://elenaverna.substack.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we\
+  \ cover:\n(00:00) Elena’s background and what she’s doing now\n(07:13) Product-led sales (PLS) vs. product-led growth (PLG)\n\
+  (12:47) How sales solutions can be applied to enterprise-level problems\n(15:06) Defining enterprise-level problems \n(17:51)\
+  \ How product-led companies start with PLS\n(20:30) When to add sales\n(22:36) Two ways to get to PLS\n(24:27) Why every\
+  \ sales-led-growth company needs to add PLG\n(26:50) Two ways you can own revenue\n(28:37) PQAs, PQs, PQLs, and MQLs\n(37:17)\
+  \ How to get started adding PLS\n(42:01) Metrics to identify PQAs\n(47:00) Why sales should be carefully applied \n(49:07)\
+  \ Systems, infrastructure, and tooling\n(50:59) The people and resources required for PLS\n(53:42) Why you should have a\
+  \ clear ROI for every new hire\n(55:05) Why product needs to be accountable for monetization with PLS\n(59:57) Revenue-based\
+  \ goals product teams should have\n(1:06:28) Common pitfalls startups run into when implementing PLS\n(1:09:15) Benchmarks\
+  \ and the amount of time needed for implementing enterprise solutions\n(1:12:04) Using onboarding to profile users\n(1:13:08)\
+  \ Will AI be the next sales movement?\n\nReferenced:\n• Elena’s previous episode on Lenny’s Podcast: https://www.lennyspodcast.com/elena-verna-on-how-b2b-growth-is-changing-product-led-growth-product-led-sales-why-you-should-go-freemium-not-trial-what-features-to-make-free-and-much-more/\n\
+  • Miro: https://miro.com/\n• Figma: https://www.figma.com/\n• Elena’s PLS funnel diagram: https://www.linkedin.com/posts/elenaverna_b2b-product-led-sales-guide-activity-7052664130763206658-yxLK/?utm_source=share&utm_medium=member_desktop\n\
+  • Elena’s memes: https://www.elenaverna.com/memes\n• Mixpanel Signal reports: https://mixpanel.com/blog/mixpanel-signal-launch/\n\
+  • Amplitude Compass chart: https://help.amplitude.com/hc/en-us/articles/235147347-The-Compass-chart-discover-your-users-a-ha-moments\n\
+  • Looker: https://www.looker.com/\n• Tableau: https://www.tableau.com/\n• Salesforce: https://www.salesforce.com/\n• HubSpot:\
+  \ https://www.hubspot.com/\n• Marketo: https://nation.marketo.com/\n• Waitlist for PLG course on Reforge: https://www.reforge.com/programs/product-led-growth\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 4570.0
 duration: '1:16:10'
 view_count: 32953

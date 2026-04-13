@@ -4,11 +4,31 @@ title: The ultimate guide to product operations | Melissa Perri and Denise Tille
 youtube_url: https://www.youtube.com/watch?v=9VdixM9KPN4
 video_id: 9VdixM9KPN4
 publish_date: 2023-11-16
-description: 'Melissa Perri is the CEO of Produx Labs, a product management training
-  organization; author of the seminal PM book The Build Trap; and a former Harvard
-  Business School professor of product...
-
-  '
+description: "Melissa Perri is the CEO of Produx Labs, a product management training organization; author of the seminal PM\
+  \ book The Build Trap; and a former Harvard Business School professor of product management. Denise Tilles is the CPO at\
+  \ Grocket, Melissa’s colleague at Produx Labs, and a seasoned product leader with over a decade of experience. Together\
+  \ they authored the new book Product Operations: How successful companies build better products at scale. In today’s episode,\
+  \ they share insights, strategies, and real-world experiences to master all things product ops. We discuss:\n• What exactly\
+  \ product operations is\n• The three pillars of the product ops role\n• The biggest benefits of adding product ops to your\
+  \ organization\n• Which tasks product managers should offload to product ops and which they need to own\n• How to help PMs\
+  \ embrace the value of product ops\n• Examples of companies that have implemented product ops well\n• Who and how to hire\
+  \ for this role\n\n—\n\nThis entire episode is brought to you by Jira Product Discovery—Atlassian’s new prioritization and\
+  \ roadmapping tool built for product teams: https://atlassian.com/lenny/?utm_source=lennypodcast&utm_medium=paid-audio&utm_campaign=fy24q1-jpd-imc\n\
+  \nFind the full transcript at: https://www.lennyspodcast.com/the-ultimate-guide-to-product-operations-melissa-perri-and-denise-tilles/#transcript\n\
+  \nWhere to find Melissa Perri:\n• X: https://twitter.com/lissijean\n• LinkedIn: https://www.linkedin.com/in/melissajeanperri/\n\
+  • Website: https://produxlabs.com/\n\nWhere to find Denise Tilles:\n• X: https://twitter.com/dtilles\n• LinkedIn: https://www.linkedin.com/in/denisetilles/\n\
+  • Website: https://www.denisetilles.com\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) About our guests, Melissa\
+  \ Perri and Denise Tilles\n(03:46) How common is the product operations role?\n(07:41) The benefits of having a product\
+  \ ops person in your organization\n(09:16) How to help PMs embrace the value of product ops\n(11:44) The three pillars of\
+  \ the product ops role\n(15:25) How user research fits in\n(18:35) Why product ops will be an essential role for product\
+  \ managers to thrive\n(24:24) Which tasks product managers should offload to product ops and which they need to own\n(28:58)\
+  \ Project management vs. product ops\n(29:44) The jobs of a product ops person\n(37:38) Why the product ops role will never\
+  \ become obsolete \n(39:31) How many product ops people you need\n(45:13) First steps in building out a product ops team\n\
+  (47:06) What to look for in your first hire\n(51:11) Key skills needed for a product ops person\n(57:29) Who product ops\
+  \ should report to\n(59:50) An example of rolling out product ops at Athena Health\n(1:09:35) Lightning round\n\nProduction\
+  \ and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\n\
+  Lenny may be an investor in the companies discussed."
 duration_seconds: 4772.0
 duration: '1:19:32'
 view_count: 24171

@@ -4,9 +4,34 @@ title: Linear’s secret to building beloved B2B products | Nan Yu (Head of Prod
 youtube_url: https://www.youtube.com/watch?v=nTr21kgCFF4
 video_id: nTr21kgCFF4
 publish_date: 2025-01-30
-description: Nan Yu is the head of product at Linear, one of the most beloved and
-  fastest-growing B2B SaaS products out there today, and the gold standard for high-performing
-  tech teams. In our conversation,...
+description: "Nan Yu is the head of product at Linear, one of the most beloved and fastest-growing B2B SaaS products out there\
+  \ today, and the gold standard for high-performing tech teams. In our conversation, we discuss:\n• Why speed and quality\
+  \ aren’t actually at odds\n• Linear’s unique approach to product development\n• Nan’s systematic approach to creativity\n\
+  • Linear’s philosophy on deadlines\n• The “double triangle” framework for product management\n• Nan’s approach to landing\
+  \ his dream product roles\n• Much more\n\n—\n\nBrought to you by:\n• Sinch—Build messaging, email, and calling into your\
+  \ product: https://sinch.com/lenny\n• Paragon—Ship every SaaS integration your customers want: https://www.useparagon.com/lenny\n\
+  • Wix Studio—The web creation platform built for agencies: https://www.wix.com/studio\n\nFind the transcript at: https://www.lennysnewsletter.com/p/linears-secret-to-building-beloved-b2b-products-nan-yu\n\
+  \nWhere to find Nan Yu:\n• X: https://x.com/thenanyu\n• LinkedIn: https://www.linkedin.com/in/thenanyu/\n\nWhere to find\
+  \ Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Introduction to Nan Yu and Linear\n(04:54) Survey insights: Linear vs. Jira\n(07:51)\
+  \ The speed vs. quality myth\n(09:24) Building and iterating quickly\n(15:31) Avoiding bloat in enterprise software\n(23:57)\
+  \ Understanding user needs deeply\n(30:09) How to approach customer calls \n(34:10) Creating strong emotional hooks\n(40:31)\
+  \ Managing the product backlog\n(44:46) Systemizing creativity\n(48:16) Demo: Saving drafts in Linear\n(51:38) Breaking\
+  \ constraints and building at extremes\n(54:15) Adopting new tools\n(58:22) The “double triangle” framework for product\
+  \ management\n(01:04:23) Effective job-hunting strategies for PMs\n(01:09:15) Thoughts on deadlines\n(01:14:15) Lightning\
+  \ round\n\nReferenced:\n• Jira: https://www.atlassian.com/software/jira\n• Linear: https://linear.app/\n• Patrick Collison’s\
+  \ post on X: https://x.com/patrickc/status/1869422495985750459\n• Magnus Carlsen on X: https://x.com/magnuscarlsen\n• Hikaru\
+  \ Nakamura on X: https://x.com/gmhikaru\n• Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating\
+  \ a market: https://www.lennysnewsletter.com/p/geoffrey-moore-on-finding-your-beachhead\n• Customer Request feature on Linear:\
+  \ https://linear.app/customer-requests\n• Everlane: https://www.everlane.com/\n• Schlep Blindness: https://paulgraham.com/schlep.html\n\
+  • Linear’s triage tool: https://linear.app/docs/triage\n• Patrick Collison’s post about mental models on X: https://x.com/patrickc/status/1443215022029619200\n\
+  • Brian Chesky’s new playbook: https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach\n• Unpacking Amazon’s\
+  \ unique ways of working | Bill Carr (author of Working Backwards): https://www.lennysnewsletter.com/p/unpacking-amazons-unique-ways-of\n\
+  • Mode: https://mode.com/\n• The Diplomat on Netflix: https://www.netflix.com/title/81288983\n• Sakura Micron pens: https://www.amazon.com/SAKURA-PIGMA-MICRON-ESSENTIAL-COLORS/dp/B07VJFXT3C/\n\
+  \nRecommended books:\n• Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers: https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986\n\
+  • The Design of Everyday Things: https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/\n\nProduction\
+  \ and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\n\
+  Lenny may be an investor in the companies discussed."
 duration_seconds: 4868.0
 duration: '1:21:08'
 view_count: 39440

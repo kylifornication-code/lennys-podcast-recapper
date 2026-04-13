@@ -4,11 +4,139 @@ title: What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbn
 youtube_url: https://www.youtube.com/watch?v=7gaPPrAd7nc
 video_id: 7gaPPrAd7nc
 publish_date: 2022-11-20
-description: 'Ian McAllister is the Senior Director of Product for Vehicles at Uber.
-  Before moving to Uber, Ian spent over a decade directing teams at Amazon, where
-  he created and led Amazon Smile. He was...
+description: 'Ian McAllister is the Senior Director of Product for Vehicles at Uber. Before moving to Uber, Ian spent over
+  a decade directing teams at Amazon, where he created and led Amazon Smile. He was also Director of Product Management at
+  Airbnb, where I was lucky enough to have worked alongside him. In today’s episode, we discuss Ian’s famous document about
+  the essential attributes of the top 1% of product managers. Ian outlines the most important skills to focus on for entry-level
+  PMs and how to broaden your experience and diversify skills as you move up the ladder. He also shares what he learned working
+  with Jeff Wilke, Jeff Bezos, and other leaders at Amazon, and goes in depth on Amazon’s working-backwards framework. 
 
-  '
+
+  —
+
+
+  Find the full transcript here: https://www.lennyspodcast.com/what-it-takes-to-become-a-top-1-pm-ian-mcallister-uber-amazon-airbnb/#transcript
+
+
+  —
+
+
+  Where to find Ian McAllister:
+
+
+  • Newsletter: https://ianmcallister.substack.com/
+
+  • Twitter: https://twitter.com/ianmcall
+
+  • LinkedIn: https://www.linkedin.com/in/ianmcallister/
+
+
+  —
+
+
+  Where to find Lenny:
+
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  —
+
+
+  Thank you to our wonderful sponsors for making this episode possible:
+
+
+  • Mixpanel: https://mixpanel.com/startups
+
+  • Athletic Greens: https://athleticgreens.com/lenny
+
+  • AssemblyAI: https://www.assemblyai.com/?utm_source=lennyspodcast&utm_medium=podcast&utm_campaign=nov20
+
+
+  —
+
+
+  Referenced:
+
+
+  • What distinguishes the top 1% of product managers from the top 10%, on Substack: https://ianmcallister.substack.com/p/what-distinguishes-the-top-1-of-product
+
+  • What distinguishes the top 1% of product managers from the top 10%, on Quora:  https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10
+
+  • Amazon’s working-backwards method: https://www.productplan.com/glossary/working-backward-amazon-method/
+
+  • Jeff Wilke on Twitter: https://twitter.com/jeffawilke
+
+  • Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application: https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812
+
+  • Wool (Wool trilogy #1): https://www.amazon.com/Wool-Trilogy-Howey-25-Apr-2013-Paperback/dp/B011T7ACU0/
+
+  • Energy and Civilization: A History: https://www.amazon.com/Energy-Civilization-History-MIT-Press/dp/0262035774
+
+  • How I Built This podcast: https://www.npr.org/series/490248027/how-i-built-this
+
+  • EV News Daily podcast: https://www.evnewsdaily.com/
+
+  • Yellowstone on Peacock: https://www.peacocktv.com/stream-tv/yellowstone
+
+  • Everything Everywhere All at Once on Showtime: https://www.sho.com/titles/3493875/everything-everywhere-all-at-once
+
+  • Gibson Biddle’s website: https://www.gibsonbiddle.com/
+
+  • Gibson Biddle on Lenny’s Podcast: https://www.lennyspodcast.com/gibson-biddle-on-his-dhm-product-strategy-framework-gem-roadmap-prioritization-framework-5-netflix-strategy-mini-case-studies-building-a-personal-board-of-directors-and-much-more/
+
+  • Gibson Biddle’s Ask Gib newsletter: https://askgib.substack.com/
+
+
+  —
+
+
+  In this episode, we cover:
+
+
+  (00:00) What Ian expected from his initial post on product management
+
+  (05:30) How the post impacted Ian’s career
+
+  (07:06) How writing can help you crystallize your thoughts
+
+  (08:26) Ian’s background
+
+  (10:57) Attributes of the top 1% of PMs
+
+  (14:32) The top three skills for new PMs to perfect
+
+  (20:32) Tips on strengthening communication and prioritization
+
+  (23:06) How to level up as a PM
+
+  (26:37) What kind of impact should new PMs expect to make?
+
+  (29:36) How to broaden your view and think big
+
+  (33:06) How to earn the trust of others
+
+  (34:30) How Ian could have done more to earn trust at Airbnb
+
+  (37:27) Why people tend to stick around Amazon for a while 
+
+  (39:53) What Ian learned from Bezos and Wilke
+
+  (46:38) How teams get working backwards wrong
+
+  (53:51) The two parts of working backwards and how Ian utilizes it at Uber
+
+  (58:57) Lightning round
+
+
+  —
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 3899.0
 duration: '1:04:59'
 view_count: 84211

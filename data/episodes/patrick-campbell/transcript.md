@@ -4,11 +4,119 @@ title: 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWe
 youtube_url: https://www.youtube.com/watch?v=FjLSCrSg5QY
 video_id: FjLSCrSg5QY
 publish_date: 2023-02-19
-description: 'Patrick Campbell is the founder and CEO of ProfitWell, which he bootstrapped
-  and sold for over $200 million. In this special episode, we explore 10 big ideas
-  from Patrick, including tips for...
+description: 'Patrick Campbell is the founder and CEO of ProfitWell, which he bootstrapped and sold for over $200 million.
+  In this special episode, we explore 10 big ideas from Patrick, including tips for hiring employees who align with your company
+  values, creating winning pricing and retention strategies, determining the right time to raise money, and more. Whether
+  you’re just starting out or looking to scale your SaaS business, this must-listen episode offers practical and actionable
+  advice that will help you avoid missteps and think differently.
 
-  '
+
+  —
+
+
+  Brought to you by Vanta—Automate compliance. Simplify security: https://vanta.com/lenny | Amplitude—Build better products:
+  https://amplitude.com/ | Dovetail—Bring your customer into every decision: https://dovetailapp.com/lenny
+
+
+  Find the full transcript here: https://www.lennysnewsletter.com/p/10-lessons-from-bootstrapping-a-200m
+
+
+  Where to find Patrick Campbell:
+
+  • Twitter: https://twitter.com/Patticus
+
+  • LinkedIn: https://www.linkedin.com/in/patrickccampbell/
+
+  • Email: pc@patticus.com
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  Referenced:
+
+  • Douglas Atkin on LinkedIn: https://www.linkedin.com/in/doatkin/
+
+  • Patrick Campbell’s guest post on Lenny’s Newsletter: https://www.lennysnewsletter.com/p/saas-pricing-strategy/comments
+
+  • ProfitWell: https://www.profitwell.com/
+
+  • The Cadence: How to Operate a SaaS Startup: https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8
+
+  • Edward Snowden on Twitter: https://twitter.com/Snowden
+
+  • The Flywheel: https://www.hubspot.com/flywheel
+
+  • High Output Management: https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884
+
+  • Thinking in Bets: Making Smarter Decisions When You Don’t Have All the Facts: https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions/dp/0735216355
+
+  • Powerful: https://www.amazon.com/Powerful/dp/1939714206/r
+
+  • The West Wing on HBOMax: https://www.hbomax.com/series/urn:hbo:series:GX5nwgQDNJZ6aoQEAAAHJ
+
+  • Notion: https://www.notion.so/
+
+  • Descript: https://www.descript.com/
+
+  • Coda: https://coda.io/
+
+  • KTool: https://ktool.io/
+
+  • Tweet Hunter: https://tweethunter.io/
+
+  • Apple Watch Ultra: https://www.apple.com/apple-watch-ultra/
+
+  • Loom: https://www.loom.com/
+
+
+  In this episode, we cover:
+
+
+  (00:00) Patrick’s background
+
+  (05:12) Building a team
+
+  (07:38) How ProfitWell handled a conflict using their guiding principle, the most charitable interpretation
+
+  (10:41) Why new hires need to fit in with the company culture
+
+  (12:19) The bootstrapping vs. funding debate
+
+  (13:38) When founders should think about raising funds 
+
+  (18:08) When and how companies should make pricing changes to their products or services
+
+  (23:46) Strategic retention and tactical retention, and why the latter is often missed 
+
+  (28:48) Why people don’t want to pay for a SaaS analytics tool
+
+  (29:56) The importance of mission metrics for shipping
+
+  (34:42) First-principle thinking, the “5 whys,” and Patrick’s alternative approach
+
+  (40:21) The importance of frequent customer research
+
+  (43:15) Simple strategies for doing customer research
+
+  (46:13) Understanding your competitors
+
+  (51:06) Why veterans make great hires 
+
+  (54:08) Why local strategies are more effective for some companies
+
+  (59:21) Why the middle of the funnel is the biggest opportunity 
+
+  (1:04:54) Lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 4417.0
 duration: '1:13:37'
 view_count: 21807

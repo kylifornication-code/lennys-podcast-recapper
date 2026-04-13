@@ -1,15 +1,149 @@
 ---
 guest: Scott Belsky
-title: Lessons on product sense, AI, the first mile experience, and the messy middle
-  | Scott Belsky (Adobe)
+title: Lessons on product sense, AI, the first mile experience, and the messy middle | Scott Belsky (Adobe)
 youtube_url: https://www.youtube.com/watch?v=HCKosdV1J-8
 video_id: HCKosdV1J-8
 publish_date: 2023-05-18
-description: 'Scott Belsky is an entrepreneur, author, investor, and currently Adobe’s
-  Chief Strategy Officer and EVP of Design and Emerging Products. He founded Behance,
-  an online platform for creative...
+description: 'Scott Belsky is an entrepreneur, author, investor, and currently Adobe’s Chief Strategy Officer and EVP of Design
+  and Emerging Products. He founded Behance, an online platform for creative professionals to showcase and discover work,
+  and served as CEO until its acquisition by Adobe. Scott is an early advisor and investor in several businesses at the intersection
+  of technology and design, including Pinterest, Uber, Warby Parker, Airtable, and Flexport. He is also the author of two
+  nationally bestselling books and founded 99U, a publication and conference focused on productivity in the creative world.
+  In today’s episode, we discuss:
 
-  '
+  • How to strengthen your product sense
+
+  • Why you should only do half the things you want
+
+  • What it takes to build a successful consumer product
+
+  • Why you are probably underinvesting in onboarding
+
+  • The future of AI and how to prepare for it
+
+  • Advice for founders and PMs who are feeling stuck
+
+  • Why resourcefulness will take you further than resources
+
+  • Adobe’s current priorities and their exciting path ahead
+
+
+  —
+
+
+  Brought to you by Braintrust—For when you needed talent, yesterday | Eppo—Run reliable, impactful experiments | Rows—The
+  spreadsheet where data comes to life
+
+
+  Find the full transcript at: https://www.lennysnewsletter.com/p/lessons-on-building-product-sense
+
+
+  Where to find Scott Belsky:
+
+  • Twitter: https://twitter.com/scottbelsky
+
+  • LinkedIn: https://www.linkedin.com/in/scottbelsky/
+
+  • Blog: https://www.implications.com/
+
+  • Website: https://www.scottbelsky.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Scott’s background
+
+  (04:50) Why Scott shifted roles at Adobe
+
+  (08:29) Advice for PMs looking to build product sense
+
+  (10:43) The first mile
+
+  (13:18) How to develop more empathy
+
+  (16:33) How to build consumer products that work
+
+  (20:42) Scott’s philosophy that you should “only do half the things you want to do”
+
+  (26:15) Scott’s optimism about how the world will look in five years with AI
+
+  (29:44) How AI will impact product teams
+
+  (32:55) How the PM role will change as a result of AI
+
+  (35:09) How Adobe is leveraging AI tools
+
+  (36:59) What the term “golden gut” means
+
+  (38:15) Advice for PMs to stay ahead of the new AI trends
+
+  (41:02) How to start writing more
+
+  (41:49) The messy middle
+
+  (47:03) What Scott looks for as an angel investor 
+
+  (50:16) Why resourcefulness will take you further than resources 
+
+  (52:41) Adobe’s current priorities and the path ahead
+
+  (54:58) Lightning round 
+
+
+  Referenced:
+
+  • Adobe: https://www.adobe.com/
+
+  • Behance: https://www.behance.net/
+
+  • Casey Winters on Lenny’s Podcast: https://www.lennyspodcast.com/thinking-beyond-frameworks-casey-winters-pinterest-eventbrite-airbnb-tinder-canva-reddit-grubhub/
+
+  • Crafting The First Mile Of Product: https://medium.com/positiveslope/crafting-the-first-mile-of-product-7ed25e8f1027
+
+  • Shishir Mehrotra on Lenny’s Podcast: https://www.lennyspodcast.com/the-rituals-of-great-teams-shishir-mehrotra-coda-youtube-microsoft/
+
+  • Scott’s tweet on only doing half the things you want to do: https://twitter.com/scottbelsky/status/1441469886975279109?s=20
+
+  • Matt Mochary on Lenny’s Podcast: https://www.lennyspodcast.com/how-to-fire-people-with-grace-work-through-fear-and-nurture-innovation-matt-mochary-ceo-coach/
+
+  • Adobe Firefly: https://www.adobe.com/sensei/generative-ai/firefly
+
+  • Howie Liu (CEO at Airtable): https://www.linkedin.com/in/howieliu/
+
+  • ChatGPT: https://openai.com/blog/chatgpt
+
+  • The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture by Scott Belsky: https://www.amazon.com/Messy-Middle-Finding-Through-Hardest/dp/0735218072
+
+  • Adobe Express: https://www.adobe.com/express
+
+  • Build: An Unorthodox Guide to Making Things Worth Making by Tony Fadell: https://www.amazon.com/Build-Unorthodox-Guide-Making-Things/dp/0063046067
+
+  • Cosmos: A Spacetime Odyssey on Netflix: https://dvd.netflix.com/Movie/Cosmos-A-Spacetime-Odyssey/80004448
+
+  • Vinod Khosla’s prediction: https://futurism.com/80-of-it-jobs-can-be-replaced-by-automation-and-its-exciting
+
+  • Queue: https://www.queue.co/
+
+  • Tome: https://tome.app/
+
+  • Kevin Kelly on The Tim Ferriss Show: https://tim.blog/2014/08/29/kevin-kelly/
+
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 3753.0
 duration: '1:02:33'
 view_count: 12526

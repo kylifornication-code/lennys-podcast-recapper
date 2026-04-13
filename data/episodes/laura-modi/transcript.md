@@ -1,16 +1,13 @@
 ---
 guest: Laura Modi
-title: Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura
-  Schaffer (Amplitude)
-youtube_url: https://www.youtube.com/watch?v=UMAmj1bciww
-video_id: UMAmj1bciww
-publish_date: 2023-03-09
-description: Laura Schaffer is the brand-new VP of Growth at Amplitude. Prior to this
-  role, she spent over 10 years leading product management and growth teams at Twilio,
-  Bandwidth, and Rapid. In today’s...
-duration_seconds: 4873.0
-duration: '1:21:13'
-view_count: 9069
+title: How to build a cult-like brand | Laura Modi (Bobbie, Airbnb)
+youtube_url: https://www.youtube.com/watch?v=33iUzdZ-U8c
+video_id: 33iUzdZ-U8c
+publish_date: '2023-04-13'
+description: '#startup #founder #tech #vctok best founder podcasts, startup advice, airbnb business stories'
+duration_seconds: 55.0
+duration: 0:55
+view_count: 1278
 channel: Lenny's Podcast
 keywords:
 - growth

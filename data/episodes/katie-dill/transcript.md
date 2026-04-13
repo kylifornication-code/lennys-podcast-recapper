@@ -1,15 +1,30 @@
 ---
 guest: Katie Dill
-title: Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe,
-  Airbnb, Lyft)
+title: Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)
 youtube_url: https://www.youtube.com/watch?v=gfEEcssu304
 video_id: gfEEcssu304
 publish_date: 2023-10-15
-description: 'Katie Dill is the Head of Design at Stripe. Previously, she was Head
-  of Experience Design at Airbnb and Head of Design at Lyft. Katie has been named
-  one of Business Insider’s 10 People Changing...
-
-  '
+description: "Katie Dill is the Head of Design at Stripe. Previously, she was Head of Experience Design at Airbnb and Head\
+  \ of Design at Lyft. Katie has been named one of Business Insider’s 10 People Changing the Tech Industry as well as one\
+  \ of Fast Company’s 100 Most Creative People in Business and received the Girls in Tech “Creator of the Year” award. In\
+  \ today’s episode, she shares:\n• What makes a design great\n• Advice on building high-performing teams in hyper-growth\
+  \ environments\n• A pivotal lesson in leadership she learned at Airbnb\n• Stripe’s focus on quality and how it’s tied to\
+  \ growth\n• A formula for removing organizational friction\n• How to increase productivity\n• What to look for when hiring\
+  \ a designer\n\n—\n\nBrought to you by Sidebar—Catalyze your career with a Personal Board of Directors | Jira Product Discovery—Atlassian’s\
+  \ new prioritization and roadmapping tool built for product teams | OneSchema—Import CSV data 10x faster\n\nFind the transcript\
+  \ and references at: https://www.lennysnewsletter.com/p/building-beautiful-products-with\n\nWhere to find Katie Dill:\n\
+  • X: https://twitter.com/lil_dill\n• Threads: https://www.threads.net/@lil_dilly\n• LinkedIn: https://www.linkedin.com/in/katie-dill-79168b3/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Katie’s background\n(04:47) Katie’s pivotal leadership moment at Airbnb\n(10:55) Advocating\
+  \ for design ROI\n(16:07) Stripe’s quality focus\n(17:50) Stripe’s vast scope\n(18:45) How design enhances utility\n(21:39)\
+  \ Defining beauty and its role in product growth\n(26:19) Operationalizing quality\n(28:44) Katie’s insights from dialogues\
+  \ with diverse organizations\n(34:47) 15 Essential Journeys: Stripe’s method for holistic UX understanding and unified vision\n\
+  (44:35) Stripe’s PQR quality review\n(46:25) Stripe’s prioritization philosophy\n(48:29) Measuring impact beyond metrics\n\
+  (50:28) Performance = potential – interference\n(54:09) Building and managing large teams\n(1:01:46) Removing interference\
+  \ at Lyft: a practical example of Katie’s leadership impact\n(1:06:10) Stripe’s physical workspace design\n(1:07:41) Embracing\
+  \ bold ideas \n(1:11:07) Qualities of great designers\n(1:15:15) Stripe Press\n(1:19:19) Katie’s parting wisdom\n(1:23:17)\
+  \ Lightning round\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email\
+  \ podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 5641.0
 duration: '1:34:01'
 view_count: 68045

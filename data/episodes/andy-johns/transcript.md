@@ -4,11 +4,125 @@ title: When enough is enough | Andy Johns (ex-FB, Twitter, Quora)
 youtube_url: https://www.youtube.com/watch?v=_93m4PriHyc
 video_id: _93m4PriHyc
 publish_date: 2023-09-10
-description: 'Andy Johns is a former tech exec and VC who had a successful run at
-  several startups—including Facebook, Twitter, Wealthfront, and Quora—but left it
-  all behind a few years ago to take a...
+description: 'Andy Johns is a former tech exec and VC who had a successful run at several startups—including Facebook, Twitter,
+  Wealthfront, and Quora—but left it all behind a few years ago to take a new direction in life. Now a mental health advocate,
+  he aids military veterans with PTSD, guides burnt-out high achievers to new paths, and shares his healing journey from childhood
+  trauma and mental illness through his newsletter, Clues Dot Life. In this episode, we discuss:
 
-  '
+  • Why Andy left his seven-figure VC career behind
+
+  • The four-step process of deep personal transformation
+
+  • When suffering is necessary vs. unnecessary
+
+  • Tips for finding a good therapist
+
+  • How a writing practice can help you heal
+
+  • When you’re in need of radical transformation
+
+
+  —
+
+
+  Brought to you by Mercury—the powerful and intuitive way for ambitious companies to bank: https://mercury.com/ | Coda—Meet
+  the evolution of docs: https://coda.io/lenny | Miro—A collaborative visual platform where your best work comes to life:
+  https://miro.com/lenny
+
+
+  Find the full transcript at: https://www.lennysnewsletter.com/p/when-enough-is-enough-andy-johns
+
+
+  Where to find Andy Johns:
+
+  • Twitter/X: https://twitter.com/cluesdotlife
+
+  • LinkedIn: https://www.linkedin.com/in/andrewjohns/
+
+  • Website: https://www.clues.life/
+
+  • Newsletter: https://andyjohns.substack.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter/X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Andy’s background
+
+  (04:45) His personal burnout story
+
+  (12:55) The high incidence of mental health struggles in tech
+
+  (14:41) Why Andy walked away from a seven-figure VC job
+
+  (20:29) His work in mental health advocacy 
+
+  (23:32) The four-step process of deep personal transformation
+
+  (31:40) The ego’s involvement
+
+  (33:23) Necessary vs. unnecessary suffering
+
+  (37:01) First steps in understanding your suffering
+
+  (38:59) Advice on finding a therapist
+
+  (42:11) How a writing practice can help you heal
+
+  (43:47) Two methods for writing to gain self-understanding 
+
+  (47:47) Signs you’re dealing with more than just typical job stress
+
+  (52:22) How to move into a place of self-compassion
+
+  (57:16) The unpredictable timeline of healing 
+
+  (59:59) How to develop compassion for others
+
+  (1:02:19) Why not everyone needs a radical transformation
+
+  (1:04:10) The story of Pema Chodron’s transformation 
+
+  (1:06:06) What holds people back from making changes
+
+  (1:13:29) Finding your own unique path to healing
+
+  (1:17:32) Andy’s closing message to anyone feeling pulled toward a new chapter
+
+  (1:18:59) How Andy is doing now
+
+
+  Referenced:
+
+  • How to know when to stop: https://www.lennysnewsletter.com/p/how-to-know-when-to-stop
+
+  • Heroic Hearts Project: https://heroicheartsproject.org/
+
+  • Panic attacks and panic disorder: https://my.clevelandclinic.org/health/diseases/4451-panic-attack-panic-disorder
+
+  • The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma: https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748
+
+  • Vipassana meditation: https://www.dhamma.org/en/index
+
+  • The Power of Now: A Guide to Spiritual Enlightenment: https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808
+
+  • Moby Dick: https://www.amazon.com/Moby-Dick-Herman-Melville/dp/1503280780
+
+  • When Things Fall Apart: Heart Advice for Difficult Times: https://www.amazon.com/When-Things-Fall-Apart-Difficult/dp/1611803438
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5192.0
 duration: '1:26:32'
 view_count: 11246

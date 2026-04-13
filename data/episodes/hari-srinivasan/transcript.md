@@ -1,15 +1,41 @@
 ---
 guest: Hari Srinivasan
-title: LinkedIn’s product evolution and the art of building complex systems | Hari
-  Srinivasan (LinkedIn)
+title: LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)
 youtube_url: https://www.youtube.com/watch?v=ZUwkTs_QWqg
 video_id: ZUwkTs_QWqg
 publish_date: 2023-07-16
-description: 'Hari Srinivasan is VP of Product at LinkedIn Talent Solutions, where
-  he oversees LinkedIn Recruiter, LinkedIn Jobs, and LinkedIn Learning. He’s also
-  a frequent guest lecturer at Stanford...
-
-  '
+description: "Hari Srinivasan is VP of Product at LinkedIn Talent Solutions, where he oversees LinkedIn Recruiter, LinkedIn\
+  \ Jobs, and LinkedIn Learning. He’s also a frequent guest lecturer at Stanford University. Previously, he served as the\
+  \ CEO and founder of We Created It, which was acquired by LinkedIn in 2014. Hari has a passion for building products, with\
+  \ experience ranging from creating the first U.S. hybrid SUV to developing a No. 1 app and writing a beloved children’s\
+  \ book. In today’s episode, we discuss:\n• LinkedIn’s unique business model and org structure\n• How to optimize your LinkedIn\
+  \ experience and improve your chances of getting a PM role\n• How to adapt to a skills-first talent market\n• The story\
+  \ of Hari’s failed first product review, and how he pivoted for success\n• Strategies for building and maintaining complex\
+  \ systems\n• How to get into product management\n\n—\n\nBrought to you by Miro—A collaborative visual platform where your\
+  \ best work comes to life | Brave Search API—An independent, global search index you can use to power your search or AI\
+  \ app | Eppo—Run reliable, impactful experiments\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/linkedins-product-evolution-and-the\n\
+  \nWhere to find Hari Srinivasan:\n• LinkedIn: https://www.linkedin.com/in/hsrinivasan1/\n• Website: https://www.mindofhari.com/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Hari’s background\n(05:04) How Twitter\
+  \ brought Lenny and Hari together\n(06:32) LinkedIn’s positive evolution, and what they did right\n(10:14) Specific changes\
+  \ that made LinkedIn’s feed more interesting\n(11:12) Understanding the algorithm and what kinds of content perform best\n\
+  (12:21) The talent solution product\n(15:46) The shift to skills-first hiring, and how LinkedIn changed their approach \n\
+  (20:24) The open-to-work signal, and the newly released open-to-internal-work signal\n(22:13) The PM talent landscape, and\
+  \ tips for landing a PM role\n(24:55) How to optimize your LinkedIn profile to get noticed by recruiters\n(28:38) Hari’s\
+  \ first product review at LinkedIn\n(30:38) LinkedIn’s North Star, and how to operationalize the North Star at any company\n\
+  (33:24) LinkedIn’s members-first value\n(35:32) Building and maintaining complex systems\n(38:09) The RAPID framework and\
+  \ the Five-Day Alignment framework\n(39:51) What LinkedIn looks for in new hires\n(40:51) The latest innovations at LinkedIn\n\
+  (43:16) LinkedIn Learning\n(45:00) Hari’s product management course \n(48:19) Advice for people hoping to get into product\
+  \ management\n(50:40) How to level up your PM skills\n(51:57) Hari’s creative side projects \n(55:02) Lightning round\n\n\
+  Referenced:\n• Tweet from TheCuriousPM: https://twitter.com/zatin_jatin/status/1658616200560254978?s=20\n• The Curious PM\
+  \ on Twitter: https://twitter.com/zatin_jatin\n• Decision-making at LinkedIn: https://engineering.linkedin.com/blog/2018/03/scaling-decision-making-across-teams-within-linkedin-engineering\n\
+  • LinkedIn Learning: https://www.linkedin.com/learning\n• Thinking in Systems: https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557\n\
+  • Tomorrow, and Tomorrow, and Tomorrow: https://www.amazon.com/Tomorrow-novel-Gabrielle-Zevin/dp/0593321200\n• An Immense\
+  \ World: How Animal Senses Reveal the Hidden Realms Around Us: https://www.amazon.com/Immense-World-Animal-Senses-Reveal/dp/0593133234\n\
+  • Star Wars on Disney+: https://www.disneyplus.com/brand/star-wars\n• Case 63 on Spotify: https://open.spotify.com/show/4c9ZKaFtEKweSYOlYvxfvp\n\
+  • E.T. on Tubi: https://tubitv.com/movies/607451/e-t-the-extra-terrestrial\n• BriteBrush: https://www.amazon.com/BriteBrush-Interactive-Smart-Toothbrush-featuring/dp/B07VLL8QH4\n\
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 3888.0
 duration: '1:04:48'
 view_count: 7237

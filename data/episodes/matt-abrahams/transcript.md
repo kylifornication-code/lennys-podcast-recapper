@@ -1,15 +1,120 @@
 ---
 guest: Matt Abrahams
-title: How to speak more confidently and persuasively | Matt Abrahams (professor,
-  speaker, author)
+title: How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)
 youtube_url: https://www.youtube.com/watch?v=LpbBzmXrzEY
 video_id: LpbBzmXrzEY
 publish_date: 2024-03-31
-description: 'Matt Abrahams is a renowned communication expert, with decades of teaching,
-  coaching, and consulting experience. At Stanford University, he teaches a business
-  school class on strategic communicatio...
+description: 'Matt Abrahams is a renowned communication expert, with decades of teaching, coaching, and consulting experience.
+  At Stanford University, he teaches a business school class on strategic communication. Beyond academia, he’s a sought-after
+  keynote speaker and consultant, guiding presenters from IPO road shows to prestigious platforms like TED, the World Economic
+  Forum, and the United Nations. His acclaimed podcast, Think Fast, Talk Smart, garners millions of listeners, and his book,
+  Think Faster, Talk Smarter, equips speakers with practical skills for impromptu success. With a previous bestseller, Speaking
+  Up Without Freaking Out, Matt has empowered countless individuals to speak confidently and authentically. In our conversation,
+  we discuss:
 
-  '
+  • The concept of “daring to be dull”
+
+  • The power of visualization to desensitize oneself to speaking situations
+
+  • Managing negative self-talk
+
+  • The WHAT structure for delivering toasts (why we are here, how you are connected, anecdote, thanks)
+
+  • The ADD structure for Q&As (answer, detailed example, describe relevance)
+
+  • Breathing techniques to reduce anxiety, such as the double exhale
+
+  • Concrete speaking structures like What? So What? Now What? and the Four I’s (information, impact, invitation, implications)
+
+  • Much more
+
+
+  —
+
+
+  Brought to you by:
+
+  • Sprig—Build a product people love: https://sprig.com/getstarted?utm_source=lenny&utm_medium=podcast
+
+  • Dovetail—Bring your customer into every decision: https://dovetailapp.com/lenny
+
+  • Coda—Meet the evolution of docs: https://coda.io/lenny
+
+
+  Find the transcript and references at: ⁠https://www.lennysnewsletter.com/p/how-to-speak-more-confidently-and
+
+
+  Where to find Matt Abrahams:
+
+  • X: https://twitter.com/tftsthepod
+
+  • LinkedIn: https://www.linkedin.com/in/maabrahams/
+
+  • Website: https://mattabrahams.com/
+
+  • Podcast: https://open.spotify.com/show/6ll0MwobDt1JW9gYaOONEo
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Matt’s background
+
+  (04:50) Techniques for managing anxiety in public speaking
+
+  (10:57) Dare to be dull
+
+  (13:40) Reframing anxiety as excitement
+
+  (16:08) Using mantras to boost confidence
+
+  (18:45) Managing negative self-talk
+
+  (20:03) Normalizing speaking anxiety
+
+  (23:12) Using conversation as a communication technique
+
+  (24:52) Using the double-exhale breathing technique
+
+  (28:29) Getting present-oriented
+
+  (29:46) Using tongue twisters
+
+  (33:34) Broad advice for speaking on the spot
+
+  (38:35) The PREP structure
+
+  (38:59) The What? So What? Now What? structure
+
+  (42:10) Toastmasters and improv
+
+  (45:31) Getting better at small talk
+
+  (51:05) The importance of sharing back
+
+  (52:33) Giving feedback
+
+  (56:31) Improving toasts and tributes
+
+  (01:02:57) Mastering Q&A sessions
+
+  (01:07:25) Apologizing effectively
+
+  (01:09:29) Closing thoughts
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4318.0
 duration: '1:11:58'
 view_count: 52123

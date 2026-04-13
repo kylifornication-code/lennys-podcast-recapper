@@ -1,15 +1,43 @@
 ---
 guest: Elena Verna
-title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox,
-  SurveyMonkey)
+title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)
 youtube_url: https://www.youtube.com/watch?v=IHwS2By9UKM
 video_id: IHwS2By9UKM
 publish_date: 2025-01-19
-description: 'Elena Verna is one of Silicon Valley’s most sought-after growth advisors
-  and operators. She previously led growth at companies like Amplitude, Miro, Dropbox,
-  and SurveyMonkey and is currently...
-
-  '
+description: "Elena Verna is one of Silicon Valley’s most sought-after growth advisors and operators. She previously led growth\
+  \ at companies like Amplitude, Miro, Dropbox, and SurveyMonkey and is currently doing full-time advising for high-growth\
+  \ tech companies. In our conversation, Elena and I discuss:\n• 10 growth tactics that never work\n• Her 3 favorite growth\
+  \ frameworks\n• How to increase your career optionality\n\n—\n\nBrought to you by:\n• Sinch—Build messaging, email, and\
+  \ calling into your product: https://sinch.com/lenny\n• Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\
+  • OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny\n\nFind the transcript at: https://www.lennysnewsletter.com/p/10-growth-tactics-that-never-work-elena-verna\n\
+  \nWhere to find Elena Verna:\n• Newsletter: https://www.elenaverna.com/\n• X: https://x.com/elenaverna\n• LinkedIn: https://www.linkedin.com/in/elenaverna\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Welcome back, Elena!\n(06:02) Common mistakes growth teams make\n(08:31) #1: Hiring\
+  \ for growth roles too soon \n(15:09) #2: Hiring a head of growth to fix your problems\n(19:20) #3: Doing a rebrand to drive\
+  \ growth \n(25:11) #4: Obsessing over your competition \n(34:00) #5: Believing that your problems are unique\n(42:32) #6:\
+  \ Prioritizing other growth channels above earned channels\n(50:55) #7: Failing to evolve your growth model\n(01:01:06)\
+  \ #8: Not hiring advisors \n(01:05:55) #9: Over experimenting \n(01:10:44) #10: Color optimizations, third-party signups,\
+  \ one email wonders, and removing friction\n(01:15:00) Elena’s favorite growth frameworks\n(01:18:50) Contrarian corner:\
+  \ full-time jobs\n(01:26:05) Lightning round and final thoughts\n\nReferenced:\n• Elena Verna on how B2B growth is changing,\
+  \ product-led growth, product-led sales, why you should go freemium not trial, what features to make free, and much more:\
+  \ https://www.lennysnewsletter.com/p/elena-verna-on-why-every-company\n• The ultimate guide to product-led sales | Elena\
+  \ Verna: https://www.lennysnewsletter.com/p/the-ultimate-guide-to-product-led\n• Six rules of hiring for growth: https://www.lennysnewsletter.com/p/hiring-growth\n\
+  • Figma: https://www.figma.com/\n• Miro: https://www.figma.com/\n• Notion: https://www.figma.com/\n• Carol Wong on LinkedIn:\
+  \ https://www.linkedin.com/in/carol-wong-14133927/\n• Dropbox: https://www.dropbox.com/\n• The Law of Shitty Clickthroughs:\
+  \ https://andrewchen.com/the-law-of-shitty-clickthroughs/\n• Miroverse: https://miro.com/miroverse/\n• GitHub: https://github.com/\n\
+  • My 9 Favorite Growth Frameworks: https://www.elenaverna.com/p/my-9-favorite-growth-frameworks\n• Growth Loops are the\
+  \ New Funnels: https://www.reforge.com/blog/growth-loops\n• Racecar Growth Framework: https://www.reforge.com/blog/racecar-growth-framework\n\
+  • The Adjacent User: https://andrewchen.com/the-adjacent-user-theory/\n• Unorthodox frameworks for growing your product,\
+  \ career, and impact | Bangaly Kaba (YouTube, Instagram, Facebook, Instacart): https://www.lennysnewsletter.com/p/frameworks-for-growing-your-career-bangaly-kaba\n\
+  • Why I’m Unquitting Full-Time Roles: https://www.elenaverna.com/p/why-im-unquitting-full-time-roles\n• Noah Smith’s newsletter:\
+  \ https://www.noahpinion.blog/\n• Beef on Netflix: https://www.netflix.com/title/81447461\n• Veep on Max: https://www.max.com/shows/veep/37cb4217-c710-4166-8e9f-352a61f2cd3a\n\
+  • The Last of Us on Max: https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a\n• Heated boots: https://www.amazon.com/heated-boots/s?k=heated+boots\n\
+  • Airpods Max: https://www.apple.com/airpods-max/\n• Memes by Elena: https://www.elenaverna.com/p/ten-funniest-growth-memes\n\
+  \nRecommended books:\n• Project Hail Mary: https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135229/\n• The Martian:\
+  \ https://www.amazon.com/Martian-Andy-Weir/dp/0553418025\n• We Are Legion (Bobiverse #1): https://www.amazon.com/We-Are-Legion-Bob-Bobiverse/dp/1680680587\n\
+  • Fire Upon the Deep: https://www.amazon.com/Fire-Upon-Deep-Zones-Thought/dp/0812515285\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 5710.0
 duration: '1:35:10'
 view_count: 94594

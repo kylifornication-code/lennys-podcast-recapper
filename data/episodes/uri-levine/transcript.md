@@ -1,15 +1,39 @@
 ---
 guest: Uri Levine
-title: A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial
-  entrepreneur)
+title: A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)
 youtube_url: https://www.youtube.com/watch?v=lQdogVBHMdA
 video_id: lQdogVBHMdA
 publish_date: 2025-02-16
-description: 'Uri Levine is a co-founder of Waze (which was acquired by Google for
-  $1.3 billion in 2013), along with nine other companies (including another company
-  he sold for over $1 billion). He’s also...
-
-  '
+description: "Uri Levine is a co-founder of Waze (which was acquired by Google for $1.3 billion in 2013), along with nine\
+  \ other companies (including another company he sold for over $1 billion). He’s also been on 20 boards and has been an advisor\
+  \ to over 50 startups. He recently released a new chapter of his best-selling book Fall in Love with the Problem, Not the\
+  \ Solution, which provides a guide to surviving crises at your company. In this episode, we cover:\n• The two types of startup\
+  \ crisis and how to handle them\n• Why speed of action is the most important thing\n• How to keep your team motivated when\
+  \ things look dire\n• A framework for deciding whether or not to pivot\n• What to do when product-market fit disappears\n\
+  • How to approach raising money during a crisis\n• More\n\n—\n\nBrought to you by:\n• WorkOS—Modern identity platform for\
+  \ B2B SaaS, free up to 1 million MAUs: https://www.enterprise-ready.com/\n• Rippling—Automate HR, IT, and finance so you\
+  \ can scale faster: http://www.rippling.com/lenny\n• OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny\n\n\
+  Find the transcript at: https://www.lennysnewsletter.com/p/a-founders-guide-to-crisis-management-uri-levine\n\nWhere to\
+  \ find Uri Levine:\n• X: https://twitter.com/urilevine1\n• LinkedIn: https://www.linkedin.com/in/uri-levine\n• Website:\
+  \ https://urilevine.com\n• Book: https://www.amazon.com/Fall-Love-Problem-Solution-Entrepreneurs/dp/1637746601/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Welcome back, Uri!\n(05:10) The new chapter: navigating crises\n(08:15) Types of crises\
+  \ founders face\n(29:10) Navigating cash crises \n(38:31) The importance of never giving up\n(46:26) How to keep people\
+  \ engaged through a crises\n(47:59) Transparency in crisis management\n(56:58) Navigating product-market-fit challenges\n\
+  (59:27) Deciding when to pivot or shut down\n(01:13:34) Real-life startup survival stories\n(01:17:06) Avoiding and preparing\
+  \ for crises\n(01:21:21) Final thoughts and book promotion\n\nReferenced:\n• Waze: https://www.waze.com/\n• Moovit: https://en.wikipedia.org/wiki/Moovit\n\
+  • Order Chat: https://www.crunchbase.com/organization/order-chat\n• Fibo: https://finder.startupnationcentral.org/company_page/fibo\n\
+  • Behind the founder: Drew Houston (Dropbox): https://www.lennysnewsletter.com/p/behind-the-founder-drew-houston-dropbox\n\
+  • TomTom: https://www.tomtom.com/\n• Khosla Ventures: https://www.khoslaventures.com/\n• WeSki: https://www.weski.com/\n\
+  • Larry Silverstein: https://en.wikipedia.org/wiki/Larry_Silverstein\n• Oversee: https://oversee.biz/\n• Lessons from 1,000+\
+  \ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (Y Combinator, Managing Director): https://www.lennysnewsletter.com/p/lessons-from-1000-yc-startups\n\
+  • Tobi Lütke’s leadership playbook: Playing infinite games, operating from first principles, and maximizing human potential\
+  \ (founder and CEO of Shopify): https://www.lennysnewsletter.com/p/tobi-lutkes-leadership-playbook\n• Harley Finkelstein\
+  \ on LinkedIn: https://www.linkedin.com/in/harleyf/\n• Zip: https://zip.co/us\n• Qualcomm: https://www.qualcomm.com/\n•\
+  \ Einstein quote: https://www.brainyquote.com/quotes/albert_einstein_148788\n\nRecommended book:\n• Fall in Love with the\
+  \ Problem, Not the Solution: A Handbook for Entrepreneurs (updated 2025 version): https://urilevine.com/book/#Pre-orde\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5026.0
 duration: '1:23:46'
 view_count: 10190

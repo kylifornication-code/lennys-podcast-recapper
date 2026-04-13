@@ -4,11 +4,42 @@ title: Building a long and meaningful career | Nikhyl Singhal (Meta, Google)
 youtube_url: https://www.youtube.com/watch?v=U_WQuUIYnJg
 video_id: U_WQuUIYnJg
 publish_date: 2023-06-11
-description: 'Nikhyl Singhal is VP of Product at Meta, overseeing teams building messaging,
-  groups, stories, and the main Facebook feed. Before that, he served as the Chief
-  Product Officer at Credit Karma...
-
-  '
+description: "Nikhyl Singhal is VP of Product at Meta, overseeing teams building messaging, groups, stories, and the main\
+  \ Facebook feed. Before that, he served as the Chief Product Officer at Credit Karma and held various leadership roles at\
+  \ Google, leading teams on Google Photos and Google Hangouts. Nikhyl was also co-founder of three startups, including SayNow\
+  \ and Cast Iron Systems, which were acquired by Google and IBM, respectively. Alongside his successful career, he is passionate\
+  \ about coaching and mentoring, sharing his knowledge through the Skip podcast, newsletter and CPO community. In this episode,\
+  \ we discuss:\n• Finding your North Star and building a long and meaningful career\n• Why your superpower may actually be\
+  \ holding you back\n• Wisdom for aspiring product managers in the early stages of their career\n• Reasons you aren’t getting\
+  \ promoted, and advice on what to change\n• How to avoid short-term thinking early in your career and how to become a better\
+  \ manager long-term\n• Signs you work at an “ex-growth” company and that it’s time to leave\n• Signs the IC path is a reasonable\
+  \ pursuit\n• The importance of finding a community\n\n—\n\nBrought to you by Superhuman—The fastest email experience ever\
+  \ made | Microsoft Clarity—See how people actually use your product | Eppo—Run reliable, impactful experiments\n\nFind the\
+  \ transcript at: https://www.lennysnewsletter.com/p/building-a-long-and-meaningful-career\n\nWhere to find Nikhyl Singhal:\n\
+  • Twitter: https://twitter.com/nikhyl\n• Newsletter: https://theskip.substack.com/\n• Podcast: https://www.skip.community/\n\
+  • Skip CPO Community: https://www.linkedin.com/company/skip-community-for-cpos/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we\
+  \ cover:\n(00:00) Nikhyl’s background\n(04:37) Nikhyl’s mentoring approach during critical periods of change\n(07:07) The\
+  \ power of long-term career planning\n(10:36) The value of gaining varied experiences rather than merely collecting logos\
+  \ on your resume\n(12:52) The unique benefits of working at a “MAGMA” company\n(14:50) Ex-growth companies and the impact\
+  \ of 0% interest rates\n(20:19) Signs your company may be struggling to find the right product-market fit\n(21:32) When\
+  \ you should stay at an ex-growth company\n(22:34) Early career advice for product managers\n(25:25) Mid-career strategies\
+  \ for promotion\n(29:47) Summarizing the 4 reasons you may not be getting promoted\n(30:15) The value of authentic feedback\n\
+  (33:29) Tactical tips for getting better feedback\n(34:46) Addressing management challenges in tech\n(39:50) Opportunities\
+  \ for those who prefer the IC path\n(45:25) How to become a better manager through community building \n(47:40) Nikhyl’s\
+  \ community, The Skip\n(51:27) Lenny’s Slack community \n(52:54) Late-career advice and identifying skills that need reshaping\
+  \ \n(57:07) Why it’s so important to listen to contradictory feedback\n(59:45) Nikhyl’s “superpower” and “shadow” \n(1:02:20)\
+  \ Mental health challenges and the third act of your career\n(1:08:44) Examples of North Star metrics in the third act of\
+  \ your career\n(1:12:20) Lightning round\n\nReferenced:\n• Annie Pearl on Lenny’s Podcast: https://www.lennyspodcast.com/behind-the-scenes-of-calendlys-rapid-growth-annie-pearl-cpo/\n\
+  • The Skip podcast episode about ex-growth companies: https://www.skip.community/should-i-join-or-leave-an-x-hypergrowth-company/\n\
+  • Jules Walter on Lenny’s Podcast: https://www.lennyspodcast.com/leveraging-mentors-to-uplevel-your-career-jules-walter-youtube-slack/\n\
+  • Skip Community for CPOs on LinkedIn: https://www.linkedin.com/company/skip-community-for-cpos/\n• Crossing the Chasm:\
+  \ Marketing and Selling Disruptive Products to Mainstream Customers: https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/\n\
+  • Leadership and Self-Deception: Getting Out of the Box: https://www.amazon.com/Leadership-Self-Deception-Getting-Out-Box/dp/B07H3G1KCN\n\
+  • Rise on Disney+: https://www.disneyplus.com/movies/rise/6Yv1uRnw2uAJ\n• Arc browser: https://arc.net/\n• Josh Miller (CEO\
+  \ of The Browser Company) on Lenny’s Podcast: https://www.lennyspodcast.com/competing-with-giants-an-inside-look-at-how-the-browser-company-builds-product-josh-miller-ceo/\n\
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5151.0
 duration: '1:25:51'
 view_count: 73708

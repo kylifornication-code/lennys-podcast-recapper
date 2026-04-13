@@ -4,11 +4,35 @@ title: The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft
 youtube_url: https://www.youtube.com/watch?v=7uSuMIJhONA
 video_id: 7uSuMIJhONA
 publish_date: 2022-08-14
-description: 'Shishir Mehrotra is the co-founder and CEO of Coda, and formerly head
-  of product and engineering at YouTube. In this episode, he shares his insights on
-  growth strategy, how he evaluates talent,...
-
-  '
+description: "Shishir Mehrotra is the co-founder and CEO of Coda, and formerly head of product and engineering at YouTube.\
+  \ In this episode, he shares his insights on growth strategy, how he evaluates talent, a peek at his upcoming book The Rituals\
+  \ of Great Teams, why reference checks are the most important step in the interview process, and so much more. Join us.\n\
+  \nFind the full transcript here: https://www.lennyspodcast.com/the-rituals-of-great-teams-shishir-mehrotra-coda-youtube-microsoft/#transcript\n\
+  \n—\n\nThank you to our wonderful sponsors for making this episode possible: \n\n• Coda: http://coda.io/lenny\n• Flatfile:\
+  \ https://www.flatfile.com/lenny\n• Eppo: https://www.geteppo.com/\n\n— \n\nWhere to find Shishir Mehrotra: \n\n• Twitter:\
+  \ https://twitter.com/shishirmehrotra\n• LinkedIn: https://www.linkedin.com/in/shishirmehrotra/\n\n— \n\nWhere to find Lenny:\
+  \ \n\n• Newsletter:  https://www.lennysnewsletter.com \n• Twitter: https://twitter.com/lennysan \n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\
+  \ \n\n— \n\nReferenced:\n\n• The Rituals Of Great Teams Brain Trust: https://coda.io/@shishir/join-the-rituals-of-great-teams-braintrust\n\
+  • Bing Gordon: https://www.kleinerperkins.com/people/bing-gordon/\n• Switch by Chip Heath and Dan Heath: https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752\n\
+  • PSHE Diagram: https://coda.io/@shishir/pshe\n• Understanding Comics by Scott McCloud: https://www.amazon.com/Understanding-Comics-Invisible-Scott-McCloud/dp/1627652736\n\
+  • Only Murders In The Building: https://www.hulu.com/series/only-murders-in-the-building-ef31c7e1-cd0f-4e07-848d-1cbfedb50ddf\n\
+  • Wanda Vision: https://en.wikipedia.org/wiki/WandaVision\n• Fidji Simo: https://twitter.com/fidjissimo?lang=en\n• Daniel\
+  \ Elk: https://twitter.com/eldsjal/?lang=en\n• Reid Hoffman: https://twitter.com/reidhoffman?\n• Mamoon Hamind: https://twitter.com/mamoonha\n\
+  • Quentin Clark: https://twitter.com/quentinclark\n• Sarah Guo: https://twitter.com/saranormous\n\n—\n\nIn this episode,\
+  \ we cover:\n\n[00:00] Teaser\n[04:13] Shishir’s background at Google and current role at Coda\n[07:53] How Shishir got\
+  \ on the Board of Spotify\n[08:58] Black loop and blue loops and how Coda uses this internal diagram \n[09:52] The black\
+  \ loop is how a product is naturally shared\n[12:15] The blue loop is the emotional loop on why products are shared\n[14:55]\
+  \ Why you should think in loops instead of funnels\n[18:20] Mining for your business’s loops by looking at what you tell\
+  \ job candidates\n[24:37] Shishir’s upcoming book The Rituals of Great Teams \n[26:30] The 3 Golden Rituals Of Teams\n[27:10]\
+  \ Coda’s Golden Ritual: Dory and Pulse\n[31:29] Shishir’s most impactful rituals: Arianna Huffington’s Reset, Gusto’s incredible\
+  \ hiring call, and Coinbase’s RAPIDs.\n[40:38] How do you find your own team’s rituals\n[42:50] How to change things when\
+  \ change is hard\n[45:01] Airbnb’s unique rituals\n[46:45] A back story on YouTube and valuing consistency over comprehensiveness\n\
+  [53:00] Eigenquestions: What it is, how to use it, and examples of it\n[59:05] One of Shishir’s favorite *retired* interview\
+  \ questions \n[1:03:11] How to evaluate talent, a story about YouTube and breaking down PSHE\n[1:15:20] How to approach\
+  \ reference checks and what questions to ask\n[1:24:33] Favorite books\n[1:25:50] Favorite shows/movies\n[1:26:50] Favorite\
+  \ interview questions\n[1:28:44] Who in the industry Shishir respects as a thought leader\n[1:30:10] Go-to karaoke song\n\
+  [1:30:40] Where you can find Shishir\n\n— \n\nProduction and marketing by https://penname.co/. For inquires about sponsoring\
+  \ the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 5509.0
 duration: '1:31:49'
 view_count: 11647

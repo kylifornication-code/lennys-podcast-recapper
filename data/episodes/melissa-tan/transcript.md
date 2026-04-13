@@ -4,11 +4,39 @@ title: Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)
 youtube_url: https://www.youtube.com/watch?v=DoEfXj1b_ko
 video_id: DoEfXj1b_ko
 publish_date: 2023-06-18
-description: 'Melissa Tan is an advisor, investor, and growth expert. She’s worked
-  with fast-growing startups like Dropbox, Canva, Grammarly, and Miro, and for the
-  past 2.5 years has been the Head of Growth...
-
-  '
+description: "Melissa Tan is an advisor, investor, and growth expert. She’s worked with fast-growing startups like Dropbox,\
+  \ Canva, Grammarly, and Miro, and for the past 2.5 years has been the Head of Growth at Webflow. There, she led the company's\
+  \ self-service business across Product, Marketing, and Growth, in addition to leading the charge on pricing and packaging.\
+  \ Prior to Webflow, she was Head of Growth for Dropbox’s B2B product, where she played a pivotal role in propelling their\
+  \ growth. In today’s episode, we discuss:\n• Attributes of high-performing teams\n• Tips for developing talent and seeking\
+  \ a mentor\n• How to create a strong culture of ownership\n• Frameworks for hiring PM and growth talent\n• Common pitfalls\
+  \ companies face when implementing growth strategies\n• Lessons from scaling Dropbox\n• The DACI framework for increasing\
+  \ team velocity\n• How to actually embrace first-principles thinking\n\n—\n\nBrought to you by AssemblyAI—Production-ready\
+  \ AI models to transcribe and understand speech | Mixpanel—Product analytics that everyone can trust, use, and afford |\
+  \ Eppo—Run reliable, impactful experiments\n\nFind the transcript at: https://www.lennysnewsletter.com/p/building-high-performing-teams-melissa\n\
+  \nWhere to find Melissa Tan:\n• Twitter: https://twitter.com/melissamtan\n• LinkedIn: https://www.linkedin.com/in/melissamtan/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Melissa’s background\n(04:12) What’s\
+  \ next for Melissa\n(06:45) Lessons learned from Dropbox\n(11:49) When to add sales to product-led products and vice versa\n\
+  (14:28) Managing people with a people-focused and results-oriented approach\n(17:14) An example of people-focused leadership\
+  \ \n(20:26) The importance of talent development and why Melissa invests in it\n(22:26) Tips for finding a mentor\n(24:58)\
+  \ Specific questions to ask when you are interviewing for a role \n(27:49) Companies Melissa has worked with\n(28:33) Attributes\
+  \ of high-performing teams\n(31:38) Creating a sense of ownership among team members\n(34:36) Building a team-first culture\n\
+  (36:54) Avoiding burnout by knowing your limits\n(39:24) Developing talent and unlocking potential within your organization\n\
+  (42:45) Melissa’s hiring practices and what she looks for in a product manager\n(44:40) The exact interview sequence Melissa\
+  \ utilizes \n(49:58) Common pitfalls when creating growth teams \n(53:43) “Flying formation” and the DACI framework\n(56:48)\
+  \ Who should own revenue\n(58:19) When to invest in growth\n(1:01:06) What to look for in your first growth hire\n(1:04:35)\
+  \ When it’s appropriate to hire an advisor\n(1:06:19) First-principles thinking\n(1:09:50) Lightning round\n\nReferenced:\n\
+  • Jiaona Zhang on LinkedIn: https://www.linkedin.com/in/jiaona/\n• Lean In: Women, Work, and the Will to Lead: https://www.amazon.com/Lean-Women-Work-Will-Lead/dp/0385349947\n\
+  • Tim Ferriss: How to Find a Great Mentor: https://www.youtube.com/watch?v=RVo1aZCyfO4\n• Radical Candor: Be a Kick-Ass\
+  \ Boss Without Losing Your Humanity: https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375/\n• How\
+  \ to Monetize a Freemium Business: https://www.ycombinator.com/blog/how-to-monetize-a-freemium-business\n• DACI framework:\
+  \ https://www.productplan.com/glossary/daci/\n• Leaders Eat Last: Why Some Teams Pull Together and Others Don't: https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/1591848016/r\n\
+  • The Untethered Soul: The Journey Beyond Yourself: https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379/\n\
+  • The Four Agreements: https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319\n• Winning Time:\
+  \ The Rise of the Lakers Dynasty on HBO: https://www.hbo.com/winning-time-the-rise-of-the-lakers-dynasty\n• ChatGPT: https://chat.openai.com/\n\
+  • Webflow: https://webflow.com/\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast,\
+  \ email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4482.0
 duration: '1:14:42'
 view_count: 12103

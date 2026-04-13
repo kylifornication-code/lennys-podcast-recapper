@@ -1,15 +1,47 @@
 ---
 guest: Annie Duke
-title: This will make you a better decision maker | Annie Duke (Thinking In Bets,
-  former pro poker player)
+title: This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)
 youtube_url: https://www.youtube.com/watch?v=svQMODvIGAE
 video_id: svQMODvIGAE
 publish_date: 2024-05-02
-description: 'Annie Duke is a former professional poker player, a decision-making
-  expert, and a special partner at First Round Capital. She is the author of Thinking
-  in Bets (a national bestseller) and Quit:...
-
-  '
+description: "Annie Duke is a former professional poker player, a decision-making expert, and a special partner at First Round\
+  \ Capital. She is the author of Thinking in Bets (a national bestseller) and Quit: The Power of Knowing When to Walk Away\
+  \ and the co-founder of the Alliance for Decision Education, a nonprofit whose mission is to improve lives by empowering\
+  \ students through decision skills education. In our conversation, we cover:\n• What Annie learned from the late Daniel\
+  \ Kahneman\n• The power of pre-mortems and “kill criteria”\n• The relationship between money and happiness\n• The power\
+  \ of “mental time travel”\n• The nominal group technique for better decision quality\n• How First Round Capital improved\
+  \ their decision-making process\n• Many tactical decision-making frameworks\n\n—\n\nBrought to you by:\n• Vanta—Automate\
+  \ compliance. Simplify security: https://vanta.com/lenny\n• UserTesting—Human understanding. Human experiences: https://www.usertesting.com/lenny\
+  \ \n• LinkedIn Ads—Reach professionals and drive results for your business: https://www.linkedin.com/podlenny\n\nFind the\
+  \ transcript at: https://www.lennysnewsletter.com/p/making-better-decisions-annie-duke\n\nWhere to find Annie Duke:\n• X:\
+  \ https://twitter.com/AnnieDuke\n• LinkedIn: https://www.linkedin.com/in/annie-duke/\n• Website: https://www.annieduke.com/\n\
+  • Substack: https://www.annieduke.com/substack/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Annie’s background\n(03:53) Lessons from Daniel Kahneman: humility, curiosity, and open-mindedness\n(09:15) The\
+  \ importance of unconditional love in parenting\n(15:15) Mental time travel and “nevertheless”\n(20:06) The extent of improvement\
+  \ possible in decision-making \n(24:54) Independent brainstorming for better decisions\n(35:36) Making sure people feel\
+  \ heard\n(42:41) The “3Ds” framework to make better decisions\n(44:49) Decision quality\n(55:46) Improving decision-making\
+  \ at First Round Capital\n(01:05:05) Using pre-mortems and kill criteria\n(01:10:15) Making explicit what’s implicit\n(01:10:55)\
+  \ The challenges of quitting and knowing when to walk away\n(01:19:23) Where to find Annie\n\nReferenced:\n• Daniel Kahneman,\
+  \ Who Plumbed the Psychology of Economics, Dies at 90: https://www.nytimes.com/2024/03/27/business/daniel-kahneman-dead.html\n\
+  • Adversarial collaboration: https://en.wikipedia.org/wiki/Adversarial_collaboration\n• Does more money correlate with greater\
+  \ happiness?: https://penntoday.upenn.edu/news/does-more-money-correlate-greater-happiness-Penn-Princeton-research#\n• Income\
+  \ and emotional well-being: A conflict resolved: https://pubmed.ncbi.nlm.nih.gov/36857342/\n• Strategic decisions: When\
+  \ can you trust your gut?: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/strategic-decisions-when-can-you-trust-your-gut\n\
+  • Cass Sunstein on X: https://twitter.com/CassSunstein\n• Dr. Becky on Instagram: https://www.instagram.com/drbeckyatgoodinside\n\
+  • A framework for finding product-market fit | Todd Jackson (First Round Capital): https://www.lennysnewsletter.com/p/a-framework-for-finding-product-market\n\
+  • First Round Capital: https://firstround.com/\n• Brett Berson on X: https://twitter.com/brettberson\n• Renegade Partners:\
+  \ https://www.renegadepartners.com/\n• Renata Quintini on X: https://twitter.com/rquintini\n• Roseanne Wincek on X: https://twitter.com/imthemusic\n\
+  • Josh Kopelman on X: https://twitter.com/joshk\n• Bill Trenchard on X: https://twitter.com/btrenchard\n• Linnea Gandhi\
+  \ on X: https://twitter.com/linneagandhi\n• Maurice Schweitzer on X: https://twitter.com/me_schweitzer\n• Create a Solid\
+  \ Plan on How to Fail Big This Year: https://www.forbes.com/sites/forbesfinancecouncil/2020/02/07/create-a-solid-plan-on-how-to-fail-big-this-year/\n\
+  • Quit: The Power of Knowing When to Walk Away: https://www.amazon.com/Quit-Power-Knowing-When-Walk/dp/0593422996/\n• Richard\
+  \ Thaler on X: https://twitter.com/R_Thaler\n• Stewart Butterfield on X: https://twitter.com/stewart\n• Glitch: https://en.wikipedia.org/wiki/Glitch_(video_game)\n\
+  • How the Founder of Slack & Flickr Turned Colossal Failures into Billion-Dollar Companies: https://medium.com/swlh/how-the-founder-of-slack-flickr-turned-failures-into-million-and-billion-dollar-companies-7bcaf0d35d66\n\
+  • The Most Fascinating Profile You’ll Ever Read About a Guy and His Boring Startup: https://www.wired.com/2014/08/the-most-fascinating-profile-youll-ever-read-about-a-guy-and-his-boring-startup/\n\
+  • The Alliance for Decision Education: https://alliancefordecisioneducation.org/\n• Make Better Decisions course on Maven:\
+  \ https://maven.com/annie-duke/make-better-decisions\n\nProduction and marketing by https://penname.co/. For inquiries about\
+  \ sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4861.0
 duration: '1:21:01'
 view_count: 24134

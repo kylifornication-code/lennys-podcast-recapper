@@ -4,9 +4,23 @@ title: How to sell your ideas and rise within your company | Casey Winters, Even
 youtube_url: https://www.youtube.com/watch?v=6XMUDEYf2OE
 video_id: 6XMUDEYf2OE
 publish_date: 2022-07-21
-description: The people who rise fastest in product know how to sell their ideas to
-  customers, and also to their coworkers. Casey Winters, the Chief Product Officer
-  at Eventbrite (previously at Grubhub,...
+description: "The people who rise fastest in product know how to sell their ideas to customers, and also to their coworkers.\
+  \ Casey Winters, the Chief Product Officer at Eventbrite (previously at Grubhub, Pinterest, and advisor to dozens of companies)\
+  \ shares what it takes to be successful as you rise in the ranks within product. In this episode we’ll talk about how to\
+  \ land presentations, how to win over executives with strategic communication, the skill sets that are most in demand in\
+  \ product, and new growth trends. Join us.\n\nFind the full transcript here: https://www.podpage.com/lennys-podcast/how-to-sell-your-ideas-and-rise-within-your-company-casey-winters-eventbrite/#transcript\n\
+  \n—\n Thank you to our wonderful sponsors for making this episode possible: \n\n• Coda: http://coda.io/lenny \n• Mixpanel:\
+  \ https://mixpanel.com/startups\n• Whimsical: https://whimsical.com/lenny \n\n— \nWhere to find Casey Winters: \n\n• Twitter:\
+  \ https://twitter.com/onecaseman\n• LinkedIn: https://www.linkedin.com/in/caseywinters/\n\n— \nWhere to find Lenny: \n\n\
+  • Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan \n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\
+  \ \n\n— \nIn this episode, we cover: \n\n[00:00] What to expect in this episode with Casey Winters \n[03:23] An overview\
+  \ of Casey’s career  \n[06:21] A look into the most-fulfilling and challenging roles Casey has energized \n[06:53] Communicating\
+  \ upward\n[11:21] How to derisk meetings\n[13:56] Are you properly preparing for your meetings?\n[19:12] Striving for perceived\
+  \ simplicity \n[24:25] Justifying non-sexy product improvements \n[27:50] Protecting what you’ve built vs continuously scaling \n\
+  [31:06] The downfall of functional ops roles\n[35:24] The CPO role: what it is and how to get there\n[40:47] The spectrum\
+  \ of product people\n[45:14] How to level up your skills\n[47:04] New growth trends, tactics, and strategies \n[50:35] Casey’s\
+  \ two stages of growth: kindle strategies and fire strategies\n[51:54] Under appreciated growth strategies \n[54:05] Where\
+  \ to find Casey"
 duration_seconds: 3309.0
 duration: '55:09'
 view_count: 12582

@@ -4,11 +4,44 @@ title: The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amaz
 youtube_url: https://www.youtube.com/watch?v=hEzpiDuYFoE
 video_id: hEzpiDuYFoE
 publish_date: 2023-07-27
-description: 'Ronny Kohavi, PhD, is a consultant, teacher, and leading expert on the
-  art and science of A/B testing. Previously, Ronny was Vice President and Technical
-  Fellow at Airbnb, Technical Fellow...
-
-  '
+description: "Ronny Kohavi, PhD, is a consultant, teacher, and leading expert on the art and science of A/B testing. Previously,\
+  \ Ronny was Vice President and Technical Fellow at Airbnb, Technical Fellow and corporate VP at Microsoft (where he led\
+  \ the Experimentation Platform team), and Director of Data Mining and Personalization at Amazon. He was also honored with\
+  \ a lifetime achievement award by the Experimentation Culture Awards in September 2020 and teaches a popular course on experimentation\
+  \ on Maven. In today’s podcast, we discuss:\n• How to foster a culture of experimentation\n• How to avoid common pitfalls\
+  \ and misconceptions when running experiments\n• His most surprising experiment results\n• The critical role of trust in\
+  \ running successful experiments\n• When not to A/B test something\n• Best practices for helping your tests run faster\n\
+  • The future of experimentation\n\nEnroll in Ronny’s Maven class, Accelerating Innovation with A/B Testing, at https://bit.ly/ABClassLenny.\
+  \ Promo code “LENNYAB” will give $500 off the class for the first 10 people to use it.\n—\n\nBrought to you by Mixpanel—Event\
+  \ analytics that everyone can trust, use, and afford: https://mixpanel.com/startups  | Round—The private network built by\
+  \ tech leaders for tech leaders: https://www.round.tech/apply?utm_campaign=lennys-letter&utm_medium=email-ad&utm_source=email-marketing&utm_content=send-2-2023-07-27\
+  \ | Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/the-ultimate-guide-to-ab-testing\n\
+  \nWhere to find Ronny Kohavi:\n• Twitter: https://twitter.com/ronnyk\n• LinkedIn: https://www.linkedin.com/in/ronnyk/\n\
+  • Website: http://ai.stanford.edu/~ronnyk/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter:\
+  \ https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Ronny’s background\n(04:29) How one A/B test helped Bing increase revenue by 12%\n(09:00) What data says about opening\
+  \ new tabs\n(10:34) Small effort, huge gains vs. incremental improvements \n(13:16) Typical fail rates\n(15:28) UI resources\n\
+  (16:53) Institutional learning and the importance of documentation and sharing results\n(20:44) Testing incrementally and\
+  \ acting on high-risk, high-reward ideas\n(22:38) A failed experiment at Bing on integration with social apps\n(24:47) When\
+  \ not to A/B test something\n(27:59) Overall evaluation criterion (OEC)\n(32:41) Long-term experimentation vs. models \n\
+  (36:29) The problem with redesigns\n(39:31) How Ronny implemented testing at Microsoft\n(42:54) The stats on redesigns \n\
+  (45:38) Testing at Airbnb\n(48:06) Covid’s impact and why testing is more important during times of upheaval \n(50:06) Ronny’s\
+  \ book, Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing\n(51:45) The importance of trust\n(55:25)\
+  \ Sample ratio mismatch and other signs your experiment is flawed\n(1:00:44) Twyman’s law\n(1:02:14) P-value\n(1:06:27)\
+  \ Getting started running experiments\n(1:07:43) How to shift the culture in an org to push for more testing\n(1:10:18)\
+  \ Building platforms\n(1:12:25) How to improve speed when running experiments\n(1:14:09) Lightning round\n\nReferenced:\n\
+  • Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing: https://experimentguide.com/\n• Seven rules\
+  \ of thumb for website experimenters: https://exp-platform.com/rules-of-thumb/\n• GoodUI: https://goodui.org\n• Defaults\
+  \ for A/B testing: http://bit.ly/CH2022Kohavi\n• Ronny’s LinkedIn post about A/B testing for startups: https://www.linkedin.com/posts/ronnyk_abtesting-experimentguide-statisticalpower-activity-6982142843297423360-Bc2U\n\
+  • Sanchan Saxena on Lenny’s Podcast: https://www.lennyspodcast.com/sanchan-saxena-vp-of-product-at-coinbase-on-the-inside-story-of-how-airbnb-made-it-through-covid-what-he8217s-learned-from-brian-chesky-brian-armstrong-and-kevin-systrom-much-more/\n\
+  • Optimizely: https://www.optimizely.com/\n• Optimizely was statistically naive: https://analythical.com/blog/optimizely-got-me-fired\n\
+  • SRM: https://www.linkedin.com/posts/ronnyk_seat-belt-wikipedia-activity-6917959519310401536-jV97\n• SRM checker: http://bit.ly/srmCheck\n\
+  • Twyman’s law: http://bit.ly/twymanLaw\n• “What’s a p-value” question: http://bit.ly/ABTestingIntuitionBusters\n• Fisher’s\
+  \ method: https://en.wikipedia.org/wiki/Fisher%27s_method\n• Evolving experimentation: https://exp-platform.com/Documents/2017-05%20ICSE2017_EvolutionOfExP.pdf\n\
+  • CUPED for variance reduction/increased sensitivity: http://bit.ly/expCUPED\n• Ronny’s recommended books: https://bit.ly/BestBooksRonnyk\n\
+  • Chernobyl on HBO: https://www.hbo.com/chernobyl\n• Blink cameras: https://blinkforhome.com/\n• Narrative not PowerPoint:\
+  \ https://exp-platform.com/narrative-not-powerpoint/\n\nProduction and marketing by https://penname.co/. For inquiries about\
+  \ sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4988.0
 duration: '1:23:08'
 view_count: 69278

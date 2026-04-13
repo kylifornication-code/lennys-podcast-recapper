@@ -1,15 +1,45 @@
 ---
 guest: Maggie Crowley
-title: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift,
-  TripAdvisor)
+title: Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)
 youtube_url: https://www.youtube.com/watch?v=4LjddcccYIo
 video_id: 4LjddcccYIo
 publish_date: 2023-11-05
-description: 'Maggie Crowley is VP of product at Toast and previously vice president
-  and head of product at Charlie Health, senior director of product management at
-  Drift, and a PM at TripAdvisor. She’s...
-
-  '
+description: "Maggie Crowley is VP of product at Toast and previously vice president and head of product at Charlie Health,\
+  \ senior director of product management at Drift, and a PM at TripAdvisor. She’s also the host of Build, a podcast dedicated\
+  \ to product and product management. In today’s conversation, Maggie shares:\n• The value of building a broad-based PM skill\
+  \ set\n• Three qualities of the best product managers\n• A step-by-step guide for crafting a product strategy\n• How to\
+  \ break into PM\n• Why great writing is often just simplifying your writing\n• Why being too data-driven is a red flag\n\
+  • The impact of content creation on Maggie’s career\n\n—\n\nBrought to you by Productroadmap.ai—AI to connect your roadmaps\
+  \ to revenue: https://productroadmap.ai  | Composer—the AI-powered trading platform: https://www.composer.trade/ | Eppo—Run\
+  \ reliable, impactful experiments: https://www.geteppo.com/\n\nFind the full transcript at: https://www.lennyspodcast.com/mastering-product-strategy-and-growing-as-a-pm-maggie-crowley-toast-drift-tripadvisor/\n\
+  \nWhere to find Maggie Crowley:\n• X: https://twitter.com/maggiecrowley\n• LinkedIn: https://www.linkedin.com/in/maggie-crowley-42a97112/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Maggie’s background\n(04:06) Three common traits among the best PMs\n(09:33) Strategy\
+  \ is an important but small part of the job\n(11:14) How to get better at simplification\n(15:13) Ownership \n(17:53) Examples\
+  \ of simplifying your work\n(19:39) Maggie’s Slack support group\n(21:37) Following up on your work\n(23:23) PM time horizon\n\
+  (26:31) Staying in your role vs. trying a new opportunity\n(27:37) The importance of “carrying the water” \n(28:56) Pros\
+  \ and cons of the PM job\n(31:42) Advice on landing a PM role\n(34:36) Step-by-step process for writing your product strategy\n\
+  (39:55) Not every feature needs a strategy\n(46:29) The value of working through the process \n(48:09) Maggie’s one-pager\
+  \ doc \n(54:16) Contrarian corner\n(55:44) The worst product Maggie ever shipped\n(58:33) Why being “data-driven” is a red\
+  \ flag\n(1:01:10) Content creation\n(1:14:27) Closing thoughts\n(1:15:17) Lightning round\n\nReferenced:\n• David Cancel\
+  \ on LinkedIn: https://www.linkedin.com/in/dcancel/\n• On Writing Well: The Classic Guide to Writing Nonfiction: https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548\n\
+  • Notion: https://www.notion.so/\n• The Minto Pyramid Principle and the SCR Framework: https://www.lennysnewsletter.com/p/minto-pyramid-principle-scr\n\
+  • Drift: https://www.drift.com/\n• Maggies Top 5 Product Lessons for 2021: https://www.drift.com/podcasts/build/?wchannelid=hg0p3zf4yx&wmediaid=nxrdvmotr3\n\
+  • Unpacking Amazon’s unique ways of working | Bill Carr: https://www.lennyspodcast.com/unpacking-amazons-unique-ways-of-working-bill-carr-author-of-working-backwards/\n\
+  • Inside Linear: Building with taste, craft, and focus | Karri Saarinen: https://www.lennyspodcast.com/inside-linear-building-with-taste-craft-and-focus-karri-saarinen-co-founder-designer-ceo/\n\
+  • Adam Medros on LinkedIn: https://www.linkedin.com/in/amedros/\n• Strategy Doc Template: https://docs.google.com/document/d/1frggEj_gfFD4--8eNkkyY-zHryXbN5uIS8uiMDCYVes/edit\n\
+  • How Figma builds product: https://www.lennysnewsletter.com/p/how-figma-builds-product\n• Shreyas Doshi on pre-mortems,\
+  \ the LNO framework, the three levels of product work, why most execution problems are strategy problems, and ROI vs. opportunity\
+  \ cost thinking: https://www.lennyspodcast.com/shreyas-doshi-on-pre-mortems-the-lno-framework-the-three-levels-of-product-work-why-most-execution-problems-are-strategy-problems-and-roi-vs-opportunity-cost-thinking/\n\
+  • Einstein quote: https://www.brainyquote.com/quotes/albert_einstein_122232\n• The Presentation Secrets of Steve Jobs: How\
+  \ to Be Insanely Great in Front of Any Audience: https://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080\n\
+  • Thinking in Bets: Making Smarter Decisions When You Dont Have All the Facts: https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions/dp/0735216371\n\
+  • Scaling People: Tactics for Management and Company Building: https://www.amazon.com/Scaling-People-Tactics-Management-Building/dp/1953953212/r\n\
+  • Slow Horses on AppleTV+: https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o\n• Future: https://www.future.co/\n\
+  • Ladder: https://www.joinladder.com/\n• Pump Log: https://pumplogapp.com/\n• Huckleberry: https://huckleberrycare.com/\n\
+  • Toast: https://pos.toasttab.com/\n• Careers at Toast: https://careers.toasttab.com/homepage\n\nProduction and marketing\
+  \ by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be\
+  \ an investor in the companies discussed."
 duration_seconds: 4954.0
 duration: '1:22:34'
 view_count: 43061

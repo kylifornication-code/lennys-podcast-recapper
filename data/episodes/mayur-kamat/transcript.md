@@ -1,15 +1,48 @@
 ---
 guest: Mayur Kamat
-title: Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat
-  (CPO at N26)
+title: Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)
 youtube_url: https://www.youtube.com/watch?v=UVyfuSBwbNA
 video_id: UVyfuSBwbNA
 publish_date: 2025-05-22
-description: 'Mayur Kamat is the chief product officer at N26—a $9 billion neobank
-  serving over 7 million customers in 25 countries—where he leads product, design,
-  data, and research. Prior to N26, Mayur...
-
-  '
+description: "Mayur Kamat is the chief product officer at N26—a $9 billion neobank serving over 7 million customers in 25\
+  \ countries—where he leads product, design, data, and research. Prior to N26, Mayur was Head of Product at Binance, growing\
+  \ the crypto exchange to a peak $400 billion valuation. Earlier in his career, he built and scaled products at Google (Gmail\
+  \ Mobile, Hangouts), Microsoft, and travel unicorn Agoda.\nLearn:\n1. How to find and focus on the highest-leverage problems\n\
+  2. Why you shouldn’t optimize for compensation early in your career\n3. Why you should optimize for strengths, not weaknesses\n\
+  4. Why you need to decide if you truly want the C-suite path\n5. Why working at a fintech company creates exceptional PMs\n\
+  6. Strategy = hypothesis × experimentation velocity\n7. Small, fast wins compound faster than big, slow bets\n\n*Transcript:*\
+  \ https://www.lennysnewsletter.com/p/unorthodox-product-lessons-from-n26-and-more\n\n*Brought to you by:*\nWorkOS—Modern\
+  \ identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\nParagon—Ship every SaaS integration\
+  \ your customers want: https://www.useparagon.com/lenny\nVanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\
+  \n*Where to find Mayur Kamat:*\n• X: https://x.com/5degreez\n• LinkedIn: https://www.linkedin.com/in/mayur/\n\n*Where to\
+  \ find Lenny:*\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n*In this episode, we cover:*\n(00:00) Introduction and Mayur’s background\n(04:49) Working at Binance: An inside look\n\
+  (18:18) Career advice for product managers\n(27:00) PM career paths\n(33:58) Understanding fintech customers\n(36:00) Understanding\
+  \ your strengths\n(44:46) Creating a culture of experimentation\n(51:14) Hiring and developing top talent\n(54:50) Building\
+  \ a diverse product portfolio\n(57:08) Working in high talent density areas\n(59:43) Personal and professional balance\n\
+  (01:06:32) High-leverage opportunities and decision making\n(01:14:28) AI tools in the workplace\n(01:19:14) Failure corner\n\
+  (01:25:11) Lightning round and final thoughts\n\n*Referenced:*\n• Binance: https://www.binance.us/\n• Google: https://about.google/\n\
+  • Microsoft: https://www.microsoft.com/\n• Agoda: https://www.agoda.com\n• N26: https://n26.com/\n• Which companies accelerate\
+  \ PM careers most: https://www.lennysnewsletter.com/p/which-companies-accelerate-your-pm\n• Which companies produce the\
+  \ best product managers: https://www.lennysnewsletter.com/p/which-companies-produce-the-best\n• Bezos Says Work-Life Balance\
+  \ is a “Debilitating” Phrase: https://www.investopedia.com/news/bezos-says-worklife-balance-debilitating-phrase/\n• Maslow’s\
+  \ Hierarchy of Needs: https://www.simplypsychology.org/maslow.html\n• PayPal Mafia: https://en.wikipedia.org/wiki/PayPal_Mafia\n\
+  • Changpeng Zhao on LinkedIn: https://www.linkedin.com/in/cpzhao/\n• Ray Dalio on LinkedIn: https://www.linkedin.com/in/raydalio/\n\
+  • Porter’s five forces: https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis\n• Jonathan Rosenberg on X: https://x.com/jjrosenberg\n\
+  • Aura: https://buy.aura.com/\n• Intercom: https://www.intercom.com/\n• Palantir: https://www.palantir.com/\n• Revolut:\
+  \ https://www.revolut.com/\n• Chime: https://www.chime.com/\n• Stripe: https://stripe.com/\n• Dropbox: https://www.dropbox.com/\n\
+  • Alex Algard on LinkedIn: https://www.linkedin.com/in/alexalgard\n• Hiya: https://www.hiya.com/\n• Brian Chesky’s new playbook:\
+  \ https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach\n• Gemini: https://gemini.google.com/app\n• Writer:\
+  \ https://writer.com/\n• Google Hangouts: https://en.wikipedia.org/wiki/Google_Hangouts\n• Sundar Pichai on LinkedIn: https://www.linkedin.com/in/sundarpichai/\n\
+  • Google Meet: https://meet.google.com/landing\n• House on Hulu: https://www.hulu.com/series/ef39603f-eb90-4248-8237-f6168d7c1be1\n\
+  • Big Bang Theory on Hulu: https://www.hulu.com/series/9bde5aeb-5297-4290-b173-19a4d59cc11d\n• Adolescence on Netflix: https://www.netflix.com/title/81756069\n\
+  • The White Lotus on HBO: https://www.hbo.com/the-white-lotus\n• Robinhood: https://robinhood.com/us/en/\n• Nikita Bier’s\
+  \ post on X about Bible Chat: https://x.com/nikitabier/status/1915252215507210349\n• Bible Chat: https://apps.apple.com/us/app/bible-chat-daily-devotional/id6448849666?mt=8\n\
+  • Suno: https://suno.com/home\n• Disfrutar: https://www.disfrutarbarcelona.com/\n\n*Recommended books:*\n• StrengthsFinder\
+  \ 2.0: https://www.amazon.com/StrengthsFinder-2-0-Tom-Rath/dp/159562015X\n• The 5 Types of Wealth: A Transformative Guide\
+  \ to Design Your Dream Life: https://www.amazon.com/Types-Wealth-Transformative-Guide-Design/dp/059372318X\n\n_Production\
+  \ and marketing by https://penname.co/._ \n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5876.0
 duration: '1:37:56'
 view_count: 12230

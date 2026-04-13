@@ -1,18 +1,13 @@
 ---
 guest: Gibson Biddle
-title: 35 years of product design wisdom from Apple, Disney, Pinterest and beyond
-  | Bob Baxley
-youtube_url: https://www.youtube.com/watch?v=X-83gvgVaWc
-video_id: X-83gvgVaWc
-publish_date: 2025-06-12
-description: 'Bob Baxley is a design leader who has shaped products used by billions
-  at Apple, Pinterest, Yahoo, and ThoughtSpot. During his eight years at Apple, he
-  led design for the online store and the...
-
-  '
-duration_seconds: 6119.0
-duration: '1:41:59'
-view_count: 46540
+title: ''
+youtube_url: ''
+video_id: ''
+publish_date: ''
+description: ''
+duration_seconds: 0
+duration: ''
+view_count: 0
 channel: Lenny's Podcast
 keywords:
 - growth

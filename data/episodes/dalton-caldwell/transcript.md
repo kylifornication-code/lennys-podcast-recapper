@@ -1,15 +1,117 @@
 ---
 guest: Dalton Caldwell
-title: 'Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more
-  | Dalton Caldwell (YC)'
+title: 'Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)'
 youtube_url: https://www.youtube.com/watch?v=m7LvNTbaqSI
 video_id: m7LvNTbaqSI
 publish_date: 2024-04-18
-description: 'Dalton Caldwell is Managing Director and Group Partner at Y Combinator.
-  Prior to YC, he was the co-founder and CEO of imeem (acquired by MySpace in 2009)
-  and the co-founder and CEO of App.net....
+description: 'Dalton Caldwell is Managing Director and Group Partner at Y Combinator. Prior to YC, he was the co-founder and
+  CEO of imeem (acquired by MySpace in 2009) and the co-founder and CEO of App.net. During his time at YC, he’s advised more
+  than 35 YC unicorns, including DoorDash, Amplitude, Webflow, and Retool, and has worked across 21 different YC batches.
+  He’s also racked up more than 6,500 office hours with founders. In our conversation, we discuss:
 
-  '
+  • Why founders need to adopt the mindset “Just don’t die”
+
+  • The most common reason startups fail
+
+  • When to pivot, and characteristics of a good pivot
+
+  • The concept of “tar pit ideas” and examples of bad startup ideas
+
+  • Why investors say no to startups
+
+  • The importance of market size in investment decisions
+
+  • The pitfalls of founders over-delegating
+
+  • Effective ways to talk to customers
+
+  • 20 ideas Dalton is looking to fund
+
+
+  —
+
+
+  Brought to you by:
+
+  • Eppo—Run reliable, impactful experiments: https://www.geteppo.com/
+
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+  • Coda—The all-in-one collaborative workspace: https://coda.io/lenny
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/lessons-from-1000-yc-startups
+
+
+  Where to find Dalton Caldwell:
+
+  • X: https://twitter.com/daltonc
+
+  • LinkedIn: https://www.linkedin.com/in/daltoncaldwell/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Dalton’s background
+
+  (04:41) The value of simple advice
+
+  (07:04) Dalton’s advice: “Just don’t die”
+
+  (08:39) Knowing when to stop
+
+  (11:45) Deciding to pivot
+
+  (14:26) Characteristics of a good pivot
+
+  (17:53) Knowing when to pivot
+
+  (19:03) Zip’s journey and finding a market
+
+  (21:22) Why Dalton says to “Move towards the mountains and the desert”
+
+  (23:45) Tar pit ideas
+
+  (26:49) Understanding why investors say no
+
+  (29:14) The importance of market size
+
+  (32:16) Avoiding over-delegation and hiring senior people too early
+
+  (36:43) Why startups fail
+
+  (40:30) Effectively talking to customers
+
+  (45:17) Examples of startups hustling to talk to customers
+
+  (48:01) Patterns of successful startups
+
+  (52:05) YC’s Request for Startups
+
+  (55:37) Early days of Silicon Valley
+
+  (01:05:33) Contrarian corner: growth hacking for early startups
+
+  (01:09:28) Failure corner
+
+  (01:11:15) Closing thoughts
+
+  (01:12:22) Lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4853.0
 duration: '1:20:53'
 view_count: 260707

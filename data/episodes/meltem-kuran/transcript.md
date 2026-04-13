@@ -1,15 +1,37 @@
 ---
 guest: Meltem Kuran
-title: An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head
-  of Growth)
+title: An inside look at Deel’s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth)
 youtube_url: https://www.youtube.com/watch?v=C1_sM0_ds2c
 video_id: C1_sM0_ds2c
 publish_date: 2023-08-27
-description: 'Meltem Kuran Berkowitz is Head of Growth at Deel, which went from $0
-  to $300m in ARR in 3 years (fastest company in history to do so). Meltem joined
-  Deel early to lead growth, and currently...
-
-  '
+description: "Meltem Kuran Berkowitz is Head of Growth at Deel, which went from $0 to $300m in ARR in 3 years (fastest company\
+  \ in history to do so). Meltem joined Deel early to lead growth, and currently leads all of the growth and marketing teams\
+  \ including paid ads, content, product marketing, community, brand, and more. In this episode, we discuss:\n• How Deel found\
+  \ success leveraging low-cost growth channels\n• Why early awareness campaigns are a waste of time in B2B\n• How to create\
+  \ effective SEO content\n• Deel’s “traffic light” framework\n• When it makes sense to invest in paid ads\n• The art of structuring\
+  \ growth teams\n• Building a startup culture\n\n—\n\nBrought to you by Miro—A collaborative visual platform where your best\
+  \ work comes to life: https://miro.com/lenny | LMNT—Zero-sugar hydration: https://www.drinklmnt.com/lenny | AssemblyAI—Production-ready\
+  \ AI models to transcribe and understand speech: https://www.assemblyai.com/lenny\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/an-inside-look-at-deels-unprecedented\n\
+  \nWhere to find Meltem Kuran Berkowitz:\n• Twitter/X: https://twitter.com/meltemkuran\n• LinkedIn: https://www.linkedin.com/in/meltem-kuran-berkowitz-4721114b\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter/X: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Meltem’s background\n(04:21) What Deel\
+  \ does\n(06:32) How Meltem leverages low-cost growth channels\n(13:18) How to answer questions in a value-add way\n(14:52)\
+  \ Leveraging closed communities\n(15:48) Breaking down Deel’s impressive growth \n(16:33) SEO best practices\n(18:32) Deel’s\
+  \ “traffic light system” framework for publishing content\n(20:03) The step-by-step process of publishing an SEO article\n\
+  (21:55) How Deel structures their content team\n(23:18) Why you can’t cut corners when doing SEO\n(25:15) Businesses that\
+  \ should not invest in SEO\n(26:40) The growth channels Deel prioritized early on\n(32:12) Why Meltem is not a fan of early\
+  \ awareness campaigns for B2B businesses \n(33:54) What Notion did right with their ad campaigns\n(36:16) How Deel can help\
+  \ your company\n(38:15) Deel’s blog post that caught the attention of the IRS\n(40:06) Paid ads tips\n(42:12) Why acquisition\
+  \ channels are useless without a great product\n(44:19) How the pandemic helped drive growth at Deel\n(47:11) Structuring\
+  \ early growth teams\n(51:23) Building a startup culture\n(1:01:10) The story behind Meltem’s unique workspace\n(1:05:22)\
+  \ Closing thoughts on growth \n(1:06:05) Lightning round\n\nReferenced:\n• Deel: https://www.deel.com/\n• Clearscope: https://www.clearscope.io/\n\
+  • Notion: https://www.notion.so/\n• Geoff Charles on Lenny’s Podcast: https://www.lennyspodcast.com/velocity-over-everything-how-ramp-became-the-fastest-growing-saas-startup-of-all-time-geoff-charl/\n\
+  • Amp It Up: Leading for Hypergrowth by Raising Expectations, Increasing Urgency, and Elevating Intensity: https://www.amazon.com/Amp-Unlocking-Hypergrowth-Expectations-Intensity/dp/1119836115\n\
+  • Snowflake: https://www.snowflake.com\n• How Will You Measure Your Life?: https://www.amazon.com/How-Will-Measure-Your-Life/dp/0062102419\n\
+  • Oppenheimer: https://www.oppenheimermovie.com/\n• The Summer I Turned Pretty on Amazon Prime: https://www.amazon.com/dp/B09NF4J7XW\n\
+  • Library stamps on Amazon: https://www.amazon.com/library-stamp/s?k=library+stamp\n• Bloody Caesar recipe: https://www.liquor.com/recipes/bloody-caesar/\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4311.0
 duration: '1:11:51'
 view_count: 33018

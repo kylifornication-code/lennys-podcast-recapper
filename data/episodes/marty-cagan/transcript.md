@@ -4,11 +4,30 @@ title: Product management theater | Marty Cagan (Silicon Valley Product Group)
 youtube_url: https://www.youtube.com/watch?v=9N4ZgNaWvI0
 video_id: 9N4ZgNaWvI0
 publish_date: 2024-03-10
-description: 'Marty Cagan is a luminary in the world of product. He’s the author of
-  two of the most foundational books for product teams and product leaders (Inspired and Empowered),
-  he’s the founder...
-
-  '
+description: "Marty Cagan is a luminary in the world of product. He’s the author of two of the most foundational books for\
+  \ product teams and product leaders (Inspired and Empowered), he’s the founder of Silicon Valley Product Group (one of the\
+  \ longest-running product advisory groups), and he’s almost certainly worked with more product leaders and teams than any\
+  \ human alive. Now he’s releasing his newest book, Transformed, which is sure to become a staple of tech-powered companies worldwide.\
+  \ Marty’s previous appearance on our show remains one of the most popular episodes to date. In this conversation, we discuss:\n\
+  • The rise of “product management theater”\n• Changes in the PM role post-ZIRP and the shift from growth to build functions\n\
+  • The disconnect between good product companies and online product advice\n• How over-hiring has created challenges in the\
+  \ product industry\n• The most important skills for PMs to build\n• How to know if you’re on a “feature team”\n• The potential\
+  \ disruption of product management by AI\n• Marty’s new book, Transformed: Moving to the Product Operating Model\n• Four\
+  \ new competencies required for successful product organizations\n\n—\n\nBrought to you by:\n• Sprig—Build a product people\
+  \ love\n• Eppo—Run reliable, impactful experiments\n• Vanta—Automate compliance. Simplify security.\n\nFind the transcript\
+  \ and references at: https://www.lennysnewsletter.com/p/product-management-theater-marty\n\nWhere to find Marty Cagan:\n\
+  • X: https://twitter.com/cagan\n• LinkedIn: https://www.linkedin.com/in/cagan/\n• Silicon Valley Product Group: https://www.svpg.com/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Marty’s background\n(04:46) His take on the state of product management\n(12:08) Product\
+  \ management theater\n(18:33) Feature teams vs. empowered product teams\n(24:48) Skills of a real product manager\n(29:27)\
+  \ The product management reckoning is here\n(32:05) Taking control of your product management career\n(34:59) The challenge\
+  \ of finding reliable product management advice\n(40:18) The disconnect between good product companies and the product management\
+  \ community\n(44:23) Top-down vs. bottom-up cultures\n(47:06) The shift in product management post-ZIRP era\n(49:44) The\
+  \ changing landscape of product management\n(52:05) The disruption of PM skills by AI\n(55:56) The purpose and content of\
+  \ Marty’s new book, Transformed\n(01:02:05) The product operating model\n(01:08:27) New competencies required for successful\
+  \ product teams \n(01:11:25) Marty’s thoughts on product ops\n(01:15:13) Advice for founders who don’t want product managers\n\
+  (01:18:06) Lightning round\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast,\
+  \ email podcast@lennyrachitsky.com.\n\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 5115.0
 duration: '1:25:15'
 view_count: 226150

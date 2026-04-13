@@ -4,9 +4,44 @@ title: The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)
 youtube_url: https://www.youtube.com/watch?v=xQV7HVyAJjc
 video_id: xQV7HVyAJjc
 publish_date: 2023-08-24
-description: Bob Moesta is the co-creator of the Jobs To Be Done (JTBD) framework,
-  a close collaborator of Clay Christensen, and CEO and founder of The Re-Wired Group.
-  He has helped launch more than 3,500...
+description: "Bob Moesta is the co-creator of the Jobs To Be Done (JTBD) framework, a close collaborator of Clay Christensen,\
+  \ and CEO and founder of The Re-Wired Group. He has helped launch more than 3,500 new products, services, and businesses\
+  \ and built and sold several startups himself. He is also a fellow at the Clayton Christensen Institute and a guest lecturer\
+  \ at the Harvard Business School, MIT Sloan School of Entrepreneurship, and Northwestern University’s Kellogg School of\
+  \ Management. In this episode, we discuss:\n• What Snickers and Milky Way can teach us about JTBD\n• The various flavors\
+  \ of the JTBD framework\n• Best practices for implementing the framework\n• Advice on conducting interviews for B2B vs.\
+  \ B2C customers\n• Common mistakes people make when implementing JTBD\n• When not to use it\n\n—\n\nBrought to you by Sidebar—Catalyze\
+  \ your career with a Personal Board of Directors: https://www.sidebar.com/?utm_source=lennys&utm_medium=newsletter&utm_campaign=waitlist_launch\
+  \ | Merge—A single API to add hundreds of integrations into your app: https://merge.dev/sponsorships/lennys-podcast?utm_campaign=Lennys_Podcast\
+  \ | Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\n\nFind the transcript at: https://www.lennysnewsletter.com/p/the-ultimate-guide-to-jtbd-bob-moesta\n\
+  \nWhere to find Bob Moesta:\n• Twitter/X: https://twitter.com/bmoesta\n• LinkedIn: https://www.linkedin.com/in/bobmoesta/\n\
+  • Website: http://www.therewiredgroup.com/\n• Podcast: https://pca.st/gg6goo1n\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • Twitter/X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we\
+  \ cover:\n(00:00) Bob’s background\n(04:04) What is the Jobs To Be Done framework\n(07:29) Struggling moments and demand\n\
+  (11:14) Reducing friction in the sales process\n(14:46) How Autobooks improved their buying process and 4x’ed conversion\n\
+  (16:52) The six phases of the buying process\n(18:30) The JTBD interview process\n(21:55) How Bob’s TBI affected his reading/writing\
+  \ \n(22:02) Why people switch companies \n(27:18) JTBD interviewing\n(30:07) Discussion guides\n(32:48) The danger of looking\
+  \ at the customer through the product\n(33:53) First steps in applying the JTBD framework\n(36:25) Signs people are ready\
+  \ for a change\n(37:43) Bob’s “layers of language”\n(40:15) Examples of companies with broad adoption of JTBD\n(43:59) The\
+  \ different flavors of JTBD\n(48:19) Bob’s work with Clay Christensen on JTBD theory\n(51:05) When not to use JTBD\n(53:40)\
+  \ Common misconceptions about the framework\n(55:55) What compelled Bob to spend so much of his life on JTBD\n(58:07) Takeaways\n\
+  (59:07) Lightning round\n\nReferenced:\n• Jason Fried on LinkedIn: https://www.linkedin.com/in/jason-fried/\n• Des Traynor\
+  \ on LinkedIn: https://www.linkedin.com/in/destraynor\n• Southern New Hampshire University: https://degrees.snhu.edu/\n\
+  • Paul LeBlanc on LinkedIn: https://www.linkedin.com/in/paul-j-leblanc-6a17749/\n• Demand-Side Sales 101: Stop Selling and\
+  \ Help Your Customers Make Progress: https://www.amazon.com/Demand-Side-Sales-101-Customers-Progress/dp/1544509987\n• Autobooks:\
+  \ https://www.autobooks.co/\n• Intercom: https://www.intercom.com/\n• Zendesk: https://www.zendesk.com/\n• HubSpot: https://www.hubspot.com/\n\
+  • The Kellogg School of Management at Northwestern University: https://www.kellogg.northwestern.edu/\n• Y Combinator: https://www.ycombinator.com/\n\
+  • Michael Horn on LinkedIn: https://www.linkedin.com/in/michaelbhorn/\n• Ethan Bernstein on LinkedIn: https://www.linkedin.com/in/ethanbernstein/\n\
+  • Never Split the Difference: Negotiating as If Your Life Depended on It: https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805\n\
+  • William Edwards Deming on Wikipedia: https://en.wikipedia.org/wiki/W._Edwards_Deming\n• Basecamp: https://basecamp.com/\n\
+  • Sriram and Aarthi on Lenny’s Podcast: https://www.lennyspodcast.com/hot-takes-and-techno-optimism-from-techs-top-power-couple-sriram-and-aarthi/\n\
+  • Genichi Taguchi: https://www.qualitygurus.com/genichi-taguchi/\n• Tony Ulwick on LinkedIn: https://www.linkedin.com/in/tonyulwick/\n\
+  • The Clayton Christensen Institute on LinkedIn: https://www.linkedin.com/company/clayton-christensen-institute/\n• Shape\
+  \ Up: https://basecamp.com/shapeup\n• The End of Average: Unlocking Our Potential by Embracing What Makes Us Different:\
+  \ https://www.amazon.com/End-Average-Unlocking-Potential-Embracing/dp/0062358375\n• The Big Bang Theory on TBS: https://www.tbs.com/shows/the-big-bang-theory/watch-now\n\
+  • Oppenheimer: https://www.oppenheimermovie.com/\n• Kyota massage chairs at Costco: https://www.costco.com/massage-chairs-cushions.html?brand=Kyota&refine=%7C%7CBrand_attr-Kyota\n\
+  • Paul Adams on LinkedIn: https://www.linkedin.com/in/pauladams/\n• Matt Hodges on LinkedIn: https://www.linkedin.com/in/mattnhodges/\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 4195.0
 duration: '1:09:55'
 view_count: 69933

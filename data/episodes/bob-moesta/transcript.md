@@ -1,15 +1,36 @@
 ---
 guest: Bob Moesta
-title: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author
-  of "Job Moves”)
+title: How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)
 youtube_url: https://www.youtube.com/watch?v=2wypVv9wZtI
 video_id: 2wypVv9wZtI
 publish_date: 2025-02-23
-description: 'Bob Moesta, co-creator of the Jobs to Be Done framework, recently published
-  a new book, Job Moves. Drawing from interviews with over 1,000 people about their
-  career transitions, it offers a...
-
-  '
+description: "Bob Moesta, co-creator of the Jobs to Be Done framework, recently published a new book, Job Moves. Drawing from\
+  \ interviews with over 1,000 people about their career transitions, it offers a practical playbook for career development.\
+  \ In our conversation, we discuss:\n• The four different “quests” that drive career changes\n• Why job features (salary,\
+  \ title) matter less than experiences\n• How to identify what gives you energy vs. drains you\n• The power of taking a “jobcation”\n\
+  • A template for crafting your career story\n• Tips for hiring and retaining great talent\n• The importance of prototyping\
+  \ potential careers\n• Much more\n\n—\n\nBrought to you by:\n• Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\n\
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n• OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny\n\
+  \nFind the transcript at: https://www.lennysnewsletter.com/p/how-to-find-work-you-love-bob-moesta\n\nWhere to find Bob Moesta:\n\
+  • X: https://x.com/bmoesta\n• LinkedIn: https://www.linkedin.com/in/bobmoesta/\n• Website: https://www.jobmoves.com/\n•\
+  \ Podcast: https://pca.st/gg6goo1n\n• The Re-Wired Group: https://therewiredgroup.com/\n\nWhere to find Lenny:\n• Newsletter:\
+  \ https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Bob's background\n(05:10) Bob’s new book, Job Moves\n(09:31) Job features vs. job\
+  \ experiences \n(11:16) Four reasons people leave jobs\n(17:20) Energy drivers and energy drains\n(31:05) Prototyping your\
+  \ next job\n(34:32) Pushes and pulls\n(40:01) Understanding that no job is perfect\n(43:18) Taking a jobcation\n(51:22)\
+  \ Finding the right next step\n(55:18) Navigating job applications and interviews\n(58:28) How to craft your career story\n\
+  (01:04:04) Strengths and weaknesses: leveraging your superpowers\n(01:06:21) Hiring and writing job descriptions\n(01:11:20)\
+  \ Self-awareness and founding a startup\n(01:21:24) Conclusion and final thoughts\n\nReferenced:\n• The ultimate guide to\
+  \ JTBD | Bob Moesta (co-creator of the framework): https://www.lennysnewsletter.com/p/the-ultimate-guide-to-jtbd-bob-moesta\n\
+  • Ethan S. Bernstein on LinkedIn: https://www.linkedin.com/in/ethanbernstein/\n• National Geographic: https://www.nationalgeographic.com/\n\
+  • Radical Candor: From theory to practice with author Kim Scott: https://www.lennysnewsletter.com/p/radical-candor-from-theory-to-practice\n\
+  • Building a long and meaningful career | Nikhyl Singhal (Meta, Google): https://www.lennysnewsletter.com/p/building-a-long-and-meaningful-career\n\
+  • The Story Spine (also known as Pixar’s Story Structure): https://www.storyprompt.com/blog/the-story-spine-also-known-as-pixars-story-structure\n\
+  • Tobi Lütke on LinkedIn: https://www.linkedin.com/in/tobiaslutke\n• Job Moves resources: https://www.jobmoves.com/resources\n\
+  • Why Employees Quit: https://hbr.org/2024/11/why-employees-quit\n\nRecommended book:\n• Job Moves: 9 Steps for Making Progress\
+  \ in Your Career: https://www.amazon.com/Job-Moves-Making-Progress-Career/dp/0063283581\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 5096.0
 duration: '1:24:56'
 view_count: 19224

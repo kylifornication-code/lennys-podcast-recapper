@@ -4,11 +4,122 @@ title: Unpacking Amazon’s unique ways of working | Bill Carr (author of Workin
 youtube_url: https://www.youtube.com/watch?v=S9WHQa_AJQo
 video_id: S9WHQa_AJQo
 publish_date: 2023-11-02
-description: 'Bill Carr is the co-author of Working Backwards: Insights, Stories,
-  and Secrets from Inside Amazon. With a background at Amazon of over 15 years, Bill
-  played a pivotal role in shaping the company...
+description: 'Bill Carr is the co-author of Working Backwards: Insights, Stories, and Secrets from Inside Amazon. With a background
+  at Amazon of over 15 years, Bill played a pivotal role in shaping the company’s global digital music and video ventures,
+  including Amazon Music, Prime Video, and Amazon Studios. After Amazon, Bill was an Executive in Residence with Maveron,
+  an early-stage, consumer-only venture capital firm. He later served as the chief operating officer of OfferUp, the largest
+  mobile marketplace for local buyers and sellers in the U.S. Today he’s the co-founder of Working Backwards LLC, where he
+  helps companies implement Amazon’s time-tested management strategies. In this episode, we discuss:
 
-  '
+  • What exactly “working backwards” is, and how you do it
+
+  • Why having “single-threaded leaders” is so effective
+
+  • Inside Amazon’s intense product review process
+
+  • How to actually follow the “disagree and commit” principle
+
+  • The thinking behind the principle “Leaders are right, a lot”
+
+  • Input vs. output metrics
+
+  • Fostering a culture of risk-taking and innovation
+
+  • The role and responsibilities of a “bar raiser” in your hiring, and how it significantly improves the success rate of
+  new hires
+
+
+  —
+
+
+  Brought to you by AssemblyAI—Production-ready AI models to transcribe and understand speech: https://www.assemblyai.com/lenny
+  | Coda—Meet the evolution of docs: https://coda.io/lenny | Wix Studio—The web creation platform built for agencies: https://www.wix.com/studio?utm_source=Lennyspodcast&utm_medium=Podcastad&utm_campaign=SL
+
+
+  Find the transcript and references at: https://www.lennyspodcast.com/unpacking-amazons-unique-ways-of-working-bill-carr-author-of-working-backwards/
+
+
+  Where to find Bill Carr:
+
+  • X: https://twitter.com/BillCarr89
+
+  • LinkedIn: https://www.linkedin.com/in/bill-carr/
+
+  • Website: https://www.workingbackwards.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Bill’s background
+
+  (04:26) Amazon’s workplace evolution
+
+  (09:54) Amazon’s “fitness function”
+
+  (11:44) Single-threaded leadership
+
+  (18:07) Implementing a program orientation with single-threaded leadership
+
+  (20:16) The GM model vs. single-threaded leadership
+
+  (21:31) Functional countermeasures needed for single-threaded leadership
+
+  (25:22) Embracing the “disagree and commit” principle
+
+  (30:22) Understanding disagreements
+
+  (32:41) Deciphering Amazon’s “Leaders are right, a lot” principle
+
+  (35:25) An explanation of the working backwards framework
+
+  (41:16) PR FAQ process: Amazon’s innovation engine
+
+  (44:47) Deconstructing the PR FAQ structure
+
+  (43:49) The concentric circle model for sharing PR FAQs
+
+  (44:55) The customer problem-solution statement
+
+  (47:52) Create a product funnel, not a product tunnel
+
+  (51:19) How Amazon promotes action vs. talk
+
+  (54:35) Amazon’s flywheel and input metrics
+
+  (1:00:51) Signs you’ve got a good input metric
+
+  (1:04:23) How mistakes can still be made with working backwards
+
+  (1:06:54) Why disagreements aren’t necessarily signs products will fail
+
+  (1:08:02) Examples of failed Amazon projects
+
+  (1:09:55) Cultivating risk-taking and accepting failure
+
+  (1:13:57) Amazon’s “bar-raiser” practice for hiring
+
+  (1:18:21) Selecting Amazon’s bar raisers
+
+  (1:20:41) Advice on implementing practices from Working Backwards
+
+  (1:23:10) Bill’s work as an advisor
+
+  (1:26:05) Lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5608.0
 duration: '1:33:28'
 view_count: 27591

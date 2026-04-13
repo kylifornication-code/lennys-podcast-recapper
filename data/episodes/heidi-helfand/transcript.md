@@ -4,11 +4,27 @@ title: The art and wisdom of changing teams | Heidi Helfand (Author of Dynamic R
 youtube_url: https://www.youtube.com/watch?v=0wN5wSImUdY
 video_id: 0wN5wSImUdY
 publish_date: 2024-01-18
-description: 'Heidi Helfand is the author of Dynamic Reteaming, which outlines practical
-  strategies for orchestrating successful team and company org changes. Her work is
-  informed by more than 20 years in...
-
-  '
+description: "Heidi Helfand is the author of Dynamic Reteaming, which outlines practical strategies for orchestrating successful\
+  \ team and company org changes. Her work is informed by more than 20 years in the tech industry at notable companies like\
+  \ AppFolio, Procore, and Expertcity/GoToMeeting. Today, she dedicates her efforts to sharing her knowledge through workshops,\
+  \ comprehensive courses, and consultative services, helping organizations navigate and optimize their team structures. In\
+  \ this episode, we discuss:\n• The importance of reteaming and reorging\n• The benefits of embracing reteaming\n• The five\
+  \ patterns of reteaming: one by one, grow and split, merging, isolation, and switching\n• Examples of successful reteaming\n\
+  • Why stable teams are not always ideal\n• How change can lead to great career opportunities\n• The RIDE framework for decision-making\n\
+  • Advice on how to set up isolated teams for success\n• The anti-patterns of reteaming and the challenges that can arise\n\
+  • Tactical tips for becoming a better listener\n\n—\n\nBrought to you by:\n• Productroadmap.ai—AI to connect your roadmaps\
+  \ to revenue: https://productroadmap.ai \n• Hex—Helping teams ask and answer data questions by working together: https://www.hex.tech/lenny\n\
+  • Ahrefs—Improve your website’s SEO for free: https://ahrefs.com/awt\n\nFind the transcript and references at: https://www.lennysnewsletter.com/p/the-art-and-wisdom-of-changing-teams\n\
+  \nWhere to find Heidi Helfand:\n• X: https://twitter.com/heidihelfand\n• LinkedIn: https://www.linkedin.com/in/heidihelfand/\n\
+  • Website: https://www.heidihelfand.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Heidi’s background \n(03:40)\
+  \ How Heidi got involved with reteaming and reorgs \n(07:37) Advice for people dealing with reorgs \n(11:56) The benefits\
+  \ of change and the RIDE framework \n(17:11) The five patterns of reteaming \n(20:00) The power of isolation \n(27:38) Advice\
+  \ on how to be successful by isolating small teams \n(33:27) Supporting and protecting internal startups \n(34:33) The one-by-one\
+  \ pattern \n(36:44) The grow and split pattern \n(39:20) The merging pattern \n(42:14) The switching pattern \n(50:18) Anti-patterns\
+  \ of reteaming \n(52:49) Embracing change and growth \n(58:48) How to become a better listener \n(01:01:28) Lightning round\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4221.0
 duration: '1:10:21'
 view_count: 5036

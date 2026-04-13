@@ -4,11 +4,28 @@ title: Good Strategy, Bad Strategy | Richard Rumelt
 youtube_url: https://www.youtube.com/watch?v=4uWKEG0s9Kc
 video_id: 4uWKEG0s9Kc
 publish_date: 2024-01-21
-description: 'Richard Rumelt is a legend in the world of strategy. He’s the author
-  of Good Strategy/Bad Strategy and The Crux: How Leaders Become Strategists, both
-  of which are often recommended by guests...
-
-  '
+description: "Richard Rumelt is a legend in the world of strategy. He’s the author of Good Strategy/Bad Strategy and The Crux:\
+  \ How Leaders Become Strategists, both of which are often recommended by guests on this podcast. From his early days teaching\
+  \ in Iran at a Harvard-sponsored business school to teaching at Harvard Business School itself to over four decades teaching\
+  \ at UCLA’s Anderson School of Management, Richard’s impact resonates globally. His strategic insights are sought after\
+  \ by major corporations including Microsoft, Shell, Apple, AT&T, Intel, and Commonwealth Bank and by governmental organizations\
+  \ such as the U.S. Army Special Operations Command. In this episode, we discuss:\n• The essential components of a good strategy\n\
+  • The importance of coherence in strategy\n• Common pitfalls that create a bad strategy\n• How “power” plays into strategy,\
+  \ and common sources of power\n• The value of knowing history when developing effective strategies\n• Why a strategy should\
+  \ simply be called an “action agenda”\n• The need for one decider in an organization\n\n—\n\nBrought to you by:\n• CommandBar—AI-powered\
+  \ user assistance for modern products and impatient users: https://www.commandbar.com/lenny\n• Miro—A collaborative visual\
+  \ platform where your best work comes to life: https://miro.com/lenny\n• Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\
+  \nFind the transcript and references at: https://www.lennysnewsletter.com/p/good-strategy-bad-strategy-richard\n\nWhere\
+  \ to find Richard Rumelt:\n• Email: richard@generalimagination.com\n• LinkedIn: https://www.linkedin.com/in/richard-rumelt-18520828/\n\
+  • Website: https://thecruxbook.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Richard’s background \n(04:29)\
+  \ What is a strategy?\n(06:23) The essential components of a good strategy (the “kernel”)\n(15:04) An example of good strategy\n\
+  (16:55) Bad strategy \n(25:17) The importance of focus and power\n(28:19) Identifying and utilizing power \n(34:38) Types\
+  \ of power\n(41:13) Implementing power\n(48:15) The importance of historical knowledge \n(55:23) How to write an action\
+  \ agenda\n(01:02:47) The crux\n(01:10:40) Challenges to executing a strategy\n(01:15:44) The need for a decider \n(01:20:39)\
+  \ Strategy for startups \n(01:26:04) Richard’s “value denials” exercise\n(01:31:01) Closing thoughts\n(01:33:57) Lightning\
+  \ round\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 6557.0
 duration: '1:49:17'
 view_count: 96022

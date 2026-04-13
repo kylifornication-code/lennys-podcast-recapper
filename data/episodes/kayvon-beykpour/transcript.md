@@ -1,15 +1,99 @@
 ---
 guest: Kayvon Beykpour
-title: Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon
-  Beykpour
+title: Twitter’s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour
 youtube_url: https://www.youtube.com/watch?v=MKDnDueTvKk
 video_id: MKDnDueTvKk
 publish_date: 2024-04-28
-description: 'Kayvon Beykpour was the longest-serving head of product at Twitter and
-  was GM of Twitter’s consumer division until the platform was acquired by Elon Musk.
-  He originally joined Twitter in...
+description: 'Kayvon Beykpour was the longest-serving head of product at Twitter and was GM of Twitter’s consumer division
+  until the platform was acquired by Elon Musk. He originally joined Twitter in 2015 through the acquisition of his company,
+  Periscope, the largest live video streaming platform at the time. Periscope pioneered technology that inspired Instagram
+  Live, TikTok Live, Facebook Live, and other social networks’ expansion into video streaming. In our conversation, we discuss:
 
-  '
+  • The story of being let go from Twitter after Elon’s acquisition
+
+  • How he turned Twitter’s stagnant culture around
+
+  • Kayvon’s thoughts on the limitations of frameworks like Jobs to Be Done
+
+  • Why Periscope failed
+
+  • Advice for building consumer products
+
+  • When to copy, when to innovate
+
+
+  —
+
+
+  Brought to you by:
+
+  • Enterpret—Transform customer feedback into product growth: https://enterpret.com/lenny
+
+  • OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny
+
+  • Heap—Cross-platform product analytics that convert, engage, and retain customers: https://www.heap.io/lenny
+
+
+  Find the transcript and references at: https://www.lennysnewsletter.com/p/twitters-former-head-of-product-kayvon-beykpour
+
+
+  Where to find Kayvon Beykpour:
+
+  • X: https://twitter.com/kayvz
+
+  • LinkedIn: https://www.linkedin.com/in/kayvz/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Kayvon’s background
+
+  (04:31) Getting Elon up to speed at Twitter
+
+  (11:34) The story of being let go from Twitter after Elon’s acquisition
+
+  (21:09) Changing the product culture at Twitter
+
+  (29:44) Building the “hide replies” feature
+
+  (32:02) Sacred crows, taking bold bets, and reigniting growth
+
+  (34:28) Aquihires and their impact
+
+  (42:40) Tips for successful acquisitions and staffing
+
+  (47:00) The limitations of frameworks like JTBD
+
+  (53:20) Signs you’ve gone too far with a framework
+
+  (57:44) Lessons from building Periscope
+
+  (01:00:41) Reasons why Periscope failed
+
+  (01:07:24) The challenges of implementing video at Twitter
+
+  (01:12:05) Copying ideas in good taste
+
+  (01:17:58) How to get better at building consumer products
+
+  (01:19:51) What Kayvon is building
+
+  (01:20:31) Lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5727.0
 duration: '1:35:27'
 view_count: 18224

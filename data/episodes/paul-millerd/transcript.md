@@ -4,11 +4,45 @@ title: Redefining success, money, and belonging | Paul Millerd (The Pathless Pat
 youtube_url: https://www.youtube.com/watch?v=yFckwBtiCUM
 video_id: yFckwBtiCUM
 publish_date: 2023-11-19
-description: 'Paul Millerd spent several years working in strategy consulting and
-  on the “default path” before deciding to walk away to work on his own in 2017. His
-  book, The Pathless Path, chronicles...
-
-  '
+description: "Paul Millerd spent several years working in strategy consulting and on the “default path” before deciding to\
+  \ walk away to work on his own in 2017. His book, The Pathless Path, chronicles his own journey and deep dive into the history\
+  \ of work and has been read by more than 40,000 people. His podcast, The Pathless Path Podcast, highlights conversations\
+  \ with others following unconventional paths. He also runs the online training business StrategyU, helping people learn\
+  \ the skills of consulting without having to work in the industry. In our conversation, Paul shares:\n• An explanation of\
+  \ the “default path” and the “pathless path”\n• Signs you may be stuck on the default path\n• How to inch your way toward\
+  \ the pathless path\n• Why Paul suggests everyone should take a three-month sabbatical\n• Tips for embracing fear and betting\
+  \ on yourself\n• How to work through the fear of losing money and prestige\n\n—\n\nBrought to you by Sanity—The most customizable\
+  \ content layer to power your growth engine: https://www.sanity.io/lenny | Maui Nui Venison—The healthiest red meat on the\
+  \ planet delivered directly to your door: https://mauinuivenison.com/discount/LENNY?utm_medium=podcast&utm_source=show_notes&utm_campaign=lenny\
+  \ | Wix Studio—The web creation platform built for agencies: https://www.wix.com/studio?utm_source=Lennyspodcast&utm_medium=Podcastad&utm_campaign=SL\n\
+  \nFind the transcript for this episode and all past episodes at: https://www.lennyspodcast.com/episodes/. Today’s transcript\
+  \ will be live by 8 a.m. PT.\n\nWhere to find Paul Millerd:\n• X: https://twitter.com/p_millerd\n• LinkedIn: https://www.linkedin.com/in/paulmillerd/\n\
+  • Website: https://pathlesspath.com/\n• Podcast: https://think-boundless.com/podcast/\n• Newsletter: https://newsletter.pathlesspath.com\n\
+  • YouTube: https://www.youtube.com/channel/UCofS_FvauuHc-x6mq7yz6nA\n• Email: paul@strategyu.com\n\nWhere to find Lenny:\n\
+  • Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Paul’s background\n(04:33) An explanation of the “default path”\n(06:32) Questions\
+  \ to help clarify which path you are on\n(07:35) Paul’s thoughts on “remixing your path”\n(09:57) An explanation of the\
+  \ “pathless path” \n(12:06) Examples of the pathless path\n(13:54) Why meaning is hard to find and sustain on a traditional\
+  \ career path \n(16:05) A case for the three-month sabbatical \n(18:16) A mindfulness and self-reflection exercise\n(20:18)\
+  \ Why Paul recommends three months\n(22:28) Advice to founders on offering sabbaticals \n(23:40) Other tactics for self-discovery\n\
+  (27:08) The variability of income in self-employed roles \n(29:12) Methods for staying afloat after leaving your job\n(30:42)\
+  \ Tips for reframing your thoughts around money\n(33:19) Why betting on yourself usually works out\n(34:46) The importance\
+  \ of setting aside time for creative pursuits\n(36:22) How to dip your toes in and find your path \n(37:53) Lenny’s personal\
+  \ journey\n(39:27) Advice on dealing with the naysayers \n(40:22) How to acknowledge and tame your fears\n(44:52) The “ship,\
+  \ quit, and learn” framework\n(46:39) Why the pathless path is one of constant reinvention\n(51:27) Paul’s response to criticism \n\
+  (58:02) First steps for getting started on your journey\n(55:42) Lightning round\n\nReferenced:\n• The Pathless Path: Imagining\
+  \ a New Story for Work and Life: https://www.amazon.com/Pathless-Path-Imagining-Story-Work/dp/B09QF6Q421\n• David Autor\
+  \ on X: https://twitter.com/davidautor\n• Tim Ferriss’s blog: https://tim.blog/\n• Why you should define your fears instead\
+  \ of your goals | Tim Ferriss: https://www.youtube.com/watch?v=5J6jAC6XxAI\n• How Lenny Rachitsky Got 531,000 Substack Subscribers:\
+  \ https://www.youtube.com/watch?v=DMZem1NYfpM\n• The Lindy effect: https://en.wikipedia.org/wiki/Lindy_effect\n• StrategyU:\
+  \ https://strategyu.co/\n• David Deming’s website: https://www.daviddeming.com/nyt-columns\n• The Great Work of Your Life:\
+  \ A Guide for the Journey to Your True Calling: https://www.amazon.com/Great-Work-Your-Life-Journey/dp/0553386077\n• Wanting:\
+  \ The Power of Mimetic Desire in Everyday Life: https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488\n\
+  • Roadrunner: A Film About Anthony Bourdain: https://www.hbo.com/movies/roadrunner-a-film-about-anthony-bourdain\n• Nuna\
+  \ travel stroller: https://nunababy.com/usa/trvl-easy-fold-compact-stroller\n• Build Your Own Chatbot with OpenAI GPT-3\
+  \ and Streamlit: https://medium.com/@avra42/build-your-own-chatbot-with-openai-gpt-3-and-streamlit-6f1330876846\n\nProduction\
+  \ and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\n\
+  Lenny may be an investor in the companies discussed."
 duration_seconds: 3893.0
 duration: '1:04:53'
 view_count: 33073

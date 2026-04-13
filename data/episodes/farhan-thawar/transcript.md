@@ -1,15 +1,158 @@
 ---
 guest: Farhan Thawar
-title: How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of
-  Eng)
+title: How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)
 youtube_url: https://www.youtube.com/watch?v=C_lhMOjG7PE
 video_id: C_lhMOjG7PE
 publish_date: 2024-12-19
-description: 'Farhan Thawar is the head of engineering at Shopify, where he oversees
-  more than 1,000 engineers and a platform that powers over 10% of all U.S. e-commerce.
-  Before Shopify, he was VP of engineering...
+description: 'Farhan Thawar is the head of engineering at Shopify, where he oversees more than 1,000 engineers and a platform
+  that powers over 10% of all U.S. e-commerce. Before Shopify, he was VP of engineering at Pivotal Labs and Xtreme Labs, and
+  co-founder of Helpful.com. In our conversation, Farhan shares:
 
-  '
+  • Why choosing the harder path leads to better outcomes
+
+  • How to create intensity within your org (without burnout)
+
+  • Why every company should be embracing pair programming
+
+  • How he hires without interviewing
+
+  • How he built the world’s largest internship program
+
+  • His mission to create a “crafter’s paradise” for engineers
+
+  • Much more
+
+
+  —
+
+
+  Brought to you by:
+
+  • DX—A platform for measuring and improving developer productivity: https://getdx.com/lenny
+
+  • Persona—A global leader in digital identity verification: https://withpersona.com/lenny
+
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/how-shopify-builds-a-high-intensity-culture-farhan-thawar
+
+
+  Where to find Farhan Thawar:
+
+  • X: https://x.com/fnthawar
+
+  • LinkedIn: https://www.linkedin.com/in/fnthawar
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Farhan’s background
+
+  (05:38) Choosing the hard path
+
+  (09:37) Getting comfortable with looking dumb
+
+  (13:20) Lessons from working with visionaries
+
+  (19:19) Creating intensity in organizations
+
+  (22:06) The power of pair programming
+
+  (29:18) Shopify’s culture of intensity
+
+  (37:18) Meeting Armageddon: revolutionizing company meetings
+
+  (39:46) Reducing distractions
+
+  (41:10) Deleting 1M+ lines of code
+
+  (49:05) Three buckets of building
+
+  (57:45) Remote work and trust battery
+
+  (01:00:29) Finding stability in uncomfortable times
+
+  (01:03:14) Hiring philosophy
+
+  (01:11:41) Internship programs and co-op systems
+
+  (01:15:32) Lessons from managing 120 direct reports
+
+  (01:20:40) Failure corner
+
+  (01:27:46) Lightning round and closing thoughts
+
+
+  Referenced:
+
+  • The Steve Jobs quote about connecting dots: https://www.goodreads.com/quotes/463176-you-can-t-connect-the-dots-looking-forward-you-can-only
+
+  • Shopify: https://www.shopify.com/
+
+  • GitHub: https://github.com/
+
+  • Farhan’s “questions to ask” framework: https://x.com/fnthawar/status/1514193402828574721
+
+  • Palantir: https://www.palantir.com/
+
+  • Joe Liemandt: https://www.linkedin.com/in/liemandt
+
+  • Chamath Palihapitya: https://en.wikipedia.org/wiki/Chamath_Palihapitiya
+
+  • Xtreme Labs: https://www.xtremelabs.io
+
+  • Parkinson’s law: https://www.verywellmind.com/what-is-parkinsons-law-6674423
+
+  • Pair programming: https://dev.to/documatic/pair-programming-best-practices-and-tools-154j
+
+  • Cody Fauser on LinkedIn: https://www.linkedin.com/in/codyfauser
+
+  • How Shopify builds product: https://www.lennysnewsletter.com/p/how-shopify-builds-product
+
+  • Chaos Monkey: We look at Shopify’s new ‘culture of focus’: https://www.siliconrepublic.com/careers/shopify-chaos-monkey-meetings-culture-deann-evans
+
+  • Empowering devs with AI: How Shopify made GitHub Copilot core to its culture: https://www.youtube.com/watch?v=wVKBwcm5dbw&t=2318s
+
+  • Tobi Lütke of Shopify: Powering a Team with a ‘Trust Battery’: https://www.nytimes.com/2016/04/24/business/tobi-lutke-of-shopify-powering-a-team-with-a-trust-battery.html
+
+  • Brian Chesky’s new playbook: https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach
+
+  • Stop Being Deceived by Interviews When You’re Hiring: https://www.forbes.com/sites/forbesleadershipforum/2012/02/07/stop-being-deceived-by-interviews-when-youre-hiring/
+
+  • Shopify’s made the Life Story a major part of their interview: https://news.ycombinator.com/item?id=39294140
+
+  • Internships at Shopify: https://internships.shopify.com
+
+  • Nick Adams on LinkedIn: https://www.linkedin.com/in/nick-adams-32b28139
+
+  • React Native: https://reactnative.dev
+
+  • Swift: https://www.swift.org
+
+  • Acquired podcast: The Mark Zuckerberg interview: https://www.acquired.fm/episodes/the-mark-zuckerberg-interview
+
+  • The Power of Performance Reviews: Use This System to Become a Better Manager: https://review.firstround.com/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager
+
+  • Airbnb’s Vlad Loktev on embracing chaos, inquiry over advocacy, poking the bear, and “impact, impact, impact” (Partner
+  at Index Ventures, Airbnb GM/VP Product): https://www.lennysnewsletter.com/p/impact-impact-impact-vlad-loktev
+
+  ...References continued at: https://www.lennysnewsletter.com/p/how-shopify-builds-a-high-intensity-culture-farhan-thawar
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 6003.0
 duration: '1:40:03'
 view_count: 23570

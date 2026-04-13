@@ -1,13 +1,153 @@
 ---
 guest: Seth Godin
-title: Seth Godin's best tactics for building remarkable products, strategies, brands
-  and more
+title: Seth Godin's best tactics for building remarkable products, strategies, brands and more
 youtube_url: https://www.youtube.com/watch?v=UyWTDmDjNy4
 video_id: UyWTDmDjNy4
 publish_date: 2024-12-08
-description: Seth Godin is a legend. He’s a marketer, teacher, entrepreneur, and author
-  of more than 20 books, including Purple Cow, Permission Marketing, and Linchpin.
-  He also writes one of the most...
+description: 'Seth Godin is a legend. He’s a marketer, teacher, entrepreneur, and author of more than 20 books, including
+  Purple Cow, Permission Marketing, and Linchpin. He also writes one of the most popular and longest-running blogs in the
+  world (approaching publishing 10,000 in a row!) and continues to shape how we think about marketing, brand, product, and
+  creating lasting change in the world. In our conversation, we discuss:
+
+  • How to build remarkable products that spread
+
+  • The four critical strategic choices that determine your future
+
+  • How to develop good taste and high standards
+
+  • The role of tension in great strategy
+
+  • How Seth used Claude to write his newest book
+
+  • Much more
+
+
+  —
+
+
+  Brought to you by:
+
+  • DX—A platform for measuring and improving developer productivity: https://getdx.com/lenny
+
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+  • Paragon—Ship every SaaS integration your customers want: https://www.useparagon.com/lenny
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/seth-godins-tactics-for-building-remarkable-products
+
+
+  Where to find Seth Godin:
+
+  • Blog: http://seths.blog/
+
+  • LinkedIn: https://www.linkedin.com/in/sethgodin
+
+  • Website: https://www.sethgodin.com
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Seth’s background
+
+  (05:17) Understanding good taste and upholding high standards
+
+  (08:09) Become the best at whatever you do
+
+  (09:48) Seth’s journey as a product manager
+
+  (14:09) What people often get wrong when building products
+
+  (16:00) Building a brand in the age of AI
+
+  (19:04) Using AI to enhance writing
+
+  (22:40) Four critical elements for an effective strategy
+
+  (27:38)  The role of tension in strategy
+
+  (29:15) The concept of the purple cow
+
+  (33:11) "Safe is risky"
+
+  (34:56) The power of systems
+
+  (37:07) Better waves make better surfers
+
+  (38:10) Rebranding vs. re-logoing
+
+  (43:07) Empathetic leadership
+
+  (44:14) Conclusion and farewell
+
+
+  Referenced:
+
+  • Seth Godin on the Tim Ferriss Show: https://tim.blog/2024/03/20/seth-godin-3/
+
+  • Persuasive communication and managing up | Wes Kao (Maven, Seth Godin, Section4): https://www.lennysnewsletter.com/p/persuasive-communication-wes-kao
+
+  • Spinnaker: https://spinnaker.io
+
+  • Ray Bradbury: https://en.wikipedia.org/wiki/Ray_Bradbury
+
+  • Arthur C. Clarke: https://en.wikipedia.org/wiki/Arthur_C._Clarke
+
+  • Isaac Asimov: https://en.wikipedia.org/wiki/Isaac_Asimov
+
+  • Roger Zelazny: https://en.wikipedia.org/wiki/Roger_Zelazny
+
+  • Herbie Hancock: https://en.wikipedia.org/wiki/Herbie_Hancock
+
+  • Fahrenheit 451 (game): https://www.filfre.net/2013/09/fahrenheit-451-the-game/
+
+  • RTFM: https://en.wikipedia.org/wiki/RTFM#
+
+  • Intercom: https://www.intercom.com
+
+  • Claude: https://claude.ai
+
+  • ChatGPT: https://chatgpt.com
+
+  • Anthropic: https://www.anthropic.com
+
+  • Steam: https://store.steampowered.com
+
+  • P.F. Flyers: https://pfflyers.com
+
+  • Steve Blank’s website: https://steveblank.com
+
+  • Marissa Mayer on X: https://x.com/marissamayer
+
+  • Jaguar unveils new logo ahead of electric relaunch: https://www.bbc.com/news/articles/cgr0pw00n7qo
+
+  • IHOP Becomes IHOb, the International House of ... Burgers: https://www.npr.org/2018/06/11/618844977/ihop-becomes-ihob-the-international-house-of-burgers
+
+  • Oreo’s Super Bowl Power-Outage Tweet Was 18 Months in the Making: https://www.businessinsider.com/oreos-super-bowl-power-outage-tweet-was-18-months-in-the-making-2013-3
+
+  • Tesla’s New ‘Ludicrous Mode’ Makes the Model S a Supercar: https://www.wired.com/2015/07/teslas-new-ludicrous-mode-makes-model-s-supercar
+
+
+  Recommended books:
+
+  • This Is Strategy: Make Better Plans (Create a Strategy to Elevate Your Career, Community & Life): https://www.amazon.com/This-Strategy-Better-Elevate-Community/dp/B0D47T8S7N
+
+  • Purple Cow: Transform Your Business by Being Remarkable: https://www.amazon.com/Purple-Cow-New-Transform-Remarkable/dp/1591843170
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 2716.0
 duration: '45:16'
 view_count: 37826

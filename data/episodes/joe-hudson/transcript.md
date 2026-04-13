@@ -1,15 +1,139 @@
 ---
 guest: Joe Hudson
-title: How embracing your emotions will accelerate your career | Joe Hudson (Art of
-  Accomplishment)
+title: How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)
 youtube_url: https://www.youtube.com/watch?v=DYkE1gf37ts
 video_id: DYkE1gf37ts
 publish_date: 2024-08-08
-description: 'Joe Hudson is one of the most sought-after executive coaches in Silicon
-  Valley. He is the founder of Art of Accomplishment, a transformational coaching
-  program that has helped tens of thousands...
+description: 'Joe Hudson is one of the most sought-after executive coaches in Silicon Valley. He is the founder of Art of
+  Accomplishment, a transformational coaching program that has helped tens of thousands of people, including many tech executives
+  and founders from companies like Apple, OpenAI, and Google. His unique method of transformation comes from over 25 years
+  of exploring neurological, psychological, and spiritual traditions, tested against real-world challenges. In our conversation,
+  Joe shares:
 
-  '
+  • Why the critical voice in your head is always wrong, and how to change your relationship with that voice
+
+  • Why authenticity trumps self-improvement
+
+  • The importance of embracing all of your emotions
+
+  • How to create more enjoyable and effective meetings
+
+  • The power of gratitude in transforming your life
+
+  • Practical experiments for personal growth
+
+  • Much more
+
+
+  —
+
+
+  Apply for Joe’s Connection Course:
+
+  Thousands of students have taken Joe’s most popular experience, the Connection Course. Unlike most online courses, there
+  is no reading, lectures, or written homework. It is a three-week experiential deep dive where you will apply your learnings
+  to real-life problems—how to make your team more productive, communicate more effectively, and resolve conflicts with ease.
+  Apply here and use the code LENNY for $300 off your enrollment: https://www.view.life/lenny.
+
+
+  Brought to you by:
+
+  • BuildBetter—AI for product teams: https://buildbetter.ai/lenny
+
+  • WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny
+
+  • Coda—The all-in-one collaborative workspace: https://coda.io/lenny
+
+
+  Find the show notes and transcript at: https://www.lennysnewsletter.com/p/embracing-your-emotions-joe-hudson
+
+
+  Where to find Joe Hudson:
+
+  • X: https://x.com/FU_joehudson
+
+  • LinkedIn: https://www.linkedin.com/in/joe-hudson/
+
+  • Website: https://www.artofaccomplishment.com/
+
+  • Podcast: https://www.artofaccomplishment.com/podcast
+
+  • Linktree: https://linktr.ee/theartofaccomplishment
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Joe’s background
+
+  (02:31) The critical voice in your head
+
+  (06:39) Changing your relationship with the critical voice
+
+  (13:19) Understanding and embracing emotions
+
+  (19:52) The importance of emotional fluidity
+
+  (24:40) Questioning assumptions and self-perception
+
+  (30:25) The consequences of avoiding emotions
+
+  (36:57) Experimenting with self-improvement
+
+  (39:42) Understanding efficiency and enjoyment
+
+  (43:17) The power of enjoyment in daily tasks
+
+  (45:03) Innate enjoyment vs. learned enjoyment
+
+  (46:31) Authenticity vs. self-improvement
+
+  (50:01) Embracing emotional experiences
+
+  (55:49) How understanding your emotions helps you make better decisions
+
+  (01:02:53) Creating effective teams and meetings
+
+  (01:10:40) Gratitude practice for personal growth
+
+  (01:15:36) Conclusion and final thoughts
+
+
+  Referenced:
+
+  • Descartes’ Error: Emotion, Reason, and the Human Brain: https://www.amazon.com/Descartes-Error-Emotion-Reason-Human/dp/014303622X/
+
+  • Joe’s quote about joy: https://x.com/FU_joehudson/status/1756837774743790030
+
+  • “Emotional Inquiry”: https://www.artofaccomplishment.com/podcast/emotional-inquiry
+
+  • Inside Out 2: https://movies.disney.com/inside-out-2
+
+  • “Question the Assumption”: https://www.artofaccomplishment.com/podcast/question-the-assumption
+
+  • Bodega Bay: https://www.bodegabay.com/
+
+  • Elon Musk reveals the interview question he asks every candidate to instantly spot a liar: https://www.good.is/elon-musk-reveals-the-one-job-interview-question-he-asks-every-candidate-to-instantly-spot-a-liar
+
+  • Great Decisions course: https://www.artofaccomplishment.com/course/great-decisions-course
+
+  • HBR Analytic Services: https://hbr.org/hbr-analytic-services
+
+  • Connection Course: https://www.artofaccomplishment.com/course/the-connection-course
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4727.0
 duration: '1:18:47'
 view_count: 26945

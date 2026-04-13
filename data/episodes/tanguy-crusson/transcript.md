@@ -1,15 +1,34 @@
 ---
 guest: Tanguy Crusson
-title: Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of
-  Jira Product Discovery)
+title: Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)
 youtube_url: https://www.youtube.com/watch?v=cZqpqb5qR5A
 video_id: cZqpqb5qR5A
 publish_date: 2024-06-16
-description: 'Tanguy Crusson is the product lead for Jira Product Discovery at Atlassian.
-  In his more than 10 years at the company, he has been instrumental in taking several
-  new products from zero to one,...
-
-  '
+description: "Tanguy Crusson is the product lead for Jira Product Discovery at Atlassian. In his more than 10 years at the\
+  \ company, he has been instrumental in taking several new products from zero to one, including HipChat, Statuspage, and\
+  \ Jira Product Discovery. In this episode, we dive deep into the struggles of innovating and building new products inside\
+  \ a large company. Tanguy shares candid stories about what worked, what didn’t, and his many hard-won lessons learned about\
+  \ how to successfully build 0 to 1. We cover:\n• Why large companies with so many advantages still fail at creating new\
+  \ products\n• Lessons learned from building HipChat\n• How to avoid common pitfalls like competitive myopia and premature\
+  \ scaling\n• Lessons learned from the acquisition and integration of Statuspage\n• Insights from the success of Jira Product\
+  \ Discovery\n• Tactics for protecting your “ugly babies”\n• The power of “lighthouse users”\n• The importance of having\
+  \ a “why now”\n• Much more\n\n—\nBrought to you by:\n• Vanta—Automate compliance. Simplify security: Statuspage: a journey\
+  \ of perseverance\n• WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\n\
+  • Coda—The all-in-one collaborative workspace: https://coda.io/lenny\n\nFind the transcript at: https://www.lennysnewsletter.com/p/building-0-to-1-inside-atlassian-tanguy-crusson\n\
+  \nWhere to find Tanguy Crusson:\n• X: https://x.com/tanguycrusson\n• LinkedIn: https://www.linkedin.com/in/tanguy-crusson-99832a\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover\n(00:00) Tanguy’s background\n(02:30) Tanguy’s journey at Atlassian\n(07:03) The challenges\
+  \ of innovating in large companies\n(10:42) Atlassian's high bar for excellence \n(12:58) The HipChat story: successes,\
+  \ failures, and lessons learned\n(20:47) Lessons learned from building HipChat\n(33:49) Statuspage: a journey of perseverance\n\
+  (39:48) Acquisition challenges and lessons\n(47:22) Strategic decisions: build, buy, or partner?\n(48:17) Learning to articulate\
+  \ \"why now\"\n(54:08) A quick summary of lessons in this episode\n(55:40) The success and pain of launching Jira Product\
+  \ Discovery \n(58:10) Incubating new products: the Point A program\n(01:00:13) Failure is the most likely outcome\n(01:04:15)\
+  \ Atlassian's four-phase approach to launching new products\n(01:09:20) Breaking rules without breaking trust\n(01:16:16)\
+  \ Early success and team autonomy\n(01:17:22) Innovating without disrupting existing customers\n(01:23:17) The Lighthouse\
+  \ Users program\n(01:30:00) Protecting and nurturing new ideas\n(01:36:14) Balancing innovation with personal well-being\n\
+  (01:38:17) A reminder to look after yourself\n(01:42:06) Lightning round\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 6843.0
 duration: '1:54:03'
 view_count: 18833

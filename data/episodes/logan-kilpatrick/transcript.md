@@ -4,11 +4,43 @@ title: Inside OpenAI | Logan Kilpatrick (head of developer relations)
 youtube_url: https://www.youtube.com/watch?v=XkMbkWG2ca4
 video_id: XkMbkWG2ca4
 publish_date: 2024-02-08
-description: 'Logan Kilpatrick leads developer relations at OpenAI, supporting developers
-  building with the OpenAI API and ChatGPT. He is also on the board of directors at
-  NumFOCUS, the nonprofit organization...
-
-  '
+description: "Logan Kilpatrick leads developer relations at OpenAI, supporting developers building with the OpenAI API and\
+  \ ChatGPT. He is also on the board of directors at NumFOCUS, the nonprofit organization that supports open source projects\
+  \ like Jupyter, Pandas, NumPy, and more. Before OpenAI, Logan was a machine-learning engineer at Apple and advised NASA\
+  \ on open source policy. In our conversation, we discuss:\n• OpenAI’s fast-paced and innovative work environment\n• The\
+  \ value of high agency and high urgency in your employees\n• Tips for writing better ChatGPT prompts\n• How the GPT Store\
+  \ is doing\n• OpenAI’s planning process and decision-making criteria\n• Where OpenAI is heading in the next few years\n\
+  • Insight into OpenAI’s B2B offerings\n• Why Logan “measures in hundreds”\n\n—\n\nBrought to you by:\n• Hex—Helping teams\
+  \ ask and answer data questions by working together: https://www.hex.tech/lenny\n• Whimsical—The iterative product workspace:\
+  \ https://whimsical.com/lenny\n• Arcade Software—Create effortlessly beautiful demos in minutes: https://arcade.software/lenny\n\
+  \nFind the transcript and references at: https://www.lennysnewsletter.com/p/inside-openai-logan-kilpatrick-head\n\nWhere\
+  \ to find Logan Kilpatrick:\n• X: https://twitter.com/OfficialLoganK\n• LinkedIn: https://www.linkedin.com/in/logankilpatrick/\n\
+  • Website: https://logank.ai/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Logan’s background\n(03:49)\
+  \ The impact of recent events on OpenAI’s team and culture\n(08:20) Exciting developments in AI interfaces\n(09:52) Using\
+  \ OpenAI tools to make companies more efficient\n(13:04) Examples of using AI effectively \n(18:35) Prompt engineering\n\
+  (22:12) How to write better prompts\n(26:05) The launch of GPTs and the OpenAI Store\n(32:10) The importance of high agency\
+  \ and urgency\n(34:35) OpenAI’s ability to move fast and ship high-quality products\n(35:56) OpenAI’s planning process and\
+  \ decision-making criteria\n(40:22) The importance of real-time communication\n(42:33) OpenAI’s team and growth\n(44:47)\
+  \ Future developments at OpenAI\n(47:42) GPT-5 and building toward the future\n(50:38) OpenAI’s enterprise offering and\
+  \ the value of sharing custom applications\n(52:30) New updates and features from OpenAI\n(55:09) How to leverage OpenAI’s\
+  \ technology in products\n(58:26) Encouragement for building with AI\n(59:30) Lightning round\n\nReferenced:\n• OpenAI:\
+  \ https://openai.com/\n• Sam Altman on X: https://twitter.com/sama\n• Greg Brockman on X: https://twitter.com/gdb\n• tldraw:\
+  \ https://www.tldraw.com/\n• Harvey: https://www.harvey.ai/\n• Boost Your Productivity with Generative AI: https://hbr.org/2023/06/boost-your-productivity-with-generative-ai\n\
+  • Research: quantifying GitHub Copilot’s impact on developer productivity and happiness: https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/\n\
+  • Lesson learnt from the DPD AI Chatbot swearing blunder: https://www.linkedin.com/pulse/lesson-learnt-from-dpd-ai-chatbot-swearing-blunder-kitty-sz57e/\n\
+  • Dennis Yang on LinkedIn: https://www.linkedin.com/in/dennisyang/\n• Tim Ferriss’s blog: https://tim.blog/\n• Tyler Cowen\
+  \ on X: https://twitter.com/tylercowen\n• Tom Cruise on X: https://twitter.com/TomCruise\n• Canva: https://www.canva.com/\n\
+  • Zapier: https://zapier.com/\n• Siqi Chen on X: https://twitter.com/blader\n• Runway: https://runway.com/\n• Universal\
+  \ Primer: https://chat.openai.com/g/g-GbLbctpPz-universal-primer\n• “I didn’t expect ChatGPT to get so good” | Unconfuse\
+  \ Me with Bill Gates: https://www.youtube.com/watch?v=8-Ymdc6EdKw\n• Microsoft Azure: https://azure.microsoft.com/\n• Lennybot:\
+  \ https://www.lennybot.com/\n• Visual Electric: https://visualelectric.com/\n• DALL-E: https://openai.com/research/dall-e\n\
+  • The One World Schoolhouse: https://www.amazon.com/One-World-Schoolhouse-Education-Reimagined/dp/1455508373/ref=sr_1_1\n\
+  • Why We Sleep: Unlocking the Power of Sleep and Dreams: https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324\n\
+  • Gran Turismo: https://www.netflix.com/title/81672085\n• Gran Turismo video game: https://www.playstation.com/en-us/gran-turismo/\n\
+  • Manta sleep mask: https://mantasleep.com/products/manta-sleep-mask\n• WAOAW sleep mask: https://www.amazon.com/WAOAW-Sleep-Sleeping-Blocking-Blindfold/dp/B09712FSLY\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4087.0
 duration: '1:08:07'
 view_count: 18284

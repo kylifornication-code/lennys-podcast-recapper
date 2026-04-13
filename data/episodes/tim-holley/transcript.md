@@ -1,15 +1,37 @@
 ---
 guest: Tim Holley
-title: Inside Etsy’s product, growth, and marketplace evolution | Tim Holley (VP of
-  Product)
+title: Inside Etsy’s product, growth, and marketplace evolution | Tim Holley (VP of Product)
 youtube_url: https://www.youtube.com/watch?v=n4hRs2FsRug
 video_id: n4hRs2FsRug
 publish_date: 2023-09-03
-description: 'Tim Holley is VP of Product at Etsy where he leads the Etsy buyer experience.
-  With a tenure spanning more than a decade, Tim has seen the company through many
-  transitions (both in culture,...
-
-  '
+description: "Tim Holley is VP of Product at Etsy where he leads the Etsy buyer experience. With a tenure spanning more than\
+  \ a decade, Tim has seen the company through many transitions (both in culture, in leadership, and in growth), and his team’s\
+  \ product changes have had a significant impact on buyer retention, conversion, and global expansion. In this episode, we\
+  \ discuss:\n• Lessons from navigating corporate culture shifts\n• How Etsy capitalized on the explosive growth of e-commerce\
+  \ during the pandemic\n• Marketplace learnings: when to focus on supply vs. demand, optimizing conversion, and more\n• How\
+  \ Etsy solves the “graduation problem”\n• Tips for hiring product managers\n\n—\n\nBrought to you by Productroadmap.ai—AI\
+  \ to connect your roadmaps to revenue: https://productroadmap.ai  | Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\
+  \ | OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/inside-etsys-product-growth-and-marketplace\n\
+  \nWhere to find Tim Holley:\n• LinkedIn: https://www.linkedin.com/in/timholley/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • Twitter/X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we\
+  \ cover:\n(00:00) Tim’s background\n(04:23) Tim’s time away at SoulCycle and what led him back to Etsy\n(06:34) Lessons\
+  \ from the 2017 culture shift at Etsy\n(12:15) Etsy’s guiding principles \n(13:32) How Etsy adapted to increased demand\
+  \ during the early days of mask mandates\n(16:38) What Tim learned about managing stress with his team during the pandemic\n\
+  (18:46) Lessons from building a thriving marketplace\n(21:47) Prioritization at Etsy \n(24:37) Supply constraint vs. demand\
+  \ constraint \n(28:43) Conversion wins\n(33:27) Experimentation at Etsy\n(37:58) Acquisition and top-of-funnel tactics\n\
+  (39:44) The seller referral program \n(40:33) Etsy’s habit loop framework \n(44:11) How they set themselves apart from other\
+  \ marketplaces\n(51:23) Retaining sellers \n(53:23) The defunct Etsy studio\n(55:18) Running the product team\n(57:20) Who\
+  \ the decision maker is \n(1:01:20) What Tim looks for when hiring PMs \n(1:03:03) A reflection exercise Tim does with his\
+  \ teams\n(1:05:08) Lightning round\n\nReferenced:\n• Etsy: https://www.etsy.com/\n• SoulCycle: https://www.soul-cycle.com/\n\
+  • Inside the Revolution at Etsy: https://www.nytimes.com/2017/11/25/business/etsy-josh-silverman.html\n• Ronny Kohavi on\
+  \ Lenny’s Podcast: https://www.lennyspodcast.com/the-ultimate-guide-to-ab-testing-ronny-kohavi-airbnb-microsoft-amazon/\n\
+  • How to Kickstart and Scale a Marketplace Business – Part 3: https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace-911\n\
+  • Team of Teams: New Rules of Engagement for a Complex World: https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486\n\
+  • Let My People Go Surfing: The Education of a Reluctant Businessman: https://www.amazon.com/Let-People-Surfing-Education-Businessman-Including/dp/0143109677\n\
+  • The Power Broker: Robert Moses and the Fall of New York: https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245\n\
+  • Yellowstone on Paramount+: https://www.paramountnetwork.com/shows/yellowstone\n• Nara Baby app: https://naraorganics.com/nara-baby-tracker\n\
+  • Huckleberry app: https://huckleberrycare.com/\n\nProduction and marketing by https://penname.co/. For inquiries about\
+  \ sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4317.0
 duration: '1:11:57'
 view_count: 6820

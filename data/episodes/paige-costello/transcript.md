@@ -1,15 +1,36 @@
 ---
 guest: Paige Costello
-title: How to ask the right questions, project confidence, and win over skeptics |
-  Paige Costello (Asana)
+title: How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana)
 youtube_url: https://www.youtube.com/watch?v=N7S6nSmOsUI
 video_id: N7S6nSmOsUI
 publish_date: 2023-07-09
-description: 'Paige Costello is a beloved product leader with a reputation as a remarkable
-  coach and mentor. She is currently the Head of Core Product at Asana, where she
-  leads the group responsible for...
-
-  '
+description: "Paige Costello is a beloved product leader with a reputation as a remarkable coach and mentor. She is currently\
+  \ the Head of Core Product at Asana, where she leads the group responsible for Asana’s web, desktop, and mobile apps. Prior\
+  \ to that role, she served as the Director of Product at Intercom and, before that, as a Group PM at Intuit, where she kickstarted\
+  \ her product career through their renowned APM program. In today’s episode, we discuss:\n• The unique product development\
+  \ process at Asana and how it’s evolved\n• The double-diamond framework\n• Conscious leadership training, and why every\
+  \ Asana employee learns it\n• How to demonstrate confidence and earn trust from skeptics\n• Why curiosity and openness may\
+  \ be the most important PM competencies\n• How to give feedback using impact statements\n\n—\n\nBrought to you by Brave\
+  \ Search API—An independent, global search index you can use to power your search or AI app | Attio—The powerful, flexible\
+  \ CRM for fast-growing startups | Round—The private network built by tech leaders for tech leaders\n\nFind the full transcript\
+  \ at: https://www.lennysnewsletter.com/p/how-to-ask-the-right-questions-project\n\nWhere to find Paige Costello:\n• Twitter:\
+  \ https://twitter.com/paigenow\n• LinkedIn: https://www.linkedin.com/in/paigecostello/\n\nWhere to find Lenny:\n• Newsletter:\
+  \ https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Paige’s background\n(04:38) What Paige is responsible for at Asana\n(06:04) The evolution\
+  \ of Asana’s product development process\n(09:10) Planning frequency \n(11:26) Examples of areas and metric tracking at\
+  \ Asana\n(12:46) The double-diamond process and how it’s applied at Asana\n(16:53) Asana’s office-centric hybrid work culture\
+  \ and the future of WFH\n(21:45) How to garner trust and win over skeptics\n(24:45) Why you should befriend researchers\
+  \ \n(26:17) How to exude confidence \n(29:03) The 3Es framework\n(33:43) Advice for early-career PMs\n(38:43) Paige’s latest\
+  \ pillars strategy\n(40:05) AI at Asana\n(41:50) Lessons from Paige’s time at Intuit\n(45:53) Challenges new PMs face\n\
+  (48:55) Challenges Paige has faced in her career\n(52:39) Paige’s skill-focused career philosophy\n(55:43) Lightning round\n\
+  \nReferenced:\n• Use This Equation to Determine, Diagnose, and Repair Trust: https://review.firstround.com/use-this-equation-to-determine-diagnose-and-repair-trust\n\
+  • About conscious leadership at Asana: https://wavelength.asana.com/workstyle-simple-shift/\n• The 15 Commitments of Conscious\
+  \ Leadership: A New Paradigm for Sustainable Success: https://www.amazon.com/15-Commitments-Conscious-Leadership-Sustainable/dp/0990976904\n\
+  • Intuit: https://www.intuit.com/\n• Inspired: How to Create Tech Products Customers Love: https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507\n\
+  • The Blind Assassin: https://www.amazon.com/Blind-Assassin-Novel-Margaret-Atwood/dp/0385720955\n• The Alchemist: https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0062315005\n\
+  • The Diplomat on Netflix: https://www.netflix.com/title/81288983\n• Fire of Love on Disney+: https://www.disneyplus.com/movies/fire-of-love/1hC7erRfsl3B\n\
+  • Poe: https://poe.com/\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast,\
+  \ email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 3801.0
 duration: '1:03:21'
 view_count: 11309

@@ -1,15 +1,159 @@
 ---
 guest: Alex Komoroske
-title: 'Thinking like a gardener, slime mold, the adjacent possible: Product advice
-  from Alex Komoroske'
+title: 'Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske'
 youtube_url: https://www.youtube.com/watch?v=PoWRYBWSqpU
 video_id: PoWRYBWSqpU
 publish_date: 2024-10-03
-description: 'Alex Komoroske is a strategic leader who merges the practice, theory,
-  and mindset necessary to tackle complex problems. He spent 13 years at Google, where
-  he worked on Search and DoubleClick...
+description: 'Alex Komoroske is a strategic leader who merges the practice, theory, and mindset necessary to tackle complex
+  problems. He spent 13 years at Google, where he worked on Search and DoubleClick and led Chrome’s Open Web Platform. He
+  also spearheaded Augmented Reality in Google Maps and developed toolkits to align companywide strategy from the ground up.
+  After serving as Head of Corporate Strategy at Stripe, he is now co-founding a startup aimed at reimagining the web for
+  the AI era. Alex created the popular “Slime Molds” deck, which offers fresh insights into organizational dynamics. He is
+  also the author of the widely read “Bits and Bobs,” a collection of thought-provoking reflections.In our conversation, we
+  delve into:
 
-  '
+  • “Organizational kayfabe”
+
+  • “Gardening” vs. “building”
+
+  • How AI will soon change how we build product
+
+  • How and why to embrace the adjacent possible
+
+  • The power of reflection and how to build it into your workflow
+
+  • How to create emergent properties in organizations
+
+  • How to run effective “strategy salons” or “nerd clubs”
+
+  • Much more
+
+
+  —
+
+
+  Brought to you by:
+
+  • Eppo—Run reliable, impactful experiments: https://www.geteppo.com/
+
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+  • Coda—The all-in-one collaborative workspace: https://coda.io/lenny
+
+
+  Find the transcript at: https://www.lennysnewsletter.com/p/unconventional-product-advice-alex-komoroske
+
+
+  Where to find Alex Komoroske:
+
+  • X: https://x.com/komorama
+
+  • LinkedIn: https://www.linkedin.com/in/alex-komoroske-6597336/
+
+  • Website: https://www.komoroske.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Introduction to Alex
+
+  (01:53) Alex’s Bits and Bobs document
+
+  (06:20) The Compendium and note-taking process
+
+  (10:10) The impact of AI and LLMs on product development
+
+  (14:24) Skills to lean into as a product manager
+
+  (19:02) How AI makes us better as individuals
+
+  (23:04) Organizational kayfabe
+
+  (31:48) Gardening vs. building
+
+  (34:46) Emergence-oriented thinking
+
+  (41:55) Slime molds and organizational structure
+
+  (45:15) Identifying resonant ideas
+
+  (47:05) The power of metaphors
+
+  (48:02) Strategy salons and nerd clubs
+
+  (52:30) Building and sustaining communities
+
+  (55:59) Productivity hacks and self-control
+
+  (01:01:04) Life philosophy and personal insights
+
+  (01:07:52) The adjacent possible
+
+  (01:15:56) Lightning round
+
+
+  Referenced:
+
+  • Bits and Bobs Google Doc: https://groups.google.com/g/komoroske-updates/c/2rPJ9EyKVYY?pli=1
+
+  • The Compendium: https://thecompendium.cards/
+
+  • WebSim: https://websim.ai/
+
+  • Dylan Field live at Config: Intuition, simplicity, and the future of design: https://www.lennysnewsletter.com/p/dylan-field-live-at-config
+
+  • Anthropic: https://www.anthropic.com/
+
+  • Claude: https://claude.ai
+
+  • Steve Jobs on Why Computers Are Like a Bicycle for the Mind (1990): https://www.themarginalian.org/2011/12/21/steve-jobs-bicycle-for-the-mind-1990/
+
+  • Kayfabe: https://en.wikipedia.org/wiki/Kayfabe
+
+  • Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration: https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012
+
+  • How Perplexity builds product: https://www.lennysnewsletter.com/p/how-perplexity-builds-product
+
+  • Slime Molds: https://komoroske.com/slime-mold/
+
+  • Ken Stanley on LinkedIn: https://www.linkedin.com/in/kenneth-stanley-3a159b/
+
+  • Evolution through the Search for Novelty Alone: https://www.cs.swarthmore.edu/~meeden/DevelopmentalRobotics/lehman_ecj11.pdf
+
+  • Tim Urban’s X post on “idea lab” culture: https://x.com/waitbutwhy/status/1639003239801602049
+
+  • For self-control, “always” rules are better than “sometimes” rules: https://medium.com/@komorama/for-self-control-always-rules-are-better-than-sometimes-rules-4c38be32f318
+
+  • How to Stop Procrastinating on Your Goals by Using the “Seinfeld Strategy”: https://jamesclear.com/stop-procrastinating-seinfeld-strategy
+
+  • The Iterative Adjacent Possible: https://medium.com/@komorama/the-iterative-adjacent-possible-af3e7038357d
+
+  • “The Hallmark Card Fallacy” on Infinite Loops: https://www.youtube.com/shorts/7IgApdfBjNI
+
+  • Tim Urban’s website: https://waitbutwhy.com/
+
+  • Adnan Ahmad Sheikh’s post on LinkedIn: Happiness = Reality - Expectations (by Tim Urban): https://www.linkedin.com/pulse/happiness-reality-expectations-tim-urban-adnan-ahmad/
+
+  • The Origin of Wealth: The Radical Remaking of Economics and What It Means for Business and Society: https://www.amazon.com/Origin-Wealth-Remaking-Economics-Business/dp/1422121038
+
+  • Thinking in Systems: https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557
+
+  ...References continued at: https://www.lennysnewsletter.com/p/unconventional-product-advice-alex-komoroske
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5078.0
 duration: '1:24:38'
 view_count: 11775

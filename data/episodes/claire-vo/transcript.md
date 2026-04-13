@@ -1,15 +1,43 @@
 ---
 guest: Claire Vo
-title: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely,
-  ChatPRD)
+title: Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)
 youtube_url: https://www.youtube.com/watch?v=aXGo1o_baBo
 video_id: aXGo1o_baBo
 publish_date: 2024-04-07
-description: 'Claire Vo is the chief product officer at LaunchDarkly and the founder
-  of ChatPRD, likely the most popular PM-specific AI product out there. Before LaunchDarkly,
-  she was a longtime chief product...
-
-  '
+description: "Claire Vo is the chief product officer at LaunchDarkly and the founder of ChatPRD, likely the most popular PM-specific\
+  \ AI product out there. Before LaunchDarkly, she was a longtime chief product officer at Color and Optimizely. Claire has\
+  \ founded and managed two other companies, Pretty HQ and Experiment Engine, the latter of which Optimizely acquired in 2017.\
+  \ In our conversation, we discuss:\n• Knowing what you want in your career and being clear about it\n• Finding your zone\
+  \ of genius and how to operate within it\n• How to maintain a fast pace in larger companies\n• How to make it easy for your\
+  \ boss to help you achieve your goals\n• Advice for navigating the tech industry as a woman\n• The role of a CPTO and the\
+  \ benefits it brings to organizations\n• Why she built ChatPRD\n• Tips for building your own AI tools\n• The impact of AI\
+  \ on product management and what skills will continue to be important\n\n—\n\nBrought to you by:\n• Orb—The flexible billing\
+  \ engine for modern pricing: https://www.withorb.com/lenny\n• Dovetail—Bring your customer into every decision: https://dovetailapp.com/lenny\n\
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/bending-the-universe-in-your-favor\n\
+  \nWhere to find Claire Vo:\n• X: https://twitter.com/clairevo\n• LinkedIn: https://www.linkedin.com/in/clairevo/\n• TikTok:\
+  \ https://www.tiktok.com/@chiefproductofficer\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Claire’s background\n(04:50) How to achieve career progression\n(10:11) Avoiding promotion obsession\n(13:50) How\
+  \ Claire stepped into leadership roles\n(17:24) Operating in your zone of genius \n(23:03) How to maintain a fast pace\n\
+  (27:46) Setting a high bar for quality and talent\n(29:54) Normalizing feedback\n(33:09) Being a woman in tech\n(47:09)\
+  \ The role of a CPTO\n(54:19) Building ChatPRD\n(59:39) Tips for building a GPT\n(01:02:27) The impact of AI on product\
+  \ management\n(01:08:08) How AI is changing the product management role\n(01:14:36) Efficiency gains with ChatPRD\n(01:16:39)\
+  \ Contrarian corner: sales-led product organizations\n(01:20:11) Lightning round\n\nReferenced:\n• LaunchDarkly: https://launchdarkly.com/\n\
+  • Define your zone of genius: Laura Garnett at TEDxMillRiver: https://www.youtube.com/watch?v=gQ7_r2oWlrw\n• Energy Audit:\
+  \ https://beta.mocharymethod.com/blog-post/energy-audit\n• How to fire people with grace, work through fear, and nurture\
+  \ innovation | Matt Mochary: https://www.lennyspodcast.com/videos/how-to-fire-people-with-grace-work-through-fear-and-nurture-innovation-matt-mochary/\n\
+  • Radical Candor: From theory to practice with author Kim Scott: https://www.lennyspodcast.com/radical-candor-from-theory-to-practice-with-author-kim-scott/\n\
+  • Optimizely: https://www.optimizely.com/\n• GitLab: https://about.gitlab.com/\n• ChatPRD: https://www.chatprd.ai/\n• You\
+  \ should be playing with GPTs at work: https://www.lennysnewsletter.com/p/you-should-be-playing-with-gpts-at\n• SpaceX’s\
+  \ Starship: https://www.spacex.com/vehicles/starship/\n• GitHub Copilot: https://github.com/features/copilot\n• Product\
+  \ management theater | Marty Cagan (Silicon Valley Product Group): https://www.lennyspodcast.com/product-management-theater-marty-cagan-silicon-valley-product-group/\n\
+  • High Growth Handbook: Scaling Startups from 10 to 10,000 People: https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100\n\
+  • Scaling People: Tactics for Management and Company Building: https://www.amazon.com/Scaling-People-Tactics-Management-Building/dp/1953953212\n\
+  • Stripe Press: https://press.stripe.com/\n• Circe: https://www.amazon.com/Circe-Madeline-Miller/dp/0316556327\n• Poor Things:\
+  \ https://www.imdb.com/title/tt14230458/\n• Mythic Quest on AppleTV+: https://tv.apple.com/us/show/mythic-quest/umc.cmc.1nfdfd5zlk05fo1bwwetzldy3\n\
+  • Silicon Valley on HBO: https://www.hbo.com/silicon-valley\n• Chrysler Pacifica: https://www.chrysler.com/pacifica.html\n\
+  • Waymo: https://waymo.com/\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast,\
+  \ email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 5265.0
 duration: '1:27:45'
 view_count: 29347

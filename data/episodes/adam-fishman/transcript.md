@@ -1,15 +1,31 @@
 ---
 guest: Adam Fishman
-title: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect
-  Foods)
+title: How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)
 youtube_url: https://www.youtube.com/watch?v=wP8YyWH524A
 video_id: wP8YyWH524A
 publish_date: 2022-10-13
-description: 'Adam Fishman has decades of experience building and scaling some incredible
-  businesses, like Lyft, Patreon, and Imperfect Foods. He is currently an Executive
-  in Residence at Reforge and an...
-
-  '
+description: "Adam Fishman has decades of experience building and scaling some incredible businesses, like Lyft, Patreon,\
+  \ and Imperfect Foods. He is currently an Executive in Residence at Reforge and an advisor to numerous companies on growth,\
+  \ product, strategy, and company building. In today’s episode, Adam shares his growth PM competency model to help founders\
+  \ identify specific skills when hiring growth leaders, how to structure feedback, and how to identify gaps in your growth\
+  \ team. He also discusses the role of onboarding in retention and how to evaluate a company as a prospective employee.\n\
+  \nFind the full transcript here: https://www.lennysnewsletter.com/p/how-to-build-a-high-performing-growth\n\n—\n\nWhere\
+  \ to find Adam Fishman:\n\n• Twitter: https://twitter.com/fishmanaf\n• LinkedIn: https://www.linkedin.com/in/adamjfishman/\n\
+  • Website: https://www.adamfishman.com/\n• Adam’s newsletter: https://www.fishmanafnewsletter.com/\n\n—\n\nWhere to find\
+  \ Lenny:\n\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n—\n\nThank you to our wonderful sponsors for making this episode possible:\n\n• Linear: https://linear.app/lenny\n• Coda:\
+  \ http://coda.io/lenny\n• Eppo: https://www.geteppo.com/\n\n—\n\nReferenced:\n\n• Stream Super Pumped on Showtime: https://www.sho.com/super-pumped\n\
+  • Super Pumped: The Battle for Uber: https://www.amazon.com/Super-Pumped-Battle-Mike-Isaac/dp/0393652246\n•  HitRecord:\
+  \ https://hitrecord.org/\n• Adam’s growth competency model: https://www.reforge.com/blog/the-growth-competency-model\n•\
+  \ Adam’s LinkedIn series: https://www.linkedin.com/posts/adamjfishman_ive-now-published-my-complete-series-on-activity-6979198793992802305-VtCu/\n\
+  \n—\n\nIn this episode, we cover:\n\n(00:00) Adam’s background\n(06:16) Lyft’s launch press release \n(09:56) Adam’s newsletter\
+  \ and growth competency framework\n(10:34) Myths and mistakes founders make\n(15:12) The growth competency model \n(18:47)\
+  \ Customer knowledge and user psychology\n(21:23) Why strategy and communication are more advanced competencies\n(25:45)\
+  \ Why to hire a junior-level growth executive and how to support them\n(31:20) Why Adam skews toward internal hiring\n(33:25)\
+  \ Generalists vs. specialists\n(35:59) The importance of onboarding\n(41:49) Opinionated defaults \n(45:03) Balancing conversion\
+  \ and retention with successful onboarding\n(48:46) Guidelines for redesigning onboarding\n(52:22) The PMF criteria for\
+  \ candidates\n(57:57) What Adam would have done differently at Imperfect Foods\n\n—\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 3946.0
 duration: '1:05:46'
 view_count: 5411

@@ -4,11 +4,45 @@ title: 'AI prompt engineering in 2025: What works and what doesn’t | Sander Sc
 youtube_url: https://www.youtube.com/watch?v=eKuFqQKYRrA
 video_id: eKuFqQKYRrA
 publish_date: 2025-06-19
-description: 'Sander Schulhoff is the OG prompt engineer. He created the very first
-  prompt engineering guide on the internet (two months before ChatGPT’s release) and
-  recently wrote the most comprehensive...
-
-  '
+description: "Sander Schulhoff is the OG prompt engineer. He created the very first prompt engineering guide on the internet\
+  \ (two months before ChatGPT’s release) and recently wrote the most comprehensive study of prompt engineering ever conducted\
+  \ (co-authored with OpenAI, Microsoft, Google, Princeton, and Stanford), analyzing over 1,500 academic papers and covering\
+  \ more than 200 prompting techniques. He also partners with OpenAI to run what was the first and is the largest AI red teaming\
+  \ competition, HackAPrompt, which helps discover the most state-of-the-art prompt injection techniques (i.e. ways to get\
+  \ LLMS to do things it shouldn’t). Sander teaches AI red teaming on Maven, advises AI companies on security, and has educated\
+  \ millions of people on the most state-of-the-art prompt engineering techniques.\n\n*In this episode, you’ll learn:*\n1.\
+  \ The 5 most effective prompt engineering techniques\n2. Why “role prompting” and threatening the AI no longer works—and\
+  \ what to do instead\n3. The two types of prompt engineering: conversational and product/system prompts\n4. A primer on\
+  \ prompt injection and AI red teaming—including real jailbreak tactics that are still fooling top models\n5. Why AI agents\
+  \ and robots will be the next major security threat\n6. How to get started in AI red teaming and prompt engineering\n7.\
+  \ Practical defense to put in place for your AI products\n\n*Transcript:* https://www.lennysnewsletter.com/p/ai-prompt-engineering-in-2025-sander-schulhoff\n\
+  \n*Brought to you by:*\nEppo—Run reliable, impactful experiments: https://www.geteppo.com/\nStripe—Helping companies of\
+  \ all sizes grow revenue: https://stripe.com/\nVanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\n\
+  *Where to find Sander Schulhoff:*\n• X: https://x.com/sanderschulhoff\n• LinkedIn: https://www.linkedin.com/in/sander-schulhoff/\n\
+  • Website: https://sanderschulhoff.com/\n• AI Red Teaming and AI Security Masterclass on Maven: https://bit.ly/44lLSbC\n\
+  • Free Lightning Lesson “How to Secure Your AI System” on 6/24: https://bit.ly/4ld9vZL\n\n*Where to find Lenny:*\n• Newsletter:\
+  \ https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n*In this episode, we cover:*\n(00:00) Introduction to Sander Schulhoff\n(04:56) The importance of prompt engineering\n\
+  (09:01) Two modes for thinking about prompt engineering \n(12:02) Few-shot prompting\n(17:30) Prompting techniques to avoid\n\
+  (24:52) Decomposition\n(28:26) Self-criticism and context\n(40:29) Ensembling \n(45:59) Thought generation\n(48:23) Conversational\
+  \ vs. product-focused prompt engineering \n(51:56) Introduction to prompt injection and red teaming\n(53:37) AI red teaming\
+  \ competitions\n(55:23) The growing importance of AI security\n(01:03:39) Techniques to bypass AI safeguards\n(01:06:17)\
+  \ Challenges in AI security and future outlook\n(01:09:31) Common defenses to prompt injection that don't actually work\n\
+  (01:13:18) Defenses that do work\n(01:16:33) Misalignment and AI's potential risks\n(01:19:29) Are LLMs behaving maliciously?\n\
+  (01:26:05) Final thoughts and lightning round\n\n*Referenced:*\n• Reid Hoffman’s tweet about using AI agents: https://x.com/reidhoffman/status/1930416063616884822\n\
+  • AI Engineer World’s Fair: https://www.ai.engineer/\n• What Is Artificial Social Intelligence?: https://learnprompting.org/blog/asi\n\
+  • Devin: https://devin.ai/\n• Cursor: https://www.cursor.com/\n• The rise of Cursor: The $300M ARR AI tool that engineers\
+  \ can’t stop using | Michael Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell\n\
+  • Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder): https://www.lennysnewsletter.com/p/building-lovable-anton-osika\n\
+  • Inside Bolt: From near-death to ~$40m ARR in 5 months—one of the fastest-growing products in history | Eric Simons (founder\
+  \ & CEO of StackBlitz): https://www.lennysnewsletter.com/p/inside-bolt-eric-simons\n• Everyone’s an engineer now: Inside\
+  \ v0’s mission to create a hundred million builders | Guillermo Rauch (founder and CEO of Vercel, creators of v0 and Next.js):\
+  \ https://www.lennysnewsletter.com/p/everyones-an-engineer-now-guillermo-rauch\n• Technique #3: Examples in Prompts: From\
+  \ Zero-Shot to Few-Shot: https://learnprompting.org/docs/basics/few_shot?srsltid=AfmBOor2owyGXtzJZ8n0fJVCctM7UPZgZmH-mBuxRW4t9-kkaMd3LJVv\n\
+  • The Prompt Report: Insights from the Most Comprehensive Study of Prompting Ever Done: https://learnprompting.org/blog/the_prompt_report?srsltid=AfmBOoo7CRNNCtavzhyLbCMxc0LDmkSUakJ4P8XBaITbE6GXL1i2SvA0\n\
+  ...References continued at: https://www.lennysnewsletter.com/p/ai-prompt-engineering-in-2025-sander-schulhoff\n\n_Production\
+  \ and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5867.0
 duration: '1:37:47'
 view_count: 78637

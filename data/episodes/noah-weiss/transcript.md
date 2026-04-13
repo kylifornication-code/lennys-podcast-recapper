@@ -1,15 +1,48 @@
 ---
 guest: Noah Weiss
-title: The 10 traits of great PMs, AI, and Slack’s approach to product | Noah Weiss
-  (Slack, Google)
+title: The 10 traits of great PMs, AI, and Slack’s approach to product | Noah Weiss (Slack, Google)
 youtube_url: https://www.youtube.com/watch?v=XrRlVOWe5GE
 video_id: XrRlVOWe5GE
 publish_date: 2023-07-23
-description: 'Noah Weiss is Chief Product Officer at Slack, where he leads all aspects
-  of the product organization, including the self-service SMB business, the team that
-  launched huddles and clips, and...
-
-  '
+description: "Noah Weiss is Chief Product Officer at Slack, where he leads all aspects of the product organization, including\
+  \ the self-service SMB business, the team that launched huddles and clips, and the search and machine-learning teams. Prior\
+  \ to Slack, Noah served as SVP of Product at Foursquare. He started his career at Google, leading the structured data search\
+  \ team and working on display ads. In today’s episode, we discuss:\n• The top 10 traits of great PMs\n• How “complaint storms”\
+  \ helped Slack teams foster empathy\n• How Slack’s product team is approaching AI\n• “Comprehension desirability” and other\
+  \ key factors leading to Slack’s success\n• Why you should be customer-aware but not customer-obsessed\n• Important areas\
+  \ of growth for both new PMs and senior PMs\n\nCurious to learn more about Slack? You can try Slack Pro and get 50% off\
+  \ using this link.\n\n—\n\nBrought to you by Sidebar—Catalyze your career with a Personal Board of Directors | Superhuman—The\
+  \ fastest email experience ever made | Vanta—Automate compliance. Simplify security.\n\nFind the transcript at:  https://www.lennysnewsletter.com/p/the-10-traits-of-great-pms-how-ai\n\
+  \nWhere to find Noah Weiss:\n• Twitter: https://twitter.com/noah_weiss\n• LinkedIn: https://www.linkedin.com/in/noahw/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Noah’s background\n(04:22) Advice for\
+  \ new parents\n(07:23) Lessons learned from Foursquare\n(11:33) Working with strongly opinionated founders\n(14:14) Thinking\
+  \ of involvement on a U-shaped curve\n(16:53) Principles at Slack\n(19:32) Implementing ML, AI, and LLMs \n(25:11) How Slack\
+  \ structures AI teams\n(26:59) Complaint storms \n(30:01) Slack’s approach to prioritization \n(32:26) How delight is baked\
+  \ into the DNA of Slack\n(34:41) How Slack thinks about competition \n(38:04) Building a culture that takes big bets\n(41:40)\
+  \ Rituals at Slack\n(44:51) How Slack revived their self-serve business\n(52:01) Slack’s early success\n(58:08) Slack’s\
+  \ pilot programs for testing new features\n(1:02:03) Noah’s famous blog post: “The 10 Traits of Great Product Managers”\n\
+  (1:10:15) Book recommendations to improve your writing\n(1:12:30) Managing up and data fluency\n(1:14:54) The most important\
+  \ skills to improve as an early-career PM and as a senior PM\n(1:17:16) Lightning round\n\nReferenced:\n• Emily Oster: https://emilyoster.net/\n\
+  • Dennis Crowley: https://denniscrowley.com/\n• Stewart Butterfield on Twitter: https://twitter.com/stewart\n• Don’t Make\
+  \ Me Think, Revisited: A Common Sense Approach to Web Usability: https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515\n\
+  • Gustav Söderström on Lenny’s Podcast: https://www.lennyspodcast.com/lessons-from-scaling-spotify-the-science-of-product-taking-risky-bets-and-how-ai-is-already-impacting-the-future-of-music-gustav-soderstrom-co-president-cpo-and-cto-at-spotify/\n\
+  • Seth Godin: https://seths.blog/\n• Noah’s blog post on the 10 traits of great PMs: https://medium.com/@noah_weiss/10-traits-of-great-pms-a7776cd3d9cd\n\
+  • Five Dangerous Myths about Product Management: https://medium.com/@noah_weiss/five-dangerous-myths-about-product-management-d1d852ed02a2\n\
+  • Paul Graham: http://paulgraham.com/\n• Ben Horowitz on Twitter: https://twitter.com/bhorowitz\n• On Writing: A Memoir\
+  \ of the Craft: https://www.amazon.com/Writing-Memoir-Craft-Stephen-King/dp/1982159375\n• On Writing Well: The Classic Guide\
+  \ to Writing Nonfiction: https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548\n• Nobody Wants to Read\
+  \ Your Sh*t: And Other Tough-Love Truths to Make You a Better Writer: https://www.amazon.com/Nobody-Wants-Read-Your-Tough-Love/dp/1936891492\n\
+  • Several Short Sentences About Writing: https://www.amazon.com/Several-Short-Sentences-About-Writing/dp/0307279413\n• Paige\
+  \ Costello on Twitter: https://twitter.com/paigenow\n• Creative Selection: Inside Apple's Design Process During the Golden\
+  \ Age of Steve Jobs: https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250194466\n• The Innovator’s Dilemma:\
+  \ When New Technologies Cause Great Firms to Fail: https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780\n\
+  • Radical Candor: https://www.amazon.com/Radical-Candor-Revised-Kim-Scott/dp/1250258405\n• Leadership: In Turbulent Times:\
+  \ https://www.amazon.com/Leadership-Turbulent-Doris-Kearns-Goodwin/dp/1476795924\n• Succession on HBO: https://www.hbo.com/succession\n\
+  • The Bear on Hulu: https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f\n• Nanit: https://www.nanit.com/\n\
+  • Snoo: https://www.happiestbaby.com/products/snoo-smart-bassinet\n• Uppababy: https://uppababy.com/\n\nProduction and marketing\
+  \ by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be\
+  \ an investor in the companies discussed."
 duration_seconds: 5134.0
 duration: '1:25:34'
 view_count: 10335

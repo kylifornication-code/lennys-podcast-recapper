@@ -4,11 +4,38 @@ title: Leading with empathy | Keith Yandell (DoorDash, Uber)
 youtube_url: https://www.youtube.com/watch?v=tlCK9TuALtk
 video_id: tlCK9TuALtk
 publish_date: 2023-02-09
-description: 'Keith Yandell started at DoorDash as Chief Legal Officer and during
-  his tenure has also led the HR, Customer Support, Marketing, and now Corporate Development
-  teams. In today’s episode, we...
-
-  '
+description: "Keith Yandell started at DoorDash as Chief Legal Officer and during his tenure has also led the HR, Customer\
+  \ Support, Marketing, and now Corporate Development teams. In today’s episode, we talk about leadership, and how to lead\
+  \ with empathy. We dig into DoorDash’s unique culture and touch on the WeDash program, which requires every employee to\
+  \ complete four deliveries a year in order to better understand the customer experience. Keith shares his “How to Work with\
+  \ Keith” document and discusses the importance of openness in the workplace. He also gives some tips for founders on hiring,\
+  \ engaging with legal, and how to make big decisions when teams are competing for resources.\n\n—\n\nBrought to you by OneSchema—Import\
+  \ CSV data 10x faster: https://oneschema.co/lenny | Amplitude—Build better products: https://amplitude.com/ | Coda—Meet\
+  \ the evolution of docs: https://coda.io/lenny\n\nFind the full transcript here: https://www.lennyspodcast.com/leading-with-empathy-keith-yandell-doordash-uber/#transcript\n\
+  \nWhere to find Keith Yandell:\n• Twitter: https://twitter.com/kdyandell\n• LinkedIn: https://www.linkedin.com/in/keith-yandell-2a947432/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nReferenced:\n• Gokul Rajaram on Lenny’s Podcast: https://www.lennyspodcast.com/gokul-rajaram-on-designing-your-product-development-process-when-and-how-to-hire-your-first-pm-a-playbook-for-hiring-leaders-getting-ahead-in-you-career-how-to-get-started-angel-investing-more/\n\
+  • Ryan Sokol on LinkedIn: https://www.linkedin.com/in/ryan-sokol-00b2333/\n• Tony Xu on LinkedIn: https://www.linkedin.com/in/xutony/\n\
+  • About WeDash: https://doordash.news/culture/wedash-doordash-employee-program-how-does-it-work/\n•  Range: Why Generalists\
+  \ Triumph in a Specialized World: https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484\n•  How\
+  \ to be successful working with Keith doc: https://docs.google.com/document/d/12yTpBZFab6SPAruSpSD6CB_qLOu5L8kpQ4CCmX9pDx4/edit?mode=html\n\
+  • Kofi Amoo-Gottfried on LinkedIn: https://www.linkedin.com/in/kofi-amoo-gottfried-3802bb3/\n• Tia Sherringham on LinkedIn:\
+  \ https://www.linkedin.com/in/tiasherringham/\n• Amp It Up: Leading for Hypergrowth by Raising Expectations, Increasing\
+  \ Urgency, and Elevating Intensity: https://www.amazon.com/Amp-Unlocking-Hypergrowth-Expectations-Intensity/dp/1119836115\n\
+  • Ted Lasso’s quote on Twitter: https://twitter.com/TedLasso/status/1426932132417576967\n• Rajat Shroff on LinkedIn: https://www.linkedin.com/in/rajatshroff/\n\
+  • Micah Moreau on LinkedIn: https://www.linkedin.com/in/micahmoreau/\n\nIn this episode, we cover:\n(00:00) Keith’s background\
+  \ \n(03:41) The time Keith asked a potential hire if he was an asshole\n(06:39) DoorDash culture\n(08:40) The WeDash program\n\
+  (13:16) How Keith was able to lead so many different teams at DoorDash\n(16:08) Hiring the best experts and then getting\
+  \ out of their way\n(18:21) The “How to Work with Keith” document\n(21:52) How and why Keith helps his employees land new\
+  \ jobs\n(27:22) How he leverages empathy to unify board members\n(29:26) The importance of assigning a decision maker and\
+  \ a time horizon for the decision\n(31:15) One-on-ones with Keith, and the T3 B3 framework from Uber\n(33:12) How to encourage\
+  \ constructive criticism from employees\n(34:49) What it’s like to lead in tough times and why it can actually make your\
+  \ org stronger\n(37:42) How creating urgency compounds gains\n(39:11) IPO day at DoorDash\n(40:20) The characteristics of\
+  \ top founders\n(41:33) How the pandemic impacted DoorDash\n(44:40) Advice for new parents that is applicable in business \n\
+  (45:24) The difficulty of gaining funding\n(46:58) Advice for founders struggling with fundraising\n(48:02) How Keith developed\
+  \ a strong relationship with the VP of Product and Design\n(50:27) Building an effective BD team within a product company\n\
+  (52:36) How to engage with legal teams\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring\
+  \ the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 3351.0
 duration: '55:51'
 view_count: 7133

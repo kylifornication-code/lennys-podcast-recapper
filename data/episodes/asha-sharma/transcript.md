@@ -1,15 +1,152 @@
 ---
 guest: Asha Sharma
-title: 'How 80,000 companies build with AI: Products as organisms and the death of
-  org charts | Asha Sharma'
+title: 'How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma'
 youtube_url: https://www.youtube.com/watch?v=J9UWaltU-7Q
 video_id: J9UWaltU-7Q
 publish_date: 2025-08-28
-description: 'Asha Sharma leads AI product strategy at Microsoft, where she works
-  with thousands of companies building AI products and has unique visibility into
-  what’s working (and what’s not) across...
+description: 'Asha Sharma leads AI product strategy at Microsoft, where she works with thousands of companies building AI
+  products and has unique visibility into what’s working (and what’s not) across more than 15,000 startups and enterprises.
+  Before Microsoft, Asha was COO at Instacart, and VP of Product & Engineering at Meta, notably leading product for Messenger.
 
-  '
+
+  *What you’ll learn:*
+
+  1. Why we’re moving from “product as artifact” to “product as organism” and what this means for builders
+
+  2. Microsoft’s “seasons” planning framework that allows them to adapt quickly in the AI era
+
+  3. The death of the org chart: how agents are turning hierarchies into task networks and why “the loop, not the lane” is
+  the new organizing principle
+
+  4. Why post-training will soon see more investment than pre-training—and how to build your own AI moat with fine-tuning
+
+  5. Her prediction for the “agentic society”—where org charts become work charts and agents outnumber humans in your company
+
+  6. The three-phase pattern every successful AI company follows (and why most fail at phase one)
+
+  7. The rise of code-native interfaces and why GUIs might be going the way of the desktop
+
+  8. What Asha learned from Satya Nadella about optimism
+
+
+  *Brought to you by:*
+
+  Enterpret—Transform customer feedback into product growth: https://enterpret.com/lenny
+
+  DX—The developer intelligence platform designed by leading researchers: https://getdx.com/lenny
+
+  Fin—The #1 AI agent for customer service: https://fin.ai/lenny
+
+
+  *Transcript:* ⁠https://www.lennysnewsletter.com/p/how-80000-companies-build-with-ai-asha-sharma
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* ⁠https://www.lennysnewsletter.com/i/171413445/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Asha Sharma:*
+
+  • LinkedIn: https://www.linkedin.com/in/aboutasha/
+
+  • Blog: https://azure.microsoft.com/en-us/blog/author/asha-sharma/
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Asha Sharma
+
+  (04:18) From “product as artifact” to “product as organism”
+
+  (06:20) The rise of post-training and the future of AI product development
+
+  (09:10) Successful AI companies: patterns and pitfalls
+
+  (12:01) The evolution of full-stack builders
+
+  (14:15) “The loop, not the lane”—the new organizing principle
+
+  (16:24) The future of user interfaces: from GUI to code-native
+
+  (19:34) The rise of the agentic society
+
+  (22:58) The “work chart” vs. the “org chart”
+
+  (26:24) How Microsoft is using agents
+
+  (28:23) Planning and strategy in the AI landscape
+
+  (35:38) The importance of platform fundamentals
+
+  (39:31) Lessons from industry giants
+
+  (42:10) What’s driving Asha
+
+  (44:30) Reinforcement learning (RL) and optimization loops
+
+  (49:19) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Copilot: https://copilot.microsoft.com/
+
+  • Cursor: https://cursor.com/
+
+  • The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell
+
+  • Inside ChatGPT: The fastest growing product in history | Nick Turley (Head of ChatGPT at OpenAI): https://www.lennysnewsletter.com/p/inside-chatgpt-nick-turley
+
+  • GitHub: https://github.com
+
+  • Dragon Medical One: https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-medical-one
+
+  • Windsurf: https://windsurf.com/
+
+  • Building a magical AI code editor used by over 1 million developers in four months: The untold story of Windsurf | Varun
+  Mohan (co-founder and CEO): https://www.lennysnewsletter.com/p/the-untold-story-of-windsurf-varun-mohan
+
+  • Lovable: https://lovable.dev/
+
+  • Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder): https://www.lennysnewsletter.com/p/building-lovable-anton-osika
+
+  • Bolt: http://bolt.com
+
+  • Inside Bolt: From near-death to ~$40m ARR in 5 months—one of the fastest-growing products in history | Eric Simons (founder
+  and CEO of StackBlitz): https://www.lennysnewsletter.com/p/inside-bolt-eric-simons
+
+  • Replit: https://replit.com/
+
+  •Behind the product: Replit | Amjad Masad (co-founder and CEO): https://www.lennysnewsletter.com/p/behind-the-product-replit-amjad-masad
+
+  • He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor on the future of careers, coding, agents,
+  and more: https://www.lennysnewsletter.com/p/he-saved-openai-bret-taylor
+
+  • Sierra: https://sierra.ai/
+
+  • Spark: https://github.com/features/spark
+
+  • Peter Yang on X: https://x.com/petergyang
+
+  • How AI will impact product management: https://www.lennysnewsletter.com/p/how-ai-will-impact-product-management
+
+  ...References continued at: https://www.lennysnewsletter.com/p/how-80000-companies-build-with-ai-asha-sharma
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 3431.0
 duration: '57:11'
 view_count: 29562

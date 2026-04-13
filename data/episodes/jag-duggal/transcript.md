@@ -1,13 +1,110 @@
 ---
 guest: Jag Duggal
-title: Be fundamentally different, not incrementally better | Jag Duggal (Nubank,
-  Facebook, Google)
+title: Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)
 youtube_url: https://www.youtube.com/watch?v=8A7wXK2MncQ
 video_id: 8A7wXK2MncQ
 publish_date: 2024-05-16
-description: Jag Duggal is chief product officer at Nubank, a decacorn neobank founded
-  in Brazil. It’s valued at over $30 billion, is bigger than Coinbase, Robinhood,
-  Affirm, and SoFi combined, has 100...
+description: 'Jag Duggal is chief product officer at Nubank, a decacorn neobank founded in Brazil. It’s valued at over $30
+  billion, is bigger than Coinbase, Robinhood, Affirm, and SoFi combined, has 100 million customers (more than Bank of America!)
+  while only operating in three countries in Latin America, and 80% to 90% of its growth comes through word of mouth. Prior
+  to Nubank, Jag was a director of product management at Facebook, a senior vice president at Quantcast, and a product leader
+  at Google. In our conversation, we discuss:
+
+  • How Nubank builds a fanatical user base
+
+  • Tactics for driving word-of-mouth growth
+
+  • Measuring customer love through the Sean Ellis score
+
+  • The importance of strategic clarity
+
+  • The role of category design in creating successful products
+
+  • Why companies should strive to be “fundamentally different,” not “incrementally better”
+
+  • Nubank’s vision for an AI-powered banking future
+
+
+  —
+
+
+  Brought to you by:
+
+  • WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny
+
+  • Mercury—The powerful and intuitive way for ambitious companies to bank: https://mercury.com/
+
+  • OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny
+
+
+  Find the transcript and references at: https://www.lennysnewsletter.com/p/be-fundamentally-different-jag-duggal
+
+
+  Where to find Jag Duggal:
+
+  • LinkedIn: https://www.linkedin.com/in/jagduggal/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Jag’s background
+
+  (04:34) Nubank’s remarkable achievements
+
+  (06:01) Nubank’s product development process
+
+  (11:23) Nubank’s values
+
+  (12:16) Building products people love fanatically
+
+  (15:21) The Sean Ellis score
+
+  (21:27) An example project using the Sean Ellis score
+
+  (25:07) Picking up the phone and calling customers
+
+  (28:20) The importance of starting small and iterating
+
+  (30:42) Pushing back effectively
+
+  (34:10) Uncovering pain points through customer research
+
+  (37:53) An example of setting a clear hypothesis
+
+  (43:11) Developing a strategy
+
+  (52:16) “Be fundamentally different, not incrementally better”
+
+  (53:10) Category design
+
+  (57:37) Nubank’s founding story and goals for the future
+
+  (01:00:46) Advice for adding new product lines
+
+  (01:03:46) The future of fintech and banking
+
+  (01:09:23) AI corner
+
+  (01:12:34) Failure corner
+
+  (01:20:24) Key takeaways
+
+  (01:22:11) Lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5717.0
 duration: '1:35:17'
 view_count: 36332

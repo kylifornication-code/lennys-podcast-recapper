@@ -1,13 +1,37 @@
 ---
 guest: Dylan Field 2.0
-title: 'Dylan Field live at Figma''s Config: Intuition, simplicity, and the future
-  of design'
+title: 'Dylan Field live at Figma''s Config: Intuition, simplicity, and the future of design'
 youtube_url: https://www.youtube.com/watch?v=yJQYBjto41s
 video_id: yJQYBjto41s
 publish_date: 2024-06-30
-description: "Dylan Field is the co-founder and CEO of Figma, the collaborative design\
-  \ platform that has revolutionized how product teams work. \nIn my first-ever live\
-  \ podcast, recorded at Figma Config, Dylan..."
+description: "Dylan Field is the co-founder and CEO of Figma, the collaborative design platform that has revolutionized how\
+  \ product teams work. \nIn my first-ever live podcast, recorded at Figma Config, Dylan and I dig into:\n• How intuition\
+  \ and product taste drive Dylan’s decision-making\n• The challenge of keeping things simple\n• Dylan’s thoughts on the future\
+  \ of product management\n• Lessons from Figma’s early days\n• How Figma built their initial user base\n• Dylan’s journey\
+  \ from intern to CEO of a 1,000+-person company\n• The future of design tools and AI\n\n—\n\nBrought to you by:\n• WorkOS—Modern\
+  \ identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\n• Anvil—The fastest way to build\
+  \ software for documents: https://www.useanvil.com/lenny\n• User Testing—Human understanding. Human experiences: https://www.usertesting.com/lenny\
+  \ \n\nFind the transcript at: https://www.lennysnewsletter.com/p/dylan-field-live-at-config\n\nWhere to find Dylan Field:\n\
+  • X: https://x.com/zoink\n• LinkedIn: https://www.linkedin.com/in/dylanfield/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Introduction\n(01:11) Welcoming Dylan Field\n(02:36) Highlights and surprises from Config\n(06:58) The philosophy\
+  \ of design\n(08:01) Raccoon feet and muffin hands\n(09:57) Building and refining intuition and product taste\n(12:50) How\
+  \ to influence leadership\n(16:14) The role of product managers\n(21:12) The future of product management\n(22:20) The importance\
+  \ of simplicity in design\n(26:10) The long road to Figma’s launch\n(27:44) Advice for aspiring entrepreneurs\n(29:07) Knowing\
+  \ when it’s time to ship\n(30:39) Early user acquisition strategies\n(35:50) Spotting trends and future innovations\n(39:20)\
+  \ Reflections on leadership and growth\n(43:16) Lightning round\n\nReferenced:\n• Mihika Kapoor on LinkedIn: https://www.linkedin.com/in/mihikakapoor/\n\
+  • Rick Rubin on the Creative Act—60 Minutes: https://www.youtube.com/watch?v=sE1teB5bN-w\n• Figma pages: https://help.figma.com/hc/en-us/articles/360038511293-Create-and-manage-pages\n\
+  • Leading through uncertainty: A design-led company—Brian Chesky (Config 2023): https://www.youtube.com/watch?v=Dkfijg7s76o\n\
+  • An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma): https://www.lennysnewsletter.com/p/an-inside-look-at-how-figma-builds\n\
+  • Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product at Figma): https://www.lennysnewsletter.com/p/vision-conviction-hype-mihika-kapoor\n\
+  • An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire): https://www.lennysnewsletter.com/p/an-inside-look-at-figmas-unique-bottom\n\
+  • Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO): https://www.lennysnewsletter.com/p/lessons-from-30-years-of-building\n\
+  • Nadia Singer on LinkedIn: https://www.linkedin.com/in/nadiasinger/ \n• Sho Kuwamoto on LinkedIn: https://www.linkedin.com/in/shokuwamoto/\n\
+  • FigJam: https://www.figma.com/figjam/\n• Tim Van Damme on LinkedIn: https://www.linkedin.com/in/tim-van-damme-maxvoltar/\n\
+  • Coda: https://coda.io/\n• Shishir Mehrotra on LinkedIn: https://www.linkedin.com/in/shishirmehrotra/\n• Websim: https://websim.ai/\n\
+  • eToys.com commercial (from Dylan’s childhood acting career): https://www.youtube.com/watch?v=k3Y92aCmmbU\n\nProduction\
+  \ and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\n\
+  Lenny may be an investor in the companies discussed."
 duration_seconds: 2888.0
 duration: '48:08'
 view_count: 21341

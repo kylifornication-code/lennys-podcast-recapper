@@ -1,15 +1,127 @@
 ---
 guest: Sean Ellis
-title: The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking
-  Growth”)
+title: The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking Growth”)
 youtube_url: https://www.youtube.com/watch?v=VjJ6xcv7e8s
 video_id: VjJ6xcv7e8s
 publish_date: 2024-09-05
-description: 'Sean Ellis is one of the earliest and most influential thinkers and
-  operators in growth. He coined the term “growth hacking,” invented the ICE prioritization
-  framework, was one of the earliest...
+description: 'Sean Ellis is one of the earliest and most influential thinkers and operators in growth. He coined the term
+  “growth hacking,” invented the ICE prioritization framework, was one of the earliest people to use freemium as a growth
+  lever, and, most famously, developed the Sean Ellis Test for product-market fit (which a large percentage of founders use
+  today to track if they’ve found PMF). Over the course of his career, Sean was head of growth at Dropbox and Eventbrite;
+  helped companies like Microsoft and Nubank refine their growth strategy; was on the founding team of LogMeIn, which sold
+  for over $4 billion; and is the author of one of the most popular growth books of all time, Hacking Growth, which has sold
+  over 750,000 copies. In our conversation, he shares:
 
-  '
+  • The proper use of the Sean Ellis Test for measuring product-market fit
+
+  • How to increase your activation and retention rates
+
+  • How to select the right North Star metric for your business
+
+  • Case studies from his work growing Dropbox and other products
+
+  • How growth strategy has changed over the past decade
+
+  • How AI is impacting growth efforts
+
+  • Much more
+
+
+  —
+
+
+  Brought to you by:
+
+  • Gamma—A new way to present, powered by AI: https://gamma.app/
+
+  • CommandBar—AI-powered user assistance for modern products and impatient users: https://www.commandbar.com/lenny
+
+  • Merge—A single API to add hundreds of integrations into your app: https://merge.dev/sponsorships/lennys-podcast?utm_campaign=Lennys_Podcast
+  Q3 2022&utm_source=lenny&utm_medium=podcast
+
+
+  Find the transcript and show notes at: https://www.lennysnewsletter.com/p/the-original-growth-hacker-sean-ellis
+
+
+  Where to find Sean Ellis:
+
+  • X: https://x.com/seanellis
+
+  • LinkedIn: https://www.linkedin.com/in/seanellis/
+
+  • Website: https://www.seanellis.me/
+
+  • Substack: https://substack.com/@seanellis
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Sean’s background
+
+  (02:18) The Sean Ellis test explained
+
+  (06:28) The 40% rule
+
+  (08:06) Case study: improving product-market fit
+
+  (12:34) Understanding and leveraging customer feedback
+
+  (16:50) Challenges and nuances of product-market fit
+
+  (22:22) When to use the Sean Ellis Test
+
+  (23:46) When not to use the Sean Ellis Test and other caveats
+
+  (27:13) Defining your own threshold and how the Sean Ellis Test came about
+
+  (36:13) Tools for implementing the survey 
+
+  (37:30) Transitioning from surveys to retention cohorts
+
+  (39:13) Nubank’s approach
+
+  (40:18) Case study: Superhuman’s strategy for increasing product-market fit
+
+  (45:18) Coining the term “growth hacking”
+
+  (48:24) How to approach growth
+
+  (57:25) Improving activation and onboarding
+
+  (01:05:17) Identifying effective growth channels
+
+  (01:10:28) The power of customer conversations
+
+  (01:12:43) Developing the Dropbox referral program
+
+  (01:14:47) The importance of word of mouth
+
+  (01:15:23) Freemium models and engagement
+
+  (01:19:21) Picking a North Star metric
+
+  (01:24:30) The evolution of growth strategies
+
+  (01:27:12) The ICE and RICE frameworks
+
+  (01:30:11) AI’s role in growth and experimentation
+
+  (01:32:52) Final thoughts and lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 6266.0
 duration: '1:44:26'
 view_count: 38230

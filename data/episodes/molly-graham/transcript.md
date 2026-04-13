@@ -1,15 +1,152 @@
 ---
 guest: Molly Graham
-title: '“I like being scared”: Molly Graham’s frameworks for rapid career growth |
-  Molly Graham'
+title: '“I like being scared”: Molly Graham’s frameworks for rapid career growth | Molly Graham'
 youtube_url: https://www.youtube.com/watch?v=twzLDx9iers
 video_id: twzLDx9iers
 publish_date: 2026-01-04
-description: 'Molly Graham has worked for some of tech’s most effective leaders, including
-  Mark Zuckerberg, Sheryl Sandberg, Chamath Palihapitiya, and Bret Taylor. Today she
-  leads Glue Club, a community...
+description: 'Molly Graham has worked for some of tech’s most effective leaders, including Mark Zuckerberg, Sheryl Sandberg,
+  Chamath Palihapitiya, and Bret Taylor. Today she leads Glue Club, a community for leaders navigating rapid scale, growth,
+  and change. She’s best known for her “Give away your Legos” framework and her collection of practical mental models for
+  leading through hypergrowth.
 
-  '
+
+  *We discuss:*
+
+  1. “Give away your Legos”: a framework for scaling yourself as a leader
+
+  2. “J-curves vs. stairs”: the two paths of career growth, and why you should pick the scarier path
+
+  3. “The waterline model” for diagnosing team problems (and why you should “snorkel before you scuba”)
+
+  4. Six rules for creating effective goals (and aligning everyone around them)
+
+  5. Rules of thumb for leading through rapid scale and change
+
+  6. Her biggest leadership lessons from Mark Zuckerberg, Sergey Brin, Larry Page, Sheryl Sandberg, and Bret Taylor
+
+
+  *Brought to you by:*
+
+  DX—The developer intelligence platform designed by leading researchers: https://getdx.com/lenny
+
+  Brex—The banking solution for startups: https://www.brex.com/product/business-account?ref_code=bmk_dp_brand1H25_ln_new_fs
+
+  GoFundMe Giving Funds—Make helping a habit: http://gofundme.com/lenny
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/the-high-growth-handbook-molly-graham
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/182877855/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Molly Graham:*
+
+  • X: https://x.com/molly_g
+
+  • LinkedIn: https://www.linkedin.com/in/mograham
+
+  • Substack: https://mollyg.substack.com
+
+  • Website: https://glueclub.com
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Molly Graham
+
+  (04:28) Molly’s background at Google, Facebook, Quip, and CZI
+
+  (11:29) The “Give away your Legos” framework
+
+  (16:44) Managing your inner monster
+
+  (19:49) When not to give away your Legos
+
+  (21:28) Embracing a long career
+
+  (23:25) The J-curve vs. stairs approach to career growth
+
+  (32:00) The gift of knowing yourself
+
+  (34:28) Learning to be a professional idiot
+
+  (38:30) The waterline model: snorkel before you scuba
+
+  (47:16) Six rules for creating strong alignment around goals
+
+  (57:15) Rules of thumb for leading through rapid scale
+
+  (01:07:49) Investing in high performers vs. low performers
+
+  (01:10:54) Lessons from Zuckerberg, Sandberg, and Bret Taylor
+
+  (1:21:15) Pivoting from ambition to purpose
+
+  (1:26:32) Finding stability in instability
+
+  (01:29:44) Final thoughts
+
+
+  *Referenced:*
+
+  • Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG): https://www.lennysnewsletter.com/p/authenticity-and-curiosity-ami-vora
+
+  • Sheryl Sandberg on LinkedIn: https://www.linkedin.com/in/sheryl-sandberg-5126652
+
+  • Elliot Schrage on LinkedIn: https://www.linkedin.com/in/elliotschrage
+
+  • Quip: https://quip.com
+
+  • He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor on the future of careers, coding, agents,
+  and more: https://www.lennysnewsletter.com/p/he-saved-openai-bret-taylor
+
+  • Chan Zuckerberg Initiative: https://chanzuckerberg.com
+
+  • 10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling): https://www.lennysnewsletter.com/p/10-contrarian-leadership-truths
+
+  • ‘Give Away Your Legos’ and Other Commandments for Scaling Startups: https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups
+
+  • The Muppets: https://muppets.disney.com
+
+  • Sara Caldwell on LinkedIn: https://www.linkedin.com/in/saramcaldwell
+
+  • J-Curves vs. Stairs: Two Approaches to Career Growth: https://mollyg.substack.com/p/j-curve
+
+  • Forget the corporate ladder—winners take risks: https://www.ted.com/talks/molly_graham_forget_the_corporate_ladder_winners_take_risks
+
+  • Chamath Palihapitiya on LinkedIn: https://www.linkedin.com/in/chamath
+
+  • Lori Goler on LinkedIn: https://www.linkedin.com/in/lori-goler-6b96921
+
+  • Joseph Campbell’s quote: https://www.goodreads.com/quotes/192665-the-cave-you-fear-to-enter-holds-the-treasure-you
+
+  • Zevi Arnovitz on LinkedIn: https://www.linkedin.com/in/zev-arnovitz
+
+  • Peopling 101: The Waterline Model: https://christinehaskell.com/blog/peopling-101-the-waterline-model
+
+  • Introduction to NVC: https://www.cnvc.org/learn/what-is-nvc
+
+  • I hate OKRs... and other thoughts about goal setting: https://mollyg.substack.com/p/i-hate-okrs-and-other-thoughts-about
+
+  ...References continued at: https://www.lennysnewsletter.com/p/the-high-growth-handbook-molly-graham
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5517.0
 duration: '1:31:57'
 view_count: 20808

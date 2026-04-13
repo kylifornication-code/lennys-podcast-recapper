@@ -1,15 +1,144 @@
 ---
 guest: Camille Hearst
-title: Monetizing passions, scaling marketplaces, and stories from a creator economy
-  vet | Camille Hearst
+title: Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst
 youtube_url: https://www.youtube.com/watch?v=oB-BjEjxHNw
 video_id: oB-BjEjxHNw
 publish_date: 2023-08-20
-description: 'Camille Hearst is Head of Fan Monetization at Spotify, where she finds
-  new ways for fans to connect and for artists to monetize. Previously she was Head
-  of Product for Creators at Patreon,...
+description: 'Camille Hearst is Head of Fan Monetization at Spotify, where she finds new ways for fans to connect and for
+  artists to monetize. Previously she was Head of Product for Creators at Patreon, Product Marketing Manager at YouTube, the
+  second Product Manager at iTunes, and VP of Product at Hailo. She also co-founded a company called Kit, which was acquired
+  by Patreon in 2018. In today’s podcast, we discuss:
 
-  '
+  • Advice on building a successful career as a creator
+
+  • Her take on the future of the creator economy
+
+  • The best and worst parts of building products for music artists
+
+  • What Apple product teams do differently
+
+  • The story of meeting Steve Jobs
+
+  • Advice for founders going through acquisitions
+
+
+  —
+
+
+  Brought to you by Merge—A single API to add hundreds of integrations into your app: https://merge.dev/sponsorships/lennys-podcast?utm_campaign=Lennys_Podcast
+  | Coda—Meet the evolution of docs: https://coda.io/lenny | Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+
+  Find the full transcript at: https://www.lennysnewsletter.com/p/monetizing-passions-scaling-marketplaces
+
+
+  Where to find Camille Hearst:
+
+  • Twitter/X: https://twitter.com/camillionz
+
+  • LinkedIn: https://www.linkedin.com/in/chearst/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter/X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Camille’s background
+
+  (04:24) Camille’s role as Head of Fan Monetization at Spotify
+
+  (07:40) The best and worst parts of working with artists
+
+  (14:15) Trends in the content creation world
+
+  (19:29) Advice on building a successful career as a creator
+
+  (21:32) The importance of content curators
+
+  (22:30) Camille’s startup, Kit 
+
+  (24:49) Advice on selling your startup
+
+  (28:28) The supply side of marketplaces
+
+  (34:37) How Camille became the second PM at iTunes 
+
+  (35:43) The story of meeting Steve Jobs
+
+  (43:01) Apple’s style of product management
+
+  (45:54) Opportunities on the platform side of content creation
+
+  (48:34) Camille’s early years growing up in a creative tech family
+
+  (53:45) Favorite frameworks
+
+  (52:32) Lightning round
+
+
+  Referenced:
+
+  • Adam Fishman on Lenny’s Podcast: https://www.lennyspodcast.com/how-to-build-a-high-performing-growth-team-adam-fishman-patreon-lyft-imperfect-foods/
+
+  • The Federal Reserve says Taylor Swift’s Eras Tour boosted the economy. One market research firm estimates she could add
+  $5 billion: https://www.cbsnews.com/news/taylor-swift-eras-tour-boosted-economy-tourism-federal-reserve-how-much-money-made/
+
+  • Yelp coins the “Beyoncé bump” for the economic halo created by the pop star’s Renaissance Tour: https://fortune.com/2023/07/19/beyonce-renaissance-tour-economic-impact/
+
+  • Lenny Bot: https://www.lennybot.com/
+
+  • YouTube streamer faces riot charge after Union Square Park erupts in chaos: https://www.nytimes.com/2023/08/04/nyregion/union-square-kai-cenat-twitch-giveaway.html
+
+  • Michelle Phan on YouTube: https://www.youtube.com/MICHELLEPHA
+
+  • Rover: https://www.rover.com/
+
+  • Airbnb’s product management shift: the view from product leaders: https://www.mindtheproduct.com/airbnbs-product-management-shift-the-viewpoint-of-product-leaders/#
+
+  • Hiroki Asai on LinkedIn: https://www.linkedin.com/in/hiroki-asai-a44137110/
+
+  • The Really Good Podcast: https://podcasts.apple.com/us/podcast/the-really-good-podcast/id1697794816
+
+  • Nichiren Buddhism: https://www.bbc.co.uk/religion/religions/buddhism/subdivisions/nichiren_1.shtml
+
+  • What’s Love Got to Do with It on Hulu: https://www.hulu.com/movie/whats-love-got-to-do-with-it-f996a307-ee91-4550-8829-3694f55e0189
+
+  • Marty Cagan on Lenny’s Podcast: https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/
+
+  • Why you should eat the frog first: https://asana.com/resources/eat-the-frog
+
+  • Draw the owl: https://review.firstround.com/draw-the-owl-and-other-company-values-you-didnt-know-you-should-have
+
+  • The Three-Body Problem: https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032
+
+  • Kindred: https://www.amazon.com/Kindred-Octavia-Butler/dp/0807083690
+
+  • A Wrinkle in Time: https://www.amazon.com/Wrinkle-Time-Quintet/dp/0312367546/
+
+  • Foundation on AppleTV+: https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3
+
+  • Battlestar Galactica on SyFy: https://www.syfy.com/battlestar-galactica
+
+  • Hijack on AppleTV+: https://tv.apple.com/us/show/hijack/umc.cmc.1dg08zn0g3zx52hs8npoj5qe3
+
+  • Shadow and Bone on Netflix: https://www.netflix.com/title/80236319
+
+  • Afrobeats playlist on Spotify: https://open.spotify.com/playlist/37i9dQZF1EQqFPe2ux3rbj
+
+  • “Calm Down” by Rema on Spotify: https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 3822.0
 duration: '1:03:42'
 view_count: 4752

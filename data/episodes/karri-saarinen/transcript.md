@@ -1,15 +1,43 @@
 ---
 guest: Karri Saarinen
-title: 'Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder,
-  designer, CEO)'
+title: 'Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)'
 youtube_url: https://www.youtube.com/watch?v=4muxFVZ4XfM
 video_id: 4muxFVZ4XfM
 publish_date: 2023-10-08
-description: 'Karri Saarinen is the co-founder and CEO of Linear, an issue-tracking
-  tool that has quickly become the fastest-growing and most beloved in the world.
-  Before Linear, Karri was the principal...
-
-  '
+description: "Karri Saarinen is the co-founder and CEO of Linear, an issue-tracking tool that has quickly become the fastest-growing\
+  \ and most beloved in the world. Before Linear, Karri was the principal designer and co-creator of design systems at Airbnb\
+  \ and the founding designer at Coinbase. In today’s episode, he shares:\n• How to prioritize craft in product development\n\
+  • The Linear method for modern software development\n• How Linear operates with only one PM\n• Why every product needs good\
+  \ design in 2023\n• Strategies for staying focused amid distractions\n• Linear’s unique hiring strategies\n• Sneak peek\
+  \ of a soon-to-be-released Linear feature\n\n—\n\nBrought to you by Mercury—the powerful and intuitive way for ambitious\
+  \ companies to bank: https://mercury.com/ | Composer—the AI-powered trading platform: https://www.composer.trade/?utm_source=lenny&utm_medium=podcast&utm_campaign=10-8-23\
+  \ | Pendo—The all-in-one platform for product-led companies building breakthrough digital experiences: https://www.pendo.io/lenny\n\
+  \nFind the full transcript at: https://www.lennysnewsletter.com/p/inside-linear-building-with-taste\n\nWhere to find Karri\
+  \ Saarinen:\n• X: https://twitter.com/karrisaarinen\n• LinkedIn: https://www.linkedin.com/in/karrisaarinen/\n• Website:\
+  \ https://karrisaarinen.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Karri’s background\n(04:25)\
+  \ Overview of Linear\n(06:43) Linear’s design process and its focus on quality\n(12:25) Building a craft-oriented company\n\
+  (16:41) Product management at Linear\n(18:37) Strategies for launching a startup without a dedicated PM\n(21:16) How Linear\
+  \ assists PMs in their roles\n(23:46) Linear’s potential expansion in PM roles\n(24:58) The importance of design \n(29:08)\
+  \ Utilizing design and brand as distinct competitive advantages\n(30:48) The importance of authenticity in branding and\
+  \ messaging\n(33:08) How design reviews are conducted at Linear\n(38:34) The Linear method for modern software development \n\
+  (40:07) Why productivity software should be opinionated\n(41:23) Why Linear created “cycles” and how it works\n(43:27) Why\
+  \ Linear doesn’t have metric-based goals\n(45:07) How a business can thrive without metrics, PMs, and A/B testing\n(48:04)\
+  \ A customer-focused approach to building product\n(50:02) Adapting strategies for diverse products and domains\n(53:05)\
+  \ Three techniques Karri uses to maintain focus\n(56:47) Linear’s hiring practices \n(1:02:10) Paid work trials \n(1:04:31)\
+  \ How to determine a candidate’s “product sense” \n(1:08:21) Linear’s growth journey and milestones\n(1:14:18) How pricing\
+  \ strategies were initially introduced at Linear\n(1:16:18) Linear’s journey to finding product-market fit\n(1:21:44) The\
+  \ importance of online presence and authenticity in business\n(1:24:59) Insight into the corporate culture at Linear\n(1:28:29)\
+  \ Lessons learned during Karri’s transition from IC to CEO\n(1:30:21) Sneak peek into the upcoming “asks” feature at Linear\n\
+  (1:32:04) Lightning round\n\n\nReferenced:\n• Linear: https://linear.app/\n• Vercel: https://vercel.com/\n• Nan Yu on LinkedIn:\
+  \ https://www.linkedin.com/in/thenanyu/\n• The Linear method: https://linear.app/method\n• How Ramp builds product: https://www.lennysnewsletter.com/p/how-ramp-builds-product\n\
+  • Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor): https://www.lennyspodcast.com/lessons-from-scaling-ramp-sri-batchu-ramp-instacart-opendoor/\n\
+  • Eric Yuan on LinkedIn: https://www.linkedin.com/in/ericsyuan/\n• The Timeless Way of Building: https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028\n\
+  • Zen and the Art of Motorcycle Maintenance: https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060839872/\n\
+  • John Wick: Chapter 4: https://www.imdb.com/title/tt10366206/\n• Silo on AppleTV+: https://tv.apple.com/us/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice\n\
+  • Philips Hue lights: https://www.philips-hue.com/en-us\n• Finnish salmon soup recipe: https://jernejkitchen.com/recipes/finnish-salmon-soup-lohikeitto\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 5990.0
 duration: '1:39:50'
 view_count: 39856

@@ -4,11 +4,31 @@ title: What sets great teams apart | Lane Shackleton (CPO of Coda)
 youtube_url: https://www.youtube.com/watch?v=XmgetFMgQZ0
 video_id: XmgetFMgQZ0
 publish_date: 2023-10-01
-description: 'Lane Shackleton is CPO of Coda, where he’s been leading the product
-  and design team for over eight years. Lane started his career as an Alaskan climbing
-  guide and then as a manual reviewer...
-
-  '
+description: "Lane Shackleton is CPO of Coda, where he’s been leading the product and design team for over eight years. Lane\
+  \ started his career as an Alaskan climbing guide and then as a manual reviewer of AdWords ads before becoming a product\
+  \ specialist at Google and later a Group PM at YouTube. He also writes a weekly newsletter with insights and rituals for\
+  \ PMs, product teams, and startups. In today’s conversation, we discuss:\n• Principles that set great PMs apart\n• Rituals\
+  \ of great product teams\n• The fine line between OKRs and strategy, and why it matters\n• “Two-way write-up”\n• The story\
+  \ of how skippable YouTube ads were born and lessons learned\n• How to gauge personal career growth\n• “Tim Ferriss Day”\
+  \ and its impact on Coda’s history\n• How Lane bootstrapped his way to CPO from the bottom of the tech ladder\n\n—\n\nBrought\
+  \ to you by Eppo—Run reliable, impactful experiments: https://www.geteppo.com/ | Vanta—Automate compliance. Simplify security:\
+  \ https://vanta.com/lenny | Ezra—The leading full-body cancer screening company: https://www.ezra.com/lenny\n\n\nFind the\
+  \ transcript and references at: https://www.lennyspodcast.com/what-sets-great-teams-apart-lane-shackleton-cpo-of-coda/ \n\
+  \n\nWhere to find Lane Shackleton:\n• X: https://twitter.com/lshackleton\n• LinkedIn: https://www.linkedin.com/in/laneshackleton\n\
+  • Substack: https://lane.substack.com/\n\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\n\nIn this episode, we cover:\n(00:00) Lane’s background\n(04:03)\
+  \ Working as a guide in Alaska\n(07:32) Parallels between guiding and building software\n(09:12) Why Lane started studying\
+  \ and writing about product teams\n(12:49) How Lane came up with the career ladder and guiding principles\n(14:10) The five\
+  \ levels Coda’s career ladder\n(16:30) Principles of great product managers\n(21:06) The beginner’s-mind ritual at Coda\n\
+  (24:05) Two rituals: “cathedrals not bricks” and “proactive not reactive”\n(27:46) How to develop your own guiding principles\n\
+  (31:17) Learning from your “oh shit” moments\n(36:03) Rituals from great product teams: HubSpot’s FlashTags\n(42:15) Rituals\
+  \ from great product teams: Coda’s Catalyst\n(47:01) Implementing rituals from other companies\n(49:48) How to navigate\
+  \ changing vs. sticking with current rituals\n(53:02) “Tag up” and why one-on-one meetings are harmful \n(55:27) Lane’s\
+  \ handbook on strategy and rituals\n(57:10) How skippable ads came about on YouTube   \n(1:01:46) Lane’s path to CPO  \n\
+  (1:07:02) Advice for aspiring PMs\n(1:10:53) Tim Ferriss Day at Coda\n(1:13:24) Using two-way write-ups \n(1:19:30) The\
+  \ fine line between OKRs and strategy, and why it matters\n(1:21:41) Lightning round\n\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 5392.0
 duration: '1:29:52'
 view_count: 11297

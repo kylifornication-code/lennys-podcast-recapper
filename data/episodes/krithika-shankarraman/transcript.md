@@ -4,11 +4,166 @@ title: Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shank
 youtube_url: https://www.youtube.com/watch?v=QaDsk4iH1aw
 video_id: QaDsk4iH1aw
 publish_date: 2025-05-25
-description: 'Krithika Shankarraman was the first marketing hire at OpenAI and Stripe
-  and led marketing at Retool. At OpenAI, she established marketing foundations for
-  ChatGPT for consumers and enterprises,...
+description: 'Krithika Shankarraman was the first marketing hire at OpenAI and Stripe and led marketing at Retool. At OpenAI,
+  she established marketing foundations for ChatGPT for consumers and enterprises, as well as their developer API platform.
+  While at Stripe, she spent over eight years building and scaling their marketing function from scratch. An engineer turned
+  marketer, Krithika brings a uniquely analytical approach to marketing. She currently serves as Entrepreneur in Residence
+  at Thrive Capital, where she helps portfolio companies on all things marketing.
 
-  '
+
+  *What you will learn:*
+
+  1. Why do most marketing playbooks often fail, and what’s a better way?
+
+  2. Which marketing lever should I pull first?
+
+  3. Why is trying to be better than competitors usually a losing strategy?
+
+  4. How do I craft positioning that actually converts?
+
+  5. What makes messaging stick with developers, enterprises, and consumers?
+
+  6. What pricing experiments actually move revenue?
+
+  7. What is working at OpenAI really like?
+
+  8. Why does consistency and quality matter more than speed?
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/growth-tactics-from-openai-and-stripes-first-marketer
+
+
+  *Brought to you by:*
+
+  • Eppo—Run reliable, impactful experiments: https://www.geteppo.com/
+
+  • Airtable ProductCentral—Launch to new heights with a unified system for product development: https://www.airtable.com/lenny
+
+  • LinkedIn Ads—Reach professionals and drive results for your business: https://www.linkedin.com/podlenny
+
+
+  *Where to find Krithika Shankarraman:*
+
+  • X: https://x.com/krithix
+
+  • LinkedIn: https://www.linkedin.com/in/krithix/
+
+  • Website: https://krithix.com/
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Krithika
+
+  (04:22) Early marketing lessons from OpenAI
+
+  (11:17) Diagnosing marketing needs
+
+  (15:06) The DATE framework and why being cheaper is a race to the bottom
+
+  (17:11) Marketing strategies at Retool
+
+  (22:29) Insights from marketing at Stripe
+
+  (32:33) The importance of consistent marketing communication
+
+  (39:55) Criteria for hiring a marketing expert
+
+  (41:43) “Capital M” vs. “lowercase m” marketing
+
+  (43:05) ChatGPT vs. Claude: market dominance
+
+  (45:31) The future of AI and its societal impact
+
+  (47:09) Work-life balance
+
+  (48:41) Transitioning to Thrive
+
+  (52:35) Career advice for marketers
+
+  (55:00) The importance of taste and creativity in the AI era
+
+  (01:00:04) AI product pricing
+
+  (01:03:21) AI tools in marketing
+
+  (01:05:17) Failure corner
+
+  (01:08:46) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • OpenAI: https://openai.com/
+
+  • Stripe: https://stripe.com/
+
+  • Retool: https://retool.com/
+
+  • Dropbox: https://www.dropbox.com/
+
+  • Sam Altman talks about his business model: https://www.youtube.com/watch?v=pLnyjxgFxew
+
+  • The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher): https://www.lennysnewsletter.com/p/the-art-and-science-of-pricing-madhavan
+
+  • Pricing your SaaS product: https://www.lennysnewsletter.com/p/saas-pricing-strategy
+
+  • Netflix: https://www.netflix.com/
+
+  • Stripe Connect: https://stripe.com/connect
+
+  • John Collison on X: https://x.com/collision
+
+  • Patrick Collison on X: https://x.com/patrickc
+
+  • Cristina Cordova on LinkedIn: https://www.linkedin.com/in/cristinajcordova/
+
+  • Hackpad: https://en.wikipedia.org/wiki/Hackpad
+
+  • Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy): https://www.lennysnewsletter.com/p/building-wiz-raaz-herzberg
+
+  • Wiz: https://www.wiz.io/
+
+  • Thrive Capital: https://thrivecap.com/
+
+  • Brian Chesky’s new playbook: https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach
+
+  • Claude: https://claude.ai/new
+
+  • ChatGPT: https://chatgpt.com/
+
+  • Lessons from scaling Stripe | Claire Hughes Johnson (former COO of Stripe): https://www.lennysnewsletter.com/p/lessons-from-scaling-stripe-tactics
+
+  • Databricks: https://www.databricks.com/
+
+  • Everyone’s an engineer now: Inside v0’s mission to create a hundred million builders | Guillermo Rauch (founder and CEO
+  of Vercel, creators of v0 and Next.js): https://www.lennysnewsletter.com/p/everyones-an-engineer-now-guillermo-rauch
+
+  ...References continued at: https://www.lennysnewsletter.com/p/growth-tactics-from-openai-and-stripes-first-marketer
+
+
+  *Recommended books:*
+
+  • Obviously Awesome: How to Nail Product Positioning So Customers Get It, Buy It, Love It: https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers/dp/1999023005
+
+  • Circe: https://www.amazon.com/Circe-Madeline-Miller/dp/0316556327/
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4443.0
 duration: '1:14:03'
 view_count: 62767

@@ -4,11 +4,141 @@ title: Building Substack | Sachin Monga (Substack, Facebook)
 youtube_url: https://www.youtube.com/watch?v=zKP2HrMc23s
 video_id: zKP2HrMc23s
 publish_date: 2022-10-30
-description: 'Sachin Monga is the Head of Product at Substack, a platform that I personally
-  use every day, and love. Before Substack, Sachin co-founded an app called Cocoon,
-  which he ended up selling to...
+description: 'Sachin Monga is the Head of Product at Substack, a platform that I personally use every day, and love. Before
+  Substack, Sachin co-founded an app called Cocoon, which he ended up selling to Substack. Before that, he spent over seven
+  years at Facebook as a PM working on video and camera products, building out the developer platform, and leading the ads
+  growth team. In today’s episode, we dive deep on all things Substack. Sachin shares what it’s like transitioning from a
+  large product team at Facebook to a small growth team. He discusses how to work with a hands-on founder and why you must
+  be comfortable with rapid change in a PM role. He also shares unique features of Substack that make it an optimized experience
+  for readers and writers, how he’d like to see it improved, and tips for anyone wanting to get started writing online.
 
-  '
+
+  Find the full transcript here: https://www.lennysnewsletter.com/p/building-substack-sachin-monga-substack
+
+
+  —
+
+
+  Where to find Sachin Monga:
+
+
+  • Twitter: https://twitter.com/sachinmonga
+
+  • LinkedIn: https://www.linkedin.com/in/sachinmonga/
+
+  • Email: Sachin@substackinc.com
+
+
+  —
+
+
+  Where to find Lenny:
+
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  —
+
+
+  Thank you to our wonderful sponsors for making this episode possible:
+
+
+  • Retool: https://retool.com/lenny
+
+  • Stytch: https://stytch.com/lenny
+
+  • Vanta: https://vanta.com/lenny
+
+
+  —
+
+
+  Referenced:
+
+
+  • Substack: https://substack.com/
+
+  • Matt Taibbi on Substack: https://taibbi.substack.com/
+
+  • Bill Bishop on Substack: https://sinocism.com/
+
+  • Jasper: https://www.jasper.ai/
+
+  • DALL-E 2: https://openai.com/dall-e-2/
+
+  • 1000 True Fans: https://www.amazon.com/1000-True-Fans-Kellys-Simple-ebook/dp/B01N9P9O4G
+
+  • You Are Not Late: https://medium.com/message/you-are-not-late-b3d76f963142
+
+  • The Timeless Way of Building: https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028
+
+  • Martyrmade podcast on Substack: https://martyrmade.substack.com/
+
+  • Colin Meloy on Substack: https://colinmeloy.substack.com/
+
+  • Ethan Strauss on Substack: https://houseofstrauss.substack.com/
+
+  • Kareem Abdul-Jabbar on Substack: https://kareem.substack.com/
+
+  • Dayne Rathbone: https://www.linkedin.com/in/daynerathbone/
+
+  • For All Mankind on Apple TV+: https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7
+
+
+  —
+
+
+  In this episode, we cover:
+
+
+  (00:00) Sachin’s background
+
+  (07:11) The evolution and structure of teams at Substack
+
+  (10:11) What it’s like working at a smaller company with a hands-on founder
+
+  (12:07) How to share in a founder’s vision
+
+  (14:02) Why the rate of change is the most challenging aspect of the job
+
+  (16:37) Why prioritization at Facebook worked differently than it does at Substack
+
+  (20:03) How Substack thinks about prioritizing for writers and readers
+
+  (22:17) Substack’s recommendation feature and how it came to be
+
+  (27:13) How recommendations have led to an increase of millions of subscribers
+
+  (31:34) Moving forward with network-driven discovery 
+
+  (32:17) The “build with” principle and the product lab at Substack
+
+  (35:02) How Substack deals with negative press
+
+  (36:45) The writer experience at Substack
+
+  (39:13) The reader-focused experience on Substack
+
+  (40:41) Advice for writers
+
+  (44:45) Substack’s vision for making creation easier
+
+  (46:39) Common mistakes creators make, and how product improvements could help in some cases 
+
+  (49:57) Why you’re not too late to join the game
+
+  (52:52) Lightning round
+
+
+  —
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 3660.0
 duration: '1:01:00'
 view_count: 5414

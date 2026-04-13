@@ -1,15 +1,115 @@
 ---
 guest: Kenneth Berger
-title: Why not asking for what you want is holding you back | Kenneth Berger (exec
-  coach, first PM @Slack)
+title: Why not asking for what you want is holding you back | Kenneth Berger (exec coach, first PM @Slack)
 youtube_url: https://www.youtube.com/watch?v=KSCjl_VIdak
 video_id: KSCjl_VIdak
 publish_date: 2024-05-19
-description: 'Kenneth Berger coaches startup leaders on how to prevent burnout, advocate
-  for their desired lifestyle, and make a meaningful impact on the world. He’s spent
-  more than  20 years in the tech...
+description: 'Kenneth Berger coaches startup leaders on how to prevent burnout, advocate for their desired lifestyle, and
+  make a meaningful impact on the world. He’s spent more than  20 years in the tech industry, is a former founder backed by
+  top investors, and was the first product manager at Slack. Kenneth’s core mission is to help startup leaders change the
+  world by learning to ask for what they want, living with integrity, and building genuine relationships even with the people
+  they find most challenging. Currently he is writing a book, Ask for What You Want, in which he aims to share his actionable
+  strategies for creating change in the world. In our conversation, we explore:
 
-  '
+  • Why asking for what you want is so impactful
+
+  • Three steps to effectively ask for what you want
+
+  • Challenges that arise when people struggle to ask for what they want
+
+  • Why hearing “no” is a normal part of the process
+
+  • The “dream behind the complaint” technique for uncovering desires
+
+  • Kenneth’s experience of being fired three times from Slack
+
+  • How embracing fear and discomfort is key to getting what you want
+
+  • Why discipline is overrated
+
+
+  —
+
+
+  Brought to you by:
+
+  • Sidebar—Accelerate your career by surrounding yourself with extraordinary peers: https://www.sidebar.com/lenny
+
+  • Webflow—The web experience platform: https://webflow.com
+
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+
+  Find the transcript and references at: https://www.lennysnewsletter.com/p/ask-for-what-you-want-kenneth-berger
+
+
+  Where to find Kenneth Berger:
+
+  • X: https://twitter.com/kberger
+
+  • Threads: https://www.threads.net/@kberger
+
+  • LinkedIn: https://www.linkedin.com/in/kberger/
+
+  • Website: https://kberger.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Kenneth’s background
+
+  (04:31) The importance of asking for what you want
+
+  (06:36) Challenges that arise when people struggle to ask for what they want
+
+  (08:09) A personal example of failing to ask for what you want
+
+  (09:17) Signs this is a skill you need to work on
+
+  (10:49) How to get better at knowing what you want
+
+  (15:28) Why hearing “no” is a normal part of the process
+
+  (17:29) Getting a “yes” vs. a “hell yes”
+
+  (19:20) Step 1: Articulate what you want
+
+  (24:07) Doing an integrity check
+
+  (26:56) Step 2: Ask for what you want intentionally
+
+  (30:45) Understanding your influence
+
+  (34:48) Using complaints as inspiration
+
+  (36:24) Internal family systems
+
+  (38:00) Giving feedback
+
+  (41:24) Step 3: Accept the response
+
+  (45:22) Kenneth’s experience of being fired three times from Slack
+
+  (57:30) Advice on being the first PM at a company or startup
+
+  (01:04:58) Contrarian corner: anti-discipline
+
+  (01:05:52) Lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4416.0
 duration: '1:13:36'
 view_count: 12989

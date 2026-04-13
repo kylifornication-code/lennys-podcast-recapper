@@ -1,15 +1,154 @@
 ---
 guest: Jerry Colonna
-title: How have I been complicit in creating the conditions I say I don’t want? |
-  Jerry Colonna
+title: How have I been complicit in creating the conditions I say I don’t want? | Jerry Colonna
 youtube_url: https://www.youtube.com/watch?v=PJE7etZQ9us
 video_id: PJE7etZQ9us
 publish_date: 2025-05-08
-description: '*Jerry Colonna* is a world-renowned executive coach, a former venture
-  capitalist, and the co-founder and CEO of Reboot, an executive coaching firm that
-  combines practical leadership development...
+description: '*Jerry Colonna* is a world-renowned executive coach, a former venture capitalist, and the co-founder and CEO
+  of Reboot, an executive coaching firm that combines practical leadership development with deeper self-inquiry. With over
+  27 years of coaching experience, he has guided countless leaders through the challenges of scaling companies, building teams,
+  and navigating the emotional complexities of leadership. Known for his radical-self-inquiry approach, Jerry helps leaders
+  uncover the unconscious patterns that hold them back and empowers them to lead with authenticity, compassion, and clarity.
 
-  '
+
+  *In our conversation, we cover:*
+
+  1. A powerful question that unlocks self-awareness: “How have I been complicit in creating the conditions I say I don’t
+  want?”
+
+  2. Jerry’s foundational equation for leadership success: practical skills + radical self-inquiry + shared experiences =
+  enhanced leadership and resilience
+
+  3. Why teams most often fail (hint: it’s not lack of talent or strategy)
+
+  4. How busyness often masks deeper issues of self-worth
+
+  5. Why a “growth mindset” can be problematic
+
+  6. The importance of legacy and what it means to live a meaningful life
+
+  7. The role of AI in self-inquiry and how tools like ChatGPT can help uncover blind spots
+
+  8. Jerry’s advice for navigating the unsettling rise of AI and its implications for leadership and humanity
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/jerry-colonna
+
+
+  *Brought to you by:*
+
+  • Eppo—Run reliable, impactful experiments: https://www.geteppo.com/
+
+  • Contentsquare—Create better digital experiences: https://contentsquare.com/lenny/
+
+  • OneSchema—Import CSV data 10x faster: https://oneschema.co/lenny
+
+
+  *Where to find Jerry Colonna:*
+
+  • X: https://x.com/jerrycolonna
+
+  • LinkedIn: https://www.linkedin.com/in/jerry-colonna-reboot/
+
+  • Website: https://reunion.reboot.io/
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Jerry Colonna
+
+  (04:12) Jerry’s key question
+
+  (06:55) The equation for great leadership
+
+  (09:37) The big lie of success and happiness
+
+  (12:12) The consciousness hack
+
+  (15:56) Getting over the fear of consequences
+
+  (20:23) The problem with bypassing our childhood baggage
+
+  (23:22) Radical self-inquiry: asking the tough questions
+
+  (27:05) Shared experiences: the power of community
+
+  (30:25) The trap of busyness and attachment
+
+  (40:45) Understanding our own intentions
+
+  (46:58) Legacy and purpose
+
+  (55:43) Writing for self-discovery
+
+  (57:12) The impact of AI on humanity
+
+  (01:04:56) Turning a growth mindset into a fixed mindset
+
+  (01:11:28) The role of radical self-inquiry in leadership
+
+  (01:19:24) Final thoughts and reflections
+
+
+  *Referenced:*
+
+  • Naropa University: https://www.naropa.edu/
+
+  • Fitler Club: https://fitlerclub.com
+
+  • Chris Fralic on LinkedIn: https://www.linkedin.com/in/chrisfralic/
+
+  • Will Smith on the price of fame: ‘I have been deeply humbled and deeply inspired’: https://www.today.com/popculture/news/will-smith-fame-rcna127830
+
+  • Seth Godin’s best tactics for building remarkable products, strategies, brands, and more: https://www.lennysnewsletter.com/p/seth-godins-tactics-for-building-remarkable-products
+
+  • The life of Buddha: https://www.britannica.com/summary/Buddha-founder-of-Buddhism
+
+  • 10% Happier with Dan Harris podcast: https://podcasts.apple.com/us/podcast/10-happier-with-dan-harris/id1087147821
+
+  • Simon Sinek’s website: https://simonsinek.com/
+
+  • Mike Tyson Gives Morbid Response to Young Interviewer’s Question About His “Legacy”: https://www.vibe.com/news/entertainment/mike-tyson-morbid-response-young-interviewer-legacy-1234944054/
+
+  • Dan Shipper’s post on X about asking ChatGPT for blind spots: https://x.com/danshipper/status/1910387987487318318
+
+  • Evernote: https://evernote.com/
+
+  • Claude: https://claude.ai
+
+  • Peter Senge on X: https://x.com/petersenge
+
+  • Carl Jung’s quote: https://www.goodreads.com/quotes/44379-until-you-make-the-unconscious-conscious-it-will-direct-your
+
+  • Parker Palmer on LinkedIn: https://www.linkedin.com/in/parker-j-palmer-5a92b110/
+
+  • The unexamined life is not worth living: https://en.wikipedia.org/wiki/The_unexamined_life_is_not_worth_living
+
+
+  *Recommended books:*
+
+  • Reboot: Leadership and the Art of Growing Up: https://www.amazon.com/Reboot-Leadership-Art-Growing-Up/dp/0062749536
+
+  • Reunion: Leadership and the Longing to Belong: https://www.amazon.com/Reunion-Leadership-Longing-Jerry-Colonna/dp/0063142139
+
+  • Born to Run: https://www.amazon.com/Born-Run-Bruce-Springsteen/dp/1501141511
+
+  ...References continued at: https://www.lennysnewsletter.com/p/jerry-colonna
+
+
+  _Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 4970.0
 duration: '1:22:50'
 view_count: 13997

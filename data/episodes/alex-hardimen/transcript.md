@@ -1,15 +1,40 @@
 ---
 guest: Alex Hardimen
-title: An inside look at how the New York Times builds product | Alex Hardiman (CPO,
-  the New York Times)
+title: An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)
 youtube_url: https://www.youtube.com/watch?v=y3-cwoHMwQs
 video_id: y3-cwoHMwQs
 publish_date: 2022-11-13
-description: 'Alex Hardiman is Chief Product Officer at the New York Times, where
-  she oversees the company’s news, cooking, games, audio and advertising products.
-  Previously, Alex was Chief Product Officer...
-
-  '
+description: "Alex Hardiman is Chief Product Officer at the New York Times, where she oversees the company’s news, cooking,\
+  \ games, audio and advertising products. Previously, Alex was Chief Product Officer at The Atlantic, and before that she\
+  \ was Head of News Products at Facebook. We discuss how engineers and product people work with writers to create impactful\
+  \ stories, how teams build the incredible visualizations and experiences for NYTimes.com, how product teams are structured\
+  \ within the New York Times, and the good and bad about working at a company like the New York Times versus a FAANG tech\
+  \ company. We also talk about the details behind the New York Times’s acquisition of Wordle and uncover what the Times is\
+  \ dreaming up for its product over the next 10 years.\n\n—\n\nFind the full transcript here: https://www.lennysnewsletter.com/p/an-inside-look-at-how-the-new-york\n\
+  \n—\n\nWhere to find Alex Hardiman:\n\n• Twitter: https://twitter.com/alex_hardiman\n• LinkedIn: https://www.linkedin.com/in/alexandrahardiman/\n\
+  \n—\n\nWhere to find Lenny:\n\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\n—\n\nThank you to our wonderful sponsors for making this episode\
+  \ possible:\n\n• Miro: https://miro.com/lenny\n• Athletic Greens: https://athleticgreens.com/lenny\n• Vanta: https://vanta.com/lenny\n\
+  \n—\n\nReferenced:\n\n• Jodi Kantor: https://www.nytimes.com/by/jodi-kantor\n• Wordle: https://www.nytimes.com/games/wordle/\n\
+  • Wordle Is a Love Story: https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html\n• Josh Wardle on\
+  \ Twitter: https://twitter.com/powerlanguish\n• Eric Kim’s recipes: https://cooking.nytimes.com/ourcooks/eric-kim/\n• Wirecutter:\
+  \ https://www.nytimes.com/wirecutter/\n• Framing Britney Spears: https://www.nytimes.com/article/framing-britney-spears.html\n\
+  • Hard Fork podcast: https://www.nytimes.com/2022/10/04/podcasts/hard-fork-technology.html\n• High Growth Handbook: Scaling\
+  \ Startups from 10 to 10,000 People: https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100\n• An Elegant Puzzle:\
+  \ Systems of Engineering Management: https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186\n\
+  • The Revolt of the Public and the Crisis of Authority in the New Millennium: https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143\n\
+  • Giovanni’s Room: https://www.amazon.com/Giovannis-Room-James-Baldwin/dp/0345806565/r\n• The Daily podcast: https://www.nytimes.com/column/the-daily\n\
+  • The Wire on HBO: https://www.hbo.com/the-wire\n• Google Workspace: https://workspace.google.com/\n• Slack: https://slack.com\n\
+  • Figma: https://figma.com\n• Mode: https://mode.com/\n• GitHub: https://github.com/\n• Fidji Simo on LinkedIn: https://www.linkedin.com/in/fidjisimo/\n\
+  \n—\n\nIn this episode, we cover:\n\n(00:00) Alex’s background\n(07:37) How Alex fought disinformation on the news team\
+  \ at Facebook \n(11:11) How some product people thrive in chaos\n(14:13) Alex’s return to the New York Times\n(16:22) What\
+  \ product means at the New York Times\n(20:42) How the product team at the New York Times is structured\n(26:20) How the\
+  \ New York Times makes stories come alive with balanced creative and technical teams\n(33:15) The acquisition of Wordle\
+  \ \n(42:00) What it was like to work at the New York Times during the onset of Covid\n(47:11) How to avoid burnout on a\
+  \ product team\n(49:26) How the New York Times has set itself apart with its subscription package\n(52:21) How the New York\
+  \ Times’s products are rooted in helping in the real world\n(52:54) Lenny’s tips for improving Wirecutter\n(53:36) The differences\
+  \ and similarities on product teams in a news organization\n(59:58) Lightning round\n\n—\n\nProduction and marketing by\
+  \ https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 4041.0
 duration: '1:07:21'
 view_count: 6759

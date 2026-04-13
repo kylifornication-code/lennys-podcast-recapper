@@ -1,15 +1,170 @@
 ---
 guest: Dan Shipper
-title: 'The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code.
-  | Dan Shipper (Every)'
+title: 'The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)'
 youtube_url: https://www.youtube.com/watch?v=crMrVozp_h8
 video_id: crMrVozp_h8
 publish_date: 2025-07-17
-description: 'Dan Shipper is the co-founder and CEO of Every. With just 15 people,
-  Every publishes a daily AI newsletter, ships multiple AI products, and operates
-  a million-dollar-a-year consulting arm—all...
+description: 'Dan Shipper is the co-founder and CEO of Every. With just 15 people, Every publishes a daily AI newsletter,
+  ships multiple AI products, and operates a million-dollar-a-year consulting arm—all while their engineers write virtually
+  zero code. It’s the most radical example of AI-first operations, and Dan is a prolific writer who has become a leading voice
+  on how AI is transforming the way we build and work.
 
-  '
+
+  *Learn:*
+
+  1. Why Dan thinks AI won’t steal jobs en masse—and may actually reshore many jobs to the U.S.
+
+  2. The most underrated AI tool for non-programmers
+
+  3. An inside look at Every’s AI-first workflow
+
+  4. Why every company needs an “AI operations lead”
+
+  5. How Dan’s team uses an arsenal of AI agents (Claude, Codex, “Friday,” “Charlie”) in parallel, treating each AI like a
+  specialist with unique strengths
+
+  6. Why generalists will thrive in an AI-first world, as rigid job titles blur and everyone becomes a “manager” of AI tools
+
+  7. Dan’s playbook for making any company AI-first—from the CEO setting the example, to hosting internal prompt-sharing sessions,
+  to upskilling teams on AI tools
+
+
+  *Brought to you by:*
+
+  CodeRabbit—Cut code review time and bugs in half. Instantly: https://coderabbit.link/lenny
+
+  DX—A platform for measuring and improving developer productivity: https://getdx.com/lenny
+
+  PostHog—How developers build successful products: https://posthog.com/lenny
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/inside-every-dan-shipper
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/167681269/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Dan Shipper:*
+
+  • X: https://x.com/danshipper
+
+  • LinkedIn: https://www.linkedin.com/in/danshipper/
+
+  • Podcast: https://every.to/podcast
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Welcome and introduction
+
+  (04:04) Hot takes on AI and job reshoring
+
+  (07:06) The power of Claude Code for non-coders
+
+  (14:35) The future of AI in business operations
+
+  (18:45) AI’s role in enhancing human skills
+
+  (22:26) The evolution of AI tools and their applications
+
+  (25:40) Building an AI-first company
+
+  (29:50) Innovative AI operations and team dynamics
+
+  (35:35) Dan''s AI stack
+
+  (41:26) Compounding engineering
+
+  (48:29) The impact of AI on learning and development
+
+  (50:10) Accelerating career growth with AI
+
+  (51:36) Revolutionizing code review and workflow
+
+  (53:07) The importance of coding knowledge
+
+  (57:26) Building AI-driven products
+
+  (01:02:01) Innovative fundraising strategies
+
+  (01:08:45) Consulting and AI adoption in companies
+
+  (01:17:01) The allocation economy and future skills
+
+  (01:20:12) The value of generalists in the AI age
+
+  (01:24:07) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Claude Code: https://www.anthropic.com/claude-code
+
+  • Gemini CLI: https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/
+
+  • Microsoft Copilot: https://copilot.microsoft.com/
+
+  • Cursor: https://www.cursor.com/
+
+  • Base44: https://base44.com/
+
+  • Solo founder, $80M exit, 6 months: The Base44 bootstrapped startup success story | Maor Shlomo: https://www.lennysnewsletter.com/p/the-base44-bootstrapped-startup-success-story-maor-shlomo
+
+  • The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell
+
+  • Plato’s Argument Against Writing: https://fs.blog/an-old-argument-against-writing/
+
+  • From ChatGPT to Instagram to Uber: The quiet architect behind the world’s most popular products | Peter Deng: https://www.lennysnewsletter.com/p/the-quiet-architect-peter-deng
+
+  • Granola: https://www.granola.ai/
+
+  • Tobi Lutke’s post on X about context engineering: https://x.com/tobi/status/1935533422589399127
+
+  • Tobi Lütke’s leadership playbook: Playing infinite games, operating from first principles, and maximizing human potential
+  (founder and CEO of Shopify): https://www.lennysnewsletter.com/p/tobi-lutkes-leadership-playbook
+
+  • Every: https://every.to/
+
+  • Cora: https://www.cora.computer/
+
+  • Sparkle: https://makeitsparkle.co/
+
+  • Spiral: https://spiral.computer/
+
+  • Lex: https://lex.page/
+
+  • Nathan Baschez on LinkedIn: https://www.linkedin.com/in/nbashaw/
+
+  • Kate Lee on LinkedIn: https://www.linkedin.com/in/kate-lee-506768/
+
+  • Katie Parrott on LinkedIn: https://www.linkedin.com/in/katieparrott/
+
+  • Animalz: https://www.animalz.co/
+
+  • Rachel Woods on X: https://x.com/rachel_l_woods
+
+  • Nityesh Agarwal on LinkedIn: https://www.linkedin.com/in/nityeshaga
+
+  • Claude Opus 4: https://www.anthropic.com/claude/opus
+
+  *...References continued at:* https://www.lennysnewsletter.com/p/inside-every-dan-shipper
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5697.0
 duration: '1:34:57'
 view_count: 81826

@@ -1,15 +1,126 @@
 ---
 guest: Laura Schaffer
-title: Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura
-  Schaffer (Amplitude)
+title: Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura Schaffer (Amplitude)
 youtube_url: https://www.youtube.com/watch?v=UMAmj1bciww
 video_id: UMAmj1bciww
 publish_date: 2023-03-09
-description: 'Laura Schaffer is the brand-new VP of Growth at Amplitude. Prior to
-  this role, she spent over 10 years leading product management and growth teams at
-  Twilio, Bandwidth, and Rapid. In today’s...
+description: 'Laura Schaffer is the brand-new VP of Growth at Amplitude. Prior to this role, she spent over 10 years leading
+  product management and growth teams at Twilio, Bandwidth, and Rapid. In today’s episode, we talk about the role of experimentation
+  and data in growth, and Laura shares stories of big wins from her time leading growth teams. She explains how customer insights
+  helped her uplevel her career and how she (surprisingly) thinks about qualitative versus quantitative data. We wrap up our
+  conversation by discussing where the best ideas come from and what you need to know if you’re selling to developers.
 
-  '
+
+  —
+
+
+  Brought to you by Public—Invest in stocks, treasuries, crypto, and more | Eppo—Run reliable, impactful experiments | Writer—Generative
+  AI for the enterprise
+
+
+  Find the full transcript here: https://www.lennysnewsletter.com/p/career-frameworks-ab-testing-counterintuitive
+
+
+  Where to find Laura Schaffer:
+
+  • LinkedIn: https://www.linkedin.com/in/lauraschaffer/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • Twitter: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  Referenced:
+
+  • Elena Verna on Lenny’s Podcast: https://www.lennyspodcast.com/elena-verna-on-how-b2b-growth-is-changing-product-led-growth-product-led-sales-why-you-should-go-freemium-not-trial-what-features-to-make-free-and-much-more/
+
+  • Bandwidth: https://www.bandwidth.com/
+
+  • Twilio: https://ahoy.twilio.com/
+
+  • Jeff Lawson on LinkedIn: https://www.linkedin.com/in/jeffiel/
+
+  • The Surprising Power of Online Experiments: https://hbr.org/2017/09/the-surprising-power-of-online-experiments
+
+  • Reforge: https://www.reforge.com/
+
+  • Online Experimentation at Microsoft: https://ai.stanford.edu/~ronnyk/ExPThinkWeek2009Public.pdf
+
+  • The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life: https://www.amazon.com/Simple-Path-Wealth-financial-independence/dp/1533667926
+
+  • Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/
+
+  • James Clear on The Tim Ferriss Show: https://podcasts.apple.com/us/podcast/648-james-clear-atomic-habits-simple-strategies-for/id863897795?i=1000592431628
+
+  • The Great British Baking Show on PBS: https://www.pbs.org/food/shows/great-british-baking-show/
+
+  • Hotjar: https://www.hotjar.com/
+
+  • Amplitude: https://amplitude.com/
+
+  • Builder: https://www.builder.io/
+
+  • ChatGPT: https://chat.openai.com/
+
+  • Lenny Bot: https://www.lennybot.com/
+
+  • Segment: https://segment.com/
+
+  • Senior Growth PM, Monetization, at Amplitude: https://boards.greenhouse.io/amplitude/jobs/6636704002
+
+  • Lead Growth PM at Builder: https://boards.greenhouse.io/builder/jobs/4814755004?gh_src=30cfda2d4us
+
+  • Growth PM at Rapid: https://jobs.lever.co/rapidapi/8d2611d1-6463-4919-9817-31f61e730831
+
+
+  In this episode, we cover:
+
+  (00:00) Laura’s background
+
+  (04:15) How to carve your own career path, and an example from Bandwidth
+
+  (05:50) Laura’s career growth framework
+
+  (10:18) The value of customer insights
+
+  (12:25) The “voice of the customer” report
+
+  (16:14) Leaning into your strengths
+
+  (18:16) The experiment that shifted the way Laura thinks about friction
+
+  (20:20) Questions that improved Twilio’s onboarding and conversion rate
+
+  (28:53) Thinking about the psyche of your users
+
+  (31:26) The hot dog analogy for burying “scary stuff”
+
+  (33:58) Why it’s better to be iterative and why experiments fail
+
+  (36:21) Saving money by validating fast
+
+  (41:58) Where the best ideas come from
+
+  (49:51) Experimentation lessons
+
+  (52:54) The amount of time a growth team needs to be successful 
+
+  (54:43) The big change at Twilio that led to tens of millions of dollars
+
+  (58:41) The need for both PLG and enterprise, and how Amplitude plans to tap into PLG
+
+  (1:05:42) What it’s like to serve developers
+
+  (1:11:16) Lightning round
+
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.'
 duration_seconds: 4873.0
 duration: '1:21:13'
 view_count: 9069

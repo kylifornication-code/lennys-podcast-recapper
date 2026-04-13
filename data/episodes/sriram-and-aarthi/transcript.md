@@ -4,11 +4,37 @@ title: Hot takes and techno-optimism from tech’s top power couple | Sriram and
 youtube_url: https://www.youtube.com/watch?v=HsD5ycT_umw
 video_id: HsD5ycT_umw
 publish_date: 2023-03-12
-description: 'Aarthi Ramamurthy and Sriram Krishnan are founders, angel investors,
-  and product leaders who host the podcast Aarthi and Sriram’s Good Time Show. They
-  have both held leadership roles at major...
-
-  '
+description: "Aarthi Ramamurthy and Sriram Krishnan are founders, angel investors, and product leaders who host the podcast\
+  \ Aarthi and Sriram’s Good Time Show. They have both held leadership roles at major technology companies including Meta,\
+  \ Twitter, Snap, Microsoft, and Netflix. In today’s episode, we dive into how and why to build your personal brand, how\
+  \ to deal with imposter syndrome, and stories from Aarthi’s time at Clubhouse and Sriram’s time working with Zuck. Both\
+  \ Aarthi and Sriram share their lessons from past failures and their experience building communities, on techno optimism,\
+  \ and Sriram offers his hot take on the Jobs to Be Done framework.\n\n—\n\nBrought to you by Vanta—Automate compliance.\
+  \ Simplify security | Dovetail—Bring your customer into every decision | LMNT—Zero-sugar hydration\n\nFind the full transcript\
+  \ at: https://www.lennysnewsletter.com/p/hot-takes-and-optimism-from-techs\n\nWhere to find Sriram Krishnan and Aarthi Ramamurthy:\n\
+  • Aarthi’s Twitter: https://twitter.com/aarthir\n• Sriram’s Twitter: https://twitter.com/sriramk\n• Good Time Show Twitter:\
+  \ https://twitter.com/aarthisrirampod\n• Good Time Show website: https://www.aarthiandsriram.com/\n\nWhere to find Lenny:\n\
+  • Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nReferenced:\n• Naval Ravikant on Twitter: https://twitter.com/naval\n• Marc Andreessen on Twitter: https://twitter.com/pmarca\n\
+  • Clubhouse: https://www.clubhouse.com/\n• Eugene Wei’s Status as a Service: https://www.eugenewei.com/blog/2019/2/19/status-as-a-service\n\
+  • Kylie Jenner on Snapchat: https://www.snapchat.com/add/kyliejenner\n• The Rock on Instagram: https://www.instagram.com/therock/\n\
+  • Cristiano Ronaldo on Instagram: https://www.instagram.com/cristiano\n• Charli D’Amelio on TikTok: https://www.tiktok.com/@charlidamelio\n\
+  • Addison Rae on TikTok: https://www.tiktok.com/@addisonre\n• The founder of TikTok’s speech: https://ludlow.notion.site/Alex-Zhu-TikTok-4631f80fdcc4423a845e145e807d8e2b\n\
+  • Naval’s network tweet: https://twitter.com/naval/status/847134295600746496?lang=en\n• Y Combinator: https://www.ycombinator.com/\n\
+  • How Duolingo reignited user growth: https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth\n• Hunter Walk\
+  \ on imposter syndrome: https://hunterwalk.com/2023/03/01/imposter-syndrome-is-definitely-misnamed-might-be-a-condition-of-privilege-has-a-fascinating-history/\n\
+  • On Reviews: https://boz.com/articles/reviews\n• Jobs to Be Done framework: https://jobs-to-be-done.com/jobs-to-be-done-a-framework-for-customer-needs-c883cbf61c90\n\
+  • First-principles thinking: https://fs.blog/first-principles/\n\nIn this episode, we cover:\n(00:00) Sriram and Aarthi’s\
+  \ backgrounds \n(04:16) How Sriram and Aarthi got Elon Musk on their podcast\n(08:47) Reflections on Clubhouse and other\
+  \ social networks\n(14:14) Why Aarthi and Sriram are optimistic about tech\n(25:53) Why you should put yourself out there\
+  \ and build your personal brand\n(27:09) Why you should build a network with authentic relationships, and how to do it\n\
+  (28:56) Sriram’s curated communities\n(31:20) What you need to get right when starting a community\n(38:35) Why everyone\
+  \ who wants to should create content\n(44:22) Why you shouldn’t try to project expertise when you’re still learning\n(47:54)\
+  \ Dealing with imposter syndrome, and why you should lean into your strengths\n(54:01) Transitioning to a role of authority\n\
+  (57:30) What Sriram learned about effective management from Mark Zuckerberg \n(1:01:20) The biggest failure Aarthi had,\
+  \ and why you shouldn’t fall for fads\n(1:02:08) Sriram’s lesson from building mobile\n(1:09:21) Why Sriram hates the Jobs\
+  \ to Be Done framework\n(1:18:06) Advice for immigrants\n\nProduction and marketing by https://penname.co/. For inquiries\
+  \ about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 4972.0
 duration: '1:22:52'
 view_count: 6739

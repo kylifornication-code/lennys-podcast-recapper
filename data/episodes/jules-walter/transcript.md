@@ -4,11 +4,45 @@ title: Leveraging mentors to uplevel your career | Jules Walter (YouTube, Slack)
 youtube_url: https://www.youtube.com/watch?v=zn2JNbZwf00
 video_id: zn2JNbZwf00
 publish_date: 2023-01-05
-description: 'Jules Walter is a product leader at YouTube and co-founder of both the
-  Black Product Managers Network and Codepath.org. Previously, he led monetization
-  and mobile growth teams at Slack. He’s...
-
-  '
+description: "Jules Walter is a product leader at YouTube and co-founder of both the Black Product Managers Network and Codepath.org.\
+  \ Previously, he led monetization and mobile growth teams at Slack. He’s also a very well-known leader in the broader product\
+  \ community. In today’s episode, we discuss the skills that matter most to PMs, and how to build those skills. We also spend\
+  \ quite a bit of time talking about the importance of finding mentors to help you learn new skills, how to nail your next\
+  \ job interview, barriers to entry for underrepresented people, and some of the most common paths into product management.\n\
+  \n—\n\nFind the transcript at: https://www.lennysnewsletter.com/p/leveraging-mentors-to-uplevel-your\n\n—\n\nThank you to\
+  \ our wonderful sponsors for supporting this podcast:\n\n• Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\
+  • Notion—One workspace. Every team: https://www.notion.com/lennyspod\n• Linear—The new standard for modern software development:\
+  \ https://linear.app/lenny\n\n—\n\nWhere to find Jules Walter:\n\n• Twitter: https://twitter.com/julesdwalt\n• LinkedIn:\
+  \ https://www.linkedin.com/in/juleswalter/\n\n—\n\nWhere to find Lenny:\n\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\n—\n\nReferenced:\n\n\
+  • Maryanna Quigless on LinkedIn: https://www.linkedin.com/in/quigless/\n• Brittany Bankston on LinkedIn: https://www.linkedin.com/in/brittany-bankston-77693a85/\n\
+  • Benin Saffo on LinkedIn: https://www.linkedin.com/in/benin-saffo/\n• Lawrence Ripsher on LinkedIn: https://www.linkedin.com/in/lawrenceripsher/\n\
+  • Matt Mochary on Lenny’s Podcast: https://www.lennyspodcast.com/videos/how-to-fire-people-with-grace-work-through-fear-and-nurture-innovation-matt-mochary/\n\
+  • Adriel Frederick on Lenny’s Podcast: https://podcasts.apple.com/us/podcast/humanizing-product-development-adriel-frederick-reddit/id1627920305?i=1000583287891\n\
+  • Bangaly Kaba on LinkedIn: https://www.linkedin.com/in/iambangaly/\n• The Minto Pyramid Principle: Logic in Writing, Thinking,\
+  \ and Problem Solving: https://www.amazon.com/Minto-Pyramid-Principle-Writing-Thinking/dp/0960191046\n• Pathwise Leadership:\
+  \ https://pathwiseleadership.com/\n• Erin Teague on LinkedIn: https://www.linkedin.com/in/erinteague/\n• Bradley Horowitz\
+  \ on LinkedIn: https://www.linkedin.com/in/bradleyhorowitz/\n• Nikhyl Singhal on LinkedIn: https://www.linkedin.com/in/nikhyl/\n\
+  • Tim Ferriss on what makes a great mentor: https://www.businessinsider.com/tim-ferriss-what-makes-great-mentor-2017-11\n\
+  • Never Split the Difference: Negotiating As If Your Life Depended on It: https://www.amazon.com/Never-Split-Difference-audiobook/dp/B01COR1GM2\n\
+  • Connect: Building Exceptional Relationships with Family, Friends and Colleagues: https://www.amazon.com/Connect-Building-Exceptional-Relationships-Colleagues/dp/0241986869\n\
+  • Chris Voss’s MasterClass on negotiating in the workplace: https://www.masterclass.com/sessions/classes/win-workplace-negotiations\n\
+  • Lex Fridman’s podcast: https://lexfridman.com/podcast/\n• Never Have I Ever on Netflix: https://www.netflix.com/title/80179190\n\
+  • Top Gun: Maverick on YouTube: https://www.youtube.com/watch?v=0KBTJBiL3oQ\n\nInterview Prep Communities:\n\n• Lewis C\
+  \ Lin's Interview Community: https://join.slack.com/t/pminterview/shared_invite/zt-1mqc5lzdt-SZuIvbzZIl8ob7UJeydVGg\n• Exponent:\
+  \ https://www.tryexponent.com/\n• StellarPeers: https://stellarpeers.com/\n\n—\n\nIn this episode, we cover:\n\n(00:00)\
+  \ Jules’s background\n(06:07) Two paths to becoming a product manager\n(07:20) How Jules became the first growth PM at Slack\n\
+  (09:03) Black Product Managers Network and Codepath.org\n(12:05) The most important skills to refine as a PM: IQ skills\
+  \ and EQ skills\n(14:48) How to improve your interview skills \n(18:50) Why interviewing is more difficult for underrepresented\
+  \ people\n(20:39) EQ skills: what are they and how to improve them\n(22:44) The EQ skills Jules has had to develop over\
+  \ the course of his career\n(24:27) The importance of having a mentor or coach for self-reflection \n(26:09) How cultivating\
+  \ self-awareness helped Jules improve his communication\n(30:13) Strategies for learning new skills\n(35:32) Improving strategy,\
+  \ execution, and product sense \n(37:00) How identifying best practices can help you improve skills\n(40:22) Communicating\
+  \ clearly and asking for feedback\n(42:38) Methods Jules uses to improve skills\n(45:31) How to approach asking for feedback\n\
+  (47:46) Why it’s harder to get honest feedback on EQ skills\n(50:56) The importance of understanding your strengths and\
+  \ weaknesses and leaning into the former\n(55:18) Jules’s most impactful mentors\n(56:14) The qualities to look for in a\
+  \ good mentor and how to approach them\n(1:02:15) How to foster the best relationship with your mentor\n(1:06:51) Lightning\
+  \ round\n\n—\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 4227.0
 duration: '1:10:27'
 view_count: 10296

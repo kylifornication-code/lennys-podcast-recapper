@@ -1,15 +1,46 @@
 ---
 guest: John Cutler
-title: What differentiates the highest-performing product teams | John Cutler (The
-  Beautiful Mess)
+title: What differentiates the highest-performing product teams | John Cutler (The Beautiful Mess)
 youtube_url: https://www.youtube.com/watch?v=Y4PdUItyXUk
 video_id: Y4PdUItyXUk
 publish_date: 2023-01-15
-description: 'John Cutler writes the popular and beloved product newsletter The Beautiful
-  Mess. For many years, he was a Product Evangelist at Amplitude, where he ended up
-  meeting and working with a large...
-
-  '
+description: "John Cutler writes the popular and beloved product newsletter The Beautiful Mess. For many years, he was a Product\
+  \ Evangelist at Amplitude, where he ended up meeting and working with a large number of product teams around the world.\
+  \ Through this role, he gained unique insight into how the best product teams operate. In today’s episode, John reflects\
+  \ on leaving his role at Amplitude and explains the attributes that the top 1% of product teams share and the varying ways\
+  \ that companies achieve these core elements. We go deep into some of his favorite frameworks and discuss the best way to\
+  \ apply these frameworks to your work. We also unpack skills like product sense and product mindset, and what he’s planning\
+  \ in his new role at Toast.\n\n—\n\nFind the full transcript here: https://www.lennysnewsletter.com/p/what-differentiates-the-highest-performing\n\
+  \n—\n\nThank you to our wonderful sponsors for supporting this podcast:\n\n• Merge—A single API to add hundreds of integrations\
+  \ into your app: http://merge.dev/lenny\n• Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\n• Vanta—Automate\
+  \ compliance. Simplify security: https://vanta.com/lenny\n\n—\n\nWhere to find John Cutler:\n\n• Twitter: https://twitter.com/johncutlefish\n\
+  • LinkedIn: https://www.linkedin.com/in/johnpcutler/\n• Newsletter: https://cutlefish.substack.com/\n\n—\n\nWhere to find\
+  \ Lenny:\n\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n—\n\nReferenced:\n\n• Amplitude: https://amplitude.com/\n• The North Star Playbook: https://info.amplitude.com/north-star-playbook\n\
+  • Craig Daniel on LinkedIn: https://www.linkedin.com/in/craigmdaniel/\n• Working Backwards: Insights, Stories, and Secrets\
+  \ from Inside Amazon: https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595\n• AppFolio: https://www.appfolio.com/\n\
+  • Satya Nadella on LinkedIn: https://www.linkedin.com/in/satyanadella/\n• The Culture Map: Breaking Through the Invisible\
+  \ Boundaries of Global Business: https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507\n• Innovation\
+  \ Labs: https://innovationlabs.com/\n• BEES: https://mybeesapp.com/\n• Marty Cagan on Lenny’s Podcast: https://www.lennysnewsletter.com/p/the-nature-of-product-marty-cagan#details\n\
+  • Sooner Safer Happier: Antipatterns and Patterns for Business Agility: https://www.amazon.com/Sooner-Safer-Happier-Patterns-Antipatterns/dp/1942788916\n\
+  • Teresa Torres on LinkedIn: https://www.linkedin.com/in/teresatorres/\n• Andrew Huberman on Instagram: https://www.instagram.com/hubermanlab/?hl=en\n\
+  • TBM 49/52: Pyramid of Leadership Self/Other Awareness: https://cutlefish.substack.com/p/tbm-4952-pyramid-of-leadership-selfother\n\
+  • ChatGPT: https://chat.openai.com/chat\n• How to Measure Anything: Finding the Value of Intangibles in Business: https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U\n\
+  • Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations: https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339\n\
+  • User Story Mapping: Discover the Whole Story, Build the Right Product: https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/B08TZGKKF2\n\
+  • Build with Maggie Crowley podcast: https://podcasts.apple.com/us/podcast/build-with-maggie-crowley/id1445050691\n• One\
+  \ Knight in Product podcast: https://www.oneknightinproduct.com/index.html#page-top\n• Sunny Bunnies on Netflix: https://www.netflix.com/title/81286920\n\
+  • Booba on Netflix: https://www.netflix.com/title/81011059\n• Toast: https://pos.toasttab.com/\n• Drift: https://www.drift.com/\n\
+  \n—\n\nIn this episode, we cover:\n\n(00:00) What is a product evangelist? John’s unique role at Amplitude\n(05:50) John’s\
+  \ reflections and feelings on leaving Amplitude\n(17:28) What John’s doing next\n(18:52) John’s newsletter: The Beautiful\
+  \ Mess\n(27:49) What do the top 1% of product teams have in common?\n(40:08) Different ways companies are successful, and\
+  \ why anyone can improve\n(45:55) Investing in people vs. investing in processes\n(49:59) Global company cultures: the individualist\
+  \ vs. the collectivist  \n(55:55) Why it’s hard to make changes in large companies\n(58:49) How to view frameworks\n(1:01:02)\
+  \ The spectrum of performance \n(1:05:27) Examples of high-performing people who work outside of Silicon Valley\n(1:09:02)\
+  \ The skill of product management\n(1:11:35) The value of learning a bit about everything\n(1:13:46) Why do people often\
+  \ underestimate the loops available at their company\n(1:16:20) Chronic vs. acute issues at companies\n(1:18:07) Product\
+  \ sense and product mindset\n(1:22:38) John’s writing process and what he plans on writing about next\n(1:31:56) Lightning\
+  \ Round\n\n—\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 6044.0
 duration: '1:40:44'
 view_count: 14846

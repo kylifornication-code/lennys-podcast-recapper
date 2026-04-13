@@ -1,15 +1,111 @@
 ---
 guest: Mike Maples Jr
-title: 'Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr.
-  (Partner at Floodgate)'
+title: 'Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)'
 youtube_url: https://www.youtube.com/watch?v=h9o6gPQA6LA
 video_id: h9o6gPQA6LA
 publish_date: 2024-07-07
-description: 'Mike Maples, Jr. is a legendary early-stage startup investor and a co-founder
-  and partner at Floodgate. He’s made early bets on transformative companies like
-  Twitter, Lyft, Twitch, Okta,...
+description: 'Mike Maples, Jr. is a legendary early-stage startup investor and a co-founder and partner at Floodgate. He’s
+  made early bets on transformative companies like Twitter, Lyft, Twitch, Okta, Rappi, and Applied Intuition and is one of
+  the pioneers of seed-stage investing as a category. He’s been on the Forbes Midas List eight times and enjoys sharing the
+  lessons he’s learned from his years studying iconic companies. In his new book, Pattern Breakers: Why Some Start-Ups Change
+  the Future, co-authored with Peter Ziebelman, he discusses what he’s found separates startups and founders that break through
+  and change the world from those that don’t. After spending years reviewing the notes and decks from the thousands of startups
+  he’s known over the past two decades, he’s uncovered three ways that breakthrough founders think and act differently. In
+  our conversation, Mike talks about:
 
-  '
+  • The three elements of breakthrough startup ideas
+
+  • Why you need to both think and act differently
+
+  • How to avoid the “comparison trap” and “conformity trap”
+
+  • The importance of movements, storytelling, and healthy disagreeableness in startup success
+
+  • How to apply pattern-breaking principles within large companies
+
+  • Mike’s one piece of advice for founders
+
+  • Much more
+
+
+  Pre-order Mike’s book and get a second signed copy for free. Limited copies are available, so order ASAP: https://www.patternbreakers.com/lenny.
+
+
+  Brought to you by:
+
+  • Enterpret—Transform customer feedback into product growth: https://enterpret.com/lenny
+
+  • Anvil—The fastest way to build software for documents: https://www.useanvil.com/lenny
+
+  • Webflow—The web experience platform: https://webflow.com
+
+
+  Find the transcript and references at: https://www.lennysnewsletter.com/p/how-to-find-a-great-startup-idea-mike-maples-jr
+
+
+  Where to find Mike Maples, Jr.:
+
+  • X: https://x.com/m2jr
+
+  • LinkedIn: https://www.linkedin.com/in/maples/
+
+  • Substack: https://greatness.substack.com/
+
+  • Website: https://www.floodgate.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Mike’s background
+
+  (03:10) The inspiration behind Pattern Breakers
+
+  (08:09) Uncovering startup insights
+
+  (11:37) A quick summary of Pattern Breakers
+
+  (13:52) Coming up with an idea
+
+  (15:30) Inflections
+
+  (17:03) Examples of inflections
+
+  (28:02) Insights
+
+  (36:49) The power of surprises
+
+  (47:31) Founder-future fit
+
+  (55:28) Advice for aspiring founders
+
+  (56:33) Living in the future: valid opinions
+
+  (58:32) Identifying lighthouse customers
+
+  (01:00:45) The importance of desperation in customer needs
+
+  (01:03:49) Creating movements and storytelling
+
+  (01:24:14) The role of disagreeableness in startups
+
+  (01:34:34) Applying these principles within a company
+
+  (01:40:35) Lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 6554.0
 duration: '1:49:14'
 view_count: 53184

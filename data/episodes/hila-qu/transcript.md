@@ -4,11 +4,41 @@ title: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)
 youtube_url: https://www.youtube.com/watch?v=7l1fIxk7SnA
 video_id: 7l1fIxk7SnA
 publish_date: 2023-04-02
-description: 'Hila Qu is an Executive in Residence at Reforge as well as a renowned
-  growth advisor, angel investor, and published author (her book about growth was
-  named one of the top 10 business books...
-
-  '
+description: "Hila Qu is an Executive in Residence at Reforge as well as a renowned growth advisor, angel investor, and published\
+  \ author (her book about growth was named one of the top 10 business books of 2018 in China). Previously, she served as\
+  \ the Director of Growth at GitLab, where she implemented and scaled their PLG motion, and VP of Growth at Acorns, scaling\
+  \ them from 1 million to 5 million users. In today’s episode, we discuss:\n\n• The importance of having both a product-led\
+  \ and a sales-led motion for companies of all sizes\n• A step-by-step process for implementing PLG\n• Common pitfalls of\
+  \ layering on PLG\n• How to audit your existing funnel\n• Conversion, activation, and retention tactics\n• Structuring your\
+  \ growth organization from day one, and as it scales\n\n—\n\nBrought to you by Amplitude—Build better products | Miro—A\
+  \ collaborative visual platform where your best work comes to life | Ahrefs—Improve your website’s SEO for free\n\nFind\
+  \ the full transcript at: https://www.lennysnewsletter.com/p/the-ultimate-guide-to-adding-a-plg\n\nWhere to find Hila Qu:\n\
+  • Twitter: https://twitter.com/HilaQu\n• LinkedIn: https://www.linkedin.com/in/hilaqu/\n\nWhere to find Lenny:\n• Newsletter:\
+  \ https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Hila’s background\n(03:26) The outcome of writing guest posts for Lenny’s Newsletter\n\
+  (05:12) Why companies should have PLG and sales\n(07:58) What PLG is and why it’s so popular\n(09:41) Zoom, an example of\
+  \ a PLG company\n(11:24) Common pitfalls in adding a PLG motion\n(16:06) The spectrum of when PLG makes sense\n(20:04) What\
+  \ you need to be successful in a product-led growth strategy\n(24:52) The first step to adding a PLG motion\n(30:11) What\
+  \ GitLab does and how the sales funnel and PLG funnel work there\n(34:07) Mapping out the funnel\n(35:29) Finding leverage\
+  \ and other next steps\n(38:24) What an aha moment is and conducting an audit\n(47:30) Activation and conversion \n(52:17)\
+  \ Why you should start with activation, and who is doing it well\n(55:24) Retention, the messy part of the funnel\n(1:00:34)\
+  \ How Hila made an impact on retention at Acorns\n(1:03:03) The two buckets of data \n(1:04:56) Tools for implementing a\
+  \ PLG motion\n(1:08:47) The importance of data \n(1:10:20) Tips to get started, and why you need to have good data first\n\
+  (1:12:10) How to do a data audit\n(1:15:04) Building a PLG team\n(1:22:40) The core growth squad\n(1:27:51) Lightning round\n\
+  \nReferenced:\n• Hila’s guest post on Lenny’s Newsletter: https://www.lennysnewsletter.com/p/five-steps-to-starting-your-plg-motion\n\
+  • Ravi Mehta on Lenny’s Podcast: https://www.lennyspodcast.com/building-your-product-strategy-stack-ravi-mehta-tinder-facebook-tripadvisor-outpace/\n\
+  • Amplitude: https://amplitude.com/\n• GitLab: https://about.gitlab.com/\n• Lauryn Isford on Lenny’s Podcast: https://www.lennyspodcast.com/mastering-onboarding-lauryn-isford-head-of-growth-at-airtable/\n\
+  • Acorns: https://signup.acorns.com/\n• PostHog: https://posthog.com/\n• Mixpanel: https://mixpanel.com/\n• Pendo: https://go.pendo.io/\n\
+  • Optimizely: https://www.optimizely.com/\n• Eppo: https://www.geteppo.com/\n• HubSpot: https://www.hubspot.com/\n• Clearbit:\
+  \ https://clearbit.com/\n• ZoomInfo: https://www.zoominfo.com/\n• Endgame: https://www.endgame.io/\n• Pocus: https://www.pocus.com/\n\
+  • Pace: https://www.paceapp.com/\n• Toplyne: https://www.toplyne.io/\n• Crystal Widjaja on Lenny’s Podcast: https://www.lennyspodcast.com/how-to-scrappily-hire-for-measure-and-unlock-growth-crystal-widjaja-gojek-and-kumu/\n\
+  • Redshift: https://aws.amazon.com/redshift/\n• The Almanack of Naval Ravikant: A Guide to Wealth and Happiness: https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness-ebook/dp/B08FF8MTM6\n\
+  • How Women Rise: https://www.amazon.com/How-Women-Rise-Habits-Holding/dp/1847942253/\n• 硅谷增长黑客实战笔记 (Hila’s best-selling\
+  \ book on growth): https://www.amazon.com/dp/B07BZC8L78?ref_=cm_sw_r_cp_ud_dp_ND87BRFMB0CMWBEVB747\n• The Wandering Earth\
+  \ II: https://wellgousa.com/films/wandering-earth-ii\n• The Three-Body Problem: https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032\n\
+  • Lululemon yoga pants: https://shop.lululemon.com/c/women-pants/yoga/\n• ChatGPT: https://chat.openai.com/chat\n• Someday:\
+  \ https://www.amazon.com/Someday-Alison-McGhee/dp/1416928111\n\nProduction and marketing by https://penname.co/. For inquiries\
+  \ about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 5603.0
 duration: '1:33:23'
 view_count: 14992

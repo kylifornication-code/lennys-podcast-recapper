@@ -1,15 +1,42 @@
 ---
 guest: Camille Fournier
-title: The things engineers are desperate for PMs to understand | Camille Fournier
-  (“The Manager’s Path”)
+title: The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)
 youtube_url: https://www.youtube.com/watch?v=hZSh0rs20uI
 video_id: hZSh0rs20uI
 publish_date: 2024-09-15
-description: 'Camille Fournier is the author of The Manager’s Path, which many consider
-  the definitive guide for navigating one’s career path in tech. Camille was previously
-  the CTO of Rent the Runway,...
-
-  '
+description: "Camille Fournier is the author of The Manager’s Path, which many consider the definitive guide for navigating\
+  \ one’s career path in tech. Camille was previously the CTO of Rent the Runway, VP of Technology at Goldman Sachs, Head\
+  \ of Platform Engineering at Two Sigma, and Global Head of Engineering and Architecture at JPMorgan Chase. She is about\
+  \ to release new newest book, Platform Engineering: A Guide for Technical, Product, and People Leaders. In our conversation,\
+  \ we discuss:\n• What product managers do that annoys engineers\n• Why major rewrites are a trap\n• Why you should have\
+  \ fewer one-on-ones\n• Strategies for organizing and working with platform teams\n• Tips for new managers\n• Advice for\
+  \ transitioning from individual contributor to manager\n• Much more\n\n—\n\nBrought to you by:\n• DX—A platform for measuring\
+  \ and improving developer productivity: https://getdx.com/lenny\n• CommandBar—AI-powered user assistance for modern products\
+  \ and impatient users: https://www.commandbar.com/lenny\n• Coda—The all-in-one collaborative workspace: https://coda.io/lenny\n\
+  \nFind the transcript at: https://www.lennysnewsletter.com/p/engineering-leadership-camille-fournier\n\nWhere to find Camille\
+  \ Fournier:\n• LinkedIn: https://www.linkedin.com/in/camille-fournier-9011812/\n• Website: https://skamille.medium.com/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Camille’s background\n(02:17) Common annoyances between PMs and engineers\n(07:09)\
+  \ Avoiding the telephone game\n(08:05) Hoarding ideas and over-engineering\n(09:55) The importance of involving engineers\
+  \ in ideation\n(11:37) The middle-person dilemma\n(14:21) Rewriting systems: a big trap?\n(20:40) Engineering leadership\
+  \ lessons\n(36:02) Moving from IC to management\n(40:32) One-on-one meetings\n(45:10) Pushing beyond comfort zones\n(45:27)\
+  \ Building a balanced work culture\n(48:01) Effective time management strategies\n(54:15) Advice for platform team success\n\
+  (01:02:42) Platform team responsibilities \n(01:04:43) When to form a platform team\n(01:07:02) Thriving on a platform team\n\
+  (01:12:48) AI corner\n(01:17:03) Lightning round and final thoughts\n\nReferenced:\n• Platform Engineering: A Guide for\
+  \ Technical, Product, and People Leaders: https://www.amazon.com/Platform-Engineering-Technical-Product-Leaders/dp/1098153642/\n\
+  • The Manager’s Path: A Guide for Tech Leaders Navigating Growth and Change: https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897\n\
+  • 97 Things Every Engineering Manager Should Know: Collective Wisdom from the Experts: https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903\n\
+  • Avoiding the Rewrite Trap: https://skamille.medium.com/avoiding-the-rewrite-trap-b1283b8dd39e\n• Levelsio on X: https://x.com/levelsio\n\
+  • Pieter Levels on the Lex Fridman Podcast: https://www.youtube.com/watch?v=oFtjKbXKqbg\n• GraphQL: https://graphql.org/\n\
+  • New Blue Sun by André 3000 on Spotify: https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD\n• Musk’s 5 Steps to Cut\
+  \ Internal Bureaucracy at Tesla and SpaceX: https://icecreates.com/insight/musk-s-5-steps-to-cut-internal-bureaucracy-at-tesla-and-spacex-you-may-say-it-s-his-algorithm/\n\
+  • Ian Nowland on LinkedIn: https://www.linkedin.com/in/inowland/\n• Studio Pulls ‘Megalopolis’ Trailer Using Fake Quotes\
+  \ from Famed Movie Critics: https://www.huffpost.com/entry/studio-pulls-megalopolis-trailer-using-fake-quotes-from-famed-movie-critics_n_66c74046e4b0f1ca469413c7\n\
+  • Claude 2: https://www.anthropic.com/news/claude-2\n• What Got You Here Won’t Get You There: How Successful People Become\
+  \ Even More Successful: https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304\n• When Things Fall Apart: Heart Advice\
+  \ for Difficult Times: https://www.amazon.com/When-Things-Fall-Apart-Difficult/dp/1611803438\n• Alien: Romulus: https://www.imdb.com/title/tt18412256/\n\
+  • Whoop: https://www.whoop.com\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast,\
+  \ email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4995.0
 duration: '1:23:15'
 view_count: 15738

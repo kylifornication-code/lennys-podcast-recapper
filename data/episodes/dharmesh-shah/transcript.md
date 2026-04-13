@@ -4,11 +4,30 @@ title: 'Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (c
 youtube_url: https://www.youtube.com/watch?v=dpw9Ue1HU48
 video_id: dpw9Ue1HU48
 publish_date: 2024-04-04
-description: 'Dharmesh Shah is the co-founder and CTO of HubSpot (currently valued
-  at $30 billion) and one of the most fascinating founders I’ve ever met. Dharmesh
-  is the keeper of HubSpot’s Culture...
-
-  '
+description: "Dharmesh Shah is the co-founder and CTO of HubSpot (currently valued at $30 billion) and one of the most fascinating\
+  \ founders I’ve ever met. Dharmesh is the keeper of HubSpot’s Culture Code, built ChatSpot (an AI chatbot built on top of\
+  \ HubSpot CRM) and a game called WordPlay (which grew to 16 million users), and also founded and writes for OnStartups,\
+  \ a top-ranking startup blog and community with more than 1M members. He’s also invested in 100+ startups including OpenAI,\
+  \ AngelList, Coinbase, and Dropbox. In our conversation, we discuss:\n• The biggest lessons he has learned from building\
+  \ HubSpot\n• The importance of leaning into your strengths\n• Dharmesh’s data-oriented approach to public speaking\n• How\
+  \ he developed HubSpot’s culture code\n• The decision-making process at HubSpot\n• His contrarian approach to building products\n\
+  • Why founders and product teams are all fighting the second law of thermodynamics\n• How “flash tags” can save your teams\
+  \ time\n• How to decide what ideas are worth investing in\n\n—\n\nBrought to you by:\n• Explo—Embed customer-facing analytics\
+  \ in your product: https://explo.co/lenny\n• Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n• LinkedIn\
+  \ Ads—Reach professionals and drive results for your business: https://www.linkedin.com/podlenny\n\nFind the full transcript\
+  \ at: https://www.lennysnewsletter.com/p/lessons-from-30-years-of-building\n\nWhere to find Dharmesh Shah:\n• X: https://twitter.com/dharmesh\n\
+  • LinkedIn: https://www.linkedin.com/in/dharmesh/\n• Website: https://dharmesh.com/\n\nWhere to find Lenny:\n• Newsletter:\
+  \ https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Dharmesh’s background\n(04:20) Fun facts about Dharmesh\n(06:31) His data-oriented\
+  \ approach to public speaking\n(11:45) Advice for adding humor to your presentations\n(15:28) Why he has no direct reports\n\
+  (18:46) You can shape the universe to your liking\n(20:02) Lessons from building HubSpot\n(23:43) Contrarian ways of running\
+  \ a company\n(37:26) Fighting the second law of thermodynamics \n(40:29) The importance of simplicity in running a business\n\
+  (45:22) Succeeding in the SMB market\n(50:29) Zigging when others are zagging\n(54:17) When it makes sense to go “wide and\
+  \ deep”\n(57:33) Using flashtags to communicate opinions\n(01:02:44) HubSpot’s decision-making process\n(01:09:41) Deciding\
+  \ what ideas to invest in\n(01:15:26) Defining and maintaining company culture\n(01:30:46) The potential of AI\n(01:37:03)\
+  \ Practical advice for learning AI\n(01:40:07) Where to find Dharmesh\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
 duration_seconds: 6104.0
 duration: '1:41:44'
 view_count: 72215

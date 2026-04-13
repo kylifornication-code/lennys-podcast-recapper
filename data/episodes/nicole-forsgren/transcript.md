@@ -1,595 +1,821 @@
 ---
-guest: Nicole Forsgren
-title: How to measure AI developer productivity in 2025 | Nicole Forsgren
-youtube_url: https://www.youtube.com/watch?v=SWcDfPVTizQ
-video_id: SWcDfPVTizQ
-publish_date: 2025-10-19
-description: 'Nicole Forsgren created the most widely used frameworks for measuring
-  developer productivity—DORA and SPACE. She wrote the foundational book Accelerate
-  and is about to release her newest...
-
-  '
-duration_seconds: 4068.0
-duration: '1:07:48'
-view_count: 15366
+guest: "Nicole Forsgren"
+title: ""
+youtube_url: ""
+video_id: ""
+publish_date: ""
+description: ""
+duration_seconds: 0
+duration: ""
+view_count: 0
 channel: Lenny's Podcast
-keywords:
-- growth
-- metrics
-- okrs
-- mvp
-- iteration
-- a/b testing
-- experimentation
-- revenue
-- leadership
-- management
-- strategy
-- vision
-- competition
-- market
-- persona
+keywords: []
 ---
 
-# How to measure AI developer productivity in 2025 | Nicole Forsgren
+Nicole Forsgren (00:00:00):
+Starting with what is your problem or what is your goal? I would say this is a bigger challenge than most people recognize or realize. 80% of the folks that I work with, this is their biggest problem. Even at executive levels, teams will have gone off for several months, and they're tackling something, and they'll come back with uncertainty, and they'll say like, "Well, you told me to improve developer experience."
 
-## Transcript
+(00:00:20):
+I'm like, "Okay, what do you mean by this? Are you talking about inner and outer loop? Are you talking about friction? Are you talking about culture? But if you're talking about culture, this is totally different than if you're talking about friction in toolchains. If you're on different pages, you're heading in completely different directions."
 
-Lenny Rachitsky (00:00:00):
-A lot of companies are trying to measure productivity for their teams.
+Lenny (00:00:37):
+Welcome to Lenny's Podcast where I interview world-class product leaders and growth experts to learn from their hardware experiences, building and growing today's most successful products. Today my guest is Nicole Forsgren. This is actually my first recording back since going on pat leave for the past couple months, and what an awesome episode to get back into the swing of things. Nicole is the developer productivity expert, having written the award-winning book Accelerate, and she's been the co-author of the State of DevOps Report year after year.
 
-Nicole Forsgren (00:00:03):
-Most productivity metrics are a lie. If the goal is more lines of code, I can prompt something to write the longest piece of code ever. It's just too easy to gain that system.
+(00:01:06):
+She's currently a partner at Microsoft Research, leading developer productivity, research, and strategy, and she's helped some of the biggest companies in the world move faster, improved product quality, and transform their cultures. In our conversation, we get into the weeds of how to go about measuring and improving your engineering team's productivity and experience. We talk about the DORA framework and the SPACE framework and how to actually implement them to understand how your engineering team is doing.
 
-Lenny Rachitsky (00:00:12):
-How do I know if my eng team is moving fast enough, if they can move faster, if they're just not performing as well as they can?
+(00:01:32):
+Nicole also shares benchmarks for what elite companies are at. We talk about why moving faster turns out to be one of the best ways to improve quality and stability. Plus, pitfalls you want to avoid, and also a preview of a new book that she's working on, and so much more. Enjoy this episode with Nicole Forsgren after a short word from our sponsors. Today's entire episode is brought to you by DX, a platform for measuring and improving developer productivity. DX is designed by the researchers behind frameworks such as DORA SPACE and DevX, including Nicole Forsgren, who is my guest for this very episode.
 
-Nicole Forsgren (00:00:18):
-Most teams can move faster. But faster for what? We can ship trash faster every single day. We need strategy and really smart decisions to know what to ship.
+(00:02:09):
+If you've tried measuring developer productivity, you know that there are a lot of basic metrics out there and a lot of ways to do this wrong, and getting that full view of productivity is still really hard. DX tackles this problem by combining qualitative and quantitative insights based on the very research Nicole and her team have done, giving you full clarity into how your developers are doing. DX is used by both startups and Fortune 500 companies, including companies like Twilio, Amplitude, eBay, Brex, Toast, Pfizer, and Procter & Gamble. To learn more about DX and get a demo of their product, visit their website at getdx.com/lenny. That's getdx.com/lenny. Nicole, welcome to the podcast.
 
-Lenny Rachitsky (00:00:27):
-One of the biggest issues we're going to probably have with AI is learning how much to trust code that it generates.
+Nicole Forsgren (00:02:54):
+Thank you so much. I'm excited to be here.
 
-Nicole Forsgren (00:00:32):
-We can't just put in a command and guess something back and accept it. We really need to evaluate it. Are we seeing hallucinations? What's the reliability? Does it meet the style that we would typically write?
+Lenny (00:02:56):
+I'm excited to have you here. I actually skip this question usually with guests, but I thought it'd be actually really valuable to spend a little time on your background. You have such a unique role and unique set of experiences. Could you just talk briefly about the things you've been up to in your career, where you've worked, and then what you're up to now and what you focus on these days?
 
-Lenny Rachitsky (00:00:42):
-So much of the time is now going to be spent reviewing code versus writing code.
+Nicole Forsgren (00:03:15):
+Sure, and I appreciate the question because you're right. I sort of had this choose your own adventure background. So I started as a software engineer at IBM. I was writing software for large enterprise systems, which meant I ended up running them. So I was also a CIS admin. I was racking the stacking. I was running these really, really large labs, and then I kind of stumbled into this seven-day march for several years, and I was like, "There has to be a better way." And we're hearing rumors of it, but management was not buying in. And so I decided to win this battle with data, and I was like, "I should go do a Ph.D."
 
-Nicole Forsgren (00:00:45):
-There's some real opportunity there to not just rethink workflows, but rethink how we structure our days and how we structure our work. Now, we can also make a 45-minute work block useful because getting into the flow is actually kind of handed off, at least, in part to the machine or the machine can help us get back into the flow by, reminding us of context and generating diagrams of the system.
+(00:03:55):
+And so ended up kind of taking a slight pivot into Ph.D. and management information systems, which some people are less familiar with, but it's basically a cross between tech and business. And I ended up getting a fairly technical Ph.D. So I went to a school, I went to University of Arizona, which has a very, very technical degree, but I liked that it crossed with business because then I had the ability to make these strong business case statements, right. So it was like, how is or is the way that we develop and deliver software tied to outcomes at the individual level, right?
 
-Lenny Rachitsky (00:01:03):
-What's just one thing that you think an eng team, a product team can do this week, next week to get more done?
+(00:04:33):
+Can I be more productive? Can I have better work-life balance? And the team level, is the team more productive? Is the team more efficient? And the organizational level, right. This is what I was really interested in originally. Do I see better ROI? Do I see better efficiency because then I could sell it to people, right? And so that was really kind of what I originally went into. And then I was a professor for a handful of years because if you're doing research, traditionally, that's the job in academia. I also had a master's in accounting because that really helped me make that kind of financial tie and understanding financial statements.
 
-Nicole Forsgren (00:01:09):
-Honestly, I think the best thing you can do-
+(00:05:07):
+And then, after a handful of years kind of walked away from tenure because academia was not convinced that DevOps was a thing, right, that DevOps wasn't real, and State of DevOps Report who I was doing with DORA, DevOps research and assessment in collaboration with Jez Humble and Gene Kim. And we started that work with Puppet. So shout out to Alanna Brown for starting that, and Nigel Kersten and the team there. We kind of pivoted away. And Chef, that little configuration management startup at the time, hired me, and they're like, "We'll give you halftime to do research and halftime to help our engineering practices improve."
 
-Lenny Rachitsky (00:01:12):
-Today, my guest is Nicole Forsgren. With so much talk about how AI is increasing developer productivity, more and more people are asking, "How do we measure this productivity gain? And are these AI tools actually helping us or hurting how our developers work?" Nicole has been at the forefront of this space longer than anyone. She created the most used frameworks for measuring developer experience called DORA and SPACE. She wrote the most important book in the space called Accelerate and is about to publish her newest book called Frictionless, which gives you a guide to helping your team move faster and do more in this emerging AI world. Her core thesis is that AI indeed accelerates coding. But developers aren't speeding up as much as you think because they still have to deal with broken builds and unreliable tools and processes, and a bunch of new bottlenecks that are emerging.
+Lenny (00:05:45):
+That's cool.
 
-(00:02:01):
-In our conversation, we chat about her current, best and very specific advice for how to measure productivity gains from AI, signs that your team could be moving faster, what companies get wrong when trying to measure engineering productivity, how AI tools are both helping and hurting engineers, including getting into flow states, her seven-step process for setting up a developer experience team at your company, how to get buy-in and measure the impact of a team like this and a ton more. This episode is for anyone looking to improve the performance of their engineering teams. If you enjoy this podcast, don't forget to subscribe and follow it in your favorite podcasting app or YouTube. It helps tremendously. Also, to become an annual subscriber of my newsletter, you get a year free of 15 incredible products including Lovable, Replit, Bolt, n8n, Linear, Superhuman, Descript, Wispr Flow, Gamma, Perplexity, Warp, Granola, Magic Patterns, Raycast, ChatPRD, and Mobbin. Head on over to lennysnewsletter.com and click product pass. With that, I bring Nicole Forsgren.
+Nicole Forsgren (00:05:46):
+Yeah. I mean, they were incredible because what startup is going to be like, "Yeah, do research." So I was there for a year and a half and then left to do DORA full-time. We actually had a SaaS offering, so we continued the State of DevOps Report just under the DORA banner, and we had a SaaS offering because so many large companies were like, "I want my own customized measurement, reading, and report." And then the joke there when we met with Gartner, they were like, "Your superpower here was that you tricked people into strategy," which was not only how do I benchmark? That was kind of our top-of-the-funnel. Everyone wants to know how they compare.
 
-(00:03:01):
-This episode is brought to you by Mercury. I've been banking with Mercury for years. And honestly, I can't imagine banking any other way at this point. I switched from Chase and, holy moly, what a difference. Sending wires, tracking spend, giving people on my team access to move money around is so freaking easy. Where most traditional banking websites and apps are clunky and hard to use, Mercury is meticulously designed to be an intuitive and simple experience. And Mercury brings all the ways that you use money into a single product, including credit cards, invoicing, bill pay, reimbursements for your teammates, and capital. Whether you're a funded tech startup looking for ways to pay contractors and earn yield on your idle cash or an agency that needs to invoice customers and keep them current, or an e-commerce brand that needs to stay on top of cash flow and access capital, Mercury can be tailored to help your business perform at its highest level.
+(00:06:22):
+But the important thing is what should you do next? What's the most important next step? So it's how do I measure? What do I do next? And that gave me this incredible view into advising large organizations into this transformation journey. And then, we built out this amazing partner network. We weren't actually consulting. We just had this SaaS piece, but then how do you act on it? We were then acquired by Google, so I was CEO. And so I kind of led that acquisition and then the integration and building out these teams in Google. And after that point, I joined GitHub, which is the largest developer network.
 
-(00:03:53):
-See what over 200,000 entrepreneurs love about Mercury. Visit mercury.com to apply online in 10 minutes. Mercury is a FinTech, not a bank. Banking services are provided through Mercury's FDIC-insured partner banks. For more details, check out the show notes. Here's a puzzle for you. What do OpenAI, Cursor, Perplexity, Vercel, FLAN, and hundreds of other winning companies have in common? The answer is they're all powered by today's sponsor, WorkOS. If you're building software for enterprises, you've probably felt the pain of integrating single sign-on, skim, RBAC, audited logs, and other features required by big customers. WorkOS turns those deal blockers into drop-in APIs with a modern developer platform built specifically for B2B SaaS.
+(00:07:01):
+So I had this amazing opportunity to do more grounded and applied research again. I was VP of research and strategy and then went over to MSR, where I kind of wear a couple of hats. So right now, I have a research lab there with an incredible team. It's the developer experience lab where we do a bunch of work across productivity, community, and wellbeing. And then I also help with Microsoft's kind of cross company effort to improve their developer infrastructure. So it's sort of this round effort into how do I really remain engaged in measuring, applying, thinking about this work, both in very applied concrete pieces and incredibly forward-looking work with MSR.
 
-(00:04:38):
-Whether you're a seed-stage startup trying to land your first enterprise customer or a unicorn expanding globally, WorkOS is the fastest path to becoming enterprise-ready and unlocking growth. They're essentially Stripe for enterprise features. Visit workos.com to get started or just hit up their Slack support where they have real engineers in there, who answer your questions super fast. WorkOS allows you to build like the best with delightful APIs, comprehensive docs, and a smooth developer experience. Go to workos.com to make your app enterprise-ready today.
+Lenny (00:07:48):
+Amazing. And just to clarify, MSR, is that Microsoft? That's a division-
 
-(00:05:13):
-Nicole, thank you so much for being here and welcome to the podcast.
+Nicole Forsgren (00:07:52):
+Ah.
 
-Nicole Forsgren (00:05:16):
-Thank you. It's so good to be here.
+Lenny (00:07:52):
+... of Microsoft.
 
-Lenny Rachitsky (00:05:19):
-It's so good to have you back. I was just watching our first episode, which we did two and a half years ago. I was watching it, and I was both shocked and not shocked that we barely talked about AI. The episode was called How to Measure and Improve Developer Productivity, and we got to AI barely like an hour in and we're just like, "Hmm, I wonder what's going to happen with AI and productivity." Does that just blow your mind?
+Nicole Forsgren (00:07:53):
+Yeah. Thank you. Yeah, MSR is Microsoft Research.
 
-Nicole Forsgren (00:05:41):
-Yeah. Because it was just hitting the scene, it was the topic of so much conversation, and at the same time, so many things don't change. So many things are still important, so many things are the same. Yeah. It's also a little wild that it's been two and a half. Where does time go? Time is a social construct?
+Lenny (00:07:54):
+Okay, cool. So you've shared a couple of these terms, DevOps, developer productivity. I'm curious what the term you like to use for this area you focus on. Developer productivity, developer experience, DevOps, what's kind of the way the best way to think about this?
 
-Lenny Rachitsky (00:06:01):
-Yeah. Most of our conversation was just questions like, "Well, how might this impact people? How will we change the way we build product?" It was barely a thing back then. Now, it's the only thing that I imagine people want to talk about when they talk about engineering productivity. That's where we're going to be spending a lot of our time focusing on today. The reason I'm excited about this conversation, it feels like there's been so much money poured into AI tools increasing productivity. The fastest growing companies in the world are these engineering AI tools. And now, more and more people are just asking this question of just, "What gains are we getting out of this? How much is this actually helping us be more productive? How do we become more productive?"
+Nicole Forsgren (00:08:10):
+I really love that you asked this question because I think they're very related concepts that people sometimes conflate, but I see them as being different. So related, but different. So productivity, I think, is basically how much we can get done and how much we can do over time. And I think that's why it's so important to have this holistic measure because we can't just brute force it, right. And so that's why when my team and a bunch of my peers study productivity, we include this community effect because software is a team sport. We joke, right.
 
-(00:06:39):
-You've been at the center of this world for longer than anyone. You've invented so many of the frameworks that people rely on now. So I'm really excited to have you back to talk about this stuff. I want to start with just this term DevEx, it's something that comes up a lot in this whole space, and we're going to hear this term a bunch in this conversation. Can you just explain what is DevEx, this term DevEx?
+(00:08:40):
+And also why wellbeing is so important, right. Because we see that when you do productivity the right way, we see sustainability, we see wellbeing, we see reductions in burnout. Now, developer experience is very related and very tied to this, and it contributes to productivity. But developer experiences, if you think about who your users are, developers really are you your users in this software engineering, in the software development piece. And so developer experience is sort of like what is it like to write software? Is this a friction-free process? Is this a very predictable and certain experience? Can we reduce this uncertainty and increase the predictability here to contribute to productivity?
 
-Nicole Forsgren (00:07:00):
-DevEx is developer experience. And when we think about developer experience, we're really talking about what it's like to build software, day to day, for a developer. So the friction that they face, the workflows that they have to go through, any support that they have. It's important because when DevEx is poor, everything else just isn't going to help. The best processes, the best tools, the best... whatever magic you have, if the DevEx is bad, everything kind of takes-
+Lenny (00:09:26):
+And then how does DevOps fit into that just so that we kind of have the mental model of these terms?
 
-Lenny Rachitsky (00:07:34):
-Within DevEx is productivity, and I think the key insight that you had and other folks in the space of that is not just productivity, but there's also engineering happiness. We're going to get into a lot of these parts, but just maybe speak to... there's productivity and there's broader components to engineers being successful at a company.
+Nicole Forsgren (00:09:31):
+People have sort of co-opted the term. So some people name their tools DevOps. I'm maybe a little more old school. So when I was doing a bunch of my DevOps research, it was the capabilities and tools and processes that we can use to improve our software development and delivery end to end so that it's faster and it is more reliable. So DevOps was kind of this technical, architectural, cultural practices that enable us to do this work better so that it is, yes, more productive, we have a better developer experience. It was kind of, again, this very holistic picture.
 
-Nicole Forsgren (00:07:51):
-Yeah. I love that point because productivity, first of all, is hard to define anyway. But if you're just looking at output, you can get there in a lot of different ways. But if you're getting there in ways that are high toil or high friction, then at some point, a developer is going to burn out. Or if it's super high cognitive load, if it's hard to even think about what you're doing because concentrating on the mechanics of... the plumbing of something, then you don't have the brain space left to come up with really innovative solutions and questions. So I love that it's kind of this self-reinforcing loop in terms of, "You do more work, you do better work." And it's better for people, it's better for the systems, it's better for our customers.
+Lenny (00:10:06):
+So what I love about this topic is that I've never met a founder or a leader who is not thinking, "We need to move faster. We need our engineers to be more productive. We need to get things out the door quicker. We want engineers to be happier." Nobody doesn't want that. And so that's why I'm excited to dig into a lot of these things. Is that roughly what you find as well, that nobody's ever like, "We're good. We don't need any of this. We don't need to focus on this area?"
 
-Lenny Rachitsky (00:08:34):
-I was going to get to this later, but I want to actually get to this right now, this idea of flow state for engineers. I was an engineer, actually, early in my career. I went to a school for computer science. I was an engineer for 10 years. The best part of the job for me was just this flow state you enter when you're coding and building, and just things feel like so fun. It feels like AI is making that harder in a lot of ways because there's all these agents you're working with now, there's all this code that's kind of being written for you. Talk about just the importance of flow state to a developer, happiness, developer productivity, and just what you've seen AI impacting. How you've seen AI impacting that?
+Nicole Forsgren (00:10:32):
+You know what, I'll say yes and, right. So and it kind of goes back to why I got into this because, on the one hand, you won't say anyone who's saying, "Uh, we don't really need to go faster. Everything's fine." But at the same time, very often, I will come into scenarios where I'll find myself in scenarios where people are like, "I mean, it would be nice if we were going faster, but do we really need to. Show me the business case. What's the ROI?" Or if we go too fast, we'll have an instability, right. What are our safety measures? Are we going to lose reliability? What is happening?
 
-Nicole Forsgren (00:09:07):
-Well, there are lots of different ways to talk about DevEx. One way to talk about it is kind of three key things that have components that are important of themselves, and they also kind of reinforce each other. Flow state is one of them, cognitive load is another, and then feedback loops are another. I think when you touch on this... Your question about flow state is a really good one, and I'll admit we're just a few years into this. We're still figuring out what the best flow state and cognitive requirements are for people in this because, to your point, sometimes we're getting interrupted all the time. You don't just get in the flow and lock down, and write a whole bunch of code and do the typing of a whole bunch of code as much anymore. Instead, you're kind of creating a prompt, getting some code back and reviewing the code, trying to integrate what's happening in the system, and that can really interrupt.
+(00:11:13):
+And when I first started ITIL and ITSM, right, the old school kind of change management processes, the common knowledge was that you had to have at least a two-week wait for change approvals in order to get that stability. Turns out that's not right. It was just kind of an old wives' tale, right. And so we kind of have this weird balance of I want to move faster, but is it worth the investment? What am I going to get for it? Are you sure this is the priority? Or I've been in meetings where it's like, "Oh yes, absolutely, right. This is a priority, but it's the lowest priority."
 
-(00:10:02):
-At the same time though, it can contribute to flow if... I've seen some senior engineers pull together some tool chains that are really incredible, where they figured out how to keep the flow going. The fast feedback loops really, really work well for them. They can kind of assign out different pieces to agents. It helps them keep in the flow in terms of... Instead of details and line-by-line writing, they're in the flow in terms of, "What's my goal? What are the pieces that I need to get there? How quickly can I get there? So then, I can step back and kind of evaluate everything, and then dive back in and fix some pieces."
+(00:12:00):
+And I'm like... Right. So then what we want to do is we want to have these kind of pointed conversations or these kind of Socratic type questions and conversations where it's like, "Help me understand more what your concerns are. Are your concerns around reliability when you move faster?" We're not just trying to all the guardrails down and sprint for no purpose of sprinting. And this is where kind of the DORA and DevOps research program comes into play where it's we don't just want to move fast and take all guardrails down.
 
-Lenny Rachitsky (00:10:34):
-Is there anything more you could say about this engineer that figured out this really cool workflow, about just what that looks like?
+(00:12:33):
+We want to implement good technical practices like automated testing, good architectural practices so that when you move fast, you are also more stable, right. We want to be thinking about improving the developer experience so that when we are faster, we are also saving time. And then, we can highlight a handful of statistics. Like, what is your typical time for feature delivery? What is your typical time to first PR? What is your typical time to steady state productivity?
 
-Nicole Forsgren (00:10:39):
-I've spoken with a handful of them, and I've kind of watched them work. I haven't built it myself yet. It's on my list. They've been able to set up this really incredible workspace and workflow where... Right now, a lot of us play around with tools and... We'll put in a prompt and we'll get a few lines back or maybe we'll put in a prompt and we'll get whole programs back. Well, what they can do is they can... Many times I'll see them say, to help prime it, "This is what I want to build. It needs to have these basic architectural components. It needs to have this kind of a stack. It needs to follow this general workflow. Help me think that through," and it'll kind of design it for it. And then for each piece, it'll assign an agent to go work on each pace in parallel, and then it'll say and upfront, "These need to be able to work together, make sure it's architected correctly. Make sure we use appropriate APIs and conventions."
+(00:13:04):
+What is your typical time for code review and PR process? And if we are to do back-of-the-napkin math, what sorts of time are you spending here? And if we do a rough look at industry, what are your peers spending here? And are we losing time, right? And if we could turn this into a value calculation, what does that look like? So that we can think about the priority and the strategy here. And I think that's where it becomes a more focused conversation.
 
-(00:11:30):
-Then at the end, they can let it run for a few minutes. They can think through something else that's interesting or they anticipate is going to be hairy, and they come back to something that's probably a little better than vibe coded. Because they were so systematic about it upfront, they're much closer to something that looks like production code.
+Lenny (00:13:43):
+This is a great segue too, something I was going to get to a little bit later, but let's just get into it, which is the DORA framework, and then there's also the SPACE framework. Could you just talk about what these two are when you use one versus the other, and then how that essentially helps you measure and then improve productivity and developer experience?
 
-Lenny Rachitsky (00:11:51):
-So what I'm hearing is spending a little time upfront planning, what all these AI engineers are doing, versus just powering through and just figuring out as you go.
+Nicole Forsgren (00:14:01):
+Sure, sure. Absolutely. And I'm so glad you brought this up. So DORA is, it's an entire research program. Now, many people, when they hear DORA now they think of the Four Keys or the DORA four or the four metrics, and I think that's what the research program and the company ended up becoming most known for. And so that was the software delivery performance metrics, and those are, there's two speed and two stability metrics. So the speed metrics are lead time, so how long does it take to get from code committed to code running in production? Deployment frequency. How often do you deploy code?
 
-Nicole Forsgren (00:12:02):
+(00:14:40):
+And then the stability metrics are MTTR, mean time to restore. So if something happens, how long does it take you to come back? And then change fail rate. For every change that is pushed, what's the rough percentage of incidents or that require human intervention, right? Now the thing that was really interesting is when we started measuring these, we found that they move in tandem now with very strong significance from a statistical standpoint. Now what this means is now, we say speed and stability move together.
+
+(00:15:19):
+Most people only think about this from the speed standpoint, which means when you move faster, you are more stable, which means you're pushing smaller changes more often, right. Because if you're pushing all the time, it's going to be very, very small changes, which means you have a smaller blast radius, which means when you push, you have an error in production. It's going to be easier to debug, right. It's going to be much easier to figure all of that out your mean time to restore and mitigate. It's going to be much faster.
+
+(00:15:44):
+But that also means is the reverse. When you push changes less frequently, you will have more unstable systems because when you push less frequency, you will have very, very large batch changes, which means you'll have a very high, very large blast radius, which means when you do have a resulting bug error, you will have to disentangle this big ball of mud and figure out which piece actually caused the error, figure all of that out. That ended up being a big surprise because, refer to my prior comment about ITIL and ITSM, if you're forcing a two-week pause for change approvals, you're causing this batching up of changes.
+
+(00:16:36):
+And sometimes people were waiting, "If two weeks is good, a month must be better, or three months must be better, or six months must be better." And I mean, just think about the merge conflicts you're causing, right. You're just causing so many challenges in figuring out how to push this code into production. So many people think of those four metrics, one, because we found that speed and stability move together, and two because we started publishing benchmarks on what this looks like for low, medium, high, and then elite performers for many times.
+
+(00:17:06):
+This, I believe, may have been interesting. I'm not sure if it was useful or helpful, but I think it was interesting because it gave people at least something to shoot for, something to aim for. I will definitely say what's most important is knowing where you are and the progress that you're making, right. It doesn't matter if, frankly, you're a high performer or you're an elite performer. It matters that where you are and you're making progress, right. Can you push daily or on demand, or is your only technical capability that you can push twice a year, right? Just know where you are, and is it a business decision or a technical capability? That's basically what it comes down to.
+
+Lenny (00:17:47):
+I'm going to jump in real quick just to highlight what you're talking... what you just said, which I think is extremely important and powerful, and people might kind of move on too quickly. I also want to ask you what actual benchmarks are, if you can share those, whatever you want to share there.
+
+(00:18:01):
+But before I ask that, essentially, what you're sharing right now is just I feel like the 64,000 dollar question of this episode is just how do I move faster as a team? And what I'm hearing is essentially it's ship smaller things is kind of at the core of it. And also, if we're... if quality is low, you're also saying the answer is ship more often, ship smaller things. Is that roughly the message?
+
+Nicole Forsgren (00:18:26):
+Yes, absolutely. It ends up being much, much safer.
+
+Lenny (00:18:29):
+Amazing. So I think that's an extremely important takeaway that I think people would... I don't know. That's surprising to me to hear that it's quality comes from shipping faster and then also to ship faster, and move... help your team move faster. It's ship smaller things and just deploys more often.
+
+Nicole Forsgren (00:18:47):
+Yep.
+
+Lenny (00:18:48):
+Amazing. Okay, great. I know we'll talk more about this, but let me go back to the question I was going to ask is-
+
+Nicole Forsgren (00:18:53):
 Yeah.
 
-Lenny Rachitsky (00:12:02):
-Okay, cool. Let me get to this quite a core question that I think on is a lot of people's minds. A lot of companies are trying to measure productivity for their teams, "Is this improving our productivity? Is this hurting our productivity?" So let me just start with this question, how are people doing this wrong currently when they try to measure their productivity gains with AI?
+Lenny (00:18:55):
+... are there benchmarks you can share just right now that you think would be useful to people? I know you said it was interesting and maybe not as useful to people as you mentioned.
 
-Nicole Forsgren (00:12:23):
-I'll say most productivity metrics are a lie. It's really tricky because, historically... Now, look, lines of code has always been a bad metric, but many folks still use lines of code-
+Nicole Forsgren (00:19:00):
+Yeah. So I will admit I only have the 2019 benchmarks top of mind. The team at Google has continued that work since I left. It's been led by Dr. Dustin Smith. Nathen Harvey continues the work, so huge shout out to that team. Many others participate. You can go to dora.dev and find all of the continued reports. They've integrated all of this work.
 
-Lenny Rachitsky (00:12:37):
-[inaudible 00:12:37].
+(00:19:26):
+But I will say they've remained fairly consistent. So really quickly, I'll share the elite performance. So deployment frequency, you can deploy on-demand, lead time for changes takes less than a day. Time to restore is less than an hour, and your change fail rate is between zero and 15%.
 
-Nicole Forsgren (00:12:37):
-... yeah, as some proxy as some proxy for output or productivity or complexity or something. Well, now, for many of the systems, that they would sometimes whisper and not super talk about that uses lines of code, it's just blown out of the water because, "What do you mean by lines of code?" If the goal is more lines of code, I can prompt something to write the longest piece of code ever and add tons of comments. We know that agents and LLMs tend to be very verbose by definition, and so it's just too easy to gain that system and then introduce complexity and technical debt into all of the work that you're doing. I will say there are some things that we can kind of watch and pay attention to because... So lines of code as a productivity metric isn't great, it's pretty bad. But now, it's kind of more relevant if we can tease out which code came from people and which code came from AI because now we can answer downstream questions.
+Lenny (00:19:44):
+Amazing. Okay, I'm writing these down. These are extremely valuable.
 
-(00:13:40):
-"What is the code survivability rate? What is the quality of our code? Is our code being fed back into trained systems? And for that code that's retraining systems later, especially if we're doing fine-tuning and local tuning, how much of that is machine generated? What types of loops is that creating, and what types of patterns or biases might it be inadvertently introducing?" On the one hand, it's not good as a productivity metric, but it can be useful. I'll even say the same for DORA. I have done DORA metrics, their speed metrics, their stability metrics. If that's all you're looking at, it's not going to be sufficient anymore because AI has now changed the way we think about feedback loops. They need to be much faster. Now, what DORA's meant for, kind of assessing the pipeline overall in terms of speed and stability. Still, that works. But we can't just blindly apply the existing metrics we've used before because we'll miss super important phenomenon and changes in the way people work.
+Nicole Forsgren (00:19:48):
+And I will mention people will say, "Well, this is kind of a chunk of time, right. It's not super precise." Precision isn't really super important here, right. It doesn't really matter if your lead time is... If it's less than a day, it's less than a day, right. That's fine from a business perspective. It doesn't matter if it's four hours or four hours and two minutes.
 
-Lenny Rachitsky (00:14:38):
-Interesting. You invented DORA, that was kind of the main framework people used for a long time to measure productivity. And then there's SPACE, there's Core 4, there's probably others. So what I'm hearing here is all these are kind of out of date now, where AI is contributing large portions of code.
-
-Nicole Forsgren (00:14:55):
-I will say if it is a prescriptive metric, it needs to be used only in the way it was prescribed.
-
-Lenny Rachitsky (00:15:00):
-So
-
-Nicole Forsgren (00:15:01):
-DORA 4, there are four key metrics. There's two speed metrics, deployment frequency and lead time. So code commit to code deploy. There's stability metrics, MTTR and change fail rate. If those are used to assess the speed of the pipeline and the general performance of the pipeline, that's great. If you're trying to use those to understand... Because implied in that is feedback loops, right, because you used to kind of get feedback from customers. But we can't just use that blindly now when we're using AI, as an example, because we have feedback loops much earlier and not even just at the local build and test phase. We have feedback loops throughout, and even sometimes in the middle of some of the pipeline, that we really want to leverage in ways that weren't as useful before. I won't say they weren't possible, but we just didn't really focus there.
-
-(00:15:53):
-So those are prescriptive metrics. When we think about SPACE, SPACE is a framework. It doesn't tell you what metric to use. So I'll say, sometimes people get real frustrated because I didn't tell them what to measure. But now, I think that's the power of it. We're actually seeing that SPACE applies fairly well in these new emerging contexts like AI because we still want to look at... SPACE is an acronym. We still want to look at satisfaction. We still want to look at performance, what's the outcome. We still want to look at activity. Yes, in some ways, lines of code and number of PRs can be useful for something, or number of alerts or number of things, activities or counts. Seize communication and collaboration, this is also super important and useful because it's how our systems communicate with each other, and also how our people do. "What proportion of work is being offloaded to a chat bot versus talking to a senior engineer on the team?" More isn't always better and less isn't always better, it depends.
-
-(00:16:50):
-And then efficiency and flow, "Can people get in the flow? How much time does it take to do things? What is the flow like through our system?" Here, I would probably add a couple of dimensions. So chatting with some of the early authors to say trust. Not to say trust wasn't important before, but now it's very, very front of mind. Right? Before you build your code, if the compile comes back, you're fine. And that's the way it is. LLMs are non-deterministic. Right now, we can't just put in a command and guess something back and accept it. We really need to evaluate it, so, "Are we seeing hallucinations? What's the reliability? Does it meet the style that we would typically write? And if it doesn't meet, is that fine?" So it depends on... Prescriptive. You got to make sure you're using it fit for purpose. Right?
-
-Lenny Rachitsky (00:17:38):
-We're going to get to your current thinking on the best way to do this stuff. You have a book coming out that explains how to do this well, so we're going to get to that. One thing I wanted to highlight in our last chat that we had, you highlighted that one of the biggest issues we're going to probably have with AI is trust, understanding and learning how much to trust the code that it generates, and also how much... you said this, two and a half years ago, that so much of the time is now going to be spent reviewing code versus writing code. That's exactly what I'm hearing.
-
-Nicole Forsgren (00:18:10):
-I think it'll be interesting to see how that impacts the way we structure work moving forward. We were talking about flow state and cognitive load. Now that our attention has to focus on things at certain times and it's broken up from how we used to do it, I think there's some real opportunity there to, not just rethink workflows, but rethink how we structure our days and how we structure our work.
-
-Lenny Rachitsky (00:18:31):
-Can you say more about that? Just what is that? What are you thinking will be happening? Where do you think things go? What are you seeing working?
-
-Nicole Forsgren (00:18:37):
-This is purely speculative. But for example, Gloria Mark has done some really good work on attention and deep work, and humans can get about four hours of good deep work a day. That's about it.
-
-Lenny Rachitsky (00:18:52):
-Yeah,. I feel that.
-
-Nicole Forsgren (00:18:54):
-That's kind of the upper limit-ish for the most part, and I'm sure people are going to be like, "Well, I am superhuman and I can do-
-
-Lenny Rachitsky (00:18:59):
-What if you take 20 grams of creatine?
-
-Nicole Forsgren (00:19:01):
-Right. What if we microdose?
-
-Lenny Rachitsky (00:19:02):
-Yeah, exact;y.
-
-Nicole Forsgren (00:19:06):
-Yeah. So in the context of knowing we have about four hours of good deep work... I'm sure many of us have probably hit this, right? We have good periods. Maybe it's morning, maybe it's afternoon for folks. And then you hit a time where you're like, "I'm going to clean up my inbox because that is all I can do right now. I can be functional, but I'm not going to come up with my best innovative, problem solving, authoring, code writing work." A lot of times, the way to do that and to get into it is to have these long chunks to get into flow and to get that deep work. Usually, I'm [inaudible 00:19:43] two hours-ish. An hour can be tricky because it could take time to get into that state. Okay. Well, when we think about what it used to be like, back in the old days, three years ago, three and a half years ago, we could block off four hours of time and we could probably get two or three hours of really good work done. Because we were just focused, right? There were no interruptions, minimal interruptions.
-
-(00:20:05):
-Now, the nature of writing code and systems itself is interrupt driven or full of interruptions, at least, because you start something and then it interjects. So how do we think about that? Does that mean that a four-hour word block is still useful? Probably. But does that mean that now we can also make a 45-minute work block useful? Because getting into the flow is actually kind of handed off, at least, in part to the machine or the machine can help us get back into the flow by reminding us of context and generating diagrams of the system and all the things. So I think that's a really, really interesting area that's just ripe for questions and opportunity. And please, folks, do this research and come back to me because... It might not make my list, but it's such a great question.
-
-Lenny Rachitsky (00:20:52):
-That is so interesting. Essentially, every engineer is turning into an EM, engineering manager, coordinating all of these junior AI engineers. So your point is even if you have a 30-hour block, you can get deep into code, but you can unblock all these AI engineers that are running off doing tasks. Plus, your point is they remind you of just like, "Here's where you left off. Okay. You can just jump into this code, maybe make some tweaks."
-
-Nicole Forsgren (00:21:17):
-Yeah.
-
-Lenny Rachitsky (00:21:18):
-So interesting. Let me zoom out a little bit and... Before we get into your framework for how to approach developer experience, the latest thinking you've got, beyond just obviously engineers doing more is great, what's your best pitch for why companies should really, really focus on developer experience?
-
-Nicole Forsgren (00:21:37):
-I hate to say return of investment, but the business value is... the opportunity here is huge. In general, we write software for fun and for hobbies, but we also have software because it meets a business need. It helps us with market share, it helps us attract and retain customers, it helps us do all of these things. And I think DevEx is important because it enables all of that software creation, it enables all of that problem solving. It enables the super rapid experimentation with customers that... Before, you'd need a while for a prototype and maybe a little bit longer to actually flight it through an A/B test on a production system. You can do it in hours, right now.
-
-Lenny Rachitsky (00:22:21):
-Maybe the opposite end of the spectrum, getting very tactical, before we get into the larger framework, what's just one thing that you think an eng team, a product team can do this week, next week to help their developer experience maybe get more done?
-
-Nicole Forsgren (00:22:35):
-Honestly, I think the best thing you can do is go talk to people and listen. I love that the audience of this podcast is primarily PMs because they tend to be really good at this. And I would say start with listening and not with tools and automation. So many times companies are like, "Well, I'm just going to build this tool," or, "I'm going to build this thing." Often you build a thing that you yourself have had a challenge with or that is easy to do, easy to automate. And if you just go talk to people and ask the developers like, "Think of yesterday, what did you do yesterday? Walk me through it. What were the points that were just delightful? What were the points that were really difficult? Where did you get frustrated? Where did you get slowed down? Where was there friction?" If you go talk to a handful of people, a lot of times, you can surface a handful of things that are relatively low lift and still have impact or you can identify a process that's unnecessarily complex and slow.
-
-Lenny Rachitsky (00:23:36):
-So the listening to, I hear, almost is you want to help your teams move faster and be happier eng teams. Your advice is just, "Before you do anything, just go ask them what is bothering you."
-
-Nicole Forsgren (00:23:46):
-Go ask them, yeah. And trust me, most developers are going to be more than happy to tell you what's broken and what's bad. I'll say, there was one company that I had worked with. I remember they had a process that was really difficult and it was on an old mainframe system, and they were going to have to replat the whole thing and so they never went to work on it or talk about it. Everyone hated it because it was this huge delay. I mean, all they had to do was change a process. Sometimes all you have to do is change a process. And they changed it so that instead of... I think someone had to print it out and walk it down three or four flights, and they get approval. And then someone else had to walk it back up, and so it was just that interim. They didn't replat anything. They didn't redesign anything major. They just sent an email.
-
-Lenny Rachitsky (00:24:31):
-Let me push on that and... I'm curious just what are the most common things people do. If you're just starting on, "Okay, we need to focus on engineering experience," what do you find are the most... two or three most common improvements companies need to make?
-
-Nicole Forsgren (00:24:45):
-I'll say, I'll kind of echo that process, there's almost always a process that can be improved and that can be improved without a lot of engineering lift or a lot of engineering headcount. Most large companies, in particular, have something that is several, several steps. It's the way it is because it's the way it is, but that's no longer the way it is. And even small companies sometimes is just a little too YOLO, and you don't know what it is and you're kind of chasing everyone around. So if you can create a very lightweight process, that can also be helpful. That can be one of the best places to start, especially if you have limited exposure to the whole rest of the org. Sometimes just a team process can help.
-
-(00:25:28):
-I will say from a business leader's standpoint, a lot of what you can do is provide structure and support for this organizational change. Communicate what you're doing, communicate what the priorities are, communicate why this is important, to celebrate wins. Because if folks try to do this, just like a one-off side fully-isolated project, it's really challenging to get some good momentum, to get people to care, and to get them stay involved. Because it feels like it's just another internal project that isn't going to matter or that isn't going to get celebrated, but it has these huge upside potential returns for the business.
-
-Lenny Rachitsky (00:26:10):
-It's interesting, what I'm hearing here is nothing about tools or technologies. It's not like move to this cloud, it's not like install this new deployment system, it's processes and people and org and morale.
-
-Nicole Forsgren (00:26:24):
-Yeah. Now, there will be technical pieces that are very important, especially now with AI, where we're rethinking how build and test systems work. We're rethinking feedback to users so that it's very, very customized in terms of what is shared and when it is shared. There are a lot of technical pieces that are involved, but that's not the only thing. It's necessary but not sufficient, and that doesn't have to be the place that you start.
-
-Lenny Rachitsky (00:26:50):
-I have a hard question I want to ask you that I thought of as you were talking. I feel like this is the question that most founders and heads think about. And the question is just like, how do I know if my eng team is moving fast enough, if they can move faster, if they're just not performing as well as they can? What are just maybe smells, signs that tell you, "Yeah, my team should be moving faster," versus, "This is just the way it works. This is as fast as they can move"?
-
-Nicole Forsgren (00:27:16):
-Most teams can move faster, right? Also, given what we know about cognitive load, not all speed gains are necessarily good. Or the upside is going to be kind of limited once you hit kind of a certain point, and most people are not even near that point. I don't know a single team, frankly. But how do you know? You know if you're always hearing about bills breaking, flaky tests, overly long processes, if you have to request a new system or if you need to provision a new environment, or if it's really, really hard to switch tasks or switch projects. So if someone has an opportunity to go work in another part of an org and they don't for reasons that are unclear, and not political, and anyone says anything about the system, that's usually a pretty good smell that there's friction somewhere.
-
-(00:28:20):
-Because once you finally figure out your system and you're able to get work done, the switching costs can often be really, really high to go anywhere else. So sometimes people will do that. But I've worked with companies where switching orgs within the company, you had to basically pay the same tax as a new hire because the systems were so different and they were so full of friction, and it was so difficult to do so many things.
-
-Lenny Rachitsky (00:28:49):
-I love the first part of your answer especially, which is you can always move faster. I think every founder is going to love hearing that. To your point though, there's diminishing returns over time?
-
-Nicole Forsgren (00:28:58):
-Yeah. And you don't know about the quality, right? So I think that's the other side is that you can always move faster, but faster for what? Are we making the right business decisions? And I think that's especially where PMs come in. We can ship trash faster every single day. We need strategy and really smart decisions to know what to ship, what to experiment with, what features we want to do in what order and what rollout. The strategy is the core piece, and then think about speeding that up. If we don't have the other pieces in place, I mean, garbage in, garbage out.
-
-Lenny Rachitsky (00:29:30):
-I want to follow that thread, but before I do that, just to mirror back what you shared. So signs that your team... There's a lot of low-hanging fruit to improve the productivity of your team as builds are always breaking. There's flaky tests are constantly incorrect, false positives. It's hard to context switch between different projects. You just hear people talking about the system, it's just really hard to work with. Is that roughly right?
-
-Nicole Forsgren (00:29:52):
-Yeah.
-
-Lenny Rachitsky (00:29:53):
-Cool, okay. So going back to the point you just made, there's a sense that AI is making teams so much faster because it's writing all this code for them. You're going to have all these asynchronous agents, engineers working for you. It feels like a core part of your message is that's just a one part of engineering work and there's so much more, including figuring out what to build... an alignment internally. Maybe just speak to just... There is a lot of opportunity to improve engineering performance productivity, but there's so many other elements that are not improved through AI?
-
-Nicole Forsgren (00:30:22):
-Yes. Or could be in the future, right?
-
-Lenny Rachitsky (00:30:25):
+Lenny (00:20:14):
 Mm-hmm.
 
-Nicole Forsgren (00:30:26):
-I think there are a lot of ways that we can pull in AI tools to help us refine our strategy, refine our message, think about the experimentation methods or targets of experimentation, or think about our total addressable market, but we need to have that strategy and plan fairly well aligned or at least have two or three alternatives that you want to test. Because now, the engineering can go, or at least the prototyping especially, much, much faster. We can throw out prototypes. We can run any tests and experiments that are customer facing, assuming that we have the infrastructure in place, which allows us to learn and progress much faster before. In some places, it used to take months to get something through production to do A/B testing and get feedback. We can do this in a day or two, definitely under a week. But we want to make sure that we're building and testing the right things, "Are we partnering with the right... Do we have the data that we need?"
+Nicole Forsgren (00:20:15):
+Right. General categories are fine. Now I will say the next category for lead time for changes by the day is if lead time is between a day and a week.
 
-(00:31:24):
-And I will say AI can actually be a pretty good partner there if you have a good conversation with it, and then also check with you experts, "What type of data should I be looking at? What type of instrumentation do I need? What type of analysis can I do?" Because then, you can also go to your data science team and say, "I'm planning on doing this. I'd like to..." Let's not just YOLO A/B tests because that can be... It's a shame to do a large test and end up disrupting users or disrupting customers, or breaking privacy or security protocols and also end up with data that's unusable because you just can't get the signal that you're looking for. But now, I'm also seeing people kind of accelerate that into a few days versus a few weeks. So they can start those key stakeholder discussions from a much more informed kind of filled out space.
+Lenny (00:20:28):
+And this is for good.
 
-Lenny Rachitsky (00:32:17):
-Today's episode is brought to you by Coda. I personally use Coda every single day to manage my podcast and also to manage my community. It's where I put the questions that I plan to ask every guest that's coming on the podcast, it's where I put my community resources, it's how I manage my workflows. Here's how Coda can help you. Imagine starting a project at work and your vision is clear, you know exactly who's what and where to find the data that you need to do your part. In fact, you don't have to waste time searching for anything because everything your team needs from project trackers and OKRs, the documents and spreadsheets lives in one tab all in Coda. With Coda's collaborative all-in-one workspace, you get the flexibility of docs, the structure of spreadsheets, the power of applications, and the intelligence of AI all in one easy-to-organize tab.
+Nicole Forsgren (00:20:29):
+For high between elite and high. Elite is less than a day, and high is between a day and a week. And then it goes between a week and a month and between a month and six months, right. So you can ask people, and they can tell you, right. They can kind of hunch it.
 
-(00:33:04):
-Like I mentioned earlier, I use Coda every single day. And more than 50,000 teams trust Coda to keep them more aligned and focused. If you're a startup team looking to increase alignment and agility, Coda can help you move from planning to execution in record time. To try it for yourself, go to coda.io/lenny today and get six months free of the team plan for startups. That's C-O-D-A-dot-I-O-slash-Lenny to get started for free and get six months of the team plan, coda.io/lenny.
+Lenny (00:20:44):
+Mm-hmm. And this is from committing code into the repo and it going out into production.
 
-(00:33:33):
-I love that you work with a bunch of different companies and a bunch of different types of businesses. I think very few people get to see inside a lot of different places. What kind of gains are you just seeing in terms of increased productivity with AI? How big of a gain have you seen?
+Nicole Forsgren (00:20:51):
+Mm-hmm. To about ring zero. So you don't... Don't worry if it's like, "Oh, well, now we need to think about the global deploy and which is the final endpoint." And it's like, how long does it take to get through your deployment pipeline? Because are you going to be surprised? Do you have fast feedback loops? How does your deployment pipeline work? Does your deployment pipeline work, right? Or are you going to commit code? Are you going to wait for that final review for about three months?
 
-Nicole Forsgren (00:33:49):
-I'd say it's real, and I would also say we don't have great measures for it yet. We're still trying to figure out what to measure and what that looks like. One of the best is going to be velocity, all the way through the system, how quickly can you get a feature or a product or something through the system so that you can then experiment a test, either from idea to final end or even kind of a feature and a piece through the system so we can test. That's really good. Now, that's also hard to tie back directly to a particular AI tool in the hands of a particular developer. But there are some other things that we can look at and we can see, and that I've seen is, again, this kind of rapid prototyping.
+(00:21:27):
+Is something going to happen or break? And when it comes back to the developer because something happened or broke because that kind of happens, are they going to have to insert themselves back in the code, re-review all the things that happened three months ago, all... so many other things happened that's incredibly difficult. Which to your prior question, this is how it relates to the developer experience. If something happened less than a day and it's a surprise, and it's not great, but whatever, something happened downstream, and I got to fix it, I'm still sitting in my code in my head.
 
-(00:34:36):
-I hate lines of code, but I'm going to use the lines of code. We do see... I know I worked with some folks who had kind of a whole set of companies they were looking at, and they found that AI was generating significantly more code for the people who were using it regularly. But then, they also found that for folks who were regular users of AI coding environments, AI ADEs, the tool kind of gave them more code. And then the engineers themselves, the increase was double what the coding agent had given them. So one, I'd say, probably it's kind of a secondary or knock on or just a smell is it can unblock you. It can speed up the work that you would already do. I know sometimes when I work, the first few minutes, it's hard for me to start. But once I get started, I'm there. So they're really good at unblocking and unlocking that.
+(00:22:01):
+I've got that mental model. I know what happened. Maybe it's not great, but it's fine. If it happened three months ago and I get interrupted. First of all, interruptions suck. That's not fun. Second of all, now I've got to re-remember, reread all of this code, maybe reload an entire new workspace and set up libraries and everything because I... maybe it's a whole quarter ago, and we thought we were done, and I got to do the whole thing all over.
 
-Lenny Rachitsky (00:35:32):
-Something I've seen people on Twitter sharing is how good OpenAI Codex, especially, is at finding really gnarly bugs. And I think it was Karpathy that shared it. He was so stuck on a bug and, no AI tool could figure it out. And then the latest version of Codex spent an hour or something, looking into it, and found it for him.
+Lenny (00:22:33):
+If a listener is working at a startup, I imagine they're hearing this, and they're like, "Takes a day to ship that. We ship it all day, a thousand times a day." I imagine these benchmarks are more valuable for larger companies. Is there kind of buckets you think about for here's the size of company this is meant for? And then, do you think about anything differently for a startup, say, I don't know 10 people?
 
-Nicole Forsgren (00:35:51):
-Yeah. I'm hearing incredible things like that, right? Well, and even also writing unit tests and spinning up unit tests, and creating documentation and cleaning up documentation because I know now people are like, "Oh. Well, we have agents. I don't need to read the docs because there's the code there." It turns out, agents rely on good data because it's all about how they've been trained or how they've been grounded. And better data gives you better outcomes, and some of that data includes documentation and comments. The better documentation and the better comments you have, the better performance you're going to get out of your AI tools.
+Nicole Forsgren (00:22:55):
+If anyone is only listening to this? I just got the biggest smile because we saw no statistical significance between small companies and large companies. The only statistically significant difference was with retail. I'll come back to that. It's so funny because large companies would say, "Oh, but this isn't fair for us. We have more complex code bases. We have so many things to do. Small companies just don't have to deal with this." Small companies would come to me, and they would say, "Oh, but this isn't fair. Large companies have so much money. They have so many resources. They don't have to deal with all the things. This doesn't apply to me."
 
-Lenny Rachitsky (00:36:29):
-And AI can help you write that documentation. I've been working with Devin a little bit, and it's really good at that stuff.
+Lenny (00:23:30):
+Wow.
 
-Nicole Forsgren (00:36:34):
-Yeah.
+Nicole Forsgren (00:23:30):
+So it's either way. And on days when I was feeling real snarky, I'd be like, "Pick your excuse. You've got your dropdown." Now when I say, "Retail was a bit of an outlier," they had a statistically significant difference. Their difference was that they were actually better. Why? Now, I can't tell you why. I can... In a research paper, we'd have a discussion section, and this is where you get to guess. I would surmise, and we do this in the report, that it's probably because retail went through the retail apocalypse, right.
 
-Lenny Rachitsky (00:36:36):
-Okay. Let's talk about this framework, this book. So you're publishing a book called Frictionless, which sounds like a dream, "How do you create a dev team that's frictionless?" It's called Frictionless: 7 Steps to Remove Barriers, Unlock Value, and Outpace Your Competition in the Age of AI. There's a seven-step process to this. Walk us through this and maybe give us just context on this book, who it's meant for, what problem it solves, and then the seven steps.
+(00:24:09):
+If you didn't survive, if you weren't just killing it, you did not survive. So many retail firms just did not make it through. You had to be at the top of your game. There was no such... Black Friday, there's no such thing as not having systems that are performing incredibly well. There's no such thing as not being in the cloud because if you cannot make it through bursting on demand, bursting like magic, sometimes I joke, right, you're not going to make it. And so I suspect if I were to guess, if you're not already a high performer in the retail space, natural selection got rid of you.
 
-Nicole Forsgren (00:37:00):
-I will say, I also wrote this with Abi Noda who has just... of DX. He has incredible experience in the space. He's worked with hundreds of companies and so it was kind of nice bouncing ideas off of him. Also, thanks to all of the engineering leads and DevEx leads, and CTOs, and engineers that we talked to to make sure that our smells were right. So who is this book for-
+Lenny (00:24:53):
+That is really interesting. That makes a lot of sense. So I'm looking at these thresholds again, and I'm thinking from the perspective of a founder who's just like, "I wish my engineering team would faster." Essentially you're saying if deploy times... if they deploy more than once a day if their deploy frequencies on demand or I think it was hourly was kind of the other bucket, was that part of it?
 
-Lenny Rachitsky (00:37:26):
-Let me take a tangent on Abi, and DX, since you mentioned him. This is super interesting, and I think it connects so directly with this conversation. Abi started this company called DX, which is such a great name for a company around developer experience. They just sold the company for a billion dollars to Atlassian. It's a very high multiple on their ARR. It, to me, shows exactly why this conversation is so valuable, just how much value companies are putting into improving developer experience. Atlassian would spend a billion dollars on this. It's an early stage-ish startup. It was doing really well and people loved it, but it was like early stage-ish, a billion dollars. And the idea is they have all these companies working using Jira and all their products. They're all trying to figure out how do we measure productivity. It's worth a lot of money to them. And I know you were an early advisor to them too, so-
+Nicole Forsgren (00:25:14):
+Mm-hmm.
 
-Nicole Forsgren (00:37:26):
-Yeah.
+Lenny (00:25:14):
+Yeah. And then, their mean time to their fail rate is less than 10%, and their mean time to recovery is less than an hour. Basically you're doing great. That's kind of the message of this framework, at least.
 
-Lenny Rachitsky (00:38:15):
-... it just shows us how important this is.
+Nicole Forsgren (00:25:29):
+And if you're not doing it through brute force and killing yourself. Now can I jump in here, please? Because then people are like, "But how do I do this?" So let's say that you're not in that category, and you're like because this is the next... this is the piece of criticism I'll get about DORA, right. People are like, "Well, all you've done is make me feel bad. You gave me these metrics. You've judged me. Now I feel bad." And then I'm like, "So there's DORA there." I wrote a book called Accelerate, which is the first four years of the research compiled and put together and expanded in a few things.
+
+(00:26:06):
+And I'll joke, "There's a whole rest of the book, right." DORA is best known for the four metrics, but there's an entire research program supporting it. So it's not just these four metrics. What we find is that if you improve a set of capabilities... I loved your question around what is DevOps? DevOps is not a toolchain you buy. Marketing teams labeled toolchains DevOps because they wanted your money. DevOps is a set of capabilities. They're technical capabilities. They're architectural capabilities.
+
+(00:26:34):
+They're cultural capabilities. They are lean management practices that predict speed and stability. And then speed and stability gives you money, right, because it's your ability to create these features that give you money. So when you work backwards, if you want money, you get the features fast. If you want the features fast and stable, you do the things. And the things are technical capabilities like automated testing, CI/CD.
+
+Lenny (00:27:04):
+And CI/CD is continuous integration/continuous deployment, is that right?
+
+Nicole Forsgren (00:27:08):
+Yes. Mm-hmm. Trunk based development using a version control system, right. So do you have good technical practices? Do you have good architectural practices? Do you have a loosely coupled system? Are you using the cloud? Or if you're not in the cloud for whatever reason, are you using the underlying architectural pieces that enable good cloud to do the cloud, right? Or if you're in the cloud and you're not realizing benefits, is it because doing the cloud wrong, right? Do you have a good culture?
+
+(00:27:48):
+So you don't just magically go fast and have stability. So working backwards, which pieces are you struggling on? Now you kind of noted down the benchmarks. If you go to dora.dev, the team at Google was lovely. We worked really closely with the team, and they're keeping this updated. You can take a quick check. There's a button there that says, "Quick check." And you can plug in where you kind of think you are.
+
+(00:28:13):
+Like I said, you can hunch it, and it'll tell you where you are in the benchmarks today and what industry you're in. And then the cool part is it'll say... Now you'll want to ask yourself, "Where am I struggling?" But it'll say, "For your performance profile and for the industry that you're in, statistically over the last several years, these are probably your constraints, AKA, these are probably the things that you're struggling in right now." For people in finance who are high performers, they tend to struggle with these four things, whether it's like culture or continuous integration or whatever.
+
+Lenny (00:28:54):
+I love that you're getting tactical with how to actually improve these already, which is the bread and butter of this podcast.
+
+Nicole Forsgren (00:28:54):
+Mm-hmm.
+
+Lenny (00:28:59):
+And so we'll link to this quick check. [inaudible 00:29:02] dora.dev/quickcheck.
+
+Nicole Forsgren (00:29:03):
+And by the way, they do not collect your name. They do not collect your info. There's no lead, lead gen, anything. Everything's just there. And then, there's deep dives into every single one of the capabilities.
+
+Lenny (00:29:15):
+Amazing. And also your book talks about all these things. So people should go check out the book. Obviously it's on Amazon. Search Accelerate. Is that right?
+
+Nicole Forsgren (00:29:22):
+Yep.
+
+Lenny (00:29:23):
+Okay. So we were talking about DORA. This may be a good time to talk about SPACE, which I think is a different framework you recommend. What is that all about?
+
+Nicole Forsgren (00:29:31):
+Okay, so SPACE is a way to measure, we say productivity, developer productivity, but it's a little bit more than that. SPACE is a good way to measure any type of complex creative work. Now, how do they relate? Let's say you go through the quick check. It points out four things, and you decide you want to improve continuous integration and culture, right. Well, now you're like, "Cool, but how am I going to actually measure them?" This is where SPACE comes in because SPACE helps you figure out SPACE gives you a framework to pick the right metrics.
+
+(00:30:12):
+Now some people are like, "Well, SPACE you didn't give me the exact metrics." People love DORA because it's like, "Here's the exact four you need." Well, SPACE is like when you want to measure something that's complex, creative work, maybe like developer productivity. There's also an example at the bottom for incident management. When you have something you want to measure, it says, "Within your context, within the metrics you have available to you, here's how to pick."
+
+(00:30:40):
+That's what SPACE is good for. Now we called it SPACE because it stands for the five dimensions that you want to measure. So S is satisfaction and wellbeing. So satisfaction wellbeing is kind of self-explanatory. Now, some people might jump in here and say, "Oh, well, you're just touchy-feely." This actually matters because we find that satisfaction wellbeing ends up being incredibly highly correlated with all of the other dimensions of productivity and doing things well.
+
+(00:31:09):
+And as soon as satisfaction and wellbeing, things like sustainability, if you're satisfied, as soon as that starts falling off, other things start to break. So this can be an incredibly strong and important signal. P is performance. This is going to be the outcome of a process. So reliability within DORA, the MTTM or change fail rate. Those are both performance metrics.
+
+Lenny (00:31:34):
+And so you pick one to kind of measure as performance.
+
+Nicole Forsgren (00:31:37):
+Yep. A is activity. Anytime you have a count or a number of something. And these we see all the time because they're super easy to instrument and automate, right. Number of pull requests, number of check-ins, number of something, that's A. C is communication and collaboration. This can be how people work and talk together. It can be meetings. It can be collaboration. It can also be how our systems communicate together. It can be the searchability of a code base. And then ease efficiency and flow. So this is going to be the flow through the system.
+
+(00:32:11):
+It can be the time through the system. If we think about SRE or incident management, it can be the number of hops a ticket takes until it reaches the right person. Now, to use SPACE correctly, we want to use at least three dimensions at a time because that helps us balance. Turns out DORA is actually implementation of SPACE. So DORA would be SPACE for mostly that outer loop. So again, once you've found something that you want to improve, find the metrics that make sense to you, try to have them be in balance or intention so you don't throw something out of whack, but pick three.
+
+Lenny (00:32:52):
+So when you say DORA is an implementation of SPACE, one has five buckets, one has four. How do you actually think about that?
+
+Nicole Forsgren (00:32:59):
+So SPACE is there to help you think about how you want to pick metrics, right. So a lot of time I see people... So [inaudible 00:33:06] half step back. I used to advise people on how to pick metrics. For years people would pull me in to advise on DORA or Accelerate. They would ask me questions, but it ended up being metrics questions a lot. "How do I pick the right metrics to improve what I'm doing?" Like I said, they had the DORA numbers. They would pick their constraints, and they wanted to improve.
+
+(00:33:29):
+"But how do I improve? How do I measure this? How do I show improvement?" And so we would start thinking really critically about which metrics were the right metrics to pick. And I would always say make sure you pick balanced metrics. Make sure you pick metrics that are intention. And I could say it, but people have a hard time wrapping that around their heads because they kept picking things like number of lines of code, never picked number of lines of code.
+
+Lenny (00:33:29):
+Oh, wow.
+
+Nicole Forsgren (00:33:58):
+Number of... Still every month I get email about this.
+
+Lenny (00:34:00):
+Wow, [inaudible 00:34:00].
+
+Nicole Forsgren (00:34:00):
+Number of pull requests, number of commits. And I was like, "These are all activity metrics." And so finally I pulled a few of my friends together and I was like, "Let's come up with a framework to help people think about it." And so there are five broad categories, pick three because that will help force you through the mental exercise of, "What could I possibly pick?" You don't need all five, right. This isn't... We're not playing-
+
+Lenny (00:34:00):
+I see.
+
+Nicole Forsgren (00:34:28):
+... bingo. We're not playing blackout bingo. You don't need all of them but try to have at least three across different dimensions. Now one example here. I was working with a group that wanted to improve their pull requests very generally. They just said improve pull requests. So they were thinking about pinging someone every 15 minutes, and I was like, "Oh, this is going to be bad."
+
+(00:34:48):
+Because we know from other literature and research like nursing, you'll get alert fatigue, where people will just start tuning out alerts. Either they'll turn them off, or they will just stop hearing them. So number of alerts, right. They're like, "Let's just think about number of alerts." And I said, "Well, but if we think about efficiency and flow, how much time do you have to work on your coding?" So those two are balanced. So we need to protect time to work as well as code review time.
+
+Lenny (00:35:25):
+Mm-hmm.
+
+Nicole Forsgren (00:35:25):
+Like pull request time. And so, sometimes we can think about those, and then I think we added a satisfaction metric. Are you satisfied with the pull request process and the selection of the reviewer?
+
+Lenny (00:35:39):
+How do you go about actually capturing and measuring the say satisfaction?
+
+Nicole Forsgren (00:35:43):
+So for satisfaction, I would generally ask, right. Go ahead and ask now the ones that you instrument, you can instrument and pull out of systems all the time, right. Go ahead and grab that string. For satisfaction metric, I would only pull that periodically once every few months.
+
+Lenny (00:36:01):
+Like a survey to your engineering team.
+
+Nicole Forsgren (00:36:02):
+Like a survey. Yep, absolutely.
+
+Lenny (00:36:04):
+Awesome.
+
+Nicole Forsgren (00:36:05):
+And don't discount what people say, right. Sometimes I hear... Actually not sometimes. A lot of times, I hear people say, "Oh, but people lie." First of all, what is their incentive to lie? Why would they lie about having a bad system? Because it's bad, and they want it fixed, right. If it's absolutely a hostile work environment, they might lie and then tell you it's good. Then you have bigger problems, right. Also, do we ever see bad data from our systems or incomplete data from our systems? That's a lie, but we find ways to deal with it. We see it. We acknowledge it. We look for holes in our system data.
+
+(00:36:46):
+We try to deal with it, right. That's also a lie. So I think there are better ways to think about and deal with that and then try to work with it because and I wrote a paper with Mik Kersten on this several years ago on how data from people and data from systems are really important compliments because we can get certain insights from people that we'll never get from systems. Let's look at lead time from changes, for example, from commit to deploy. The speed might be fine, but people might tell you it's taking absolute heroics. It's some ridiculous Rube Goldberg machine.
+
+Lenny (00:37:27):
+Mm-hmm.
+
+Nicole Forsgren (00:37:27):
+The system will never tell you that. Or you could get data on your version control system. I worked with a company several years ago, and we found out that there was a significant portion of code that was just not going into any version control system. You're never going to find that out from your systems because it's not in the systems, and it was mission-critical.
+
+Lenny (00:37:52):
+I can see why people come to you asking for advice on metrics because you have this framework of, "Here's the type of metrics you want." And then I think, and especially from an engineering team, there's going to be this like, "How do I optimize and make sure I'm doing the right thing and measuring the right things." For someone that wants to do this, and an hour long podcast isn't going to give them all the answers, what do you recommend they go read or go do or look at to help them figure that out?
 
 Nicole Forsgren (00:38:17):
-Yeah. Well, I think it also shows us how much value you can get out of this. There's so much low-hanging fruit, there's so much unlocked potential, and it's hard to know where to start a lot of times even in... I've been at large companies that have a lot of expertise and a lot of really, really smart people. But if you haven't kind of been in this space and thinking about it this way, it's hard to know where to start or it's easy to make simple mistakes up front that mean you kind of need to start over later. So I guess it also brings us back to, "Who is this book for?" It's for anyone that cares about DevEx, so definitely technology leaders, anyone who's trying to kick off a DevEx program, or is working on a DevEx DevEx improvement program. I think it's particularly relevant for PMs because if you're PMing something that involves software building and creating software, improving DevEx will only help your team. And also, you have key skills and insights and instincts that are so important to DevEx that many times, I will say, I've seen engineering teams just miss.
+One, I hate to be this person, but I'll point to a few of my papers. I will say I write things down because I get asked them so often, and I want to make sure it is broadly applicable or broadly available, I guess. This SPACE paper, for sure. It's an ACM, and I think the year we published, it was the most read paper at ACMQueue. Yeah. So we tried to make it as readable as possible. So the SPACE paper is nice because it outlines this framework and it gives examples of metrics in every single category. And so hopefully people can look at this and they can [inaudible 00:38:54], "Okay, here's an example to use here, right. Here are some of the things that I could possibly use."
 
-Lenny Rachitsky (00:39:31):
-Okay. What's the framework? What are the steps? Where do people start?
+(00:39:00):
+And we're seeing that SPACE is being used lots and lots of different places. Another good one could be the paper that I mentioned with Mik Kersten, and it was about... we talked about using data from people and data from systems. We wrote it up in the DevOps context. I want to say this was written in 2016 or 2017 or something. But it helps you think through what types of data are good in which situations because you will never find yourself in a situation when you don't want both types of data. Even teams that I've worked with that are the most advanced. They have absolute instrumentation in every possible scenario.
 
-Nicole Forsgren (00:39:35):
-The book goes through a seven-step process, and then also kind of provides some key kind of principles at the end. Step one is to start the journey. So assuming you're kicking off, you can start the journey. And this involves what we have already talked about. Go talk to people, have a listening tour, synthesize what you learn, visualize the workflow and tools, get a handle on what the current state is. Step two is to get a quick win. So start small, get a quick win, pick the right projects, share out what you've done. Step three is using data to optimize the work. So establish some of your data foundation, find the data that's there, start collecting new data, use some surveys for some really fast insights and may include example surveys. Step four then is to decide strategy and priority. Once you have some data, then you need to know of all the things that are potentially broken. And if you've already gotten your quick win of all the things that are left, "What should I do next?" So we walk through some evaluation frameworks there.
+(00:39:46):
+In the most detailed way, they will still survey their developers at least once a year because you can get new insights, right. One book that I love. It's a little dense, but it's really interesting that I love is How to Measure Anything. And it's by Hubbard, and there are parts of it that are real stats heavy, but he has this portion in the front that's in covering intangibles. So it's like, what happens when you don't have data? You have no data. You're starting from nothing. What are good ways to hunch data? And I really love that because he covers some really good ground there.
 
-(00:40:43):
-Step five is to sell your strategy. Once you've decided, now you have to kind of convince everyone else. So now you want to get feedback, you want to share why this is the right strategy right now. Step six is to drive change at your scale. So here, we address folks that have local scope of control. If you're starting on just a dev team, you want to do it yourself, kind of grassroots effort or global scope of control. If you're the VP of developer experience or something, there are some things that you can leverage for a top down, and then how do you drive change when you're kind of somewhere in the middle, because you can leverage both types of strategies. And then step seven is to evaluate your progress and show value, and then kind of loop back around.
+Lenny (00:40:34):
+Today's entire episode is brought to you by DX, a platform for measuring and improving developer productivity. DX is designed by the researchers behind frameworks such as DORA, SPACE, and DevX, including Nicole Forsgren, who is my guest for this very episode. If you've tried measuring developer productivity, you know that there are a lot of basic metrics out there and a lot of ways to do this wrong, and getting that full view of productivity is still really hard.
 
-(00:41:27):
-I will say that we wrote this so that you could kind of jump into any step wherever you are right now. If you're kicking off a team or an initiative, you'll probably want to start at step one. You should definitely start at step one. If you're joining an existing initiative, you could jump into picking the priority or implementing the changes. So those are the seven steps. There's a seven steps, there are a few practices that we also recommend. So thinking about resourcing it, change management, making technology sustainable, and then also bringing a PM lens to this, "How can we think about developer experience as a product, and how do we think about the metrics that we have as a product?"
+(00:40:59):
+DX tackles this problem by combining qualitative and quantitative insights based on the very research Nicole and her team have done, giving you full clarity into how your developers are doing. DX is used by both startups and Fortune 500 companies, including companies like Twilio, Amplitude, eBay, Brex, Toast, Pfizer, and Procter & Gamble. To learn more about DX and get a demo of their product, visit their website at getdx.com/lenny. That's getdx.com/lenny. You also mentioned offline that you might be working on a book that will answer a lot of these questions. Is that something you're up for chatting about?
 
-Lenny Rachitsky (00:42:13):
-Awesome, okay. I have questions. Point people to the book real quick. What's the URL? How do they get it? When does it come out?
+Nicole Forsgren (00:41:36):
+Yeah, absolutely. So as I mentioned, I tend to write things down when I get asked questions on it a lot. And so this is one in particular. So we'll be covering... I'm starting to go through, and I'm covering some of these, and I think some of the important topics in particular are starting with what is your problem or what is your goal and being super, super crisp on it, right. What is it that we're trying to answer? And I would say this is a bigger challenge than most people recognize or realize.
 
-Nicole Forsgren (00:42:18):
-Yeah, developerexperiencebook.com. Right now, you can sign up for the mailing list. We'll let you know when it's out on pre-order, and we'll also be sharing pieces of the workbook. So we've got almost a hundred page workbook that goes along with the book, and then it should be out by end of year.
+(00:42:11):
+I'm making this set up, right. 80% of the folks that I work with, this is their biggest problem. Even at executive levels, they'll ask their team, or teams will come back with uncertainty, and they'll say like, "Well, you told me to improve developer experience." I'm like, "Okay, great. What do you mean by that?" And then teams will have gone off for several months, and they're tackling something, and they'll come back, and they'll be like, "Oh, well, wasn't what I meant."
 
-Lenny Rachitsky (00:42:36):
-Okay. So one piece of this is just this term developer experience feels very intentional in that it's not developer productivity, developer work. It's how do we make developer experiences better at our company, which includes they get more done, but also they're happier and things like that. So I think that's an important element of this, right?
+(00:42:38):
+And I'm like, "Okay, what do you mean by this? Are you talking about inner and outer loop? Are you talking about friction? Are you talking about culture?" Because sometimes they're talking about culture. "And if you're talking about culture, this is an incredibly valid answer. But if you're talking about culture, this is totally different than if you're talking about friction in toolchains, right. And if you're on different pages, you're heading in completely different directions."
 
-Nicole Forsgren (00:42:55):
-Yeah, absolutely.
+(00:43:05):
+So that's one thing we cover, which seems obvious, but trust me, it's not. And then even how do you... We're going to do kind of a rough version of how do you start measuring from nothing and also the measurement journey, right. How do you think about the trade-offs between and the proportion of measurement between subjective data, right, data from people. So you have Azure interviews, and you have surveys and objective data, stuff you get from systems. Because when you first start off, you'll be relying much more on data from people.
 
-Lenny Rachitsky (00:42:55):
+(00:43:42):
+You can get a relatively quickly. But as you kind of transition through this measurement journey, you'll get more and more data from your systems because it's scalable. It can be engineered. You can be doing much more with it. And also, you should be thinking about, "Don't let the perfect be the enemy of the good." So how do we think about this very, very strategically? How do we transition through this? How do we think about what each piece of data is for?
+
+(00:44:09):
+And also lots and lots of examples. So I have included example interview scripts. How do you select people? How do you screen people? Example survey scripts. What are some of the analyses we should do? And trying to make this incredibly accessible, so basically anyone can do this. So you do not need to be a data scientist, but if you have one on staff, you can hand them some of this and just let them run.
+
+Lenny (00:44:32):
+I think this book is going to do extremely well. Definitely come back on when it is out. I think you said maybe year-ish kind of timeframe?
+
+Nicole Forsgren (00:44:39):
+Yeah, probably about a year by the time we get-
+
+Lenny (00:44:39):
 Okay.
 
-Nicole Forsgren (00:42:56):
-Because, again, it's not just about productivity. We talked about this from the frame and the lens of, "We need to be building the right thing." And you want to be productive, but you also want to be thinking about... and this is what engineers are also just really incredibly good at, give them a problem and don't tell them how to solve it, and then they can solve it better. They have the freedom, they have the innovation, they have the creativity so that they can solve this problem. If it's only about productivity, then it's just lines of code or number PRs or whatever. But we really want to talk about value and how do we unlock value, and how do we get value faster. And that involves, yes, making them more productive and removing friction because then, they have the flow and the cognitive load and the things that we kind of talked about.
+Nicole Forsgren (00:44:40):
+... all the way through.
 
-Lenny Rachitsky (00:43:41):
-Awesome, okay. And then say someone wants to start this team, what does it usually look like. At Airbnb, I remember this team forming. It was just like an engineer or two, getting it started and taking charge. What do you recommend as the pilot team, and then what does it look like as it grows?
+Lenny (00:44:41):
+If people want to be notified when it's out, can they sign up on your site for newsletter or anything like that? Is there any way to be in the loop as it approaches?
 
-Nicole Forsgren (00:43:57):
-There are a few ways to do this, right? So if you're doing it yourself, you could do it with a couple of engineers, maybe a PM or a PGM or a TPM to kind of help communicate. Because really, comms plans are just so important here. On a small scale, what we want to do is look for those quick wins, look for things that you can do at small scale. Some folks call them things like paper cuts. There small things that you can do to help people see the value and feel the benefit themselves, "How can a developer's work get better? How can their day-to-day work get better? Kind of build momentum from there?" If you're working from a top-down structure and you have the remit, you still want some quick wins, but those quick wins can look a little more global in scale because you have the infrastructure or the backing to make different types of changes that aren't only local.
+Nicole Forsgren (00:44:49):
+Oh, yeah, absolutely. Yeah, I'll add a link for that. Also, if anyone is doing some of this work now, if they have major questions that they would love to [inaudible 00:45:00] me to answer if they have success stories, if they have case studies, if they have anything that they would love to be included.
 
-(00:44:56):
-So an example of a small local change could be just cleaning up your tests, your test suites. Any team could do that, any team could do that. At more global scale, it might be changing organization-wide process that is just overly cumbersome or throwing some resourcing into cleaning up the provisioning environment.
+(00:45:08):
+I remember when I wrote Accelerate before, there were a couple folks that reached out after, and they were like, "Oh, I wanted to have something included." Now I've learned. Today I've learned, right. If there's anything that folks would love to be in discussion with me about, I'm always eager to chat and nerd out about DevX and especially measurement and measurement journeys.
 
-Lenny Rachitsky (00:45:15):
-Okay. What kind of impact have you seen from teams like this forming, on the engineering teams at their companies?
+Lenny (00:45:28):
+Awesome. I usually ask this at the end, and I have more questions, but while we're here, how would people reach out to you? What's the best way to contact you?
 
-Nicole Forsgren (00:45:21):
-I'll say I've seen a huge impact for smaller companies, hundreds of thousands of dollars for large companies or in the billions. Well, also, we need to learn how to communicate that, "What does the math look like?" Many times, we can look at saving time, we can look at saving costs, we can look at a lot of different things. We can look at speed to value as speed to market. We can look at risk reduction, but the gains really are there. I will mention that it tends to follow something like the J-curve. So you'll have a couple of quick wins and it'll look like a big win, and then you'll hit kind of a little divot where suddenly the really obvious projects, the low-hanging fruit are handled. So now, we need to do a little bit of work. We might need to build out a little bit more infrastructure. We might need to build out a little more telemetry, so that we can capture the things we want to capture. And then once we get that done, then we start to see those benefits really compound.
+Nicole Forsgren (00:45:35):
+On my website, I've got info.nicolefv@gmail [inaudible 00:45:40]-
 
-Lenny Rachitsky (00:46:16):
-So going back to that measurement number, what do you recommend? How do people find these numbers? Because I think that's so much of the power of this is like, "We saved a million dollars doing this." What do you look at to figure that out?
+Lenny (00:45:35):
+Okay.
 
-Nicole Forsgren (00:46:28):
-I think there are a few different things to keep in mind, like who is our key audience, and we usually have a few key audiences. We really want to be able to speak to developers because they're the ones that are going to be using the systems. They'll be partnering with you on either building them or at least providing feedback about what you're doing. So for them, we often want to frame this in terms of things they care about. So time savings. If something gets faster, they can save time. They don't spend time doing setup when they don't need to anymore, related to status reduced toil. So compliance and security are super important. Also, many times it requires several manual steps that... I don't say they're not value add. They're not value add from an individual human perspective. If we can automate as much as possible, that's great, and improved focus time.
+Nicole Forsgren (00:45:35):
+Yeah.
 
-(00:47:22):
-That's from the developer side of you. Leadership often cares about... They care about those things, but they often care more about other things. So we could talk about usually costs in dollars, "Can we accelerate revenue? What does our time to value look like? What is our velocity? How quickly can we get feedback from customers?" And for folks and organizations that are in really competitive environments, that can be really compelling because it's all about speed. We could talk about saving money. Here, we can look at maybe quantifying savings. One example is test and build. If we can clean up a test and build suite to a developer, they really want to hear about time saved and more reliable systems. There's less toil because they don't have to keep re-running tests or kind of go clean up test suites.
+Lenny (00:45:40):
+Awesome. Okay, a few more questions.
 
-(00:48:13):
-From the business perspective, cleaning up a test in a build suite can be cloud cost savings because all of those tests are running somewhere on a cloud. And if they always fail or if it's just kind of a waste of spend, that can be useful, recovering some capacity. We can always talk about time and productivity gains, "How much equivalent developer time are we losing on things that are not necessarily value add?" And then sometimes we can correlate to business outcomes and correlate is usually the best we can do here, but there can be some pretty compelling correlations in terms of speeding up time to value and increase market share, for example.
+Nicole Forsgren (00:45:42):
+Awesome. Thanks.
 
-Lenny Rachitsky (00:48:54):
-Let me follow that thread and come back to this, what I think is the biggest question people have right now with AI and productivity, and I don't think anyone has the answer yet, but I'm curious to get your take of just what should people do today? What's the best approach to understanding what impact AI tools are having on their productivity? Because they're spending all this money on there. I don't know, what are we getting out of this? So I guess things are moving faster, but I don't know. So if someone had to just like, "Okay, here's what I should probably try to do," what would be your best advice here for measuring the impact of AI tools on productivity?
+Lenny (00:45:43):
+What are the most common pitfalls that companies run into when they're trying to roll out any sort of developer experience, developer productivity, system measurements, improvements?
 
-Nicole Forsgren (00:49:28):
-I would say it depends. In part, it depends on what your leadership chain really cares about. We are usually pretty good at figuring out what matters to developers and we could communicate that to them. But if we're trying to just identify two or three data points to really kind of focus on, because when we're first starting with data, sometimes it can be challenging, what do they care about? Think about the messaging you've been hearing. Have they been talking about market share? Losing market share or competitiveness in the marketplace, if that's it, focus on speed. Think about ways that you can capture metrics for speed from feature to production or feature to customer or feature to experiment and what that feedback loop looks like if they're talking about profit margin all the time.
+Nicole Forsgren (00:45:53):
+I think one I just mentioned, right. Not being clear or not understanding what it is that they're looking for because then you can have a thousand flowers bloom, and everyone's kind of running in a different direction. I think another one is not pursuing this in both a top-down and a bottom-up structure, right. And I think that can really help drive success, and having good communication throughout is super, super important, right.
 
-(00:50:18):
-Now, we always talk about money because this is business. But if that seems to be an overarching narrative, look for ways that you can save money and then translate that into recovered and recouped headcount cost. Or sometimes you'll reinvent, change a process, and then you no longer need as many vendors. So reductions in vendor spent can also help there. I say also it depends because sometimes they'll say something, leadership will say something, and it kind of comes up as a theme. If you could solve a problem that they have or it's something that they're focused on, if you can slightly reframe it even, like if they're calling everything developer productivity, go ahead and call it productivity. If they're calling it velocity, and velocity is what matters to them, think about how to frame this in terms of velocity. If they're talking about transformation or disruption, how does this help with the disruption? Because then, it will resonate with them. We don't want to make them work to understand what it is that we're doing and the value that we provide.
+(00:46:26):
+So getting your ICs bought in and helping them understand that this is for them. We want to understand what they're doing. Knowing what vocabulary they use, what terminology they use is super important. And then chatting with leaders and understanding what their motivations are or helping them understand what the motivations could be. This kind of hearkens back to one of our earliest chats on why I even got into this and how I see two different sides to the conversation on why is DevOps even a thing? Why should we even ship faster?
 
-Lenny Rachitsky (00:51:20):
-That is such good advice. Just to reflect back, the advice here is if your company's trying to figure out what sort of impact are AI tools having on our company, first, it's just like, what does the company care about most? What do leaders care about most? Could be market share, could be profit margin, could be velocity. We need higher velocity or we need to transform, transformation. So your advice there is figure that out based on words and phrases you're hearing. Then figure out ways to measure that, ways to measure market share growing, profit margin increasing. I love these examples, like time from feature, idea to production or to experiment, so maybe start tracking that. If it's margin, it's money saved by fewer tests, failing or some vendor you don't have to pay for, things like that. And then velocity, I imagine that's where things like DORA come in of just speed of engineering, shipping, or... What would you think about there for velocity?
+(00:47:03):
+There are so many people that I talk to that are super passionate about DevX right now, and they're like, "How can I convince my executive team this is important?" Because their developers are just completely burning out, or they use computers and anger every day. And so it's like, "How can we have the right tools to socialize this to our leaders as well?" Because this should be a priority. This needs to be a strategic piece, and how can we help pull together the right value points to communicate this and to understand what their priorities are so that we can see how this fits in, right.
 
-Nicole Forsgren (00:52:16):
-I would say it's actually one of those... I would pick as broad a swathe as you can. So if you can go from idea to customer or idea to experiment, how long does that take? How long does it typically take, and how long can it take, and does it take now with improved use of AI tooling and reduction in friction? That's where I will say, we talk about this a little bit in the book, how do we deal with attribution challenges? What was responsible for this? Was it the DevEx or was it AI? Go ahead and disclose that. Say, "Yes, we rolled out AI tools. We also had this effort in DevEx. They partnered very closely together." Both of them probably contributed to this, right? If we had AI tools without the DevEx improvements, we probably would've had some improvements, but not nearly as much.
+Lenny (00:47:43):
+You've been working in this space for a long time, probably longer than anyone that has ever worked on this area of developer experience productivity. What have you seen change most from the time you started working in the space to today? What kind of progress has been made?
 
-Lenny Rachitsky (00:53:00):
-If people were starting to do this today, say they're just like, "I want to start measuring developer experience," are there a two or three metrics everybody basically needs they should just start measuring ASAP?
+Nicole Forsgren (00:47:58):
+We have these increasingly large complex systems, right. So 10 or 15 years ago, the internet was around, but things were really different. Now, almost every company has a really large complex system, right. We also have a shortage of developers, or at least a reported perceived shortage of developers. More companies are technology-driven, or at least they understand they're technology driven. It's like I understand a handful... I remember a handful of years ago when I met with a financial institution whose CTO insisted to me that he was not a tech company like that. That's not real anymore. That doesn't happen anymore, at least very, very rarely.
 
-Nicole Forsgren (00:53:10):
-If you're just starting today and if you have nothing at all, talk to people, obviously. After that, I would do surveys because surveys can give you a nice overall view of the landscape quickly so that you know where the big kind of challenges are. I say that because if you're just starting, you might not have instrumentation through your system, all the metrics. And if you do already, it might not be what you think you want. Metrics that were designed without purpose, questionable. Metrics that were designed for another purpose, they might work for what you want, but they might not, so we can't just assume we have them. That's one reason I like surveys, and we include an example in the book. You can just ask a few questions, "How satisfied are you? What are the biggest barriers to your productivity, or what are the biggest challenges to getting work done?" and let them pick either from a set of tools or maybe a set of processes and then say... Let them pick three, just three.
+(00:48:39):
+So all of these things come together, and suddenly, many more companies are like, "We have to be better at this." And that was not always the case five to 10 years ago. I used to have to really explain why this was a pressing concern and why it would continue to be a oppressing concern. And now, in the last six to nine to 12 months, we have this AI moment happening, and it just poured gas on top of everything because now what's important... We've always said that [inaudible 00:49:14] execution's important, but now this is absolutely true because it's not just about what it is that you build.
 
-(00:54:12):
-Of those three, how often does this affect you? Is this hourly? Is this daily? Is this weekly? Is this quarterly? Because sometimes it hits you every single day, and you're just mad about it. Sometimes it only hits you once a quarter because it's end of quarter, but it's so onerous, and then kind of open text, like, "Is there anything else we should know?" That can give you incredible signal because by making folks prioritize the top three things... Let them pick everything, it makes the data super, super messy. But three things and how often, you can just come up with a score or a weighted score if you want, and then go kind of dig into, where should that data be? What data do we need? But also, then you've got at least some kind of baseline. It'll be a subjective baseline, but now you'll know what the biggest challenges are.
+(00:49:23):
+It's about creating absolutely novel, incredibly new experiences and doing them at a speed that no one has seen before. And the only way to do this is to have this software pipeline that is fast and is safe and is stable, and is reliable. And that's where we're seeing this really interesting convergence, and pressure isn't quite the right word, but it's really forcing the discussion and strategy and prioritization, right.
 
-Lenny Rachitsky (00:55:04):
-I love how all this just comes back just starting by talking to people and asking them these things, which is very similar to product management and just building great products is, have you talked to your customers? Everyone thinks they're doing this, but most people are not doing this enough.
+Lenny (00:50:07):
+I'm glad you touched on AI. That was actually exactly where I was going to go next.
 
-Nicole Forsgren (00:55:17):
-And I will say one thing that's challenging when you think about getting data, so interviews are data and that's important, surveys are a little more quantified because we can turn it into counts, but that's where we also want to be careful. A lot of folks go to write a survey question and they'll say something like, "Were the build and test system slow or complicated in the last week?" You're asking four different questions there. If someone answers yes, was it the build? Was it the test? Was it slow or was it flaky or complicated or something? So it can be really difficult to untangle what the signal is you're actually getting there, and so it is worth the time chatting with someone who's familiar with survey design, having a conversation with Claude or Gemini or ChatGPT around, "Here are the survey questions. Or can you propose some?" And then make sure you take a couple of rounds. Is this a good survey question? What questions can I answer from the data that I get? What problems could I solve? If you can't answer a question with data, don't get it.
+Nicole Forsgren (00:50:11):
+Perfect.
 
-Lenny Rachitsky (00:56:22):
-And you have example surveys in your book for folks that want to just copy and paste and not have to think about this much.
+Lenny (00:50:12):
+Yeah, obviously productivity, AI, engineering, something that's top of mind for a lot of people. There's a lot of layoffs that have been happening. There's a lot of talk of we don't need as many engineers. I actually had dinner not too long ago with few, I'd say 10 X engineers, and those are folks that people sometimes say they don't need Copilot. They're not going to use any of these tools. They're already amazing. And they were the opposite.
 
-Nicole Forsgren (00:56:28):
-Yeah, example surveys, a lot of example questions. We even recommend what the format, what the flow should look like, how long it should be, how long it should not be.
+(00:50:34):
+They're like, "This is making me 100% more effective and efficient and I love it." So clearly good things are happening there. I don't know what the question is specifically, but I guess have you seen the impact of AI on engineering productivity? And has that shifted how you think about developer experience and productivity beyond what you already just shared?
 
-Lenny Rachitsky (00:56:37):
-One thing that I was reading is that you don't love happiness surveys specifically, asking engineers how happy they are, is that true? If so, why is that?
+Nicole Forsgren (00:50:54):
+Absolutely. So yes and, right.
 
-Nicole Forsgren (00:56:45):
-I don't, no. Well, I'll say I don't love a happiness survey because there are too many things that contribute to happiness. Happiness is a lot, right? So happiness is work, happiness is family, happiness is hobbies, happiness is weekends, happiness... There are so many things that contribute to happiness. Now, that doesn't mean I don't care about happiness. I think happiness surveys are not particularly useful here. What can be helpful is satisfaction and people are like, "That's the same thing." It's not because you can ask, "Are you satisfied with this tool?" and then ask some follow-up questions. Now, those two are related because the more satisfied you are with your job and your tools and the work and your team, it contributes to happiness. I used to joke... Remember the golf commercials like, "Happy cows like happy cheese"?
+Lenny (00:50:57):
+Mm-hmm.
 
-Lenny Rachitsky (00:57:35):
-No.
+Nicole Forsgren (00:50:57):
+I think this is a super interesting open question. So can I answer it just with a whole bunch of questions?
 
-Nicole Forsgren (00:57:35):
-I had a Calabrian. That was the best. Happy devs make happy code. They write better programs, they do better work, they're better team members and collaborators. But capturing and trying to directly influence happiness, that's not what we are here for. It's too challenging, it's too all-encompassing. Satisfaction can give us some signal.
+Lenny (00:51:03):
+Absolutely.
 
-Lenny Rachitsky (00:57:59):
-In a totally different direction, in terms of just tools you see people using, are there any that just like, "Oh, yeah, this one's really commonly great." For people, this is just a tool people are finding a lot of success with. There's the common ones, Copilot, Cursor. I don't know. Is there anything that stands out that you want to share, just like, "Hey, you should check this tool out. People seem to love it"?
+Nicole Forsgren (00:51:04):
+We're absolutely seeing an impact, and we continue to explore this. So I have an interesting question to see how it'll change the SPACE framework. What's open here? I think a few things will remain, right? Satisfaction's still going to be there, performance is still going to be there, activity's still going to be there. How you communicate with people and with the tool efficiency and flow is still going to be there. I believe it will change and add a dimension like trust or reliability. How do I rely? Can I rely on it?
 
-Nicole Forsgren (00:58:21):
-I think they're huge, right? Copilot, Cursor, Gemini.
+(00:51:35):
+Will I have an over-reliance on it? And what we're seeing is that, probably unsurprisingly, people really fundamentally shift the way they work when they work with an AI-enabled tool like GitHub, Copilot, or Tabnine or others because now, instead of just writing code or having a short auto-complete, you spend more time reviewing code than writing code, right. There's this wonderful paper out that uses the Cups model. I'll share it with you. A team at MSR did it. Defines it, "About 50% of your time now is spent reviewing versus writing." But it'll be interesting to see how that changes things longitudinally, right.
 
-Lenny Rachitsky (00:58:25):
-Claude Code.
+(00:52:20):
+Because other... Some of my colleagues also did a paper that showed that you can do certain tasks, like build an HTTP server 50% faster, but I don't think that's what productivity's about when you're using an AI tool, frankly. Anyone who's looking at that and dear CEOs or whoever who are like, "Now I can lay off half my workforce." That's not what this is about, right. It's not about taking a task and cutting your time in half because now what we've enabled is your ability to do certain things faster and then free up some of your cognitive space so that you can do harder things with this new co-pilot sidecar or something, right.
 
-Nicole Forsgren (00:58:26):
-Yep, Claude Code. I love Claude Code.
+(00:53:03):
+But also, because now you're accepting text and then reviewing it, we've changed what your mental model is. So we've changed the friction model that you expect. We've changed the cognitive load of what you expect. We're changing reliance on code. So what does this mean for reliance or overreliance? What does this mean for learning? What does this mean for novices versus experts? How do we measure productivity, right? There are a handful of us that are having these discussions on what does this mean and how do we communicate it thoughtfully?
 
-Lenny Rachitsky (00:58:30):
-I have a whole post coming on ways to use Claude Code for non-engineering use cases.
+(00:53:35):
+Again, we really need to have these kind of holistic, balanced metrics because if it's an oversimplification, we really risk losing the forest for the trees, right. But it's also super interesting and super compelling, I think. How can we think about learning or onboarding to new code bases or new languages for folks who already know computational learning? I think it's also very different for folks who are just learning programming languages and don't already know things like computational thinking.
 
-Nicole Forsgren (00:58:35):
-Cool. Nice.
+Lenny (00:54:05):
+If someone was excited to kind of go down this road of, "We're going to focus on developer experience. We're going to focus on helping our engineers be more productive," what are the next step or two that they should take in your opinion just broadly knowing that you don't know any specifics about, say, the company that's thinking about this right now?
 
-Lenny Rachitsky (00:58:36):
-It's so interesting. For example, Claude Code, "Find ways to clean up storage on my laptop," and it just tells you there's a bunch of files. It's just like ChatGPT running on your computer and you could do all kinds of crazy stuff on your computer for you, like a mini God.
+Nicole Forsgren (00:54:22):
+I think if you're walking away from this podcast and you're like, "I'm already working on this, or I think this is a thing that's happening," I would say just go check your work basically, right. Has this been written down? Is there a clearly defined challenge, problem, something? Start there.
 
-Nicole Forsgren (00:58:36):
-I'm going to do that now. This is great.
+(00:54:45):
+Absolutely because that is going to be the thing that reduces confusion the best, right. Absolutely. And then see if there's any data. And data can be very loosely defined, right. Is there any signal that is related to the problem? I'd start there. And you can do that. You can do that in a week. You can hunt something down.
 
-Lenny Rachitsky (00:58:57):
-It's so good. Yeah, that's why I'm writing this. I had Dan Shipper was on the podcast and he said Claude Code is the most underrated AI tool out there because people don't realize what it's capable of. It's not just for coding, and that's what I'm trying to explore more and more. Okay. Is there anything else that you think would be valuable to help people improve their developer experience, help them adapt to this new world of AI and engineering that we haven't covered?
+Lenny (00:55:09):
+Sounds like something you could do in a day.
 
-Nicole Forsgren (00:59:22):
-I think something that's important to think about in general is to bring a product mindset to any type of DevEx improvements that are happening, and also the metrics that we collect and capture. By that, I mean we want to identify a problem, make sure we're solving a problem for a set of users. We want to think about creating MVPs and experiments and get fast feedback, do some rapid iteration. We want to have a strategy. We want to know who our addressable market is. We want to know what success is. We want to basically have a go-to-market function. We need to have comms. We need to get continuous feedback from our customers. We want to keep improving. And, at some point, we want to think about sunsetting something. Is it in maintenance mode? Is it sun setting?
+Nicole Forsgren (00:55:10):
+Yeah. Well, depending. Depending on how scattered things are.
 
-(01:00:12):
-And I think that's important in general, but I think it's extra important now because when we have AI tools, we're using AI tools, we're embedding AI into our products, things are changing so rapidly that it can be really important to take half a beat and say, "Okay, what's the problem I'm trying to solve right here? Is this metric that we've had for the last 10 years still important or should this be sunset because it's not really important anymore? It's not driving the types of decisions and actions that I need."
+Lenny (00:55:16):
+Are there any companies that you look at as good models of, "They do this really well."
 
-Lenny Rachitsky (01:00:40):
-Before we get to our exciting lightning round, I want to take us to AI Corner, which is a recurring segment on this podcast. Is there some way that you've found a use for an AI tool in your life, in your work that you think might be fun to share, that you think might be useful to other people?
+Nicole Forsgren (00:55:20):
+I think Google does this incredibly well, and sometimes I hesitate to mention Google because they're like... some people are like, "Well, we can't be Google, and we aren't really advanced." But the thing I love about Google's approach is that they've really taken kind of this measurement phase approach to things, even when they roll it out in new places. They're very systematic in how they measure things.
 
-Nicole Forsgren (01:00:55):
-I have been working on some home design and redecorating rooms and stuff. I'm working with a designer because I know what I like, but I don't know how to get there, I'm not good at this. But I've really been loving ChatGPT and Gemini especially to render pictures for me, so I can give it the floor plan, I can give it one shot of the room that's definitely not what it's supposed to look like, and then I can give it pictures of a couple different things, and then I can just tell it change the walls or change the furniture layout or change something. It helps me and it's relatively quick. It helps me kind of visualize the things... Again, I know what I like, but I don't know how to get there, so I know if I like it or not, which is probably a very random use, but it's fun for now.
+(00:55:41):
+They have incredible telemetry and tooling and instrumentation, and they continue to invest time in developer experience surveys and they triangulate them. And one thing that I also love being able to point out here is if there is ever a disagreement between the surveys and the instrumentation, which is incredibly advanced, almost every time, every that I've ever heard of the surveys are correct and not the instrumentation.
 
-Lenny Rachitsky (01:01:41):
-My wife does exactly the same thing. She's sending me constantly, "Here's what this rug will look like in our living room. Here's this water feature." It's so good and it keeps getting better. It's just like, "Wow, that's exactly our house with this new rug," and all you do is just upload these two photos and just like, "Cool. How would this look in our room?"
+Lenny (00:56:11):
+Amazing. I have just a couple more questions unrelated to this topic. Is there anything else that you thought you think would be useful to share or leave people with around this general space?
 
-Nicole Forsgren (01:01:57):
-Yeah, I've been impressed a couple times. Definitely the machines are listening to us. It's given me a mock-up of a room or something and then it throws in a dog bed, because I have dogs. I'm like, "I did not tell you to do that, but yeah, that's probably the color and style of dog bed that I should have in this room."
+Nicole Forsgren (00:56:22):
+I would say that thinking about what it is you want to do is always important, right. Like getting crisp, the ability to communicate clearly is always one of the best things. I think one of my superpowers and one of the things that I've been working with my teams on doing and kind of teaching them is, and one of the things that's really leveled up our work in general, is making your work incredibly accessible.
 
-Lenny Rachitsky (01:02:13):
-Speaking of that, have you tried this use case, ask ChatGPT, "Generate an image of what you think my house looks like based on everything you know about me."
+(00:56:49):
+And accessible, not necessarily in the accessibility definition of the word, but making it very easy to understand what you're doing for your key audiences. And so thinking about doing that for anything that... anyone who's listening for all of your work is super important, right. So who is it that your audience is? What's their role? What words resonate with them? And then always being able to translate your work into a few sentences or a paragraph or left... or less.
 
-Nicole Forsgren (01:02:22):
-I haven't.
+Lenny (00:57:21):
+I love it. A lot of the listeners of this podcast are product managers, and this is so core to the work of a PM, so I think this is [inaudible 00:57:28]-
 
-Lenny Rachitsky (01:02:23):
-Because it has memory and it remembers everything you've talked about, and it's hilarious. You got to do it.
+Nicole Forsgren (00:57:28):
+Perfect.
 
-Nicole Forsgren (01:02:29):
-Okay, that's on my to-do list.
+Lenny (00:57:29):
+... speaking verily directly to a lot of the listeners. Okay. So just a couple more questions. Before this podcast, I asked you a few questions, including just like what are people asking you for advice often around, and are there any other frameworks that you find really useful? And so there's a couple of things I just want to touch on, see if there's something interesting there. The first is you have this framework that you call the four-box framework. I'm curious what that is and what it's all about.
 
-Lenny Rachitsky (01:02:31):
-There we go. Bonus use case. Nicole, with that, we've reached our very exciting lightning round. I've got five questions for you. Are you ready?
+Nicole Forsgren (00:57:53):
+Yes. I love this four-box framework. I've used it for years. I actually pulled it out first when I was a professor, and I still to this day get LinkedIn messages from my students saying that it's like the most useful thing they've ever used. So here's what it is. I literally pull this out on napkins, at bars, at conferences to this day.
 
-Nicole Forsgren (01:02:38):
-Awesome. Let's go.
+(00:58:12):
+So here we go. Draw four boxes on a piece of paper, two on the top, two on the bottom. So they'll be kind of aligned. The first two to the left of them write the word words. And below them, write the word data and then between the two on the top, draw an arrow between them. So it'll say words, box, arrow, box, right. Is that making sense?
 
-Lenny Rachitsky (01:02:39):
-What are two or three books that you find yourself recommending most to other people?
+Lenny (00:58:12):
+Mm-hmm.
 
-Nicole Forsgren (01:02:43):
-Outlive by Peter Attia is fantastic. Another one that's I guess maybe related, I hurt my back so it's not great, Back Mechanic by Stuart McGill is incredible. Shout out to anyone who has hurt lower back. It's for a lay person to read through and figure out how to fix lower back problems. It's kind of a random one. I will say I love How Big Things Get Done. I can't pronounce the names. I think one's... There's Scandinavian, one is. It kind of dissects really large projects through recent-ish history and where they failed and why. And I think it's really interesting for us to think about, especially now in this AI moment where basically all of our at least software systems are going to be changing. So how do we think about approaching what is essentially going to be a very large project? And then, sorry, I'm going to throw in a bonus one, The Undoing Project by Michael Lewis. Matt Velloso recommended it to me, and it's so good.
+Nicole Forsgren (00:58:42):
+And then on the bottom it'll say data, box, arrow, box.
 
-Lenny Rachitsky (01:03:42):
-Yes, I read that-
+Lenny (00:58:46):
+Mm-hmm.
 
-Nicole Forsgren (01:03:44):
-I audibly gasped at the last sentence.
+Nicole Forsgren (00:58:47):
+Okay. So on the top half, this is where, if you want to think about measuring something or testing something, you have to start with words. So as an example, let's just say, I think that customer satisfaction gets us more money or customer satisfaction gets us return customers. Let's do customer satisfaction. So the first box, you'll put customer satisfaction inside the box, and you'll put return customers in the second box. Now always start with words. You do not start with data. You always start with words.
 
-Lenny Rachitsky (01:03:46):
-Oh. I was like, "What?"
+(00:59:22):
+And then you'll go around to a couple of people, stakeholders, managers, others, and you'll say, "Do you agree with this? Is this actually what we're doing?" And it can turn into a sentence. And then, in the boxes below it, this is your data. How are we going to measure customer satisfaction? It could be a survey.
 
-Nicole Forsgren (01:03:47):
-I was [inaudible 01:03:48]. Yeah, I was not expecting it.
+(00:59:44):
+And so this is where you'll go, and you'll say, "What data points do we have that could proxy for? What could be our data points for customer satisfaction?" And this is where it gets tricky. You could say, "Well, customer satisfaction could be return customers. But we think it leads to return customers, so we can't use that here." But return customers could be... So that's where you kind of roll this out. So how else would we measure customer satisfaction? I made this hard on myself.
 
-Lenny Rachitsky (01:03:49):
-I read that and I do not remember that last sentence. Oh, man. Okay, cool. Next question. Do you have a favorite movie or TV show you recently watched and enjoyed?
+Lenny (01:00:10):
+Like a CSAT score or NPS score.
 
-Nicole Forsgren (01:03:57):
-I'll say I watch Love Is Blind. If I got to shut down at the end of the day, Love Is Blind is fun.
+Nicole Forsgren (01:00:10):
+CSAT. Yeah.
 
-Lenny Rachitsky (01:04:02):
-There's a new season out.
+Lenny (01:00:10):
+Yeah.
 
-Nicole Forsgren (01:04:03):
-Yeah, very excited... and Shrinking. Have you seen Shrinking?
+Nicole Forsgren (01:00:10):
+CSAT, NPS.
 
-Lenny Rachitsky (01:04:07):
-No. I think I started The Therapist and yeah, I gave it a shot.
+Lenny (01:00:10):
+Mm-hmm.
 
-Nicole Forsgren (01:04:12):
-Strongly recommend it. It's cute.
+Nicole Forsgren (01:00:16):
+We could say the amount of money that they spent. It's a stretch.
 
-Lenny Rachitsky (01:04:13):
-Sweet. Is there a product you've recently discovered that you really love? Could be an app, could be some kitchen gadgets, some clothing.
+Lenny (01:00:20):
+Mm-hmm.
 
-Nicole Forsgren (01:04:21):
-Yeah, the Ninja Creami is-
+Nicole Forsgren (01:00:21):
+Okay. Now, return customers. Let's go to the next box. How are we going to measure return customers? Depending on our context, let's say that this is an online business. We could say that it's return customers as measured through the website. We could say that it's returned customers. We could just ask them, right. Maybe we have a follow-up survey. Return customers. Maybe we're going to do a stretch here. Maybe we say it's a referral link. This helps us get super clear on what it is we're going to measure. Now, the reason I like this is because if some of our... Now this data analysis. We'll just do correlations here, right.
 
-Lenny Rachitsky (01:04:25):
-Did you say this last time?
+(01:01:00):
+If we have longitudinal overtime, that's fine. You can hand this to a data scientist. You can hand this to someone and you can say, "What data do we have? Let's go run this." If something here falls apart, now you can point to the data boxes, and we can get mad about the things in the data boxes, and we can say, "What's wrong? Is the data poor quality? Are we missing data? Was this a bad proxy?" Proxy stands in for something else. "Was this ridiculous?" One of the things I made up. It was just a bad idea.
 
-Nicole Forsgren (01:04:25):
-I don't know. I may have. I don't think so.
+(01:01:32):
+Instead of getting mad at Lenny for his really stupid idea or getting mad at Nicole because this was a really bad idea, we can say, "This was problematic. What's wrong here?" Or we can go back up to the words at the top, and we can say, "This is not actually something that is probably going to hold, or this is not something we want to test right now, or this is something instead..." And it makes things incredibly clear. It helps you communicate what it is you want to do fairly quickly.
 
-Lenny Rachitsky (01:04:29):
-Somebody said this and I still remember it. It's like-
+Lenny (01:02:04):
+I love it. [inaudible 01:02:05].
 
-Nicole Forsgren (01:04:30):
-It's so good.
+Nicole Forsgren (01:02:05):
+Now...
 
-Lenny Rachitsky (01:04:31):
-... you make ice cream and stuff with it, right?
+Lenny (01:02:06):
+I'll check it out. It's ugly.
 
-Nicole Forsgren (01:04:33):
-Yeah, and you can basically freeze a protein shake and then it turns it into ice cream-
+Nicole Forsgren (01:02:08):
+Nice.
 
-Lenny Rachitsky (01:04:37):
-Oh, man.
+Lenny (01:02:08):
+I'll Zoom in, right. Okay.
 
-Nicole Forsgren (01:04:37):
-... which is delicious. Another one is a Jura coffee maker. I'd love good coffee and I'm not great at making it, so I can just push the button and it'll give me anything I want, including lattes, cappuccinos or anything. So that's kind of fun.
+Nicole Forsgren (01:02:10):
+Now I will say advanced mode. You can start with the same four-box framework and you can say, "What data do we have available? What do we think the relationships are?" But then you have to go back up to words and then say, "For these data points..." And we think that they represent something, and we think this is the relationship between them. "What do they represent? If I turn this into a sentence, what do they represent?"
 
-Lenny Rachitsky (01:04:51):
-Sweet, okay. Do you have a favorite-
+(01:02:39):
+And then you want to double check because spurious correlation's one of my favorite websites instead of charts. So you'll want to go chat with someone, interview, make sure things are actually right. But the challenge is I will see people run every correlation they could think of, but they haven't turned it into a word or a sentence that you can communicate to someone else.
 
-Nicole Forsgren (01:04:54):
-Just sugar and caffeine. I just need a power through the day.
+(01:03:01):
+They don't do the check, and they don't do that before... one, before running the correlations. And two, if it's there, right. All of our data is so interrelated that we quite often will find spurious correlations. But it can be really helpful just to have that laid out, even if it's just on a post-it, to say, "What are the things I expect to see? What is this actually testing? What relationship do I suspect is there?"
 
-Lenny Rachitsky (01:04:57):
-There's the engineering productivity 101.
+Lenny (01:03:27):
+Mm-hmm. Amazing. There's actually... I have a newsletter post, a guest post on how to do a correlation analysis and a regression analysis so folks can [inaudible 01:03:36]-
 
-Nicole Forsgren (01:05:01):
-Yes.
+Nicole Forsgren (01:03:36):
+Awesome. Oh, that's so great.
 
-Lenny Rachitsky (01:05:01):
-Oh, man. Okay, two more questions. Do you have a favorite life motto that you often find useful in work or life and come back to in various ways?
+Lenny (01:03:38):
+... templates and plug and play, all kinds of... makes it easy for you. So what I'm take away from this is an awesome framework, especially for thinking about a hypothesis you may have. In this case, it's like, "Customer satisfaction's going to lead to more return customers. Here's how we're going to measure it." And then you basically run the test and see if it's true. And if it's not, maybe you need to pick different metrics. Maybe you need to pick a different conclusion.
 
-Nicole Forsgren (01:05:09):
-Yeah, I think one that's come up a couple times, it's not a verbatim thing, I think it's more the vibe, hindsight is 2020, but it's also really dumb. I think if we made the best decision we could at the time with the information that we had available, then it is what it is. If you make a bad decision because you made a bad decision and you knew better, you had the information, not great. I don't think we give ourselves or other people enough grace because we always end up finding more information out later.
+Nicole Forsgren (01:03:59):
+And within the DORA framework, we would say, "If we want to improve our speed and stability, we think improving build time would help. And then how would I measure build time?" These are the-
 
-Lenny Rachitsky (01:05:42):
-Hear, hear. Final question. I was going to ask you something else, but as we are preparing for this, you shared that you have a new role at Google. Maybe just talk about that, what you're up to there, why you joined Google, anything folks should know.
+Lenny (01:03:59):
+Makes them circle back.
 
-Nicole Forsgren (01:05:53):
-Sure. I am senior director of developer intelligence and core developer. It's super exciting and super fun because of all of these things we've been talking about. It's focused on Google and all their properties and their underlying infrastructure, how can we improve developer experience, developer productivity, velocity, all of these things we've been talking about and, because kind of the numbers person, how do we want to think about measuring it, how does measurement change, how do feedback loops change, how can we improve the experience throughout and then kind of drive that change through an organization in ways that are meaningful and impactful and faster than they've been before.
+Nicole Forsgren (01:04:10):
+... data points that I have available to us. Yep, to circle back.
 
-Lenny Rachitsky (01:06:33):
-Nice job, Google, getting Nicole. What a win. I need to get some more Google stock ASAP. Okay, two follow-up questions. Where can folks find you online and find your book online if they want to dig deeper? And how can listeners be useful to you?
+Lenny (01:04:13):
+I love it. It's all connected. Okay. And then, last question. I asked you what advice people often ask you for, and you said that it's around making decisions. And I'm curious, what advice do you give people about making decisions?
 
-Nicole Forsgren (01:06:47):
-Online, you can find the book at developerexperiencebook.com, I'm at nicolefv.com, and LinkedIn occasionally. Sometimes it's a mess. I try to wade through all of the noise. I get there to be useful, sign up for the book and the workbooks. The workbooks are free. I'd love to get any kind of feedback on what works, what doesn't. I always love hearing those kind of stories.
+Nicole Forsgren (01:04:28):
+Yes. So this one comes up in business but also comes up personally and among my mentees. So many times, it starts with being very crisp about your objectives and definitions, but then it comes down to really clearly defining what your criteria is. What's important, and then among that criteria what's most important. Some of my friends know I have a decision-making spreadsheet that I have shared out with a handful of friends on should you take a job? Where should you move?
 
-Lenny Rachitsky (01:07:15):
-Nicole, thank you so much for being here.
+Lenny (01:05:03):
+Wow, [inaudible 01:05:04]-
 
-Nicole Forsgren (01:07:17):
-Thanks for having me, Lenny.
+Nicole Forsgren (01:05:03):
+What are the different things-
 
-Lenny Rachitsky (01:07:19):
-My pleasure. Thanks, again. Bye, everyone.
+Lenny (01:05:04):
+... really useful.
 
-(01:07:23):
-Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
+Nicole Forsgren (01:05:05):
+... you should do. It is. Well, it's funny, though, because what's interesting is many times I will... I'll share it with someone, and I've got a couple that are just funny, right. But walking through the spreadsheet is often all you need to do in order to know what the decision is. And by that, I mean, so we walked through the decision. I had one where it was like, "Where should I move next, or what job should I take?" So when I started DORA, I did this. Starting DORA, I thought, was my lowest. Once I walked through the spreadsheet, it became my high. So what you do is you outline of all of your options. What do you want to do? And then you say, "What are the criteria that are important to me?" So if it's for a job, is it something like total comp, cash money, prestige, team, job predictability, work-life balance. Identify the criteria that are most important to you.
+
+(01:06:02):
+Now it's really interesting because sometimes I will only get that far when I'm working with someone I'm mentoring or coaching, and they will say, "I know what my answer is." We don't even get to the next step. But just identifying the criteria that are important is it... Now, when I was thinking about where I wanted to move next, it was proximity to an airport, the relative tech scene, the food scene. That was real high for me, a handful of things that was important. Now the next thing I do is, for each criteria, what's their relative weight, what's their importance? And I make it add up to 100%. And then I... This is the easy part, right. You just put it in a little spreadsheet, and then I give everything [inaudible 01:06:51] score, and I just multiply it out. Now this is where I'm data informed, and I'm not data driven.
+
+Lenny (01:06:56):
+Mm-hmm.
+
+Nicole Forsgren (01:06:56):
+There have been times I make a decision where the whole flip a coin and whatever it's... wherever it lands on, what your reaction is tells you what it should actually be. There have been times where I multiply it out, and then I'll actually fudge the numbers to get what I want, but it's still slightly off. That's per your data informed. Same thing in business. There are many times where you actually run the numbers, and it'll give you a class or a category of things, and then you choose. Now this is where one of my favorite quotes I heard somewhere about strategy comes into play and that's that, "The key to having a good strategy is knowing what not to do."
+
+(01:07:40):
+And the key to executing a good strategy is actually not doing it. So you can have many options, right. As a leader and as an executive, we have many options, and we only fund some of them. If you fund everything, things are going to fail. So being able to think through and identify what your criteria are, identifying that criteria, what's your selection criteria, what's your evaluative criteria, ranking them, and then deciding what the cutoff is is important. You can't fund everything. You don't get to pick everything.
+
+Lenny (01:08:19):
+Amazing. I love the spreadsheet idea. I've made versions of it, but it's always... I think, like you said, a lot of times, the exercise is just tell you what you already think and just gives you like-
+
+Nicole Forsgren (01:08:28):
+Yep.
+
+Lenny (01:08:29):
+"... All right, you're right. You probably should just do that thing you already thought you should do."
+
+Nicole Forsgren (01:08:32):
+Yep.
+
+Lenny (01:08:33):
+Have you thought about making a public template of this spreadsheet? Even though it is simple, I bet it would be really helpful to people.
+
+Nicole Forsgren (01:08:39):
+I have, and this actually might be a good forcing function. Maybe [inaudible 01:08:43]-
+
+Lenny (01:08:42):
+Okay, awesome. So if you do it, I'll put in the show notes. It'll probably be near the bottom at the end of the episode, but that'd be awesome.
+
+Nicole Forsgren (01:08:50):
+Perfect.
+
+Lenny (01:08:50):
+Is there anything else that you want to share before we get to our very exciting lightning round?
+
+Nicole Forsgren (01:08:55):
+No, I think that's it.
+
+Lenny (01:08:56):
+Well, welcome to our very exciting lightning round. I've got six questions for you. Are you ready?
+
+Nicole Forsgren (01:09:01):
+Absolutely.
+
+Lenny (01:09:03):
+All right. First question, what are two or three books that you've recommended most to other people?
+
+Nicole Forsgren (01:09:08):
+We actually had the perfect segue because the book I've recommended absolutely the most is called Good Strategy Bad Strategy by Richard Rumelt. Another one is Designing Your Life by Bill Burnett and Dave Abbott... Dave Evans. And the last one is probably Ender's Game, Orson Scott Card. No comment right now on some of his political commentary, but I used to have extra copies in my office when I was a professor and I would just hand it out to my students. It's a fun, just easy nonsense read, but...
+
+Lenny (01:09:41):
+I absolutely love it. Such a good pick. Haven't read in a long time. And are they making [inaudible 01:09:48] show of that at all? That'd be something.
+
+Nicole Forsgren (01:09:49):
+They made a movie, and I was afraid I wasn't going to like it, so I just didn't read it. I didn't want it to ruin the book, but at least Harrison Ford was in it.
+
+Lenny (01:09:58):
+Okay. I'm not going to check it out. They're making a movie of Three-Body Problem. I don't know if you've read that, but that is... I'm really excited for that.
+
+Nicole Forsgren (01:10:03):
+It's on my list.
+
+Lenny (01:10:05):
+Oh, man. Best sci-fi ever. Next question actually very correlated. What is a favorite recent movie or TV show?
+
+Nicole Forsgren (01:10:13):
+I think going through some real just easy, fun watches lately. I'm rewatching Suits again, but Ted Lasso is a favorite, and I just tore through Never Have I Ever, which is fun because John McEnroe narrates it, which is hilarious.
+
+Lenny (01:10:30):
+John McEnroe, the tennis player?
+
+Nicole Forsgren (01:10:31):
+Yeah. It's a riot. Yeah, it's so funny.
+
+Lenny (01:10:35):
+I love it. Next question, what's a favorite interview question that you like to ask people when you're interviewing them?
+
+Nicole Forsgren (01:10:42):
+I love questions that I can kind of spin around hard decisions that people have had to make and how they made them. I love hearing their thought process. And I get a little nervous when people just [inaudible 01:10:54] and shoot from the hip constantly.
+
+Lenny (01:10:56):
+So what is it you look for there that gives you a sense that they're someone you may want to hire or work with?
+
+Nicole Forsgren (01:11:01):
+I just hearing if they have some sort of process, right. If they have some kind of decision-making process, if they have criteria, if they have... How do they do evaluation?
+
+Lenny (01:11:11):
+What is a favorite product you've recently discovered that you love?
+
+Nicole Forsgren (01:11:14):
+I have a big one and a little one. My big one is probably Sleep Eight. So I live in Arizona. It gets hot here sometimes.
+
+Lenny (01:11:21):
+Oh, Eight Sleep.
+
+Nicole Forsgren (01:11:23):
+Or yeah, Eight Sleep. Yeah, the other way around.
+
+Lenny (01:11:24):
+Yeah.
+
+Nicole Forsgren (01:11:25):
+Yeah, so one's fun because it-
+
+Lenny (01:11:27):
+Cool.
+
+Nicole Forsgren (01:11:27):
+... it makes the bed cold and also gives me some data, which is probably a little bit off, but in the approximation's fun. And then Korean face masks. They're just fun. Yeah. And you can get some pretty good ones for just a couple dollars, and that's always fun. Self-care.
+
+Lenny (01:11:44):
+Wow. First mention of that one, of Korean face masks.
+
+Nicole Forsgren (01:11:47):
+Right. Listen, everyone get on board.
+
+Lenny (01:11:50):
+I just did the TikTok. There's a filter now where you could see how you look when you age, and I'm not happy with how it turned out. And so I might look into this.
+
+Nicole Forsgren (01:12:00):
+I had some basal cell cancer on my forehead a few years ago, and so I am much more careful with my skin, and you can get... One of my favorites is COSRX. You can get 10 for like $15. So it's fun to just chill at the end of the day with a good face mask.
+
+Lenny (01:12:15):
+I was going to ask you for a specific pick, and so we got one.
+
+Nicole Forsgren (01:12:18):
+Yep.
+
+Lenny (01:12:19):
+Amazing. This next question I ask everyone, and it's especially appropriate to you, but I don't know if you'll have an answer. What's something relatively minor you've changed in your product development process that has had a big impact on your team's ability to execute? And I feel like you have a big perspective on this, so I'm curious what you have as an answer.
+
+Nicole Forsgren (01:12:38):
+I think I alluded to this earlier. I would say that it's helping everyone. So I've done this before, but I think it's helping everyone to ask who's our audience and how will we share this now. And it's sort of interesting because, right now, I'm wearing two hats. One is at MSR, Microsoft Research. We lead very ambitious research, right. So like H2, H3.
+
+Lenny (01:13:03):
+I mean, what is H3? The third half?
+
+Nicole Forsgren (01:13:06):
+Oh, Horizon 3. And so it's-
+
+Lenny (01:13:09):
+Oh, Horizon 3. Oh, okay.
+
+Nicole Forsgren (01:13:10):
+... supposed to be five to 10 years out, which-
+
+Lenny (01:13:10):
+Got it.
+
+Nicole Forsgren (01:13:12):
+... right now is like, who even knows, right? [inaudible 01:13:14]-
+
+Lenny (01:13:14):
+And we're going to be in computers, living [inaudible 01:13:16]-
+
+Nicole Forsgren (01:13:16):
+Yeah. AI has completely upended how we kind of think of Horizons. And so when we're thinking really ambitiously and very, very, very forward-looking, what's our check-in? How do we evaluate this? And then how can we easily communicate it to our core audience? And so here, who's our audience, and how do we bring the far near?
+
+(01:13:37):
+And then for the other hat I'm wearing, I'm working with OCTO kind of across all of Microsoft to take a data-informed approach to really improve and uplevel our central developer infrastructure. And so, as we're thinking very, very tactically, what is our long-term vision, and how do we align with several of our broad stakeholders? And so there it's who's our audience, and how do we bring the near, far?
+
+Lenny (01:14:04):
+I love that. Final question. What is one tactical piece of advice that listeners can do this week to help improve their developer productivity or developer experience and move it in the right direction?
+
+Nicole Forsgren (01:14:17):
+If you walk away from this podcast right now, you could take a look at what's happening in your org today. Is it written down? Is it clear? Do you have any existing data and efforts? And if not, go find a handful of developers and ask them how they feel about their work tools and their work process and what the biggest barriers to their productivity are.
+
+Lenny (01:14:41):
+Also, pick up a copy of Accelerate on Amazon or your local retail establishment. Nicole, this was amazing. I think we're going to help a lot of companies move faster, have better and happier engineers, which is going to create infinite value in the world. Thank you so much for being here. Two final questions. Where can folks find you online if they want to reach out, and how can listeners be useful to you?
+
+Nicole Forsgren (01:15:02):
+I am on Twitter and Bluesky, Nicolefv. And my website is nicolefv.com, and my... all my contact information is there. And as we mentioned previously, I'm working on a new project and a new book digging into exactly these ideas, right. How can we measure better? How can we improve? And what does that measurement process look like?
+
+(01:15:24):
+Both for kind of one time, really quick unofficial measurement pieces, and if we want to do kind of very formal longer term measurement pieces. So if anyone is interested in that or has any success stories they'd love to share, I would love to hear more about it. So please reach out and share. I'd love to hear more.
+
+Lenny (01:15:44):
+Awesome. Nicole, thank you again for being here.
+
+Nicole Forsgren (01:15:47):
+Okay, thank you Lenny.
+
+Lenny (01:15:49):
+Bye, everyone. Thank you so much for listening. If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app. Also, please consider giving us a rating or leaving a review as that really helps other listeners find the podcast. You can find all past episodes or learn more about the show at lennyspodcast.com. See you in the next episode.
 

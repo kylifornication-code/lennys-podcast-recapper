@@ -4,11 +4,42 @@ title: Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor)
 youtube_url: https://www.youtube.com/watch?v=RcYCU5UAZOk
 video_id: RcYCU5UAZOk
 publish_date: 2023-06-25
-description: 'Sri Batchu currently leads growth at Ramp, the fastest-growing SaaS
-  business (and fintech business) in history. Previously, he led growth strategy and
-  operations at Instacart and was one of...
-
-  '
+description: "Sri Batchu currently leads growth at Ramp, the fastest-growing SaaS business (and fintech business) in history.\
+  \ Previously, he led growth strategy and operations at Instacart and was one of the first 50 employees at Opendoor, where\
+  \ he built, scaled, and managed a variety of business teams, including analytics, sales, and pricing. During his time there,\
+  \ the company grew from $100M to $5B+ in revenue and to 1,500+ people. In this episode, we discuss:• The surprising tactics\
+  \ behind Ramp’s unprecedented early growth• A breakdown of Ramp’s current growth org and growth channels• Why you need to\
+  \ be “failing conclusively”• Ramp’s unique approach to metrics and measurement• Examples of Ramp’s “secret sauce”: a data-\
+  \ and technology-driven approach to everything• Why Sri prioritizes employee autonomy and flexibility over hours worked•\
+  \ Why team structure is a red herring for growth teams, and what Sri focuses on instead• How to set good North Star metrics,\
+  \ and why you should have more than one• Why Sri prefers payback periods over CAC for measuring investment ROI\n\n—\n\n\
+  Brought to you by Attio—The powerful, flexible CRM for fast-growing startups | Coda—Meet the evolution of docs | Eppo—Run\
+  \ reliable, impactful experiments\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/lessons-from-scaling-ramp-sri-batchu\n\
+  \nWhere to find Sri Batchu:\n• Twitter: https://twitter.com/sri_batchu\n• LinkedIn: https://www.linkedin.com/in/sribatchu/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Sri’s background\n(04:07) Stats surrounding\
+  \ Ramp’s hypergrowth\n(06:20) How Ramp set the stage for their remarkable growth\n(09:19) New customers vs. customer expansion\n\
+  (10:20) How Ramp has prioritized data-driven decisions \n(12:12) Ramp’s growth engineering team, and how it supports the\
+  \ sales team\n(13:41) The structure of the growth team at Ramp\n(14:36) The “skunk works” team\n(15:49) How Ramp maintains\
+  \ working at such high velocity\n(19:11) How Ramp boosts morale and keeps employees engaged and excited\n(21:45) How to\
+  \ promote hard work\n(25:10) Optimizing efficiency in your growth engine\n(27:28) Leveraging PR and fundraising \n(29:20)\
+  \ Traditional media vs. newsletters and podcasts\n(30:49) Building a repeatable and scalable growth process\n(32:28) Examples\
+  \ of good North Star metrics \n(37:09) Lower-level metrics\n(40:30) When it makes sense to use the North Star framework\n\
+  (42:03) Why Ramp doesn’t allow signups through personal emails, and how to reach out if you’re in that position\n(43:11)\
+  \ Efficiency metrics and volume metrics\n(46:49) Payback period vs. CAC for measuring ROI\n(48:55) Defining payback period\
+  \ and contribution margin\n(49:51) How to sequence growth tactics for B2B\n(52:18) Experimentation and the importance of\
+  \ failing conclusively\n(58:06) Ramp’s tool stack\n(1:00:32) How to hire great people\n(1:03:21) The importance of compensating\
+  \ employees properly\n(1:06:28) The MECE framework\n(1:09:21) Lightning round\n\nReferenced:\n• How Ramp builds product,\
+  \ in Lenny’s Newsletter: https://www.lennysnewsletter.com/p/how-ramp-builds-product\n• Eight Sleep: https://www.eightsleep.com/\n\
+  • Keith Rabois on LinkedIn: https://www.linkedin.com/in/keith/\n• Packy McCormick’s article on Ramp: https://www.notboring.co/p/ramps-double-unicorn-rounds-behind\n\
+  • Gibson Biddle’s framework: https://gibsonbiddle.medium.com/9-the-gem-model-65c89face5de\n• DoorDash’s business model:\
+  \ https://businessmodelanalyst.com/doordash-business-model/\n• Airtable: https://www.airtable.com/\n• Mutiny: https://www.mutinyhq.com/\n\
+  • Gokul Rajaram on Twitter: https://twitter.com/gokulr\n• Claire Hughes Johnson on Lenny’s Podcast: https://www.lennyspodcast.com/lessons-from-scaling-stripe/\n\
+  • MECE principle: https://productfolio.com/mece-principal/\n• Never Split the Difference: Negotiating as If Your Life Depended\
+  \ on It: https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805\n• Stories of Your Life and Others:\
+  \ https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122/r\n• Everything Everywhere All at Once on Hulu: https://www.hulu.com/movie/everything-everywhere-all-at-once-fa320000-8cf3-46fc-8c45-df5ec67b71f2\n\
+  • Fellow kettles: https://fellowproducts.com/\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring\
+  \ the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4638.0
 duration: '1:17:18'
 view_count: 8355

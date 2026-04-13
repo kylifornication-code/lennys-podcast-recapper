@@ -1,15 +1,47 @@
 ---
 guest: Tamar Yehoshua
-title: Lessons in product leadership and AI strategy from Glean, Google, Amazon, and
-  Slack | Tamar Yehoshua
+title: Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua
 youtube_url: https://www.youtube.com/watch?v=ZoSeOltKqQk
 video_id: ZoSeOltKqQk
 publish_date: 2024-09-26
-description: 'Tamar Yehoshua is the president of product and technology at Glean.
-  Prior to joining Glean, Tamar was chief product officer at Slack, where she led
-  product, design, and research as the company...
-
-  '
+description: "Tamar Yehoshua is the president of product and technology at Glean. Prior to joining Glean, Tamar was chief\
+  \ product officer at Slack, where she led product, design, and research as the company scaled, including a 10x increase\
+  \ in revenue, its public listing, and an acquisition by Salesforce. She also led product and engineering teams at Google,\
+  \ working on search, identity, and privacy, and at A9.com, an Amazon company. Tamar has served on the board of directors\
+  \ for RetailMeNot, ServiceNow, Snyk, and Yext. In our conversation, we discuss:\n• Why you don’t need to be a well-run company\
+  \ to win\n• The impact of AI on product management and the future of work\n• How to build strong cross-functional relationships,\
+  \ especially with engineers\n• Lessons learned from working with leaders like Jeff Bezos and Stewart Butterfield\n• Strategies\
+  \ for staying ahead in a rapidly evolving tech landscape\n• Much more\n\n—\n\nBrought to you by:\n• Explo—Embed customer-facing\
+  \ analytics in your product: https://explo.co/lenny\n• Sprig⁠⁠—Build products for people, not data points: https://sprig.com/getstarted?utm_source=lenny&utm_medium=podcast\n\
+  • Sidebar—Accelerate your career by surrounding yourself with extraordinary peers: https://www.sidebar.com/lenny?utm_source=lennys&utm_medium=newsletter&utm_campaign=waitlist&utm_content=2\n\
+  \nFind the transcript at: https://www.lennysnewsletter.com/p/you-dont-need-to-be-a-well-run-company-to-win-tamar-yehoshua\n\
+  \nWhere to find Tamar Yehoshua:\n• X: https://x.com/TYehoshua\n• LinkedIn: https://www.linkedin.com/in/tamar-yehoshua-886217/\n\
+  • Newsletter: https://tamaryehoshua.substack.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Tamar’s background\n(02:09) Key advice for career success\n(06:54) Understanding people and motivations\n(09:33)\
+  \ The importance of impact\n(11:20) Navigating company chaos\n(18:40) Career planning: a different perspective\n(26:22)\
+  \ Lessons from industry leaders\n(37:59) Building stronger cross-functional relationships \n(42:00) Streamlining OKR reviews\
+  \ with async methods\n(45:26) Why you shouldn’t worry so much about making users unhappy\n(47:50) The power of listening\
+  \ in leadership\n(52:34) How to leverage AI so you don’t fall behind\n(01:06:39) Closing thoughts and lightning round\n\n\
+  Referenced:\n• Glean: https://www.glean.com/\n• Snyk: https://snyk.io/\n• The Magic Loop: https://www.lennysnewsletter.com/p/the-magic-loop\n\
+  •  MySpace—what went wrong: ‘The site was a massive spaghetti-ball mess’: https://www.theguardian.com/technology/2015/mar/06/myspace-what-went-wrong-sean-percival-spotify\n\
+  • The PayPal Mafia: https://en.wikipedia.org/wiki/PayPal_Mafia\n• Jeff Bezos on X: https://x.com/jeffbezos\n• Stewart Butterfield\
+  \ on X: https://x.com/stewart\n• Working Backwards: Insights, Stories, and Secrets from Inside Amazon: https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595\n\
+  • The Everything Store: Jeff Bezos and the Age of Amazon: https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316219282/\n\
+  • Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards): https://www.lennysnewsletter.com/p/unpacking-amazons-unique-ways-of\n\
+  • Ethan Eismann on LinkedIn: https://www.linkedin.com/in/ethaneismann/\n• Ricky Robinett’s X post about his daughter using\
+  \ Cursor AI to build an app: https://x.com/rickyrobinett/status/1825581674870055189\n• Cursor: https://www.cursor.com/\n\
+  • Marc Benioff on LinkedIn: https://www.linkedin.com/in/marcbenioff/\n• Dreamforce: https://www.salesforce.com/dreamforce/\n\
+  • Behind the Cloud: The Untold Story of How Salesforce.com Went from Idea to Billion-Dollar Company—and Revolutionized an\
+  \ Industry: https://www.amazon.com/Behind-Cloud-Salesforce-com-Billion-Dollar-Company/dp/0470521163\n• Fuzzy Khosrowshahi\
+  \ joins Notion as CTO: https://www.notion.so/blog/notion-new-cto\n• Cal Henderson on LinkedIn: https://www.linkedin.com/in/iamcal/\n\
+  • Rachel Whetstone on LinkedIn: https://www.linkedin.com/in/rachel-whetstone-497890127/\n• Listen: Five Simple Tools to\
+  \ Meet Your Everyday Parenting Challenges: https://www.amazon.com/Listen-Simple-Everyday-Parenting-Challenges/dp/0997459301\n\
+  • How to Talk So Kids Will Listen & Listen So Kids Will Talk: https://www.amazon.com/How-Talk-Kids-Will-Listen/dp/1451663889\n\
+  • Figma AI: https://www.figma.com/ai/\n• ChatGPT: https://chatgpt.com/\n• Claude: https://claude.ai/\n• Gemini: https://gemini.google.com/app\n\
+  • Gong: https://www.gong.io/\n...References continued at: https://www.lennysnewsletter.com/p/you-dont-need-to-be-a-well-run-company-to-win-tamar-yehoshua\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4644.0
 duration: '1:17:24'
 view_count: 26562

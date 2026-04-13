@@ -1,15 +1,32 @@
 ---
 guest: Noam Lovinsky
-title: The happiness and pain of product management | Noam Lovinsky (Grammarly, FB,
-  Thumbtack, YT)
+title: The happiness and pain of product management | Noam Lovinsky (Grammarly, FB, Thumbtack, YT)
 youtube_url: https://www.youtube.com/watch?v=a_W5Rn0bJWE
 video_id: a_W5Rn0bJWE
 publish_date: 2024-03-17
-description: 'Noam Lovinsky has had a distinguished career in product, leaving an
-  indelible mark at Facebook, YouTube, Thumbtack, and currently as the chief product
-  officer at Grammarly. At Facebook, Noam...
-
-  '
+description: "Noam Lovinsky has had a distinguished career in product, leaving an indelible mark at Facebook, YouTube, Thumbtack,\
+  \ and currently as the chief product officer at Grammarly. At Facebook, Noam helped establish the New Product Experimentation\
+  \ team; at Thumbtack, he was chief product officer; and at YouTube, he was one of the early product leaders overseeing the\
+  \ consumer experience. In our conversation, we discuss:\n• Challenges and lessons from reviving growth at YouTube and Thumbtack\n\
+  • Lessons from building Facebook’s New Product Experimentation team\n• Insights into Grammarly’s success\n• Knowing when\
+  \ it’s time to kill your project\n• Why diversifying your growth channels is critical\n• The power of visioning and storytelling\
+  \ in shaping product strategy\n• How to create space for innovation at large companies\n• The resilience and motivation\
+  \ of Grammarly’s team in Ukraine\n\n—\n\nBrought to you by:\n• Whimsical—The iterative product workspace: https://whimsical.com/lenny\n\
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n• LinkedIn Ads—Reach professionals and drive results\
+  \ for your business https://www.linkedin.com/podlenny\n\nFind the transcript and references at: https://www.lennysnewsletter.com/p/the-happiness-and-pain-of-product\n\
+  \nWhere to find Noam Lovinsky:\n• X: https://twitter.com/noaml\n• LinkedIn: https://www.linkedin.com/in/noaml/\n\nWhere\
+  \ to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Noam’s background\n(04:18) Noam’s lack of online presence\n(08:06) Lessons from YouTube:\
+  \ advocating for what’s best for yourself and the team\n(14:31) Prioritizing what’s best for the business\n(19:37) Knowing\
+  \ when it’s time to kill a project\n(21:47) Lessons from Thumbtack: diversifying growth channels and overcoming challenges\n\
+  (26:24) How Thumbtack turned growth around\n(31:44) Building Airbnb’s instant booking feature\n(35:28) Lessons from Thumbtack:\
+  \ team collaboration and product strategy\n(38:38) Lessons from Facebook: building the New Product Experimentation team\n\
+  (40:43) The importance of starting small and building community density\n(46:07) Advice for building a startup within a\
+  \ startup\n(48:52) Having an incentive system\n(49:34) Lessons from Grammarly: adapting to changing user needs and building\
+  \ for the masses\n(54:20) The scrappiness and profitability of Grammarly\n(56:56) The resilience and motivation of the Grammarly\
+  \ team in Ukraine\n(59:08) General career advice\n(01:01:02) When to pull back\n(01:02:58) Closing thoughts\n(01:03:56)\
+  \ Lightning round \n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email\
+  \ podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4175.0
 duration: '1:09:35'
 view_count: 14093

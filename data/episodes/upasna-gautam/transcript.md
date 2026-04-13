@@ -4,11 +4,33 @@ title: An inside look at how CNN builds product | Upasna Gautam
 youtube_url: https://www.youtube.com/watch?v=gRiCzfFEd7c
 video_id: gRiCzfFEd7c
 publish_date: 2023-02-23
-description: 'Upasna Gautam is a product manager at CNN Digital, where she works closely
-  with editorial staff and journalists to build their internal content management
-  system. She is also a longtime meditation...
-
-  '
+description: "Upasna Gautam is a product manager at CNN Digital, where she works closely with editorial staff and journalists\
+  \ to build their internal content management system. She is also a longtime meditation coach and a board member of the News\
+  \ Product Alliance. In today’s episode, we delve into how product teams are structured and operate at CNN, how CNN uses\
+  \ OKRs and roadmaps, and the unique challenges and opportunities in designing a digital product for journalists. Upasna\
+  \ also shares a story about her team's product saving the day during the 2020 elections and gives listeners a free mini\
+  \ lesson on meditation.\n\n—\n\nBrought to you by Amplitude—Build better products: https://amplitude.com/ | OneSchema—Import\
+  \ CSV data 10x faster: https://oneschema.co/lenny | Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\
+  \nFind the full transcript here: https://www.lennyspodcast.com/an-inside-look-at-how-cnn-builds-product-upasna-gautam/#transcription\
+  \ \n\nWhere to find Upasna Gautam:\n• Twitter: https://twitter.com/UpasnaGautam\n• LinkedIn: https://www.linkedin.com/in/upasnagautam/\n\
+  • Website: https://linktr.ee/upasnagautam\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter:\
+  \ https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nReferenced:\n• Insight Timer:\
+  \ https://insighttimer.com/\n• News Product Alliance: https://newsproduct.org/\n• Mindfulness in Plain English: https://www.amazon.com/Mindfulness-English-Bhante-Henepola-Gunaratana/dp/0861719069\n\
+  • How to Win Friends & Influence People: https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/\n• The New\
+  \ Product Development Game: https://hbr.org/1986/01/the-new-new-product-development-game\n• The Mandalorian on Disney+:\
+  \ https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD\n• Ted Lasso on AppleTV+: https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy\n\
+  • Everything Everywhere All at Once on Showtime: https://www.sho.com/titles/3493875/everything-everywhere-all-at-once\n\
+  • Andor on Disney+: https://disneyplusoriginals.disney.com/show/andor\n\nIn this episode, we cover:\n(00:00) Upasna’s background\
+  \ \n(03:13) How Upasna’s meditation background helps her thrive in the chaotic world of product at CNN\n(08:55) How PMs\
+  \ at CNN build in buffer time and create backup plans when breaking news hits \n(10:26) How the product team works with\
+  \ editorial staff and journalists at CNN\n(15:22) The product org structure at CNN Digital \n(19:02) OKRs at CNN\n(20:10)\
+  \ How CNN’s product teams do long-term planning\n(21:37) Why Upasna involves the tech lead in all product discovery/product\
+  \ review meetings\n(23:51) How to boost morale with remote teams\n(27:39) Balancing maintenance with building new stuff\n\
+  (29:21) The time CNN.com went down in 2020 and the new platform saved the day\n(31:21) How the product team rehearses breaking\
+  \ news\n(34:22) The superpowers Upasna and her team have cultivated\n(35:50) Why meditation and honing your communication\
+  \ skills help you excel as a PM\n(42:01) How to get started on the path of meditation\n(44:39) The work News Product Alliance\
+  \ is doing and how to get involved\n(51:54) Lightning round\n\nProduction and marketing by https://penname.co/. For inquiries\
+  \ about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 3492.0
 duration: '58:12'
 view_count: 2690

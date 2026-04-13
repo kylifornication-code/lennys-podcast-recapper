@@ -4,11 +4,33 @@ title: Managing nerves, anxiety, and burnout | Jonny Miller (Nervous Systems Mas
 youtube_url: https://www.youtube.com/watch?v=-kN8Agqee4w
 video_id: -kN8Agqee4w
 publish_date: 2024-01-28
-description: 'Jonny Miller is the founder of ⁠Nervous System Mastery⁠, a course that
-  has helped hundreds of founders and tech leaders cultivate calm, reduce nervousness,
-  enhance resilience, and elevate...
-
-  '
+description: "Jonny Miller is the founder of ⁠Nervous System Mastery⁠, a course that has helped hundreds of founders and tech\
+  \ leaders cultivate calm, reduce nervousness, enhance resilience, and elevate their sense of aliveness. Having personally\
+  \ benefited from Jonny’s teachings, I’m especially excited to have him on the show. In this episode, we discuss:\n• How\
+  \ shifting your focus from the mind to the body can help ease nervousness\n• The power of breath in changing states\n• The\
+  \ importance of “interoception”\n• Specific breathing exercises to both calm and excite your nervous system\n• The A.P.E.\
+  \ (awareness, posture, and emotion) framework for recognizing body signals\n• The “feather, brick, dump truck” phenomenon\n\
+  • The concept of emotional debt and how to release it\n• The competitive advantage of feeling emotions\n\nJonny’s five-week\
+  \ boot camp, Nervous System Mastery, will equip you with evidence-backed protocols to cultivate greater calm and agency\
+  \ over your internal state. Learn to rewire maladaptive stress responses and improve your sleep (use code LENNY for $250\
+  \ discount). ⁠Apply here⁠: https://nsmastery.com/lenny\n\nBrought to you by:\n• ⁠⁠Teal⁠⁠—Your personal career growth platform:\
+  \ https://tealhq.com/lenny\n• ⁠⁠Vanta⁠⁠—Automate compliance. Simplify security: https://vanta.com/lenny\n• ⁠⁠Miro⁠⁠—A collaborative\
+  \ visual platform where your best work comes to life: https://miro.com/lenny\n\nFind the transcript and references at: ⁠https://www.lennysnewsletter.com/p/managing-nerves-anxiety-and-burnout\n\
+  \nWhere to find Jonny Miller:\n• X: ⁠https://twitter.com/jonnym1ller⁠\n• LinkedIn: ⁠https://www.linkedin.com/in/jonnym1ller/⁠\n\
+  • Website: ⁠https://www.jonnymiller.co/⁠\n• Podcast: ⁠podcast.curioushumans.com⁠ \n• Email: ⁠jonny@curioushumans.com⁠\n\
+  • Course: ⁠https://nsmastery.com/lenny⁠\n\nWhere to find Lenny:\n• Newsletter: ⁠https://www.lennysnewsletter.com⁠\n• X:\
+  \ ⁠https://twitter.com/lennysan⁠\n• LinkedIn: ⁠https://www.linkedin.com/in/lennyrachitsky/⁠\n\nIn this episode, we cover:\n\
+  (00:00) Jonny’s background\n(07:19) The bottom-up approach to nervousness and anxiety\n(09:42) The power of breath in changing\
+  \ states\n(11:47) The concept of state over story\n(13:56) Personal experiences with nervousness\n(15:01) Breathing exercises\
+  \ to calm you down\n(20:40) The “espresso” breath exercise to give you energy\n(25:44) Interoception and the A.P.E. framework\
+  \ \n(34:47) The “feather, brick, dump truck” phenomenon\n(37:40) Recognizing emotional debt and avoiding burnout\n(40:47)\
+  \ Using somatic-oriented therapy for healing\n(45:26) Telltale signs of emotional debt\n(48:13) The competitive advantage\
+  \ of “feeling the feels”\n(50:20) Advice for people overwhelmed by stimuli\n(52:36) The NSDR (non-sleep deep rest) practice\
+  \ for emotional release\n(55:38) Daily practices for emotional well-being\n(58:23) Thoughts on meditation\n(01:01:26) The\
+  \ Body Keeps the Score\n(01:01:58) Contrarian corner\n(01:04:43) Lightning round\n\nJonny’s If [This] Then [Breathe] Recipes:\n\
+  • If [overwhelmed], then [⁠hum⁠]\n• If [anxious], then [⁠breath of calm⁠]\n• If [lethargic], then [⁠espresso breath⁠]\n\n\
+  Production and marketing by ⁠https://penname.co/⁠. For inquiries about sponsoring the podcast, email ⁠podcast@lennyrachitsky.com⁠.\n\
+  \nLenny may be an investor in the companies discussed."
 duration_seconds: 4455.0
 duration: '1:14:15'
 view_count: 12804

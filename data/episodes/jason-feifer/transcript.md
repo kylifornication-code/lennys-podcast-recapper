@@ -1,15 +1,37 @@
 ---
 guest: Jason Feifer
-title: How to get press for your product | Jason Feifer (editor in chief of Entrepreneur
-  magazine)
+title: How to get press for your product | Jason Feifer (editor in chief of Entrepreneur magazine)
 youtube_url: https://www.youtube.com/watch?v=LZLdoAq3R7Y
 video_id: LZLdoAq3R7Y
 publish_date: 2023-10-12
-description: 'Jason Feifer is the editor in chief of Entrepreneur magazine and a former
-  editor at Fast Company. He’s also a podcast host, book author, keynote speaker,
-  and startup advisor. Every week,...
-
-  '
+description: "Jason Feifer is the editor in chief of Entrepreneur magazine and a former editor at Fast Company. He’s also\
+  \ a podcast host, book author, keynote speaker, and startup advisor. Every week, he shares tips in his newsletter, One Thing\
+  \ Better, to help people become happier and more effective at work. In today’s episode, Jason draws upon his wealth of experience\
+  \ in media to share tactical insights on how to get press coverage. We discuss:\n• High-level steps to securing press coverage\
+  \ for your product\n• Why it’s critical to understand the mission of the publication\n• Why freelance writers are more likely\
+  \ to write about you\n• When it’s worth investing in PR\n• When and how to hire a great PR agency\n• Insider tips for writing\
+  \ the perfect pitch\n• Why you should optimize for “Opportunity Set B”\n\n—\nBrought to you by Sidebar—Catalyze your career\
+  \ with a Personal Board of Directors: https://www.sidebar.com/?utm_source=lennys&utm_medium=newsletter&utm_campaign=waitlist_launch\
+  \ | Maui Nui Venison—The healthiest red meat on the planet delivered directly to your door: https://mauinuivenison.com/discount/LENNY?utm_medium=podcast&utm_source=show_notes&utm_campaign=lenny\
+  \ | Eppo—Run reliable, impactful experiments: https://www.geteppo.com/\n\nFind the transcript and references at: https://www.lennysnewsletter.com/p/how-to-get-press-for-your-product\n\
+  \nWhere to find Jason Feifer:\n• LinkedIn: https://www.linkedin.com/in/jasonfeifer/\n• Newsletter: jasonfeifer.com/newsletter\n\
+  • Help Wanted podcast: https://link.chtbl.com/LsYdERXQ\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n\
+  • X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n\
+  (00:00) Jason’s background\n(04:09) Jason’s inbox volume\n(07:41) The impact of press coverage on startups\n(08:47) Navigating\
+  \ the timing and outlets for press exposure\n(10:37) When not to pursue press coverage\n(12:38) Jason’s three-step press\
+  \ strategy\n(14:01) Unpacking the media’s mission\n(15:48) Identifying a publication’s mission\n(22:56) Step one: How to\
+  \ prepare for outreach\n(26:11) How press can help you\n(28:25) When to work with a PR agency\n(32:16) PR insights and red\
+  \ flags\n(36:02) Selecting the right publication for startups\n(42:34) Step two: Identifying the ideal pitch recipient\n\
+  (47:27) Pitching best practices\n(52:26) Step three: Creating excitement around writing about you\n(59:10) Success story:\
+  \ Meg O’Hara’s pitch\n(1:05:14) Playing the long game of engagement\n(1:08:57) The quantity of outreach\n(1:11:11) How to\
+  \ structure multiple pitches \n(1:14:01) How to engage with the press\n(1:16:37) Anticipating the story’s direction\n(1:18:26)\
+  \ “Sometimes you’re not the story, but you can be part of it”\n(1:24:12) How Barbara Corcoran became relevant\n(1:27:10)\
+  \ Jason’s parting advice: “Be human”\n(1:28:59) Lightning round\n\nPR resources:\n• Jon Bier, Jack Taylor PR: https://www.jacktaylorpr.com/\n\
+  • Hanna Lee, Hanna Lee Communications: https://www.hannaleecommunications.com/\n• Jen Squilla, Max Borges Agency: http://maxborgesagency.com/\n\
+  • Gregg Delman, G Three Media: https://www.gthreemedia.com/\n• Steph Jones, Jonesworks: https://jonesworks.com/\n• Jon Hammond,\
+  \ Hammond Strategies: https://hammondstrategies.com/\n• Mark Fortier, Fortier PR: https://fortierpr.com/\n• Noelle Guerin,\
+  \ Cru of Two: https://www.cruoftwo.com/\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring\
+  \ the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 6148.0
 duration: '1:42:28'
 view_count: 3834

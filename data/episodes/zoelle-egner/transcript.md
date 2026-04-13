@@ -4,11 +4,39 @@ title: Lessons from Airtable’s unconventional growth strategy | Zoelle Egner
 youtube_url: https://www.youtube.com/watch?v=0P8LMyeYl1U
 video_id: 0P8LMyeYl1U
 publish_date: 2023-01-29
-description: 'Zoelle Egner is best known for her time at Airtable (currently valued
-  at $11 billion), where she was the 11th employee and built and led the initial marketing
-  and customer success teams. Currently...
-
-  '
+description: "Zoelle Egner is best known for her time at Airtable (currently valued at $11 billion), where she was the 11th\
+  \ employee and built and led the initial marketing and customer success teams. Currently she’s the Head of Marketing and\
+  \ Growth at Block Party, a company that designs consumer tools for online safety and anti-harassment. In today’s episode,\
+  \ we explore the marketing strategies that helped Airtable punch above its weight and build an established brand. We also\
+  \ dig into how Airtable was able to find its first super-users, how customer success played a key role in getting early\
+  \ traction, and the do’s and don’ts for marketing investments. Zoelle also shares her experience working for VaccinateCA\
+  \ (which ended up playing a massive role in helping get people vaccinated during the pandemic) and several tips for obtaining\
+  \ valuable customer feedback.\n\n—\n\nBrought to you by OneSchema—import CSV data 10x faster: https://oneschema.co/lenny;\
+  \ Pando—always-on employee progression: https://www.pando.com/lenny; and Lenny’s Job Board—hire the best product people,\
+  \ find the best product gigs: https://www.lennysjobs.com/talent.\n\nFind the full transcript here: https://www.lennysnewsletter.com/p/lessons-from-airtables-unconventional\n\
+  \nWhere to find Zoelle Egner:\n• Twitter: https://twitter.com/zoelle\n• LinkedIn: https://www.linkedin.com/in/zoelleegner/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\nReferenced:\n• Patrick McKenzie on Twitter: https://twitter.com/patio11\n\
+  • The Last of Us on HBO: https://www.hbo.com/the-last-of-us\n• Airtable: https://www.airtable.com/\n• Hacker News: https://news.ycombinator.com/\n\
+  • Block Party app: https://www.blockpartyapp.com/\n• Kathy Sierra’s book Badass: Making Users Awesome: https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019\n\
+  • Gainsight: https://www.gainsight.com/\n• Datadog: https://www.datadoghq.com/\n• Notion: https://www.notion.so/\n• Zapier:\
+  \ https://zapier.com/\n• Computing Taste: Algorithms and the Makers of Music Recommendation: https://www.amazon.com/Computing-Taste-Algorithms-Makers-Recommendation/dp/0226822974\n\
+  • Ancillary Justice: https://www.amazon.com/Ancillary-Justice-Imperial-Radch-Leckie/dp/031624662X/\n• The Happiness Lab\
+  \ podcast: https://podcasts.apple.com/us/podcast/the-happiness-lab-with-dr-laurie-santos/id1474245040\n• Gastropod podcast:\
+  \ https://podcasts.apple.com/us/podcast/gastropod/id918896288\n• Everything Everywhere All at Once on Showtime: https://www.sho.com/titles/3493875/everything-everywhere-all-at-once\n\
+  • Extraordinary Attorney Woo on Netflix: https://www.netflix.com/title/81518991\n• Figma: https://www.figma.com/\n• Webflow:\
+  \ https://webflow.com/\n• Clay: https://www.clay.com/\n• MKT1 Newsletter: https://newsletter.mkt1.co/\n• Emily Kramer on\
+  \ Lenny’s Podcast: https://www.lennyspodcast.com/how-to-build-a-powerful-marketing-machine-emily-kramer-asana-carta-mkt1/\n\
+  \nIn this episode, we cover:\n(00:00) How VaccinateCA helped bridge a gap in infrastructure\n(05:00) Zoelle’s lessons from\
+  \ her time at VaccinateCA\n(18:04) How Zoelle broke into the tech industry\n(19:01) Flocking patterns\n(24:21) What Block\
+  \ Party does\n(24:32) Zoelle’s storytelling\n(29:15) Tactics for punching above your weight as a small startup\n(31:30)\
+  \ The importance of having a highly detail-oriented person on staff\n(33:33) Why Airtable used billboards\n(36:43) Growth\
+  \ and marketing strategies at Airtable\n(42:29) Using data provided by your customers to build features that help future\
+  \ customers\n(50:59) Why customer success and marketing should be one team\n(52:56) Things to avoid in marketing\n(58:04)\
+  \ The power of templates\n(1:00:58) Why Airtable did not prioritize templates for top-of-funnel revenue \n(1:02:04) Why\
+  \ just getting PR to “get PR” is not a good strategy\n(1:04:57) The importance of getting customer feedback and investing\
+  \ in customer success\n(1:05:51) Simple strategies for getting customer feedback\n(1:07:53) Lightning round\n\nProduction\
+  \ and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 4432.0
 duration: '1:13:52'
 view_count: 7165

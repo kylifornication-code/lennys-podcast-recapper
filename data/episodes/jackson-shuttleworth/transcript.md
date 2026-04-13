@@ -1,15 +1,38 @@
 ---
 guest: Jackson Shuttleworth
-title: 'Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention
-  Team)'
+title: 'Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)'
 youtube_url: https://www.youtube.com/watch?v=_CCwoQZH5hI
 video_id: _CCwoQZH5hI
 publish_date: 2024-12-15
-description: 'Jackson Shuttleworth is a Group PM at Duolingo, where he leads the retention
-  team and the powerful streak feature. The streak feature, which gamifies consecutive
-  days of learning, has been...
-
-  '
+description: "Jackson Shuttleworth is a Group PM at Duolingo, where he leads the retention team and the powerful streak feature.\
+  \ The streak feature, which gamifies consecutive days of learning, has been Duolingo’s most important and innovative growth\
+  \ lever and a key driver of their growth to a $14 billion business with almost 600 million users. In our conversation, we\
+  \ dive deep into the history and lessons of this feature:\n• The evolution of the streak feature\n• Biggest insights from\
+  \ over 600 streak-related experiments\n• Biggest specific wins and misses along the way\n• Key principles for building effective\
+  \ streak mechanics\n• How to operate a high-velocity product team\n• Tips for building engaging notification systems\n•\
+  \ Much more\n\n—\n\nBrought to you by:\n• Pendo—The only all-in-one product experience platform for any type of application:\
+  \ https://www.pendo.io/lenny\n• Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n• Coda—The all-in-one\
+  \ collaborative workspace: https://coda.io/lenny\n\nFind the transcript at: https://www.lennysnewsletter.com/p/behind-the-product-duolingo-streaks\n\
+  \nWhere to find Jackson Shuttleworth:\n• LinkedIn: https://www.linkedin.com/in/jackson-shuttleworth/\n\nIn this episode,\
+  \ we cover:\n(00:00) Jackson’s background and an overview of Duolingo’s streak feature\n(06:00) The impact of streaks on\
+  \ Duolingo’s success\n(09:58) The origin and evolution of streaks\n(14:50) Key experiments and insights\n(24:38) User psychology\
+  \ and engagement strategies\n(28:36) Duolingo’s product review structure\n(33:07) Designing for clarity and adaptability\n\
+  (46:59) Developing the Streak Freeze feature\n(50:47) Balancing monetization and retention\n(54:08) Notification strategies\n\
+  (58:15) The Perfect Streak feature\n(01:00:40) Enhancing the user experience \n(01:04:47) Team operations and experimentation\n\
+  (01:18:57) Who can benefit from streaks\n(01:21:00) Lightning round\n\nReferenced:\n• Duolingo streaks: https://duolingo.fandom.com/wiki/Streak\n\
+  • How to make learning as addictive as social media: https://www.ted.com/talks/luis_von_ahn_how_to_make_learning_as_addictive_as_social_media?subtitle=en\n\
+  • Luis von Ahn on LinkedIn: https://www.linkedin.com/in/luis-von-ahn-duolingo/\n• FarmVille: https://en.wikipedia.org/wiki/FarmVille\n\
+  • Royal Match: https://www.dreamgames.com/games/royal-match\n• How Duolingo reignited user growth: https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth\n\
+  • You’re on fire! Or, how we brought the streak milestone to life: https://blog.duolingo.com/streak-milestone-design-animation/\n\
+  • Duolingo Doubles Down on Design and Animation with Acquisition of Hobbes: https://investors.duolingo.com/news-releases/news-release-details/duolingo-doubles-down-design-and-animation-acquisition-hobbes\n\
+  • Hobbes: https://www.hobbes.work/\n• Jira: https://www.atlassian.com/software/jira\n• Atlassian: https://www.atlassian.com/\n\
+  • Bing Gordon on LinkedIn: https://www.linkedin.com/in/binggordon/\n• Peloton: https://www.onepeloton.com/\n• Bluey on Disney+:\
+  \ https://www.disneyplus.com/series/bluey/1xy9TAOQ0M3r\n• Emily in Paris on Netflix: https://www.netflix.com/title/81037371\n\
+  • Multi-position ladders at Home Depot: https://www.homedepot.com/b/Building-Materials-Ladders-Multi-Position-Ladders/N-5yc1vZasew\n\
+  \nRecommended books:\n• A Guide to Midwestern Conversation: https://www.amazon.com/Guide-Midwestern-Conversation-Taylor-Phillips/dp/1984861336\n\
+  • Fate Is the Hunter: A Pilot’s Memoir: https://www.amazon.com/Fate-Hunter-Ernest-K-Gann/dp/0671636030\n\nProduction and\
+  \ marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny\
+  \ may be an investor in the companies discussed."
 duration_seconds: 5312.0
 duration: '1:28:32'
 view_count: 28994

@@ -4,9 +4,32 @@ title: Persuasive communication and managing up | Wes Kao (Maven, altMBA, Sectio
 youtube_url: https://www.youtube.com/watch?v=4jtGsyz4jLs
 video_id: 4jtGsyz4jLs
 publish_date: 2022-08-28
-description: Wes Kao has worked with Seth Godin (where she co-founded the altMBA and
-  served as executive director), David Perell on his Write of Passage course, Professor
-  Scott Galloway on Section4, and...
+description: "Wes Kao has worked with Seth Godin (where she co-founded the altMBA and served as executive director), David\
+  \ Perell on his Write of Passage course, Professor Scott Galloway on Section4, and Morning Brew. Currently, she’s the co-founder\
+  \ of Maven, a cohort-based learning platform where I taught my own course. Wes is passionate about telling stories that\
+  \ stay true to the creator’s intentions while keeping your audience listening. In today’s episode, you will learn how to\
+  \ use state changes to keep your audience engaged, how to communicate more clearly by focusing on the how more than the\
+  \ why, how to manage up for success, and how to communicate your priorities to set a boundary.\n\n—\n\nFind the full transcript\
+  \ here: https://www.lennyspodcast.com/persuasive-communication-and-managing-up-wes-kao-maven-seth-godin-section4/#transcription\
+  \ \n\n—\n\nWhere to find Wes Kao:\n\n• Website: https://www.weskao.com/\n• Twitter: https://twitter.com/wes_kao\n• LinkedIn:\
+  \ https://www.linkedin.com/in/weskao/\n\n—\n\nWhere to find Lenny:\n\n• Newsletter: https://www.lennysnewsletter.com\n•\
+  \ Twitter: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\n—\n\nThank you to our\
+  \ wonderful sponsors for making this episode possible:\n\n• Modern Treasury: https://www.moderntreasury.com/\n• Berbix:\
+  \ https://www.berbix.com/start\n• Makelog: https://www.makelog.com/lenny\n\n—\n\nReferenced:\n\n• The Super Specific How:\
+  \ How to make your cohort-based course more rigorous: https://www.weskao.com/blog/super-specific-how\n• It Was the Best\
+  \ of Sentences, It Was the Worst of Sentences: A Writer’s Guide to Crafting Killer Sentences: https://www.amazon.com/Was-Best-Sentences-Worst-Crafting/dp/158008740X\n\
+  • Guide to Better Business Writing (HBR Guide Series): https://www.amazon.com/HBR-Guide-Better-Business-Writing/dp/142218403X\n\
+  • Seth Godin’s blog: https://seths.blog/\n• The Minto Pyramid Principle: Logic in Writing, Thinking, and Problem Solving:\
+  \ https://www.amazon.com/Minto-Pyramid-Principle-Writing-Thinking/dp/0960191038\n• Doctor Foster: https://www.amazon.com/Doctor-Foster/dp/B01DT0WQ2C\n\
+  • Suzy Batiz: https://www.suzybatiz.com/\n• Amanda Natividad’s Marketing 201 course: https://maven.com/amandanat/content-marketing\n\
+  • Dr. Marily Nika’s course:  https://maven.com/marily-nika/technical-product-management\n\n—\n\nIn this episode, we cover:\n\
+  \n[00:00] Wes’s early career\n[07:08] How to land a job with Seth Godin\n[09:56] What makes Seth Godin stand apart\n[14:50]\
+  \ Wes’s framework for better writing: the super-specific how\n[18:08] Writing and teaching without the BS\n[21:45] State\
+  \ changes: how to keep your audience engaged when teaching\n[25:51] The data of “eyes light up” moments\n[29:27] What managing\
+  \ up can do for you\n[32:51] How to manage up effectively\n[34:17] Lenny’s template for proactive communication\n[36:19]\
+  \ The skills you need to communicate clearly through writing\n[43:50] How to protect your bandwidth (without having to say\
+  \ no to your boss)\n[47:32] How Lenny sets priorities and communicates them\n[48:24] Lightning round!\n\n—\n\nProduction\
+  \ and marketing by https://penname.co/. For inquires about sponsoring the podcast, email podcast@lennyrachitsky.com."
 duration_seconds: 3188.0
 duration: '53:08'
 view_count: 23777

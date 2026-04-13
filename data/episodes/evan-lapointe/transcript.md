@@ -1,15 +1,109 @@
 ---
 guest: Evan LaPointe
-title: Improve strategy, influence, and decision-making by understanding your brain
-  | Evan LaPointe
+title: Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe
 youtube_url: https://www.youtube.com/watch?v=GECtyEj9UPA
 video_id: GECtyEj9UPA
 publish_date: 2024-08-11
-description: 'Evan LaPointe is the founder of CORE Sciences, which teaches companies
-  and individuals how our brains work and how that translates to improved collaboration,
-  better products, faster decision-makin...
+description: 'Evan LaPointe is the founder of CORE Sciences, which teaches companies and individuals how our brains work and
+  how that translates to improved collaboration, better products, faster decision-making, and more growth. Previously, Evan
+  was the co-founder of Satellite, the fourth-largest analytics product on the internet today (it mostly runs behind the scenes,
+  and pretty much everyone listening will have used it today without knowing it), which was acquired by Adobe, where he later
+  ran product strategy, innovation, and long-range thinking for Adobe’s digital experiences business. In our conversation,
+  we discuss:
 
-  '
+  • The three different systems of the brain
+
+  • How knowing this can help you become more influential
+
+  • How understanding different brain states will help you increase productivity and creativity
+
+  • How to improve your vision and strategy skills
+
+  • How to design a work environment that fosters innovation
+
+  • How to build better relationships at work
+
+  • Much more
+
+
+  —
+
+
+  Use discount code “LENNY” for $5 off the CORE Sciences personality profile: ⁠https://www.core-sciences.com/new-core-identity
+
+
+  —
+
+
+  Brought to you by:
+
+  • Webflow—The web experience platform: https://webflow.com
+
+  • Explo—Embed customer-facing analytics in your product: https://explo.co/lenny
+
+  • Eppo—Run reliable, impactful experiments: https://www.geteppo.com/
+
+
+  Find the show notes and transcript at: https://www.lennysnewsletter.com/p/understanding-your-brain-evan-lapointe
+
+
+  Where to find Evan LaPointe:
+
+  • X: https://x.com/evanlapointe
+
+  • LinkedIn: https://www.linkedin.com/in/evanlapointe/
+
+  • Website: https://www.core-sciences.com/
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Evan’s background
+
+  (02:37) Understanding the brain’s complex systems
+
+  (07:17) The three core brain systems: safety, reward, and purpose
+
+  (11:03) Applying brain science to team dynamics
+
+  (14:27) The role of personality in team performance
+
+  (17:27) Creating effective work environments
+
+  (23:16) The science of meetings and decision-making
+
+  (29:35) Enhancing strategy and vision
+
+  (54:46) Understanding personality traits in strategy and vision
+
+  (58:58) Tactical tips for increasing openness
+
+  (01:05:46) Building influence and effective relationships
+
+  (01:21:17) The importance of trust and appeal in relationships
+
+  (01:36:47) Creating a positive organizational habitat
+
+  (01:50:35) Enhancing focus and productivity
+
+  (02:00:58) Practical tips for deep work and gamma time
+
+  (02:07:11) Lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 8079.0
 duration: '2:14:39'
 view_count: 16336

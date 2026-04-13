@@ -4,11 +4,113 @@ title: The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)
 youtube_url: https://www.youtube.com/watch?v=jW9GzaaRPxk
 video_id: jW9GzaaRPxk
 publish_date: 2024-03-21
-description: 'Emilie Gerber is the founder and CEO of Six Eastern, a top PR agency
-  that’s worked with over 100 tech companies, from stealth startups to publicly traded
-  companies. Before starting her own...
+description: 'Emilie Gerber is the founder and CEO of Six Eastern, a top PR agency that’s worked with over 100 tech companies,
+  from stealth startups to publicly traded companies. Before starting her own firm, she worked at Uber, where she led PR for
+  the business development team and B2B programs. Prior to that, she worked at Box on product communications, with a focus
+  on product launches and partnership announcements. In our conversation, we discuss:
 
-  '
+
+  • Why, and when, getting press is worth your time
+
+  • Common misconceptions about the impact press can have
+
+  • The second-order effects of press
+
+  • Which areas each publication (TechCrunch, Axios, The Verge, etc.) cares most about
+
+  • How to craft your pitch
+
+  • How to find and reach reporters
+
+  • How pitching press is different from pitching customers
+
+  • The effectiveness of direct communication through social media versus traditional press
+
+
+  —
+
+
+  Brought to you by:
+
+  • Sprig—Build a product people love: https://sprig.com/getstarted?utm_source=lenny&utm_medium=podcast
+
+  • Eppo—Run reliable, impactful experiments: https://www.geteppo.com/
+
+  • Vanta—Automate compliance. Simplify security: https://vanta.com/lenny
+
+
+  Find the transcript and references at: https://www.lennysnewsletter.com/p/the-ultimate-guide-to-pr-emilie-gerber
+
+
+  Where to find Emilie Gerber:
+
+  • Substack: http://onbackgroundintel.substack.com
+
+  • LinkedIn: https://www.linkedin.com/in/emilie-gerber-59612230/
+
+  • Website: https://sixeastern.com/
+
+  • Email: hello@sixeastern.com
+
+
+  Where to find Lenny:
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  In this episode, we cover:
+
+  (00:00) Emilie’s background
+
+  (04:56) The value of press and second-order effects
+
+  (12:57) When press is not worth your time
+
+  (17:01) Different publications and their suitability
+
+  (25:36) Avoiding negative stories
+
+  (27:23) Finding aligned podcasts and awards
+
+  (30:55) Advice for reaching out to reporters
+
+  (37:23) Controversial pitches
+
+  (41:16) Avoiding category creation
+
+  (43:26) Examples of pitches that have worked well
+
+  (52:35) Pitching to Lenny
+
+  (55:42) Effective pitching strategies
+
+  (57:44) Improving pitch announcements
+
+  (01:03:01) Press releases
+
+  (01:07:06) Crafting a compelling story
+
+  (01:09:41) Traditional press vs. newsletters, podcasts, and social media
+
+  (01:12:43) Building a social media presence
+
+  (01:17:54) How to get a Morning Brew feature
+
+  (01:19:32) Advice on choosing a PR agency
+
+  (01:22:25) Timing and budget for PR
+
+  (01:25:31) Lightning round
+
+
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+
+  Lenny may be an investor in the companies discussed.'
 duration_seconds: 5635.0
 duration: '1:33:55'
 view_count: 10210

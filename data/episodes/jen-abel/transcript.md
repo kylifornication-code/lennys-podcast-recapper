@@ -4,11 +4,32 @@ title: The ultimate guide to founder-led sales | Jen Abel (co-founder of JJELLYF
 youtube_url: https://www.youtube.com/watch?v=969dwgu98qc
 video_id: 969dwgu98qc
 publish_date: 2024-11-24
-description: 'Jen Abel is the co-founder of JJELLYFISH, where she and her team have
-  worked with over 300 early-stage founders to learn how to sell, do early customer
-  discovery, and set up a repeatable sales...
-
-  '
+description: "Jen Abel is the co-founder of JJELLYFISH, where she and her team have worked with over 300 early-stage founders\
+  \ to learn how to sell, do early customer discovery, and set up a repeatable sales motion on the way to their first $1M\
+  \ ARR. In our conversation, Jen shares:\n• Why founder-led sales is so crucial early on\n• The sales process, step by step\n\
+  • How to craft effective outreach messages\n• Where to find leads\n• What three channels work best for outreach\n• What\
+  \ to say on your first call\n• How to maintain momentum\n• Strategies for navigating procurement and closing deals\n• Common\
+  \ pitfalls in the sales process and how to avoid them\n\n—\nBrought to you by:\n• Brave Search—A smarter way to search:\
+  \ https://brave.com/lenny\n• Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n• Paragon—Ship every\
+  \ SaaS integration your customers want: https://www.useparagon.com/lenny\n\nFind the transcript at: https://www.lennysnewsletter.com/p/master-founder-led-sales-jen-abel\n\
+  \nWhere to find Jen Abel:\n• X: https://x.com/jjen_abel\n• LinkedIn: https://www.linkedin.com/in/earlystagesales\n\nWhere\
+  \ to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Jen’s background\n(02:20) The importance of founder-led sales\n(08:24) The steps of\
+  \ a sales cycle\n(12:01) Tactics for effective cold outreach\n(16:47) Conversion rate vs. win rate\n(20:20) The time it\
+  \ takes to find product-market fit\n(23:06) Identifying and engaging prospects\n(30:58) Nailing the first phone call\n(34:14)\
+  \ Buying vs. selling\n(38:08) Testing the questions to ask\n(41:57) Avoiding common sales questions and securing the second\
+  \ call\n(43:08) Co-authoring with customers\n(45:06) Time-boxing service contracts\n(49:20) Why you should avoid demos on\
+  \ the first call\n(51:05) Dealing with procurement\n(54:22) The power of enterprise sales\n(58:14) Getting a signature \n\
+  (01:00:15) Choosing a focus and overcoming sales challenges\n(01:02:19) General timelines\n(01:04:27) Final thoughts and\
+  \ advice\n(01:13:32) Working with Jen\n\nReferenced:\n• Wiz: https://www.wiz.io/\n• JJELLYFISH: https://www.jjellyfish.com/\n\
+  • Clay: https://www.clay.com/\n• A guide for finding product-market fit in B2B: https://www.lennysnewsletter.com/p/finding-product-market-fit\n\
+  • Airtable: https://www.airtable.com/\n• Figma: https://www.figma.com/\n• GitHub: https://github.com/\n• Vanta: https://www.vanta.com/\n\
+  • Christine Cacioppo on LinkedIn: https://www.linkedin.com/in/ccacioppo/\n• Glengarry Glen Ross: https://www.imdb.com/title/tt0104348/\n\
+  • A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch):\
+  \ https://www.lennysnewsletter.com/p/a-step-by-step-guide-to-crafting\n• Sales Pitch: How to Craft a Story to Stand Out\
+  \ and Win: https://www.amazon.com/Sales-Pitch-Craft-Story-Stand-ebook/dp/B0CHY6BNDN\n• Sprig: https://sprig.com/\n• Zip:\
+  \ https://zip.co/\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email\
+  \ podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
 duration_seconds: 4565.0
 duration: '1:16:05'
 view_count: 74499

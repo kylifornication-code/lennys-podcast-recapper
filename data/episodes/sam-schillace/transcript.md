@@ -1,15 +1,32 @@
 ---
 guest: Sam Schillace
-title: How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of
-  Google Docs)
+title: How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of Google Docs)
 youtube_url: https://www.youtube.com/watch?v=IOWDoDpQ7Xg
 video_id: IOWDoDpQ7Xg
 publish_date: 2024-01-11
-description: 'Sam Schillace is deputy CTO and corporate vice president at Microsoft.
-  Prior to working at Microsoft, Sam started a company called Writely, which was acquired
-  by Google and became the foundation...
-
-  '
+description: "Sam Schillace is deputy CTO and corporate vice president at Microsoft. Prior to working at Microsoft, Sam started\
+  \ a company called Writely, which was acquired by Google and became the foundation of what today is Google Docs. While at\
+  \ Google, Sam helped lead many of Google’s consumer products, including Gmail, Blogger, PageCreator, Picasa, Reader, Groups,\
+  \ and more recently Maps and Google Automotive Services. Sam was also a principal investor at Google Ventures, has founded\
+  \ six startups, and was the SVP of engineering at Box through their IPO. In this episode, we discuss:\n• The journey of\
+  \ building Google Docs\n• The importance of taking risks, embracing failure, and finding joy in your work\n• The importance\
+  \ of asking “what if” questions vs. “why not”\n• Why convenience always wins\n• How, and why, Sam stays optimistic\n• Inside\
+  \ Microsoft’s culture\n• Why you should solve problems without asking for permission\n• Early-career advice\n• Why “pixels\
+  \ are free” and “bots are docs”\n\n—\n\nBrought to you by Teal—Your personal career growth platform: https://tealhq.com/lenny\
+  \ | Vanta—Automate compliance. Simplify security: https://vanta.com/lenny | Ahrefs—Improve your website’s SEO for free:\
+  \ https://ahrefs.com/awt\n\nFind the transcript and references at: https://www.lennysnewsletter.com/p/how-to-be-more-innovative-sam-schillace\n\
+  \nWhere to find Sam Schillace:\n• LinkedIn: https://www.linkedin.com/in/schillace/\n• Newsletter: https://sundaylettersfromsam.substack.com/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Sam’s background\n(03:45) The first Google Docs file\n(06:45) Disruptive innovation\
+  \ \n(10:11) First-principles thinking\n(11:00) Recognizing disruptive ideas \n(13:17) Examples of first-principles thinking\n\
+  (15:46) The power of optimism\n(19:47) Sam’s motto: Get to the edge of something and fuck around\n(21:53) User value and\
+  \ laziness \n(24:31) People are lazy (and what to do about it)\n(28:36) Building Google Docs \n(31:06) The evolution of\
+  \ Google Docs \n(37:15) Finding product-market fit \n(39:52) The future of documents \n(44:57) The value of playing with\
+  \ technology \n(47:58) Taking risks and embracing failure \n(49:21) Thinking in the future \n(53:48) Finding joy in your\
+  \ work \n(01:01:20) Just do the best you can\n(01:02:34) The transformational power of AI \n(01:09:27) Advice for approaching\
+  \ AI \n(01:13:07) The culture at Microsoft \n(01:16:51) Closing thoughts \n(01:17:32) Lightning round \n\nProduction and\
+  \ marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny\
+  \ may be an investor in the companies discussed."
 duration_seconds: 5271.0
 duration: '1:27:51'
 view_count: 16183
