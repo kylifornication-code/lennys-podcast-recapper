@@ -1,13 +1,49 @@
 ---
 guest: Shreyas Doshi Live
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: 4 questions Shreyas wishes he’d asked himself sooner | Former PM leader at Stripe, Twitter, Google
+youtube_url: https://www.youtube.com/watch?v=atS060bNpE0
+video_id: atS060bNpE0
+publish_date: '2024-10-31'
+description: "Shreyas Doshi is a former product leader at Stripe, Twitter, Google, and Yahoo. He’s now a full-time advisor\
+  \ and coach to founders and executives. Shreyas is known for his incredibly insightful writing on products, which has garnered\
+  \ him a passionate following in the PM and startup community. Last week, we sat down together at the very first Lenny and\
+  \ Friends Summit in San Francisco for a special live episode. We covered:\n• Why product leaders often feel overwhelmed\
+  \ with work, and how to combat it\n• The importance of developing good taste, and how to do it\n• How to reduce frustration\
+  \ in your product leadership role\n• The critical skill of truly listening as a leader\n• Common pitfalls in annual planning\
+  \ and decision-making\n• Lots of laughs\n\nTo learn more from Shreyas, check out these courses:\n• Improving Your Product\
+  \ Sense: https://bit.ly/product-sense\n• Managing Your PM Career: https://bit.ly/pm-career-course\n\n—\n\nBrought to you\
+  \ by:\n• WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\n• Paragon—Ship\
+  \ every SaaS integration your customers want: https://www.useparagon.com/lenny\n• Vanta—Automate compliance. Simplify security:\
+  \ https://vanta.com/lenny\n\nFind the transcript at: https://www.lennysnewsletter.com/p/shreyas-doshi-live\n\nWhere to find\
+  \ Shreyas Doshi:\n• X: https://x.com/shreyas\n• LinkedIn: https://www.linkedin.com/in/shreyasdoshi/\n• Threads: https://www.threads.net/@shreyas.threads\n\
+  • Linktree: https://linktr.ee/shreyasdoshi\n• YouTube: https://www.youtube.com/@ShreyasDoshiVideos\n\nWhere to find Lenny:\n\
+  • Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Introduction\n(5:35) Question one: Why am I so busy?\n(10:08) Annual planning as an\
+  \ example\n(16:48) Tactical tips for staying less busy \n(25:20) Question two: Do I actually have good taste?\n(38:09) Question\
+  \ three: Why does my job feel so frustrating? \n(43:29) Question four: Am I really listening?\n(44:35) Closing remarks\n\
+  \nReferenced:\n• Shreyas Doshi on pre-mortems, the LNO framework, the three levels of product work, why most execution problems\
+  \ are strategy problems, and ROI vs. opportunity cost thinking: https://www.lennysnewsletter.com/p/episode-3-shreyas-doshi\n\
+  • LNO framework: https://twitter.com/shreyas/status/1492345184171945984\n• Time management techniques that actually work:\
+  \ https://www.lennysnewsletter.com/p/time-management-techniques-that-actually\n• Part 2: Time management techniques that\
+  \ actually work: https://www.lennysnewsletter.com/p/part-2-time-management-techniques\n• Eisenhower quote: https://www.brainyquote.com/quotes/dwight_d_eisenhower_164720\n\
+  • Stripe Connect: https://stripe.com/connect\n• Jeff Bezos explains one-way door decisions and two-way door decisions: https://www.youtube.com/watch?v=rxsdOQa_QkM\n\
+  • Spotify Is America’s Most Loved Workplace: https://www.newsweek.com/2021/10/29/spotify-americas-most-loved-workplace-1639982.html\n\
+  • Shreyas on “thinking is cheap”: https://www.linkedin.com/posts/shreyasdoshi_thinking-is-very-cheap-doing-is-very-expensive-activity-7225237421813116929-Qzi3/\n\
+  • Good Product Strategy, Bad Product Strategy from Shreyas: https://x.com/shreyas/status/1244810075908128768\n• Shreyas\
+  \ on annual planning and metrics:\nhttps://x.com/shreyas/status/1302423854095036421\nhttps://x.com/shreyas/status/1304628719374544896\n\
+  • Jensen Huang on LinkedIn: https://www.linkedin.com/in/jenhsunhuang/\n• Patrick Mahomes’s website: https://www.adidas.com/us/patrick_mahomes\n\
+  • Virat Kohli: https://en.wikipedia.org/wiki/Virat_Kohli\n• Reversible and Irreversible Decisions: https://fs.blog/reversible-irreversible-decisions/\n\
+  • Fail fast: https://en.wikipedia.org/wiki/Fail_fast\n• 3 levels of product work: https://twitter.com/shreyas/status/1370248637842812936\n\
+  • Shakespeare quote: https://nosweatshakespeare.com/quotes/famous/to-thine-own-self-be-true/\n• Rick Rubin: Legendary Music\
+  \ Producer | Lex Fridman Podcast #275: https://www.youtube.com/watch?v=H_szemxPcTI\n• Blake Burge on Rick Ruben: https://x.com/blakeaburge/status/1794470295828341222\n\
+  • Rick Rubin on X: https://x.com/RickRubin\n• Dee Hock on X: https://x.com/deewhock\n• Dee Hock quote on listening: https://x.com/shreyas/status/1351279398423465984\n\
+  • Peter Drucker: https://en.wikipedia.org/wiki/Peter_Drucker\n• Peter Drucker quotes on listening: https://www.azquotes.com/author/4147-Peter_Drucker/tag/listening\n\
+  • Lenny’s first podcast recording: https://www.youtube.com/watch?v=YP_QghPLG-8\n• A Recipe to Become a Great Listener: https://www.youtube.com/watch?v=gUQJkiDy2Ko\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
+duration_seconds: 2735.0
+duration: '45:35'
+view_count: 45621
 channel: Lenny's Podcast
 keywords:
 - growth

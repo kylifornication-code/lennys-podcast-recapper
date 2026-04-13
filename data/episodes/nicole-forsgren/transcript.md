@@ -1,13 +1,51 @@
 ---
-guest: "Nicole Forsgren"
-title: ""
-youtube_url: ""
-video_id: ""
-publish_date: ""
-description: ""
-duration_seconds: 0
-duration: ""
-view_count: 0
+guest: Nicole Forsgren
+title: How to measure and improve developer productivity | Nicole Forsgren (Microsoft Research, Github)
+youtube_url: https://www.youtube.com/watch?v=dP8NmcEkxJI
+video_id: dP8NmcEkxJI
+publish_date: '2023-07-30'
+description: "Dr. Nicole Forsgren is a developer productivity and DevOps expert who works with engineering organizations to\
+  \ make work better. Best known as co-author of the Shingo Publication Award-winning book Accelerate and the DevOps Handbook,\
+  \ 2nd edition and author of the State of DevOps Reports, she has helped some of the biggest companies in the world transform\
+  \ their culture, processes, tech, and architecture. Nicole is currently a Partner at Microsoft Research, leading developer\
+  \ productivity research and strategy, and a technical founder/CEO with a successful exit to Google. In a previous life,\
+  \ she was a software engineer, sysadmin, hardware performance engineer, and professor. She has published several peer-reviewed\
+  \ journal papers, has been awarded public and private research grants (funders include NASA and the NSF), and has been featured\
+  \ in the Wall Street Journal, Forbes, Computerworld, and InformationWeek. In today’s podcast, we discuss:\n• Two frameworks\
+  \ for measuring developer productivity: DORA and SPACE\n• Benchmarks for what good and great look like\n• Common mistakes\
+  \ to avoid when measuring developer productivity\n• Resources and tools for improving your metrics\n• Signs your developer\
+  \ experience needs attention\n• How to improve your developer experience\n• Nicole’s Four-Box framework for thinking about\
+  \ data and relationships\n\n—\n\nThis episode is brought to you by DX—a platform for measuring and improving developer productivity:\
+  \ https://getdx.com/lenny\n\nFind the full transcript at: https://www.lennysnewsletter.com/p/how-to-measure-and-improve-developer\n\
+  \nWhere to find Nicole Forsgren:\n• Twitter: https://twitter.com/nicolefv\n• LinkedIn: https://www.linkedin.com/in/nicolefv/\n\
+  • Website: https://nicolefv.com/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Nicole’s background\n(07:55)\
+  \ Unpacking the terms “developer productivity,” “developer experience,” and “DevOps”\n(10:06) How to move faster and improve\
+  \ practices across the board\n(13:43) The DORA framework\n(18:54) Benchmarks for success\n(22:33) Why company size doesn’t\
+  \ matter \n(24:54) How to improve DevOps capabilities by working backward\n(29:23) The SPACE framework and choosing metrics\n\
+  (32:51) How SPACE and DORA work together\n(35:39) Measuring satisfaction\n(37:52) Resources and tools for optimizing metrics\
+  \ \n(41:29) Nicole’s current book project\n(45:43) Common pitfalls companies run into when rolling out developer productivity/optimizations\n\
+  (47:42) How the DevOps space has progressed\n(50:07) The impact of AI on the developer experience and productivity\n(54:04)\
+  \ First steps to take if you’re trying to improve the developer experience\n(55:15) Why Google is an example of a company\
+  \ implementing DevOps solutions well\n(56:11) The importance of clear communication\n(57:32) Nicole’s Four-Box framework\n\
+  (1:05:15) Advice on making decisions \n(1:08:56) Lightning round\n\nReferenced:\n• Chef: https://www.chef.io/\n• DORA: https://dora.dev/\n\
+  • GitHub: https://github.com/\n• Microsoft Research: https://www.microsoft.com/en-us/research/\n• What is DORA?: https://devops.com/what-is-dora-and-why-you-should-care/\n\
+  • Dustin Smith on LinkedIn: https://www.linkedin.com/in/dustin-smith-b0525458/\n• Nathen Harvey on LinkedIn: https://www.linkedin.com/in/nathen/\n\
+  • What is CI/CD?: https://about.gitlab.com/topics/ci-cd/\n• Trunk-based development: https://cloud.google.com/architecture/devops/devops-tech-trunk-based-development\n\
+  • DORA DevOps Quick Check: https://dora.dev/quickcheck/\n• Accelerate: The Science of Lean Software and DevOps: Building\
+  \ and Scaling High Performing Technology Organizations: https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339\n\
+  • The SPACE of Developer Productivity: https://queue.acm.org/detail.cfm?id=3454124\n• DevOps Metrics: Nicole Forsgren and\
+  \ Mik Kersten: https://queue.acm.org/detail.cfm?id=3182626\n• How to Measure Anything: Finding the Value of Intangibles\
+  \ in Business: https://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273/\n• GitHub Copilot: https://github.com/features/copilot\n\
+  • Tabnine: https://www.tabnine.com/the-leading-ai-assistant-for-software-development\n• Nicole’s Decision-Making Spreadsheet:\
+  \ https://docs.google.com/spreadsheets/d/1wItAODkhZ-zKnnFbyDERCd8Hq2NQ03WPvCfigBQ5vpc/edit?usp=sharing\n• How to do linear\
+  \ regression and correlation analysis: https://www.lennysnewsletter.com/p/linear-regression-and-correlation-analysis\n\n\
+  Find all lightning round references at: https://www.lennyspodcast.com/\n\nProduction and marketing by https://penname.co/.\
+  \ For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies\
+  \ discussed."
+duration_seconds: 4577.0
+duration: '1:16:17'
+view_count: 32979
 channel: Lenny's Podcast
 keywords: []
 ---

@@ -1,13 +1,47 @@
 ---
 guest: Uri Levine 2.0
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: Lessons from a 2-time unicorn builder, 50-time startup advisor and 20-time board member | Uri Levine
+youtube_url: https://www.youtube.com/watch?v=Cj4ORGGEJcA
+video_id: Cj4ORGGEJcA
+publish_date: '2024-06-09'
+description: "Uri Levine is the co-founder of Waze, the world’s largest community-based traffic and navigation app, acquired\
+  \ by Google for over $1 billion. He’s also founded nine other companies, been on the board of 20 companies, and advised\
+  \ more than 50 companies. He’s most recently the author of Fall in Love with the Problem, Not the Solution: A Handbook for\
+  \ Entrepreneurs, hailed by Steve Wozniak as the “Bible for entrepreneurs.” Uri is dedicated to creating impactful startups\
+  \ that solve real-world problems and has seen everything from failure to moderate success to big success. In our conversation,\
+  \ we dig into:\n• Why falling in love with the problem is key to startup success\n• The phases of the startup journey and\
+  \ how to navigate them\n• Why firing is more important than hiring\n• How Waze iterated to achieve product-market fit\n\
+  • Tactics for telling a compelling story when fundraising\n• Much more\n\n—\n\nBrought to you by:\n• Vanta—Automate compliance.\
+  \ Simplify security: https://vanta.com/lenny\n• Mercury—The powerful and intuitive way for ambitious companies to bank:\
+  \ https://mercury.com/\n• LinkedIn Ads—Reach professionals and drive results for your business: https://www.linkedin.com/podlenny\n\
+  \nFind the transcript at: https://www.lennysnewsletter.com/p/lessons-from-uri-levine\n\nWhere to find Uri Levine:\n• X:\
+  \ https://twitter.com/urilevine1\n• LinkedIn: https://www.linkedin.com/in/uri-levine\n• Website: https://urilevine.com/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Uri’s background\n(02:50) Falling in love with the problem\n(09:01) Signs this is\
+  \ a big enough problem\n(10:52) The importance of passion\n(12:04) A pivot example\n(13:59) Where to find startup ideas\n\
+  (21:55) Finding product-market fit at Waze\n(29:43) The different phases of a startup journey \n(36:45) What investors don’t\
+  \ want to hear\n(39:51) Fundraising tips\n(48:00) How to make your presentations stronger\n(50:30) A wild fundraising story\n\
+  (53:44) Firing and hiring\n(59:48) The 30-day test\n(01:04:10) Understanding users\n(01:12:08) Talking to the right users\n\
+  (01:15:34) Lightning round\n\nReferenced:\n• Fall in Love with the Problem, Not the Solution: A Handbook for Entrepreneurs:\
+  \ https://www.amazon.com/Fall-Love-Problem-Solution-Entrepreneurs/dp/1637741987\n• Waze: https://www.waze.com/\n• Ben Horowitz\
+  \ on LinkedIn: https://www.linkedin.com/in/behorowitz/\n• Ben Horowitz quote: https://quotefancy.com/quote/1635284/Ben-Horowitz-As-a-startup-CEO-I-slept-like-a-baby-I-woke-up-every-2-hours-and-cried\n\
+  • Michael Jordan quote: https://www.forbes.com/quotes/11194/#:~:text=I've%20lost%20almost%20300,that%20is%20why%20I%20succeed.\n\
+  • Steph Curry: https://en.wikipedia.org/wiki/Stephen_Curry\n• How Airbnb Used Word of Mouth to Change the Travel Industry\
+  \ Forever: https://truested.com/story/airbnb\n• Space Mountain: https://en.wikipedia.org/wiki/Space_Mountain_(Disneyland)\n\
+  • How Netflix builds a culture of excellence | Elizabeth Stone (CTO): https://www.lennysnewsletter.com/p/how-netflix-builds-a-culture-of-excellence\n\
+  • Steve Wozniak on LinkedIn: https://www.linkedin.com/in/wozniaksteve/\n• Uri’s post about the conference in Guatemala with\
+  \ Steve Wozniak: https://www.linkedin.com/posts/uri-levine_jewishnewyear-speakers-book-activity-6980089544079486976-0ADa/\n\
+  • Leonardo da Vinci quote: https://www.goodreads.com/quotes/9010638-simplicity-is-the-ultimate-sophistication-when-once-you-have-tasted\n\
+  • Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market: https://www.lennysnewsletter.com/p/geoffrey-moore-on-finding-your-beachhead\n\
+  • Nana Korobi Ya Oki: https://ikigaitribe.com/vlog/nana-korobi-ya-oki/\n• That Will Never Work: The Birth of Netflix and\
+  \ the Amazing Life of an Idea: https://www.amazon.com/That-Will-Never-Work-Netflix/dp/0316530204\n• Atomic Habits: An Easy\
+  \ & Proven Way to Build Good Habits & Break Bad Ones: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299\n\
+  • 8 Great Chess Apps for Beginners and Grand Masters: https://www.wired.com/story/best-chess-apps/\n• Pontera: https://pontera.com/\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
+duration_seconds: 4952.0
+duration: '1:22:32'
+view_count: 43754
 channel: Lenny's Podcast
 keywords:
 - growth

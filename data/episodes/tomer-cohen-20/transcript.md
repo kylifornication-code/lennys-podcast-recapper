@@ -1,13 +1,48 @@
 ---
 guest: Tomer Cohen 2.0
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: 'How LinkedIn became interesting: The inside story | Tomer Cohen (CPO at LinkedIn)'
+youtube_url: https://www.youtube.com/watch?v=YrUq8JUkQls
+video_id: YrUq8JUkQls
+publish_date: '2024-09-08'
+description: "Tomer Cohen is the chief product officer at LinkedIn, responsible for setting the company’s product strategy,\
+  \ leading product development, user experience design, business development, content creation, and customer operations.\
+  \ He also hosts the Building One podcast, where he interviews exceptional builders across various disciplines. In our conversation,\
+  \ we discuss:\n• How LinkedIn transformed its feed into an engaging content and social platform\n• Tomer’s famous “We might\
+  \ be wrong, but we are not confused” mantra\n• The importance of conviction and passion in product leadership\n• LinkedIn’s\
+  \ approach to experimenting with and implementing AI features\n• Lessons from Tomer’s rapid career progression at LinkedIn\n\
+  • Strategies for embracing AI in product development\n\n—\nBrought to you by:\n• Gamma—A new way to present, powered by\
+  \ AI: https://gamma.app/\n• WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\n\
+  • Merge—A single API to add hundreds of integrations into your app: https://merge.dev/sponsorships/lennys-podcast?utm_campaign=Lennys_Podcast\
+  \ Q3 2022&utm_source=lenny&utm_medium=podcast\n\nFind the transcript at: https://www.lennysnewsletter.com/p/how-linkedin-became-interesting-tomer-cohen\n\
+  \nWhere to find Tomer Cohen:\n• LinkedIn: https://www.linkedin.com/in/tomercohen/\n• Podcast: https://podcasts.apple.com/us/podcast/building-one-with-tomer-cohen/id1726672498\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Introduction to Tomer Cohen and his role at LinkedIn\n(02:28) The mantra “We might\
+  \ be wrong, but we are not confused”\n(06:45) Clarity of thought and focus\n(13:03) Setting ambitious goals and overdelivering\n\
+  (16:18) Transforming LinkedIn’s feed: strategy and execution\n(22:03) Running experiments at scale\n(26:24) Goal setting\
+  \ and identifying opportunities \n(30:58) AI’s role in LinkedIn’s evolution\n(35:38) The AI-first mindset at LinkedIn\n\
+  (35:38) Developing an AI-first mindset\n(44:49) Letting go of your roadmaps and allowing room for exploration\n(49:12) Career\
+  \ growth and personal insights\n(55:01) Takeaways \n(56:39) Lightning round and final thoughts\n\nReferenced:\n• Joff Redfern\
+  \ on LinkedIn: https://www.linkedin.com/in/mejoff/\n• Airbnb’s Vlad Loktev on embracing chaos, inquiry over advocacy, poking\
+  \ the bear, and “impact, impact, impact” (Partner at Index Ventures, Airbnb GM/VP Product): https://www.lennysnewsletter.com/p/impact-impact-impact-vlad-loktev\n\
+  • Vlad Loktev on LinkedIn: https://www.linkedin.com/in/vladimirloktev/\n• Jeff Weiner on LinkedIn: https://www.linkedin.com/in/jeffweiner08/\n\
+  • LinkedIn AI Academy: https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin\n• Shira Gasarch\
+  \ on LinkedIn: https://www.linkedin.com/in/shiragasarch/\n• Brian Chesky’s new playbook: https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach\n\
+  • Deep Nishar on LinkedIn: https://www.linkedin.com/in/deepnishar/\n• Steve Jobs: https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537\n\
+  • Ed Catmull on LinkedIn: https://www.linkedin.com/in/edwincatmull/\n• Canva: https://www.canva.com/\n• Spotify: https://open.spotify.com/\n\
+  • Roblox: https://www.roblox.com/\n• Dan Barber on X: https://x.com/DanBarber\n• Mindset: The New Psychology of Success:\
+  \ https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322\n• Thinking Fast and Slow: https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/\n\
+  • High Output Management: https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/\n• Bluey on Disney+:\
+  \ https://www.disneyplus.com/series/bluey/1xy9TAOQ0M3r\n• Spark amp: https://www.positivegrid.com/products/spark\n• Pink\
+  \ Floyd’s website: https://www.pinkfloyd.com/\n• Metallica’s website: https://www.metallica.com/\n• Nirvana’s website: https://www.nirvana.com/#/\n\
+  • David Bowie’s website: https://www.davidbowie.com/\n• Carol Dweck’s quote: https://www.goodreads.com/quotes/7017039-becoming-is-better-than-being-the-fixed-mindset-does-not\n\
+  • Never Search Alone: The Job Seeker’s Playbook: https://www.amazon.com/Never-Search-Alone-Seekers-Playbook/dp/B0B9Q9YDQ5\n\
+  • Nomophobia: https://www.medicalnewstoday.com/articles/nomophobia\n• Friend.com: https://www.friend.com/\n• Becoming an\
+  \ AI-First Product Leader course on LinkedIn: https://www.linkedin.com/learning/becoming-an-ai-first-product-leader\n\n\
+  Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
+duration_seconds: 4141.0
+duration: '1:09:01'
+view_count: 14554
 channel: Lenny's Podcast
 keywords:
 - growth

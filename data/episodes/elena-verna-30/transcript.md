@@ -1,13 +1,29 @@
 ---
 guest: Elena Verna 3.0
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: Why product-led growth is the future | Elena Verna (Amplitude, Miro, Surveymonkey)
+youtube_url: https://www.youtube.com/watch?v=UTmFuSZfJ9U
+video_id: UTmFuSZfJ9U
+publish_date: '2022-09-22'
+description: "Elena Verna has led growth at some of today’s most successful B2B businesses, including Miro as CMO, Surveymonkey\
+  \ as SVP of Growth, and now at Amplitude as interim Head of Growth. She’s also worked closely with over a dozen companies\
+  \ on growth and product strategy, including companies like MongoDB, Clockwise, and Netlify (where she sits on the board\
+  \ of directors). Elena is undoubtedly one of the smartest people on growth strategy in the world.\n\nFind the full transcript\
+  \ here: https://www.lennyspodcast.com/elena-verna-on-how-b2b-growth-is-changing-product-led-growth-product-led-sales-why-you-should-go-freemium-not-trial-what-features-to-make-free-and-much-more/#transcript\n\
+  \n—\n\nWhere to find Elena:\n\n• LinkedIn: https://www.linkedin.com/in/elenaverna\n• Twitter: https://twitter.com/elenaverna\n\
+  \n— \n\nWhere to find Lenny: \n\n• Newsletter: https://www.lennysnewsletter.com\n• Twitter: https://twitter.com/lennysan\
+  \ \n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/ \n\n—\n\nThank you to our sponsors for making this episode possible:\n\
+  \n• Persona: https://withpersona.com/lenny\n• Stytch: https://stytch.com/\n• PostHog: https://posthog.com/lenny\n\n—\n\n\
+  In this episode, we cover:\n\n00:00 Elena’s career path\n03:59 How did Elena go from an analyst at Safeway to Head of Product\
+  \ at Amplitude?\n11:38 The path to advising\n13:30 Elena’s most fulfilling and most challenging positions yet\n17:00 What’s\
+  \ changing in B2B growth?\n19:49 Consumerization examples \n21:48 What exactly is “product-led growth,” and how can you\
+  \ apply it at every stage of growth?\n23:15 Advice for founders starting a company\n26:36 Layering sales-led and product-led\n\
+  28:27 Why does PLG often get crushed when you move upmarket, and how do you avoid this?\n35:00 Advice for starters going\
+  \ to market \n36:38 Why product-led is the future of sales\n38:57 Defining product-led sales vs sales-driven\n41:41 Why\
+  \ is freemium the way to go, over trial?\n51:34 Why you should hire internally for your first growth hire\n\n—\n\nProduction\
+  \ and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com."
+duration_seconds: 3559.0
+duration: '59:19'
+view_count: 51731
 channel: Lenny's Podcast
 keywords:
 - product-market fit

@@ -1,13 +1,173 @@
 ---
 guest: Jake Knapp + John Zeratsky 2.0
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: Rapidly test and validate any startup idea with the 2-day Foundation Sprint
+youtube_url: https://www.youtube.com/watch?v=UbjAOCzpNWc
+video_id: UbjAOCzpNWc
+publish_date: '2025-07-13'
+description: 'Jake Knapp and John Zeratsky are the co-creators of the Design Sprint (the famous five-day product innovation
+  process) and authors of the bestselling book Sprint. After decades of working with over 300 startups in the earliest stages,
+  they discovered that most startups fail not because they can’t build, but because they build the wrong thing. The very beginning
+  of a startup is your highest-leverage moment, and most teams waste months or years by skipping a few critical early questions.
+  Jake and John developed the Foundation Sprint to help startups validate ideas and compress months of work into just two
+  days.
+
+
+  *What you’ll learn:*
+
+  1. The step-by-step Foundation Sprint process that compresses three or four months of validation into two days—including
+  templates you can use immediately
+
+  2. Why differentiation is the #1 predictor of startup success (with the 2x2 framework that you can use with your team)
+
+  3. The three fundamental questions every founder should answer before writing a line of code
+
+  4. The “note and vote” technique that eliminates groupthink and gets honest answers from your colleagues
+
+  5. The seven “magic lenses” for choosing between multiple product ideas
+
+  6. The biggest mistake engineers make when building with AI tools
+
+  7. The paradox of speed: why “building nothing first” can get you to product-market fit faster
+
+
+  *Brought to you by:*
+
+  Brex—The banking solution for startups: https://www.brex.com/product/business-account?ref_code=bmk_dp_brand1H25_ln_new_fs
+
+  Paragon—Ship every SaaS integration your customers want: https://www.useparagon.com/lenny
+
+  Coda—The all-in-one collaborative workspace: https://coda.io/lenny
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/the-foundation-sprint-jake-knapp-and-john-zeratsky
+
+
+  *My biggest takeaways (for paid newsletter subscribers):*
+
+  https://www.lennysnewsletter.com/i/167485876/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Jake Knapp:*
+
+  • X: https://twitter.com/jakek
+
+  • LinkedIn: https://www.linkedin.com/in/jake-knapp/
+
+  • Website: https://jakeknapp.com/
+
+
+  *Where to find John Zeratsky:*
+
+  • X: https://twitter.com/jazer
+
+  • LinkedIn: https://www.linkedin.com/in/johnzeratsky/
+
+  • Website: https://johnzeratsky.com/
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Jake Knapp and John Zeratsky
+
+  (04:41) Origins of the Design Sprint
+
+  (11:06) The Foundation Sprint process
+
+  (14:40) Phase one: The basics
+
+  (16:57) Case study: Latchet
+
+  (28:50) Phase two: Differentiation
+
+  (36:24) The importance of differentiation
+
+  (40:15) Thoughts on price differentiation
+
+  (43:37) Case study: Mellow
+
+  (46:04) Custom differentiators
+
+  (49:30) The mini manifesto
+
+  (52:02) Phase three: Approach to the project
+
+  (54:50) Magic lenses activity
+
+  (01:02:39) Prototyping and testing
+
+  (01:10:00) Real-world examples and success stories
+
+  (01:15:15) Motivation behind The Foundation Sprint
+
+  (01:17:15) The outcome of the sprint: The founding hypothesis
+
+  (01:19:28) The Design Sprint
+
+  (01:28:19) The role of AI in prototyping
+
+  (01:36:50) Final thoughts and resources
+
+
+  *Referenced:*
+
+  • Introducing the Foundation Sprint: From the creators of the Design Sprint: https://www.lennysnewsletter.com/p/introducing-the-foundation-sprint
+
+  • Making time for what matters | Jake Knapp and John Zeratsky (authors of Sprint and Make Time, co-founders of Character
+  Capital): https://www.lennysnewsletter.com/p/making-time-for-what-matters-jake
+
+  • Eli Blee-Goldman on LinkedIn: https://www.linkedin.com/in/eli-blee-goldman/
+
+  • Character Capital: https://www.character.vc/
+
+  • Character Labs: https://www.character.vc/labs
+
+  • Etsy: https://www.etsy.com/
+
+  • Shopify: https://www.shopify.com/
+
+  • Naming expert shares the process behind creating billion-dollar brand names like Azure, Vercel, Windsurf, Sonos, Blackberry,
+  and Impossible Burger | David Placek (Lexicon Branding): https://www.lennysnewsletter.com/p/naming-expert-david-placek
+
+  • Sonos: https://www.sonos.com/
+
+  • Vercel: https://vercel.com/
+
+  • Windsurf: https://windsurf.com/
+
+  • April Dunford on product positioning, segmentation, and optimizing your sales process: https://www.lennysnewsletter.com/p/april-dunford-on-product-positioning
+
+  • Positioning: https://www.lennysnewsletter.com/p/positioning
+
+  ...References continued at: https://www.lennysnewsletter.com/p/the-foundation-sprint-jake-knapp-and-john-zeratsky
+
+
+  *Recommended books:*
+
+  • Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days: https://www.amazon.com/Sprint-audiobook/dp/B019R2DQIY
+
+  • Make Time: How to Focus on What Matters Every Day: https://www.amazon.com/Make-Time-Focus-Matters-Every/dp/0525572422
+
+  • Click: How to Make What People Want: https://www.amazon.com/Click-Make-What-People-Want/dp/1668072114
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
+duration_seconds: 6094.0
+duration: '1:41:34'
+view_count: 42536
 channel: Lenny's Podcast
 keywords:
 - growth

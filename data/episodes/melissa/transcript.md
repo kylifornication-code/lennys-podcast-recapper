@@ -1,13 +1,28 @@
 ---
 guest: Melissa
-title: ''
-youtube_url: ''
-video_id: ''
-publish_date: ''
-description: ''
-duration_seconds: 0
-duration: ''
-view_count: 0
+title: How to create a winning product strategy | Melissa Perri
+youtube_url: https://www.youtube.com/watch?v=FCxkT8ULrVg
+video_id: FCxkT8ULrVg
+publish_date: '2022-07-28'
+description: "Every company wants to develop a winning strategy—but what are signs your strategy isn’t working, and how do\
+  \ you change course? Melissa Perri has worked trained PMs and product leaders at nearly all the Fortune 100 companies, and\
+  \ in this conversation shares how to reset a struggling strategy, align your team, and build winning strategy. Join us.\n\
+  \nFind the full transcript here: https://www.podpage.com/lennys-podcast/how-to-create-a-winning-product-strategy-melissa-perri/#transcript\n\
+  \n— \n\nThank you to our wonderful sponsors for making this episode possible: \n\n• Amplitude: https://amplitude.com/ \n\
+  • RevenueCat: https://www.revenuecat.com/ \n• Makelog: https://www.makelog.com/lenny \n\n— \n\nWhere to find Melissa: \n\
+  \n• Website: https://melissaperri.com/\n• Twitter: https://twitter.com/lissijean \n• LinkedIn: https://www.linkedin.com/in/melissajeanperri/\
+  \ \n\n— \n\nWhere to find Lenny: \n\n• Newsletter: https://www.lennysnewsletter.com \n• Twitter: https://twitter.com/lennysan\
+  \ \n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/ \n\n— \n\nReferenced:\n\n• Melissa’s Book: https://melissaperri.com/book\n\
+  \n— \n\nIn this episode, we cover: \n\n[00:00] What to expect with guest Melissa Perri\n[02:57] Melissa’s incredibly vast\
+  \ experience working with product manager’s \n[04:20] Melissa’s current focus: training and education of PM’s\n[05:59] The\
+  \ most common problems that product teams face\n[09:48] When to hire your first CPO\n[14:27] What to do before hiring a\
+  \ CPO\n[16:16] When to bring an interim CPO consultant like Melissa\n[21:26] Signs your team doesn’t have a strategy\n[22:59]\
+  \ Identifying your vision, strategy and intentions as a company\n[27:48] Signs you’re doing a bad job as a PM\n[30:30] The\
+  \ process of defining strategic visions\n[33:28] How to hone your craft as a PM\n[43:55] Melissa’s Book — Escaping the Build\
+  \ Trap: How Effective Product Management Creates Real Value \n[48:43] How to avoid burnout \n[52:19] Where to find Melissa"
+duration_seconds: 3222.0
+duration: '53:42'
+view_count: 51105
 channel: Lenny's Podcast
 keywords:
 - growth
