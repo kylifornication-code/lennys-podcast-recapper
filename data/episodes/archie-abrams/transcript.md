@@ -1,18 +1,38 @@
 ---
 guest: Archie Abrams
-title: How to speak more confidently and persuasively | Matt Abrahams (professor,
-  speaker, author)
-youtube_url: https://www.youtube.com/watch?v=LpbBzmXrzEY
-video_id: LpbBzmXrzEY
-publish_date: 2024-03-31
-description: 'Matt Abrahams is a renowned communication expert, with decades of teaching,
-  coaching, and consulting experience. At Stanford University, he teaches a business
-  school class on strategic communicatio...
-
-  '
-duration_seconds: 4318.0
-duration: '1:11:58'
-view_count: 52123
+title: 'Breaking the rules of growth: Why Shopify bans KPIs, optimizes for churn, and prioritizes intuition'
+youtube_url: https://www.youtube.com/watch?v=Vlph3dn4jnU
+video_id: Vlph3dn4jnU
+publish_date: '2024-11-07'
+description: "Archie Abrams is the VP of Product and Head of Growth at Shopify, where he leads a 600+ person growth org across\
+  \ product, design, engineering, data, ops, and growth marketing. Shopify powers over 10% of e-commerce in the United States,\
+  \ with $235 billion in GMV in 2023 (roughly the size of Finland’s economy). He previously led Consumer product and growth\
+  \ at Lyft and was at Udemy for 8 years as SVP of Product having joined the company when it was 10 people. In our conversation,\
+  \ we discuss:\n• Why Shopify optimizes for churn\n• Why the core product team doesn’t use metrics-based goals\n• Why they\
+  \ keep multi-year experiment holdouts\n• How they structure their growth team\n• The benefits of not having a CMO\n• Lessons\
+  \ learned about integrating sales into a product-led growth model\n• The power of discounting as a growth lever\n• Much\
+  \ more\n\n—\n\nBrought to you by:\n• Explo—Embed customer-facing analytics in your product: https://explo.co/lenny\n• Dovetail—The\
+  \ customer insights hub for product teams: https://www.dovetail.com/lenny\n\nFind the transcript at: https://www.lennysnewsletter.com/p/shopifys-growth-archie-abrams\n\
+  \nWhere to find Archie Abrams:\n• X: https://x.com/archieabrams\n• LinkedIn: https://www.linkedin.com/in/archie-abrams-b6aa8b6/\n\
+  \nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \nIn this episode, we cover:\n(00:00) Archie’s background \n(02:30) Shopify’s impressive growth\n(06:17) Shopify’s unique\
+  \ approach to churn and retention\n(08:43) Monetization model and success metrics\n(11:08) Long-term experimentation and\
+  \ metrics\n(23:00) Examples of big wins that Archie’s team has shipped\n(26:42) Monetary friction\n(27:14) Metrics\n(29:47)\
+  \ Shopify’s growth team structure\n(33:03) Goal setting and forecasting\n(37:10) Examples of long-term results within Shopify\n\
+  (41:36) Shipping neutral experiments\n(42:05) Building a hundred-year company\n(48:04) Why Shopify doesn’t use KPIs\n(51:30)\
+  \ Shopify’s “Get shit done” framework\n(54:30) Cross-team collaboration \n(58:48) The importance of an opinionated founder\
+  \ \n(01:01:12) Growth and sales integration\n(01:06:42) Shopify’s marketing structure\n(01:08:49) Insights on discounting\
+  \ from Udemy\n(01:11:09) Lightning round\n\nReferenced:\n• Shopify: https://www.shopify.com/\n• Tobias Lütke on LinkedIn:\
+  \ https://www.linkedin.com/in/tobiaslutke\n• Gross Merchandise Value: Calculation and Best Practices: https://www.shopify.com/retail/gross-merchandise-value\n\
+  • Brian Chesky’s new playbook: https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach\n• Glen Coates on LinkedIn:\
+  \ https://www.linkedin.com/in/glcoates\n• Harley Finkelstein on LinkedIn: https://www.linkedin.com/in/harleyf\n• Udemy:\
+  \ https://www.udemy.com/\n• Scientific Advertising: https://www.amazon.com/Scientific-Advertising-Original-Claude-Hopkins/dp/1640954252\n\
+  • Four-Minute Mile: https://www.amazon.com/Four-Minute-Mile-Roger-Bannister/dp/1493038753/\n• The Sopranos on HBO: https://www.hbo.com/the-sopranos\n\
+  • Suno: https://suno.com/\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast,\
+  \ email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
+duration_seconds: 4666.0
+duration: '1:17:46'
+view_count: 28871
 channel: Lenny's Podcast
 keywords:
 - growth

@@ -1,13 +1,169 @@
 ---
-guest: "Dr. Becky Kennedy"
-title: ""
-youtube_url: ""
-video_id: ""
-publish_date: ""
-description: ""
-duration_seconds: 0
-duration: ""
-view_count: 0
+guest: Dr. Becky Kennedy
+title: A child psychologist’s guide to working with difficult adults | Dr. Becky Kennedy
+youtube_url: https://www.youtube.com/watch?v=Auxs8ZsHRI4
+video_id: Auxs8ZsHRI4
+publish_date: '2026-02-01'
+description: 'Dr. Becky Kennedy is a clinical psychologist, the bestselling author of Good Inside, and the founder of a parenting
+  platform used by millions. Known for her practical, psychology-based approach to parenting, Dr. Becky shares how the same
+  principles that help parents raise resilient children can make you a much more effective leader. In this conversation, she
+  breaks down why all human systems—whether families or companies—operate on the same fundamental principles, and how understanding
+  these dynamics can make you more effective in every relationship.
+
+
+  *We discuss:*
+
+  1. Why repair—not perfection—defines strong leadership
+
+  2. Why you need to connect before you correct to build cooperation and trust
+
+  3. The “most generous interpretation” framework for handling difficult behaviors
+
+  4. How to correctly set boundaries (vs. making requests)
+
+  5. The power of “I believe you, and I believe in you”
+
+  6. What it looks like to be a “sturdy” leader
+
+
+  *Brought to you by:*
+
+  Merge—Fast, secure integrations for your products and agents: https://merge.dev/lenny
+
+  Metaview—The AI platform for recruiting: https://metaview.ai/lenny
+
+  Framer—Builder better websites faster: https://framer.com/lenny
+
+
+  *Episode transcript:* https://www.lennysnewsletter.com/p/dr-becky-on-the-surprising-overlap
+
+
+  *Archive of all Lenny''s Podcast transcripts:*
+
+  https://www.dropbox.com/scl/fo/yxi4s2w998p1gvtpu4193/AMdNPR8AOw0lMklwtnC0TrQ?rlkey=j06x0nipoti519e0xgm23zsn9&st=ahz0fj11&dl=0
+
+
+  *Where to find Dr. Becky Kennedy:*
+
+  • X: https://x.com/GoodInside
+
+  • LinkedIn: https://www.linkedin.com/in/drbecky
+
+  • Instagram: https://www.instagram.com/drbeckyatgoodinside
+
+  • TikTok: https://www.tiktok.com/@drbeckyatgoodinside
+
+  • Website: https://www.goodinside.com
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Dr. Becky Kennedy
+
+  (05:14) Connecting parenting and leadership
+
+  (08:40) The power of repair
+
+  (11:05) Connecting before correcting
+
+  (17:45) Good Inside framework at work
+
+  (22:08) The most generous interpretation (MGI)
+
+  (25:46) Curiosity over judgment
+
+  (27:07) Understanding behavior change
+
+  (31:08) What potty training can teach us about workplace behavior
+
+  (34:40) Naming your intention
+
+  (35:41) Sturdy leadership
+
+  (40:52) How to set boundaries well
+
+  (46:33) The role of leadership and consensus
+
+  (50:50) The importance of being “locatable”
+
+  (52:40) A powerful story of betrayal and realization
+
+  (57:12) Building resilience over happiness
+
+  (01:00:34) The power of the phrase “I believe you, and I believe in you.”
+
+  (01:09:08) The Good Inside community and resources
+
+  (01:16:22) AI corner
+
+  (01:19:52) Good Inside’s mission
+
+  (01:22:26) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Shreyas Doshi on pre-mortems, the LNO framework, the three levels of product work, why most execution problems are strategy
+  problems, and ROI vs. opportunity cost thinking: https://www.lennysnewsletter.com/p/episode-3-shreyas-doshi
+
+  • Radical Candor: From theory to practice with author Kim Scott: https://www.lennysnewsletter.com/p/radical-candor-from-theory-to-practice
+
+  • From ChatGPT to Instagram to Uber: The quiet architect behind the world’s most popular products | Peter Deng: https://www.lennysnewsletter.com/p/the-quiet-architect-peter-deng
+
+  • Punch: https://en.wikipedia.org/wiki/Punch_(play)
+
+  • Figma: https://www.figma.com
+
+  • Andrew Hogan on LinkedIn: https://www.linkedin.com/in/ahhogan
+
+  • Replit: https://replit.com
+
+  • Behind the product: Replit | Amjad Masad (co-founder and CEO): https://www.lennysnewsletter.com/p/behind-the-product-replit-amjad-masad
+
+  • Lovable: https://lovable.dev
+
+  • Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (co-founder and CEO): https://www.lennysnewsletter.com/p/building-lovable-anton-osika
+
+  • Claude: https://claude.ai
+
+  • ChatGPT: https://chatgpt.com
+
+  • Secrets We Keep on Netflix: https://www.netflix.com/title/81697668
+
+  • K Pop Demon Hunters on Netflix: https://www.netflix.com/title/81498621
+
+  • Liberty puzzles: https://libertypuzzles.com
+
+
+  *Recommended books:*
+
+  • Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity: https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375
+
+  • Good Inside: A Practical Guide to Resilient Parenting Prioritizing Connection Over Correction: https://www.amazon.com/Good-Inside-Guide-Becoming-Parent/dp/0063159481
+
+  • Leave Me Alone!: A Good Inside Story About Deeply Feeling Kids: https://www.amazon.com/Leave-Me-Alone-Inside-Feeling/dp/1250413117
+
+  ...References continued at: https://www.lennysnewsletter.com/p/dr-becky-on-the-surprising-overlap
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
+duration_seconds: 5517.0
+duration: '1:31:57'
+view_count: 18605
 channel: Lenny's Podcast
 keywords: []
 ---

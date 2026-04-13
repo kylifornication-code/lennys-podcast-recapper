@@ -1,16 +1,170 @@
 ---
 guest: Benjamin Mann
-title: 'How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier
-  (Lyft, Thumbtack)'
-youtube_url: https://www.youtube.com/watch?v=CYwgStMln6U
-video_id: CYwgStMln6U
-publish_date: 2024-09-29
-description: Benjamin Lauzier has been building and scaling marketplaces for almost
-  15 years. He was the VP of product and growth at Thumbtack, where he rebuilt the
-  product team and Thumbtack’s growth...
-duration_seconds: 5043.0
-duration: '1:24:03'
-view_count: 21572
+title: 'Anthropic co-founder: AGI predictions, leaving OpenAI, what keeps him up at night | Ben Mann'
+youtube_url: https://www.youtube.com/watch?v=WWoyWNhx2XU
+video_id: WWoyWNhx2XU
+publish_date: '2025-07-20'
+description: 'Benjamin Mann is a co-founder of Anthropic, an AI startup dedicated to building aligned, safety-first AI systems.
+  Prior to Anthropic, Ben was one of the architects of GPT-3 at OpenAI. He left OpenAI driven by the mission to ensure that
+  AI benefits humanity. In this episode, Ben opens up about the accelerating progress in AI and the urgent need to steer it
+  responsibly.
+
+
+  *In this conversation, we discuss:*
+
+  1. The inside story of leaving OpenAI with the entire safety team to start Anthropic
+
+  2. How Meta’s $100M offers reveal the true market price of top AI talent
+
+  3. Why AI progress is still accelerating (not plateauing), and how most people misjudge the exponential
+
+  4. Ben’s “economic Turing test” for knowing when we’ve achieved AGI—and why it’s likely coming by 2027-2028
+
+  5. Why he believes 20% unemployment is inevitable
+
+  6. The AI nightmare scenarios that concern him most—and how he believes we can still avoid them
+
+  7. How focusing on AI safety created Claude’s beloved personality
+
+  8. What three skills he’s teaching his kids instead of traditional academics
+
+
+  *Brought to you by:*
+
+  Sauce—Turn customer pain into product revenue: https://sauce.app/lenny
+
+  LucidLink—Real-time cloud storage for teams: https://www.lucidlink.com/lenny
+
+  Fin—The #1 AI agent for customer service: https://fin.ai/lenny
+
+
+  *Transcript:* https://www.lennysnewsletter.com/p/anthropic-co-founder-benjamin-mann
+
+
+  *My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/168107911/my-biggest-takeaways-from-this-conversation
+
+
+  *Where to find Ben Mann:*
+
+  • X: https://x.com/8enmann
+
+  • LinkedIn: https://www.linkedin.com/in/benjamin-mann/
+
+  • Website: https://benjmann.net/
+
+
+  *Where to find Lenny:*
+
+  • Newsletter: https://www.lennysnewsletter.com
+
+  • X: https://twitter.com/lennysan
+
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+  *In this episode, we cover:*
+
+  (00:00) Introduction to Benjamin
+
+  (04:43) The AI talent war
+
+  (06:28) AI progress and scaling laws
+
+  (10:50) Defining AGI and the economic Turing test
+
+  (12:26) The impact of AI on jobs
+
+  (17:45) Preparing for an AI future
+
+  (24:05) Founding Anthropic
+
+  (27:06) Balancing AI safety and progress
+
+  (29:10) Constitutional AI and model alignment
+
+  (34:21) The importance of AI safety
+
+  (43:40) The risks of autonomous agents
+
+  (45:40) Forecasting superintelligence
+
+  (48:36) How hard is it to align AI?
+
+  (53:19) Reinforcement learning from AI feedback (RLAIF)
+
+  (57:03) AI''s biggest bottlenecks
+
+  (01:00:11) Personal reflections on responsibilities
+
+  (01:02:36) Anthropic’s growth and innovations
+
+  (01:07:48) Lightning round and final thoughts
+
+
+  *Referenced:*
+
+  • Dario Amodei on LinkedIn: https://www.linkedin.com/in/dario-amodei-3934934/
+
+  • Anthropic CEO: AI Could Wipe Out 50% of Entry-Level White Collar Jobs: https://www.marketingaiinstitute.com/blog/dario-amodei-ai-entry-level-jobs
+
+  • Alexa+: https://www.amazon.com/dp/B0DCCNHWV5
+
+  • Azure: https://azure.microsoft.com/
+
+  • Sam Altman on X: https://x.com/sama
+
+  • Opus 3: https://www.anthropic.com/news/claude-3-family
+
+  • Claude’s Constitution: https://www.anthropic.com/news/claudes-constitution
+
+  • Greg Brockman on X: https://x.com/gdb
+
+  • Anthropic’s Responsible Scaling Policy: https://www.anthropic.com/news/anthropics-responsible-scaling-policy
+
+  • Agentic Misalignment: How LLMs could be insider threats: https://www.anthropic.com/research/agentic-misalignment
+
+  • Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram): https://www.lennysnewsletter.com/p/anthropics-cpo-heres-what-comes-next
+
+  • AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff (Learn Prompting, HackAPrompt): https://www.lennysnewsletter.com/p/ai-prompt-engineering-in-2025-sander-schulhoff
+
+  • Unitree: https://www.unitree.com/
+
+  • Arthur C. Clarke: https://en.wikipedia.org/wiki/Arthur_C._Clarke
+
+  • How Reinforcement Learning from AI Feedback Works: https://www.assemblyai.com/blog/how-reinforcement-learning-from-ai-feedback-works
+
+  • RLHF: https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback
+
+  • Jared Kaplan on LinkedIn: https://www.linkedin.com/in/jared-kaplan-645843213/
+
+  • Moore’s law: https://en.wikipedia.org/wiki/Moore%27s_law
+
+  • Machine Intelligence Research Institute: https://intelligence.org/
+
+  • Raph Lee on LinkedIn: https://www.linkedin.com/in/raphaeltlee/
+
+  • “The Last Question”: https://en.wikipedia.org/wiki/The_Last_Question
+
+  • Beth Barnes on LinkedIn: https://www.linkedin.com/in/elizabethmbarnes/
+
+  • “The Last Question”: https://en.wikipedia.org/wiki/The_Last_Question
+
+  • Good Strategy, Bad Strategy | Richard Rumelt: https://www.lennysnewsletter.com/p/good-strategy-bad-strategy-richard
+
+  • Pantheon on Netflix: https://www.netflix.com/title/81937398
+
+  *...References continued at:* https://www.lennysnewsletter.com/p/anthropic-co-founder-benjamin-mann
+
+
+  _Production and marketing by https://penname.co/._
+
+  _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+  Lenny may be an investor in the companies discussed.'
+duration_seconds: 4499.0
+duration: '1:14:59'
+view_count: 108025
 channel: Lenny's Podcast
 keywords:
 - growth

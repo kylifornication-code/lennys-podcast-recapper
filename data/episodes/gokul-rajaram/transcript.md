@@ -1,14 +1,14 @@
 ---
 guest: Gokul Rajaram
-title: Gokul Rajaram on designing your product development process, when and how to hire your first PM, a playbook for hiring leaders, getting ahead in your career, how to get started angel investing, and more
-youtube_url: https://www.youtube.com/watch?v=gokul-rajaram
-video_id: gokul-rajaram
+title: Gokul Rajaram on designing your product development process, when and how to hire your first PM, a playbook for hiring
+  leaders, getting ahead in your career, how to get started angel investing, and more
+youtube_url: ''
+video_id: ''
 publish_date: 2022-01-01
-description: 'Gokul Rajaram is on the executive team at DoorDash, where he leads the
-  Caviar product line. Previously he worked at Square and as a product director at
-  Facebook, where he helped transition advertising to mobile-first. Earlier, he was
-  a product director for Google AdSense. Gokul serves on the boards of Coinbase,
-  Pinterest, and The Trade Desk, and is a prolific angel investor.'
+description: Gokul Rajaram is on the executive team at DoorDash, where he leads the Caviar product line. Previously he worked
+  at Square and as a product director at Facebook, where he helped transition advertising to mobile-first. Earlier, he was
+  a product director for Google AdSense. Gokul serves on the boards of Coinbase, Pinterest, and The Trade Desk, and is a prolific
+  angel investor.
 duration_seconds: 3720.0
 duration: '1:02:00'
 view_count: 0

@@ -1,18 +1,35 @@
 ---
 guest: Nikita Bier
-title: Driving alignment within teams, work-life balance, and the changing PM landscape
-  | Nikita Miller
-youtube_url: https://www.youtube.com/watch?v=4PhfAbRQpbI
-video_id: 4PhfAbRQpbI
-publish_date: 2023-04-06
-description: 'Nikita Miller is a product leader, angel investor, and advisor. She
-  has built and led product teams at companies ranging from early-stage startups to
-  multinationals, and she is currently SVP...
-
-  '
-duration_seconds: 3560.0
-duration: '59:20'
-view_count: 6020
+title: 'How to consistently go viral: Nikita Bier’s playbook for winning at consumer apps'
+youtube_url: https://www.youtube.com/watch?v=bhnfZhJWCWY
+video_id: bhnfZhJWCWY
+publish_date: '2024-08-25'
+description: "Nikita Bier is one of the most in-demand consumer, social, and growth experts in the world. He’s the co-founder\
+  \ of TBH (sold to Meta for more than $30 million) and Gas (sold to Discord for millions more) and has helped more consumer\
+  \ apps that have hit #1 in the app stores than any other person I’ve come across. He currently spends his time advising\
+  \ founders on growth, product, and design and is an investor and advisor to some of the best consumer tech companies, including\
+  \ Flo, Locket, Eight Sleep, Citizen, BeReal, Captions, and more. In our conversation, we discuss:\n• The inside story of\
+  \ how TBH and Gas achieved explosive growth\n• Strategies for building viral consumer apps\n• Why teens are such a great\
+  \ audience\n• Fighting the human trafficking hoax at Gas\n• The challenge of creating durable social products\n• His experience\
+  \ working as a PM at Facebook\n• Advice for founders on building consumer apps\n• Much more\n\n—\n\nBrought to you by:\n\
+  • Webflow—The web experience platform: https://webflow.com\n• Vanta—Automate compliance. Simplify security: https://vanta.com/lenny\n\
+  • Explo—Embed customer-facing analytics in your product: https://explo.co/lenny\n\nBook Nikita for 1:1 consultation/mentoring:\
+  \ https://intro.co/NikitaBier\n\nFind the transcript and show notes at: https://www.lennysnewsletter.com/p/how-to-consistently-go-viral-nikita-bier\n\
+  \nWhere to find Nikita Bier:\n• X: https://x.com/nikitabier \n• Threads: https://www.threads.net/@nikitabier\n• Website:\
+  \ https://intro.co/NikitaBier\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Nikita’s background \n(06:08)\
+  \ Nikita’s early ventures: Politify and Outline\n(08:42) Transition to consumer apps\n(13:45) The birth of TBH\n(16:43)\
+  \ Building for teens vs. adults\n(20:00) TBH’s viral success\n(32:18) Leveraging live chat\n(34:08) Lasting lessons from\
+  \ TBH\n(37:00) Selling TBH to Facebook\n(42:19) Big-tech product management\n(48:46) Nikita on why “product management is\
+  \ not real” \n(51:49) The Tim Cook painting story \n(53:53) Leaving Facebook and starting a new venture\n(58:02) Rebuilding\
+  \ TBH and overcoming challenges\n(59:46) Addressing criticism\n(01:04:24) The human trafficking hoax\n(01:09:51) Selling\
+  \ to Discord and lessons learned\n(01:11:36) Lasting lessons from Gas\n(01:13:14) Building durable consumer apps\n(01:22:35)\
+  \ The VC route\n(01:23:27) Contact permissions in iOS 18\n(01:26:53) The success of Dupe\n(01:31:53) Advice for startup\
+  \ founders \n(01:34:14) Work with Nikita\n\nProduction and marketing by https://penname.co/. For inquiries about sponsoring\
+  \ the podcast, email podcast@lennyrachitsky.com.\n\nLenny may be an investor in the companies discussed."
+duration_seconds: 5901.0
+duration: '1:38:21'
+view_count: 350135
 channel: Lenny's Podcast
 keywords:
 - product-market fit

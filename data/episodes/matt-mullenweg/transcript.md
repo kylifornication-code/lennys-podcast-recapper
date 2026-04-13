@@ -1,17 +1,51 @@
 ---
 guest: Matt Mullenweg
-title: The one question that saves product careers | Matt LeMay
-youtube_url: https://www.youtube.com/watch?v=ts9ZvlkeWGs
-video_id: ts9ZvlkeWGs
-publish_date: 2025-08-14
-description: 'Matt LeMay spent 13 years as a music critic at Pitchfork before becoming
-  one of product management’s most influential voices. He’s consulted with companies
-  from startups to Fortune 500s...
-
-  '
-duration_seconds: 5529.0
-duration: '1:32:09'
-view_count: 27437
+title: Matt Mullenweg on the future of open source and why he’s taking a stand
+youtube_url: https://www.youtube.com/watch?v=Fves5chVZRA
+video_id: Fves5chVZRA
+publish_date: '2025-03-02'
+description: "Matt Mullenweg is the co-founder of WordPress, the open source platform powering a staggering 43% of the internet.\
+  \ He also serves as CEO of Automattic—the parent company of brands like WordPress.com, WooCommerce, and Tumblr—which is\
+  \ worth over $7 billion, with over 1,700 employees across 90 countries. In this episode, he discusses some of the most controversial\
+  \ topics surrounding WordPress, Automattic, and the broader open source community. \n\nWhat you’ll learn:\n• Matt’s response\
+  \ to public criticism\n• Why products like Meta’s Llama are “fake open source”\n• How his team is turning around Tumblr\
+  \ after acquiring it for just $3 million (after Yahoo bought it for $1.1 billion)\n• Why he mortgaged his home to fund San\
+  \ Francisco’s iconic Bay Lights project\n• Matt’s philosophy: “Don’t just build a product; build a movement”\n• Why open\
+  \ source matters: “If the Founding Fathers were around today, they’d be open source advocates”\n\n—\n\nBrought to you by:\n\
+  • WorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\n• Vanta—Automate compliance.\
+  \ Simplify security: https://vanta.com/lenny\n• Loom—The easiest screen recorder you’ll ever use: http://loom.com/lenny\n\
+  \nFind the transcript at: https://www.lennysnewsletter.com/p/the-creator-of-wordpress-opens-up-matt-mullenweg\n\nWhere to\
+  \ find Matt Mullenweg:\n• X: https://x.com/photomatt\n• LinkedIn: https://www.linkedin.com/in/mattm/\n• Instagram: https://www.instagram.com/photomatt/\n\
+  • Website: https://ma.tt/\n\nWhere to find Lenny:\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n\
+  • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\nIn this episode, we cover:\n(00:00) Introduction to Matt Mullenweg\n\
+  (05:10) Matt’s career journey\n(11:15) Bay Lights project and philanthropy\n(17:28) How Matt got involved with open source\n\
+  (23:25) Why products like Meta’s Llama are “fake open source”\n(27:14) The future of open source and how to get involved\n\
+  (35:25) Building a successful online community \n(39:12) The WP Engine controversy\n(50:24) Facing criticism and controversy\n\
+  (55:29) Addressing community concerns\n(01:08:29) Forking Advanced Custom Fields\n(01:11:15) The role of social media and\
+  \ public perception\n(01:16:43) Acquiring and reviving Tumblr\n(01:24:25) Automattic’s acquisition strategy\n(01:28:51)\
+  \ Final thoughts and future plans\n\nReferenced:\n• WordPress: https://wordpress.com/\n• Automattic: https://automattic.com/\n\
+  • CNET: https://www.cnet.com/\n• Akismet: https://akismet.com/wordpress/\n• Jetpack: https://jetpack.com/\n• Toni Schneider\
+  \ on LinkedIn: https://www.linkedin.com/in/tonischneider/\n• WooCommerce: https://woocommerce.com/\n• Beeper: https://www.beeper.com/\n\
+  • Day One: https://dayoneapp.com/\n• Simplenote: https://simplenote.com/\n• Pocket Casts: https://pocketcasts.com/\n• Creative\
+  \ Commons: https://creativecommons.org/\n• Audrey Capital: https://audrey.co/\n• Stripe: https://stripe.com/\n• SpaceX:\
+  \ https://www.spacex.com/\n• Calm: https://www.calm.com/\n• August: https://august.com/\n• Daylight Computer: https://daylightcomputer.com/\n\
+  • Keys Jazz Bistro: https://keysjazzbistro.com/\n• Joomla: https://www.joomla.org/\n• Drupal: https://new.drupal.org/\n\
+  • Shopify: https://www.shopify.com/\n• Wix: https://www.wix.com/\n• Squarespace: https://www.squarespace.com/\n• Tumblr:\
+  \ https://www.tumblr.com/\n• Gravatar: https://gravatar.com/\n• The Bay Lights: https://illuminate.org/projects/thebaylights/\n\
+  • The Bay Lights 360: https://illuminate.org/the-bay-lights-360/\n• Ben Davis on LinkedIn: https://www.linkedin.com/in/ben-davis-sf/\n\
+  • Kinder High School for the Performing and Visual Arts: https://www.houstonisd.org/hspva\n• Jack Dorsey: We’re Losing our\
+  \ Free Will to Algorithms: https://www.youtube.com/watch?v=9_8NganZSFI\n• Marc Andreessen: https://a16z.com/author/marc-andreessen/\n\
+  • Bill Gurley on LinkedIn: https://www.linkedin.com/in/billgurley/\n• An inside look at X’s Community Notes | Keith Coleman\
+  \ (VP of Product) and Jay Baxter (ML Lead): https://www.lennysnewsletter.com/p/how-x-built-the-best-fact-checking-system-on-the-internet\n\
+  • Llama: https://www.llama.com/\n• WordCamp US & Ecosystem Thinking: https://ma.tt/2024/09/ecosystem-thinking/\n• As Wall\
+  \ Street Chases Profits, Fire Departments Have Paid the Price: https://www.nytimes.com/2025/02/17/us/fire-engines-shortage-private-equity.html\n\
+  • WordCamp Asia: https://asia.wordcamp.org/2025/\n...References continued at: https://www.lennysnewsletter.com/p/the-creator-of-wordpress-opens-up-matt-mullenweg\n\
+  \nRecommended book:\n• Maintenance: Of Everything (in progress): https://books.worksinprogress.co/book/maintenance-of-everything/addenda/page/introduction\n\
+  \nProduction and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.\n\
+  \nLenny may be an investor in the companies discussed."
+duration_seconds: 5667.0
+duration: '1:34:27'
+view_count: 11274
 channel: Lenny's Podcast
 keywords:
 - growth

@@ -33,7 +33,7 @@ jobs:
         run: bash scripts/ingest-transcripts.sh
 
       - name: Enrich episodes with YouTube metadata
-        run: python3 scripts/enrich-metadata.py
+        run: python3 scripts/enrich-metadata.py --revalidate --refresh-catalog
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 

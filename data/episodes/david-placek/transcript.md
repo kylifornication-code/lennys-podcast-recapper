@@ -1,17 +1,51 @@
 ---
 guest: David Placek
-title: Building a culture of excellence | David Singleton (CTO of Stripe)
-youtube_url: https://www.youtube.com/watch?v=F0_IKKY3HCk
-video_id: F0_IKKY3HCk
-publish_date: 2023-05-04
-description: 'David Singleton is Chief Technology Officer at Stripe, where he oversees
-  engineering and design teams. Since joining Stripe, David has helped grow the technology
-  org across the U.S. and developed...
-
-  '
-duration_seconds: 5400.0
-duration: '1:30:00'
-view_count: 40035
+title: 'Naming expert shares process for creating billion-dollar brands: Vercel, Azure, Windsurf, Sonos'
+youtube_url: https://www.youtube.com/watch?v=adyIaTopO6g
+video_id: adyIaTopO6g
+publish_date: '2025-06-29'
+description: "David Placek is the founder of Lexicon Branding, a company that focuses exclusively on the development of brand\
+  \ names for competitive advantage. Lexicon is behind iconic names such as Sonos, Microsoft’s Azure, Windsurf, Vercel, Impossible\
+  \ Foods, BlackBerry, Intel’s Pentium, Apple’s PowerBook, and Swiffer. Over 40 years, David’s team has named nearly 4,000\
+  \ brands and companies, employing over 250 linguists and pioneering naming innovation.\n\n*What you’ll learn:*\n1. The three-step\
+  \ process that generated names like Windsurf and Vercel\n2. How a name can give you the edge that no marketing budget can\
+  \ buy\n3. Why you won’t “know it when you see it”\n4. Why Microsoft called Azure “a dumb name” before it became their billion-dollar\
+  \ cloud platform\n5. Why polarizing opinions are the strongest signal that you’ve found the right name\n6. How every letter\
+  \ of the alphabet creates a specific psychological vibration\n7. The diamond framework: a 4-step process any founder can\
+  \ use to find their perfect name\n8. Why domain names don’t matter anymore in the age of AI\n\n*Transcript:* ⁠https://www.lennysnewsletter.com/p/naming-expert-david-placek\n\
+  \n*Brought to you by:*\nWorkOS—Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://workos.com/lenny\n\
+  Stripe—Helping companies of all sizes grow revenue: https://stripe.com/\nOneSchema—Import CSV data 10x faster: https://oneschema.co/lenny\n\
+  \n*Where to find David Placek:*\n• LinkedIn: https://www.linkedin.com/in/david-placek-05a82/\n• Website: https://www.lexiconbranding.com\n\
+  \n*Where to find Lenny:*\n• Newsletter: https://www.lennysnewsletter.com\n• X: https://twitter.com/lennysan\n• LinkedIn:\
+  \ https://www.linkedin.com/in/lennyrachitsky/\n\n*In this episode, we cover:*\n(00:00) Introduction to David and Lexicon\
+  \ Branding\n(04:44) The story of Sonos\n(09:27) The psychology of naming\n(11:33) The initial resistance to Microsoft's\
+  \ Azure\n(14:35) The importance of a great brand name\n(18:11) The three steps of naming: create, invent, implement\n(28:23)\
+  \ Qualities of great brand name creators\n(31:24) How long the naming process takes \n(32:12) The Windsurf case study\n\
+  (36:10) Naming in the AI era\n(39:37) When to change your name\n(43:10) The role of linguists\n(45:54) The power of letters\
+  \ in branding\n(48:15) The Vercel case study \n(50:12) The implementation phase\n(52:52) Client management and market success\n\
+  (55:16) The diamond exercise\n(01:04:23) Suspending judgment\n(01:07:31) Polarization and boldness\n(01:11:01) Domain names\
+  \ \n(01:12:48) Final thoughts and lightning round\n\n*Referenced:*\n• PowerBook: https://en.wikipedia.org/wiki/PowerBook\n\
+  • Pentium: https://en.wikipedia.org/wiki/Pentium\n• BlackBerry: https://en.wikipedia.org/wiki/BlackBerry\n• Swiffer: https://www.swiffer.com/\n\
+  • Impossible Burger: https://impossiblefoods.com/\n• Vercel: https://vercel.com/\n• Windsurf: https://windsurf.com/\n• CapCut:\
+  \ https://www.capcut.com/\n• Azure: https://azure.microsoft.com/\n• Sonos: https://www.sonos.com/\n• John MacFarlane on\
+  \ LinkedIn: https://www.linkedin.com/in/john-macfarlane-08a8aa20/\n• Harry Potter: https://en.wikipedia.org/wiki/Harry_Potter_(film_series)\n\
+  • The Call of the Wild: https://en.wikipedia.org/wiki/The_Call_of_the_Wild\n• Everyone’s an engineer now: Inside v0’s mission\
+  \ to create a hundred million builders | Guillermo Rauch (founder and CEO of Vercel, creators of v0 and Next.js): https://www.lennysnewsletter.com/p/everyones-an-engineer-now-guillermo-rauch\n\
+  • Sound symbolism: https://en.wikipedia.org/wiki/Sound_symbolism\n• Anduril: https://www.anduril.com/\n• Anthropic: https://www.anthropic.com/\n\
+  • Inside Bolt: From near-death to ~$40m ARR in 5 months—one of the fastest-growing products in history | Eric Simons (founder\
+  \ and CEO of StackBlitz): https://www.lennysnewsletter.com/p/inside-bolt-eric-simons\n• The rise of Cursor: The $300M ARR\
+  \ AI tool that engineers can’t stop using | Michael Truell (co-founder and CEO): https://www.lennysnewsletter.com/p/the-rise-of-cursor-michael-truell\n\
+  • Building a magical AI code editor used by over 1 million developers in four months: The untold story of Windsurf | Varun\
+  \ Mohan (co-founder and CEO): https://www.lennysnewsletter.com/p/the-untold-story-of-windsurf-varun-mohan\n• Y Combinator:\
+  \ https://www.ycombinator.com/\n• Chevrolet Corvette: https://en.wikipedia.org/wiki/Chevrolet_Corvette\n• Viagra: https://www.viagra.com/\n\
+  • In vino veritas: https://en.wikipedia.org/wiki/In_vino_veritas\n• Infoseek: https://en.wikipedia.org/wiki/Infoseek\n•\
+  \ Andy Grove: https://en.wikipedia.org/wiki/Andrew_Grove\n• Churchill at War on Netflix: https://www.netflix.com/title/81609374\n\
+  ...References continued at: https://www.lennysnewsletter.com/p/naming-expert-david-placek\n\n_Production and marketing by\
+  \ https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\nLenny may be\
+  \ an investor in the companies discussed."
+duration_seconds: 4964.0
+duration: '1:22:44'
+view_count: 42653
 channel: Lenny's Podcast
 keywords:
 - churn
