@@ -53,6 +53,16 @@ let pagefindExcerpts = new Map<string, string>();
 let pagefindReady = false;
 let pagefindInstance: any = null;
 
+/**
+ * Sanitize a pagefind excerpt for safe innerHTML insertion.
+ * Pagefind only produces text with <mark> highlight tags; this strips
+ * everything else to prevent XSS if the search index is ever compromised.
+ */
+function sanitizeExcerpt(raw: string): string {
+  // Allow only <mark> and </mark> tags; strip all other HTML
+  return raw.replace(/<\/?(?!mark\b)[a-zA-Z][^>]*>/gi, '');
+}
+
 async function initPagefind() {
   if ((window as any).__pagefind) {
     pagefindInstance = (window as any).__pagefind;
@@ -154,7 +164,7 @@ function render() {
     if (excerptEl) {
       const excerpt = pagefindExcerpts.get(slug);
       if (excerpt && visibleSet.has(slug) && currentSearch) {
-        excerptEl.innerHTML = excerpt;
+        excerptEl.innerHTML = sanitizeExcerpt(excerpt);
         excerptEl.style.display = '';
       } else {
         excerptEl.innerHTML = '';
